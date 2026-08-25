@@ -1,0 +1,149 @@
+{
+  "total_stories": 8,
+  "stories": [
+    {
+      "story_id": "story_001",
+      "original_name": "10 Things I Hate About You",
+      "title": "The Soft Rebellion of Starlit Echoes",
+      "description": "Drift into a nostalgic slumber amidst whispering breezes and the quiet turning of old pages. Let the gentle cadence of forgotten verses carry your weary mind into a peaceful, dreaming night.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 38,
+      "total_words": 35496,
+      "estimated_duration_minutes": 284.0,
+      "created_at": "2026-08-25 19:37:00"
+    },
+    {
+      "story_id": "story_004",
+      "original_name": "12 and Holding",
+      "title": "Whispers of the Amber Meadow",
+      "description": "Drift back to the golden innocence of childhood through gentle, nostalgic memories that soothe the mind. Let the quiet rhythm of a distant summer breeze carry you gently into a deep, peaceful sleep.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 37,
+      "total_words": 30964,
+      "estimated_duration_minutes": 247.7,
+      "created_at": "2026-08-25 19:39:39"
+    },
+    {
+      "story_id": "story_003",
+      "original_name": "12 Years a Slave",
+      "title": "Beneath the Midnight Stars, A Journey to Freedom",
+      "description": "Let your spirit wander through quiet, moonlit forests where weary chains finally dissolve into the stillness of the night. Drift into a peaceful rest, cradled by the gentle winds of liberation and the soft promise of a new dawn.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 61,
+      "total_words": 46936,
+      "estimated_duration_minutes": 375.5,
+      "created_at": "2026-08-25 19:45:19"
+    },
+    {
+      "story_id": "story_002",
+      "original_name": "12 Monkeys",
+      "title": "The Glass Clockwork of Lost Decades",
+      "description": "Drift into a slumber where fragile memories spin backward through the gentle, rhythmic ticking of forgotten hours. Let the quiet shadows of a bygone city cradle you into a deep, dreamless peace.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 62,
+      "total_words": 49969,
+      "estimated_duration_minutes": 399.8,
+      "created_at": "2026-08-25 19:46:21"
+    },
+    {
+      "story_id": "story_005",
+      "original_name": "12",
+      "title": "The Whispering Jury of Velvet Shadows",
+      "description": "Sink into a tranquil sanctuary where a dozen gentle voices debate in hushed, rhythmic whispers. Let the soft cadence carry your weary mind into a deep and dreamless sleep.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 28,
+      "total_words": 24746,
+      "estimated_duration_minutes": 198.0,
+      "created_at": "2026-08-25 19:47:59"
+    },
+    {
+      "story_id": "story_006",
+      "original_name": "127 Hours",
+      "title": "The Starlit Canyon Sanctuary",
+      "description": "Escape to the whispering sandstone canyons where time slows down under a velvet desert sky. Drift away into profound stillness as cool night winds cradle you in deep, restorative peace.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 37,
+      "total_words": 25676,
+      "estimated_duration_minutes": 205.4,
+      "created_at": "2026-08-25 19:49:36"
+    },
+    {
+      "story_id": "story_008",
+      "original_name": "17 Again",
+      "title": "The Golden Clock of Yesterday",
+      "description": "Drift softly backward through the amber haze of youth, where quiet memories bloom like wildflowers in the warm afternoon sun. Let the gentle passage of time carry you into a peaceful slumber, cradled by the sweet nostalgia of days gone by.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 37,
+      "total_words": 32867,
+      "estimated_duration_minutes": 262.9,
+      "created_at": "2026-08-25 19:53:49"
+    },
+    {
+      "story_id": "story_007",
+      "original_name": "15 Minutes",
+      "title": "The Last Sands of the Glass",
+      "description": "Drift into a peaceful slumber as every fleeting moment gently dissolves into stillness. Allow the quiet passage of time to carry your worries away into a deep, restorative rest.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 51,
+      "total_words": 46562,
+      "estimated_duration_minutes": 372.5,
+      "created_at": "2026-08-25 19:54:42"
+    }
+  ]
+}

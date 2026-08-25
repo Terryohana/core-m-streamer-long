@@ -37,8 +37,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add pending_scripts/ completed_scripts/
-          git commit -m "Moved processed script to completed queue" || echo "No changes to commit"
+          git add ready_stories/ completed_stories/ pending_scripts/ completed_scripts/
+          git commit -m "Updated story queue" || echo "No changes to commit"
           git push
 
       - name: Upload Audio Artifact

@@ -1,5 +1,6 @@
 import os
 import re
+import json
 import requests
 import soundfile as sf
 import numpy as np
@@ -240,18 +241,19 @@ def process_movie(script_file):
         if not line:
             continue
             
-        voice = 'af_bella'
+        voice = 'af_nicole'
         if line.startswith('[NARRATOR]'):
-            voice = 'af_nicole' 
+            voice = 'af_nicole'
             line = line.replace('[NARRATOR]', '').strip()
-        elif line.startswith('[MALE]'):
+        elif line.startswith('[MALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(m in line[:25].upper() for m in ['MALE', 'MAN', 'BOY', 'PATRICK', 'CAMERON', 'JACK', 'JOHN', 'PETER', 'HE', 'GUY'])):
             voice = 'am_adam'
-            line = line.replace('[MALE]', '').strip()
-        elif line.startswith('[FEMALE]'):
+            line = re.sub(r'^\[.*?\]\s*', '', line)
+        elif line.startswith('[FEMALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(f in line[:25].upper() for f in ['FEMALE', 'WOMAN', 'GIRL', 'KAT', 'BIANCA', 'SARAH', 'MARY', 'SHE', 'LADY', 'CHASTITY'])):
             voice = 'af_bella'
-            line = line.replace('[FEMALE]', '').strip()
+            line = re.sub(r'^\[.*?\]\s*', '', line)
         else:
             voice = 'af_nicole'
+            line = re.sub(r'^\[.*?\]\s*', '', line)
             
         if not line:
             continue
@@ -301,7 +303,102 @@ def process_movie(script_file):
     else:
         print("No audio was generated!")
 
+def process_ready_story(story_dir):
+    meta_path = os.path.join(story_dir, "metadata.json")
+    script_path = os.path.join(story_dir, "script.md")
+    thumb_path = os.path.join(story_dir, "thumbnail.jpg")
+    
+    with open(meta_path, "r", encoding="utf-8") as f:
+        meta = json.load(f)
+        
+    with open(script_path, "r", encoding="utf-8") as f:
+        full_script = f.read()
+        
+    title = meta.get("title", "A Peaceful Night's Sleep")
+    description = meta.get("description", "A calming, atmospheric sleep story.")
+    tags = meta.get("tags", ["sleep story", "bedtime story"])
+    
+    print(f"Synthesizing audio for '{title}'...")
+    pipeline = KPipeline(lang_code='a')
+    audio_segments = []
+    
+    lines = full_script.split('\n')
+    for line_idx, line in enumerate(lines):
+        line = line.strip()
+        if not line:
+            continue
+            
+        voice = 'af_nicole'
+        if line.startswith('[NARRATOR]'):
+            voice = 'af_nicole'
+            line = line.replace('[NARRATOR]', '').strip()
+        elif line.startswith('[MALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(m in line[:25].upper() for m in ['MALE', 'MAN', 'BOY', 'PATRICK', 'CAMERON', 'JACK', 'JOHN', 'PETER', 'HE', 'GUY'])):
+            voice = 'am_adam'
+            line = re.sub(r'^\[.*?\]\s*', '', line)
+        elif line.startswith('[FEMALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(f in line[:25].upper() for f in ['FEMALE', 'WOMAN', 'GIRL', 'KAT', 'BIANCA', 'SARAH', 'MARY', 'SHE', 'LADY', 'CHASTITY'])):
+            voice = 'af_bella'
+            line = re.sub(r'^\[.*?\]\s*', '', line)
+        else:
+            voice = 'af_nicole'
+            line = re.sub(r'^\[.*?\]\s*', '', line)
+            
+        if not line:
+            continue
+            
+        if line_idx % 20 == 0:
+            print(f"[{line_idx+1}/{len(lines)}] Rendering audio ({voice})...", flush=True)
+            
+        try:
+            generator = pipeline(line, voice=voice, speed=1.25, split_pattern=r'\n+')
+            for _, _, audio in generator:
+                audio_segments.append(audio)
+        except Exception as e:
+            print(f"Error rendering line: {e}")
+            
+    if not audio_segments:
+        print("No audio segments generated.")
+        return
+        
+    final_audio = os.path.join(story_dir, "audio.wav")
+    final_audio_data = np.concatenate(audio_segments)
+    sf.write(final_audio, final_audio_data, 24000)
+    print(f"Audio saved to {final_audio}")
+    
+    # Video & YouTube Upload
+    try:
+        import youtube_uploader
+        final_mp4 = os.path.join(story_dir, "video.mp4")
+        youtube_uploader.create_mp4(final_audio, thumb_path, final_mp4)
+        
+        if os.environ.get("YOUTUBE_OAUTH_TOKEN"):
+            yt_service = youtube_uploader.get_authenticated_service()
+            youtube_uploader.upload_video(
+                youtube=yt_service,
+                video_file=final_mp4,
+                title=title,
+                description=description,
+                thumbnail_path=thumb_path
+            )
+        else:
+            print("Skipping YouTube upload: YOUTUBE_OAUTH_TOKEN not set.")
+    except Exception as e:
+        print(f"YouTube Upload Pipeline failed: {e}")
+
 def main():
+    # 1. Check ready_stories queue first
+    ready_dirs = sorted([d for d in glob.glob("ready_stories/story_*") if os.path.isdir(d)])
+    if ready_dirs:
+        target_dir = ready_dirs[0]
+        print(f"Found ready story package: {target_dir}")
+        process_ready_story(target_dir)
+        
+        os.makedirs("completed_stories", exist_ok=True)
+        import shutil
+        shutil.move(target_dir, os.path.join("completed_stories", os.path.basename(target_dir)))
+        print(f"Moved {target_dir} to completed_stories/")
+        return
+
+    # 2. Fallback to processing raw pending_scripts
     if not COMMANDCODE_API_KEY and not GROQ_API_KEY:
         print("ERROR: Neither COMMANDCODE_API_KEY nor GROQ_API_KEY environment variable is set.")
         return
@@ -318,13 +415,10 @@ def main():
         print("No scripts found in the pending_scripts directory.")
         return
         
-    # Only process ONE movie per run so we upload once a day
     target_script = scripts[0]
     print(f"Processing script for today: {target_script}")
-    
     process_movie(target_script)
     
-    # Move it to completed
     import shutil
     shutil.move(target_script, os.path.join("completed_scripts", os.path.basename(target_script)))
     print("Script moved to completed_scripts/")
