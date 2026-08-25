@@ -64,6 +64,27 @@ Next dialogue to rewrite:
             time.sleep(10 * (attempt + 1))
     raise Exception("Groq API failed after 10 attempts.")
 
+def generate_new_title(movie_name):
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "model": "qwen/qwen3.6-27b",
+        "messages": [
+            {"role": "system", "content": "You are a creative writer. Generate a very short, poetic, aesthetic sleep story title inspired by the vibe of the given movie name. Do not include the original movie name. Output ONLY the title, nothing else. Example: 'Echoes of the Midnight Stars'"},
+            {"role": "user", "content": f"Movie: {movie_name}"}
+        ],
+        "temperature": 0.8,
+        "max_tokens": 50
+    }
+    try:
+        resp = requests.post(url, headers=headers, json=payload, timeout=20)
+        return resp.json()["choices"][0]["message"]["content"].replace('"', '').strip()
+    except Exception:
+        return "Whispers of the Deep Night"
+
 def process_movie(script_file):
     base_name = os.path.splitext(os.path.basename(script_file))[0]
     script_output = f"{base_name}_script.md"
@@ -163,11 +184,16 @@ def process_movie(script_file):
             # If the user has added the YOUTUBE_OAUTH_TOKEN secret, upload it!
             if os.environ.get("YOUTUBE_OAUTH_TOKEN"):
                 yt_service = youtube_uploader.get_authenticated_service()
+                
+                # Generate a brand new, repurposed sleep title!
+                repurposed_title = generate_new_title(base_name)
+                print(f"Renamed '{base_name}' to new title: '{repurposed_title}'")
+                
                 youtube_uploader.upload_video(
                     youtube=yt_service,
                     video_file=final_mp4,
-                    title=base_name,
-                    description=f"An atmospheric sleep story re-imagined from the classic script: {base_name}.",
+                    title=repurposed_title,
+                    description=f"Drift off to a deeply relaxing, atmospheric sleep story. Close your eyes, slow your breathing, and let the narrative guide you to a restful night's sleep.",
                     thumbnail_path=thumbnail_jpg
                 )
             else:
