@@ -64,17 +64,22 @@ Next dialogue to rewrite:
             time.sleep(10 * (attempt + 1))
     raise Exception("Groq API failed after 10 attempts.")
 
-def process_movie(srt_file):
-    base_name = os.path.splitext(os.path.basename(srt_file))[0]
+def process_movie(script_file):
+    base_name = os.path.splitext(os.path.basename(script_file))[0]
     script_output = f"{base_name}_script.md"
     final_audio = f"{base_name}_audio.wav"
     
     if os.path.exists(final_audio):
-        print(f"Skipping {srt_file}, audio already generated.")
+        print(f"Skipping {script_file}, audio already generated.")
         return
         
-    print(f"Reading {srt_file}...")
-    full_text = extract_text_from_srt(srt_file)
+    print(f"Reading {script_file}...")
+    if script_file.endswith('.srt'):
+        full_text = extract_text_from_srt(script_file)
+    else:
+        with open(script_file, 'r', encoding='utf-8', errors='ignore') as f:
+            full_text = f.read()
+            
     words = full_text.split()
     
     chunk_size = 500
@@ -179,13 +184,28 @@ def main():
         print("ERROR: GROQ_API_KEY environment variable not set.")
         return
         
-    srt_files = glob.glob("*.srt")
-    if not srt_files:
-        print("No .srt files found in the directory.")
+    if not os.path.exists("pending_scripts"):
+        print("No pending_scripts directory found.")
         return
         
-    for srt_file in srt_files:
-        process_movie(srt_file)
+    if not os.path.exists("completed_scripts"):
+        os.makedirs("completed_scripts")
+        
+    scripts = glob.glob("pending_scripts/*.srt") + glob.glob("pending_scripts/*.txt")
+    if not scripts:
+        print("No scripts found in the pending_scripts directory.")
+        return
+        
+    # Only process ONE movie per run so we upload once a day
+    target_script = scripts[0]
+    print(f"Processing script for today: {target_script}")
+    
+    process_movie(target_script)
+    
+    # Move it to completed
+    import shutil
+    shutil.move(target_script, os.path.join("completed_scripts", os.path.basename(target_script)))
+    print("Script moved to completed_scripts/")
 
 if __name__ == "__main__":
     main()

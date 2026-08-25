@@ -1,13 +1,16 @@
 name: Generate Sleep Story
 
 on:
-  push:
-    paths:
-      - '*.srt' # Trigger when a new movie subtitle is uploaded
+  schedule:
+    - cron: '0 23 * * *' # Runs at 23:00 UTC (7:00 PM EST) every day
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit the file move back to GitHub
+      
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -28,6 +31,14 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           YOUTUBE_OAUTH_TOKEN: ${{ secrets.YOUTUBE_OAUTH_TOKEN }}
         run: python process_movies.py
+
+      - name: Commit Queue Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add pending_scripts/ completed_scripts/
+          git commit -m "Moved processed script to completed queue" || echo "No changes to commit"
+          git push
 
       - name: Upload Audio Artifact
         uses: actions/upload-artifact@v4
