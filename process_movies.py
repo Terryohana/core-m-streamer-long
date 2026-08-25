@@ -46,23 +46,37 @@ Next dialogue to rewrite:
         "max_tokens": 3000
     }
     
-    for attempt in range(10):
+    for attempt in range(50):
         try:
             resp = requests.post(url, headers=headers, json=payload, timeout=30)
             if resp.status_code == 200:
                 return resp.json()["choices"][0]["message"]["content"].strip()
             else:
-                print(f"Groq API returned status {resp.status_code}: {resp.text}")
+                error_msg = resp.text
+                print(f"Groq API returned status {resp.status_code}: {error_msg}")
+                if resp.status_code == 429:
+                    # Extract wait time from Groq's error message (e.g., "Please try again in 23m6.7s")
+                    import re
+                    match = re.search(r'try again in (?:(\d+)h)?(?:(\d+)m)?(?:([\d.]+)s)?', error_msg)
+                    if match:
+                        h = float(match.group(1)) if match.group(1) else 0
+                        m = float(match.group(2)) if match.group(2) else 0
+                        s = float(match.group(3)) if match.group(3) else 0
+                        sleep_time = (h * 3600) + (m * 60) + s + 5 # Add 5 seconds buffer
+                        print(f"Daily Limit Hit! Sleeping for {sleep_time/60:.1f} minutes...")
+                        time.sleep(sleep_time)
+                        continue
+                        
                 if resp.status_code in [429, 503, 500]:
-                    sleep_time = 10 * (attempt + 1)
+                    sleep_time = 30 * (attempt + 1)
                     print(f"Waiting {sleep_time} seconds before retry...")
                     time.sleep(sleep_time)
                 else:
                     break
         except Exception as e:
             print(f"Groq API error: {e}")
-            time.sleep(10 * (attempt + 1))
-    raise Exception("Groq API failed after 10 attempts.")
+            time.sleep(30 * (attempt + 1))
+    raise Exception("Groq API failed after 50 attempts.")
 
 def generate_new_title(movie_name):
     url = "https://api.groq.com/openai/v1/chat/completions"
