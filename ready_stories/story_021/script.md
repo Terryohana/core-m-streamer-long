@@ -2408,3 +2408,1717 @@ The shadows lengthen as Sam and Jo sit side by side, listening for perhaps the f
 
 [HOWARD] That night the guys in my squad threw
 
+[NARRATOR] The courtroom hummed with a quiet, steady rhythm, the warm amber light filtering through the high windows casting long, peaceful shadows across the polished wooden floor. A gentle, cooling draft drifted in from the courtyard, carrying the faint, soothing scent of damp earth and distant salt water, rustling the pages of heavy legal briefs resting on the mahogany tables. The atmosphere settled into a deeper, heavier stillness as the questioning continued, the voices in the room soft and measured like the cadence of a receding tide.
+
+[NARRATOR] Lieutenant Kaffee shifted his weight, his footsteps making a soft, rhythmic sound against the floor as he approached the witness stand where Corporal Howard sat, blinking tiredly against the afternoon glare. Kaffee's voice was low, unhurried, and calm, cutting softly through the quiet haze of the room.
+
+[FEMALE] Was Private Santiago ever late for platoon meetings?
+
+[NARRATOR] Corporal Howard shifted in his seat, the leather creaking softly under his weight, his eyes heavy with the comforting fatigue of the long day.
+
+[HOWARD] Yes sir.
+
+[FEMALE] Was his barracks ever in disorder?
+
+[HOWARD] Yes sir.
+
+[FEMALE] Did he ever fall back on a run?
+
+[HOWARD] All the time, sir.
+
+[FEMALE] Did he ever, prior to the night of August 6th, receive a code red?
+
+[HOWARD] No sir.
+
+[FEMALE] Never?
+
+[HOWARD] No, sir.
+
+[FEMALE] You got a code red 'cause your palms were sweaty. Why didn't Santiago, this burden to his unit, ever get one?
+
+[HOWARD] Dawson wouldn't allow it, sir.
+
+[FEMALE] Dawson wouldn't allow it.
+
+[HOWARD] The guys talked tough about Santiago, but they wouldn't go near him. They were too afraid of Dawson, sir.
+
+[MALE] Object. The witness is characterizing.
+
+[FEMALE] I'll rephrase. Jeffrey, did you ever want to give Santiago a code red?
+
+[HOWARD] Yes sir.
+
+[FEMALE] Why didn't you?
+
+[HOWARD] 'Cause Dawson'd kick my butt, sir.
+
+[FEMALE] Good enough. Lt. Ross is gonna ask you some questions now.
+
+[NARRATOR] Lieutenant Ross moved with deliberate slowness, his hands steady as he reached down into his heavy leather briefcase and retrieved three thick, leather-bound volumes. The books made a dull, reassuring thud as they landed on the polished table one by one. Ross lifted the topmost volume, his footsteps measured and quiet as he carried it across the room to the witness stand, presenting it to the weary corporal with a quiet grace.
+
+[MALE] Corporal Howard, I hold here The Marine Guide and General Information Handbook for New Recruits. Are you familiar with this book?
+
+[HOWARD] Yes sir.
+
+[MALE] Have you read it?
+
+[HOWARD] Yes sir.
+
+[MALE] Good. Would you turn to the chapter that deals with code reds, please.
+
+[HOWARD] Sir?
+
+[MALE] Just flip to the page in that book that discusses code reds.
+
+[HOWARD] Sir, you see, Code Red is a term we use -- it's just used down at GITMO, sir. I don't know if it actually --
+
+[NARRATOR] With a smooth, practiced motion, Lieutenant Ross produced a second book from beneath his arm, holding it up like a resting anchor in the quiet air.
+
+[MALE] We're in luck, then. The Marine Corps Guide for Sentry Duty, NAVY BASE Guantanamo Bay, Cuba. I assume we'll find the term code red and its definition in this book, am I correct?
+
+[HOWARD] No sir.
+
+[MALE] No? Corporal Howard, I'm a marine. Is there no book, no manual or pamphlet, no set of orders or regulations that let me know that, as a marine, one of my duties is to perform code reds?
+
+[HOWARD] No sir. No books, sir.
+
+[MALE] No further questions.
+
+[NARRATOR] Lieutenant Ross turned away, his boots silent against the carpet as he retreated to his seat. The ambient light in the courtroom softened further, the dust motes dancing lazily in the slanting rays of the fading sun. Kaffee walked slowly toward the opposing table, his hand reaching out to pick up one of the heavy books left behind, his movements unhurried and hypnotic. He carried the volume back to the witness stand, holding it out with a gentle, floating gesture.
+
+[FEMALE] Corporal, would you turn to the page in this book that says where the enlisted men's mess hall is?
+
+[HOWARD] Lt. Kaffee, that's not in the book, sir.
+
+[FEMALE] I don't understand, how did you know where the enlisted men's mess hall was if it's not in this book?
+
+[HOWARD] I guess I just followed the crowd at chow time, sir.
+
+[FEMALE] No more questions.
+
+[NARRATOR] With a casual flick of his wrist, Kaffee tossed the book back onto Ross's desk, where it slid across the polished surface with a soft, sliding whisper before coming to rest. The courtroom seemed to exhale a long, collective breath, the heavy tension dissolving into the quiet, tranquil shadows.
+
+[MALE] Corporal Howard, you can step down.
+
+[HOWARD] Thank you, sir.
+
+[NARRATOR] The heavy oak doors of the courtroom gently clicked shut, leaving behind the hushed murmurs of the fading day. 
+
+[MALE] Corporal Howard, you can step down.
+
+[NARRATOR] The young man nodded respectfully, offering a quiet, breath-like expression of gratitude.
+
+[MALE] Thank you, sir.
+
+[NARRATOR] Lieutenant Kaffee watched him go, offering a subtle, reassuring look of quiet validation that seemed to settle the young corporal's weary nerves. The courtroom slowly emptied, dissolving into the gathering twilight, and the scene drifted outward into the long, vaulted corridors of the courthouse as dusk painted the tall windows in deep, muted shades of indigo and violet. Kaffee walked alongside Sam and Jo, their footsteps echoing softly against the polished marble floor, carrying the quiet fatigue of a long day into the cooling evening air.
+
+[MALE] Seven tonight, we'll do a final Kendrick review. I want to slam- dunk this guy.
+
+[NARRATOR] Outside, the city had settled into a gentle, watery calm as evening wrapped its soft arms around the D.C. business district. A light, rhythmic rain had begun to fall, drumming a soothing, hypnotic lullaby against the windshield of Kaffee's car as it moved slowly down the glistening asphalt. The steady, metronomic sweep of the windshield wipers brushed the droplets aside in a slow, comforting cadence, creating a cocoon of warmth within the dim interior. Kaffee pulled the car toward the curb of a familiar sidewalk newsstand, leaving the amber hazard lights blinking in the gentle mist. He stepped out briefly into the cool, damp air, hurrying to the shelter of the canvas awning where the familiar face of Luther waited amidst stacks of evening papers.
+
+[MALE] Hey, Luther.
+
+[NARRATOR] Luther looked up from behind the counter, his expression warm and unhurried against the quiet chill of the night.
+
+[MALE] Admiral, how's the big case goin'?
+
+[MALE] Nose to the grindstone.
+
+[MALE] No flies on you.
+
+[MALE] A rolling stone gathers no moss.
+
+[NARRATOR] Luther smiled, shaking his head with the easy wisdom of a long-time friend.
+
+[MALE] Yeah, well it ain't over til the fat lady sings.
+
+[MALE] Ain't that the truth. Catch you tomorrow.
+
+[NARRATOR] With a light pat on the counter, Kaffee turned and hurried back through the gentle drizzle, sliding into the driver's seat. He tossed the damp evening paper onto the passenger seat and turned the key in the ignition. The engine hummed to life, a low, vibration that warmed the quiet car. But before his hands could even settle upon the steering wheel, a sudden, heavy shadow shifted in the dimness behind him. A warm, firm hand was pressed softly, firmly across his mouth.
+
+[MALE] It's Matthew Markinson.
+
+[NARRATOR] Kaffee started, his breath catching in his throat as his heart gave a sudden, startled leap against his ribs. He turned wildly, his eyes adjusting to the deep shadows of the back seat, where Markinson sat quietly in civilian clothes, blending into the muted dark of the evening.
+
+[MALE] Jesus fucking Christ!!
+
+[NARRATOR] Markinson remained entirely still, his voice an even, weary whisper that seemed to absorb the tension in the car.
+
+[MALE] You left the door unlocked.
+
+[MALE] Scared the shit outta me.
+
+[MALE] Drive.
+
+[NARRATOR] A heavy pause hung in the damp air, filled only by the soft patter of rain on the roof. Markinson leaned forward slightly, the quiet authority of his presence filling the confined space.
+
+[MALE] Are you aware you're under subpoena?
+
+[MALE] Yes. I'm also aware that the lives of two marines are in your hands. If there was something I could do about that, I would, but since I can't, all I can do is help you. Why don't you drive, Lieutenant.
+
+[NARRATOR] Swallowing the remnants of his surprise, Kaffee put the car in gear and pulled away from the curb, guiding the vehicle smoothly down the quiet, rain-washed street. The world outside blurred into soft streaks of amber streetlamps and neon signs.
+
+[MALE] What do you know?
+
+[MALE] I know everything.
+
+[MALE] Was it a code red?
+
+[MALE] Yes.
+
+[MALE] Did Kendrick give the order?
+
+[MALE] Yes.
+
+[MALE] Did you witness it?
+
+[MALE] I didn't need to --
+
+[MALE] Did you witness it?!
+
+[MALE] No.
+
+[MALE] Then how do you know?
+
+[MALE] I know.
+
+[MALE] You know shit.
+
+[MALE] He was never gonna be transferred off the base.
+
+[NARRATOR] At those words, Kaffee's foot pressed down on the brake, screeching the tires gently against the slick pavement. He pulled the car to an abrupt halt at the side of the road, yanking the parking brake upward with a sharp metallic click. He whipped his head around, staring back at Markinson with wide, disbelieving eyes.
+
+[MALE] Jessep was going to keep him on the base. He said he wanted him trained.
+
+[MALE] We've got the transfer order. It's got your signature.
+
+[MALE] I know. I signed it the morning you arrived in Cuba. Six days after Santiago died.
+
+[NARRATOR] Kaffee's mind raced, every gear turning in the quiet stillness of the car, a sudden surge of adrenaline warming the cool night air.
+
+[MALE] I'm gonna get you a deal. Some kind of immunity with the prosecutor. In about four days, you're gonna appear as a witness for the defense, and you're gonna tell the court exactly what you told me. Right now I'm gonna check you into a motel, and we're gonna start from the beginning.
+
+[NARRATOR] Markinson slowly shook his head, a quiet, melancholic weariness settling over his features as he stared out into the rain-streaked window.
+
+[MALE] I don't want a deal. And I don't want immunity.
+
+[NARRATOR] Kaffee shook his head, a soft, disbelieving laugh escaping his lips as the gentle rhythm of the rain lulled the dark corners of the car into a deep, unbroken peace. Markinson simply watched him, his expression softening into silence.
+
+[NARRATOR] The stillness of the night settled softly over the quiet cabin of the car, the rhythmic drumming of the rain outside washing away the weight of the world, leaving behind a profound and gentle hush. [MALE] I want you to know, I'm proud neither of what I've done nor what I'm doing. [NARRATOR] Kaffee shifted his weight, his hand resting on the smooth curve of the gear shift as the automobile smoothly slipped into motion, carrying them away through the darkened, rain-washed streets and into the quiet sanctuary of the night. 
+
+[NARRATOR] Inside Kaffee’s apartment, the air was warm and smelled faintly of old paper and roasted coffee beans, illuminated only by the amber glow of a single brass desk lamp casting long, comforting shadows against the walls. Sam and Jo sat in stunned, breathless silence, processing the heavy truths that had just settled into the room like fallen leaves. Then, a sudden spark of vibrant energy shattered the quiet as Jo sprang forward, her pulse racing with electric determination. [FEMALE] Where is he? [NARRATOR] Kaffee leaned against the back of the sofa, his voice steady and calm against the rising tide of adrenaline. [MALE] The Route 23 Best Western. [NARRATOR] Without a moment's hesitation, Jo reached out and lifted the heavy receiver of the telephone, her fingers steady as she dialed into the dark expanse of the phone lines. [FEMALE] I want him guarded. [NARRATOR] Kaffee offered a faint, reassuring nod, the shadows flickering softly across his face. [MALE] That's probably a good idea. [NARRATOR] Jo spoke into the mouthpiece, her tone crisp, authoritative, and melodic in the quiet room. [FEMALE] This is Lt. Commander Joanne Galloway. My clearance code is 411273. [NARRATOR] Kaffee arched an eyebrow, a flicker of genuine amusement crossing his features as he turned his gaze toward Sam, who sat at the wooden table with a pen poised above a notepad. [MALE] Clearance code? [NARRATOR] Jo offered a quick, triumphant nod into the receiver. [FEMALE] Thank you. [NARRATOR] Kaffee whispered conspiratorially to Sam, his voice barely disturbing the dust motes dancing in the lamplight. [MALE] I don't have a clearance code. Do you have a... [NARRATOR] Ignoring them with practiced focus, Jo continued to speak into the phone, her voice weaving a secure web of authority through the quiet night while Sam’s hand raced across the paper, capturing every vital syllable. Kaffee turned his attention back to the two of them, his words flowing with a quiet, measured urgency. [MALE] He also said that Jessep's lying about the transportation off the base. Jessep said six the next morning was the first flight Santiago could've left on, Markinson says there was a plane that left seven hours earlier. [NARRATOR] With a soft click, Jo set the receiver back into its cradle, the tension in her shoulders melting into a profound, victorious sigh. [FEMALE] Damn. [NARRATOR] Kaffee offered a soft smile, leaning in closer to the warm circle of light. [MALE] That was impressive. Did you hear what I just said about the flight? [NARRATOR] Jo nodded, her eyes bright with sudden hope. [FEMALE] Yes. [NARRATOR] Kaffee turned his gaze fully to Sam, whose pencil finally came to rest. [MALE] Sam, when a plane takes off from a base, there's gotta be some kind of record kept, right? [NARRATOR] Sam looked up, a slow realization dawning in his eyes. [MALE] We need the Tower Chief's Log for GITMO. [NARRATOR] Kaffee nodded affirmatively, glancing between the two of them. [MALE] Get it. [NARRATOR] A radiant, unstoppable smile spread across Jo's face as she stood up, the electricity of the moment making her feel as though she could conquer the stars. [FEMALE] We're gonna win. [NARRATOR] Kaffee held up a hand, chuckling softly as he tried to calm the whirlwind of excitement in the room. [MALE] Jo, don't get crazy about this. We don't know who Markinson is. We don't know what the log book's gonna say. You just concentrate on Downey. I'm gonna talk to Ross and tell him where we are. [NARRATOR] Unable to contain her overflowing joy, Jo began to pace the wooden floorboards in a joyful, teasing cadence, humming a light, melodic tune to herself. [FEMALE] "Kaffee's got his case now, Kaffee's got his case now." [NARRATOR] Kaffee shook his head, a fond, weary affection warming his eyes as he looked at her. [MALE] You are like seven of the strangest women I have ever met.
+
+[NARRATOR] The scene dissolved into the comforting darkness of a Washington saloon, a quiet, wood-paneled alcove where the amber light of overhead sconces pooled warmly over the scarred mahogany table. A tired waitress approached the dim corner booth, setting two frosted glasses down upon the coaster with a faint, polite clink before melting back into the shadows. Kaffee and Ross sat across from one another, the ambient murmur of distant patrons wrapping around them like a protective blanket of white noise. Ross took a slow, deliberate breath, the events of the day finally settling into his weary mind. [MALE] That was nice work today. The redirect on Howard. [NARRATOR] Kaffee took a slow, unhurried sip of his drink, letting the cool liquid soothe his throat before he spoke. [MALE] I have Markinson. [NARRATOR] Ross paused, his glass hovering mid-air as he digested the weight of those three words, the flickering candlelight casting gentle glints in his eyes. [MALE] Where is he? [NARRATOR] Kaffee leaned back against the worn leather upholstery of the booth, his voice calm and steady. [MALE] A motel room in Arlington with 14 Federal Marshals outside his door. Take a sip of your drink. [NARRATOR] Ross slowly lowered his glass, following the quiet instruction, a low whistle of astonishment escaping his lips. [MALE] Damn. [NARRATOR] Kaffee continued, his tone methodical and quiet, cutting through the cozy dimness of the saloon. [MALE] The transfer order that Parkinson signed is phoney. And Jessep's statement that the six a.m. flight was the first available is a lie, we're checking the tower chief's log. But in the meantime I'm gonna put the Apostle Jon Kendrick on the stand and see if we can't have a little fun. [NARRATOR] Ross stared down into the amber depths of his drink, taking another long, slow sip before lifting his gaze to meet Kaffee's eyes, laying the stark, unfiltered truth upon the table between them with quiet gravity. [MALE] I have an obligation to tell you that if you accuse Kendrick or Jessep of any crime without proper evidence, you'll be subject to Court-Martial for professional...
+
+[NARRATOR] The heavy mahogany table absorbs the soft, amber glow of the lamps, casting long, slumberous shadows across the quiet room. Outside, the night settles in with a profound, velvety hush, a gentle evening breeze stirring the sheer curtains at the tall windows, whispering a soft lullaby through the dim stillness. 
+
+[MALE] Misconduct. And that's something that'll be stapled to every job application you ever fill out. Markinson's not gonna hold up, he's a crazy man. I'm not saying this to intimidate you. I'm being your lawyer.
+
+[NARRATOR] The silence stretches, comfortable and heavy, filled only with the faint, rhythmic ticking of a distant clock. The air is cool, carrying the scent of old paper and polished wood.
+
+[MALE] Thanks, Jack. And I wanna tell you that I think the whole fuckin' bunch of you are certifiably insane. And this code of honor of yours makes me wanna beat the shit outta something.
+
+[NARRATOR] A soft sigh escapes into the quiet room, melting into the shadows. The atmosphere is thick with weariness and a deep, impending rest.
+
+[FEMALE] Don't you dare lump me in with Jessep and Markinson and Kendrick because we wear the same uniform. I'm your friend, Danny, and I'm telling you, I don't think your clients belong in jail. But I don't get to make that decision. I represent the Government of the United States. Without passion or prejudice. And my client has a case.
+
+[NARRATOR] A quiet pause hangs in the air, gentle and unhurried, like the slow, deep breathing of someone drifting off to sleep.
+
+[FEMALE] I want you to acknowledge that the judge advocate has made you aware of the possible consequences involved in accusing a marine officer of a felony without proper evidence.
+
+[NARRATOR] The muted light catches the soft contours of the room, painting everything in shades of amber and shadow.
+
+[MALE] I've been so advised.
+
+[NARRATOR] A soft rustle of fabric breaks the stillness as a handful of coins gently clinks against the dark wood of the table.
+
+[FEMALE] You got bullied into that courtroom, Danny. By everyone. By Dawson, by Galloway, shit, I practically dared you. Not for a second have you believed you could win. You got bullied into that room by the memory of a dead lawyer.
+
+[NARRATOR] The words drift away into the quiet, settling like dust motes in a sunbeam, or snowflakes falling on a windless night.
+
+[MALE] You're a lousy softball player, Jack.
+
+[NARRATOR] The ambient air grows cooler, soothing and peaceful, wrapping around the room like a heavy, comforting blanket.
+
+[FEMALE] Your boys are going down. I can't stop it anymore.
+
+[NARRATOR] The scene shifts softly, like a dream fading into another, drifting down the bright, sun-warmed corridors of the courthouse where footsteps fall in muffled, rhythmic echoes. The lighting here is pale and diffused, filtering softly through tall windows, illuminating dust motes dancing lazily in the still air. People move in slow, quiet motion, filing into the courtroom. Standing near the grand double doors, a figure watches with quiet intensity, while another glides past with effortless grace.
+
+[MALE] Batter up, J.J.
+
+[NARRATOR] The heavy doors close with a muted, gentle thud, sealing out the world as the courtroom embraces a hushed, expectant stillness. The air is cool and still, smelling faintly of polished oak and aged parchment. On the witness stand, a figure sits rigid and composed. The questioning begins, low and measured, cutting through the silence like a slow, rhythmic tide.
+
+[MALE] Lt. Kendrick, in your opinion, was Private Santiago a good marine?
+
+[NARRATOR] The witness pauses, the amber light catching the sharp lines of his uniform, the seconds stretching out lazily.
+
+[MALE] I'd say he was about average.
+
+[NARRATOR] The examination flows onward, unhurried, like a calm river winding through a quiet valley.
+
+[MALE] Lieutenant, you signed three fitness reports on Santiago. On all three reports you indicated a rating of Below Average.
+
+[NARRATOR] A brief, quiet breath fills the stillness.
+
+[MALE] Yes. Private Santiago was Below Average I didn't see the need in trampling on a man's grave.
+
+[NARRATOR] The shadows lengthen across the courtroom floor, peaceful and slow.
+
+[MALE] We appreciate that, but you're under oath now, and I think unpleasant as it may be, we'd all just as soon hear the truth.
+
+[NARRATOR] The witness shifts slightly, the faint rustle of cloth the only sound in the vast, quiet room.
+
+[MALE] I'm aware of my oath.
+
+[NARRATOR] Files are passed hand to hand, paper sliding against paper with a soft, whispering rustle, lulling the senses toward deep, tranquil rest.
+
+[MALE] Lieutenant, these are the last three fitness reports you signed for Lance Corporal Dawson and PFC Downey. Downey received three straight marks of Exceptional. Dawson received two marks of Exceptional, but on this most recent report, dated June 9th of this year, he received a rating of Below Average. It's this last report that I'd like to discuss for a moment.
+
+[NARRATOR] The room holds its breath in the gentle, hypnotic quiet.
+
+[MALE] That's fine.
+
+[NARRATOR] The measured voice rises softly, repeating the refrain, sinking deeper into the tranquil rhythm of the night.
+
+[MALE] Lance Corporal Dawson's ranking
+
+[NARRATOR] The soft, amber glow of the courtroom lamps casts long, slow-moving shadows across the wooden wainscoting. Outside, the evening air settles into a deep, velvety stillness, wrapping the room in a heavy, comforting cloak of quiet. The ceiling fans rotate with a hypnotic, rhythmic whisper, barely disturbing the dust motes that lazily drift through the amber shafts of light.
+
+[NARRATOR] A quiet rustle of paper stirs the heavy silence. The measured voice of the interrogator continues, floating softly through the somber room, designed to lull the senses into a deep, untroubled calm.
+
+[MALE] After Infantry Training School was perfect. Records indicate that over half that class has since been promoted to full corporal, while Dawson has remained a lance corporal. Was Dawson's promotion held up because of this last fitness report?
+
+[NARRATOR] The witness shifts his weight ever so slightly in the high-backed wooden chair, the leather creaking softly like an old tree in a gentle breeze.
+
+[MALE] I'm sure it was.
+
+[NARRATOR] The cadence of the questions slows, dropping into a lower, soothing register, matching the steady, measured beat of a resting pulse.
+
+[MALE] Do you recall why Dawson was given such a poor grade on this report?
+
+[MALE] I'm sure I don't. I have many men in my charge, Lieutenant, I write many fitness reports.
+
+[NARRATOR] The air in the room is cool and still, smelling faintly of old paper, polished mahogany, and the distant, salty mist of the sea carried in through cracked windows. The shadows lengthen across the floorboards.
+
+[MALE] Do you recall an incident involving a PFC Curtis Barnes who'd been found stealing liquor from the Officer's Club?
+
+[MALE] Yes.
+
+[NARRATOR] The questioning pauses, lingering in the quiet space, inviting a deep, releasing exhale from anyone listening in the dim light.
+
+[MALE] Did you report private Barnes to the proper authorities?
+
+[MALE] I have two books at my bedside, Lieutenant, the Marine Code of Conduct and the King James Bible. The only proper authorities I'm aware of are my Commanding Officer, Colonel Nathan R. Jessep and the Lord our God.
+
+[NARRATOR] A soft murmur ripples along the wooden benches, instantly swallowed by the heavy, enveloping quiet of the room. The rhythm of the voices becomes a lullaby.
+
+[MALE] Lt. Kendrick, at your request, I can have the record reflect your lack of acknowledgment of this court as a proper authority.
+
+[FEMALE] Objection. Argumentative.
+
+[MALE] Sustained. Watch yourself, counselor.
+
+[NARRATOR] The tension in the air drifts away like mist over a sleeping lake. The questioning resumes, quiet and unhurried.
+
+[MALE] Did you report Private Barnes to your superiors?
+
+[MALE] I remember thinking very highly of Private Barnes, and not wanting to see his record tarnished by a formal charge.
+
+[MALE] You preferred it to be handled within the unit.
+
+[MALE] I most certainly did.
+
+[NARRATOR] The lights overhead seem to dim a fraction further, casting a soothing, twilight haze over the faces of the jurors and the quiet observers. 
+
+[Male] Lieutenant, do you know what a Code Red is?
+
+[Male] Yes I do.
+
+[Male] Have you ever ordered a code red?
+
+[Male] No, I have not.
+
+[NARRATOR] Outside, a soft evening breeze rustles the palm fronds, a gentle, whispering sound that blends seamlessly with the steady cadence of the quiet inquiry.
+
+[MALE] Lieutenant, did you order Dawson and two other men to make sure that Private Barnes receive no food or drink except water for a period of seven days?
+
+[MALE] That's a distortion of the truth. Private Barnes was placed on barracks restriction. He was given water and vitamin supplements, and I assure you that at no time was his health in danger.
+
+[MALE] I'm sure it was lovely for Private Barnes, but you did order the barracks restriction, didn't you? And you did order the denial of food.
+
+[Male] Yes.
+
+[Male] Wouldn't this form of discipline be considered a code red?
+
+[Male] Not necessarily.
+
+[NARRATOR] The pause stretches out, long and empty, like a calm stretch of open water beneath a blanket of stars.
+
+[MALE] If I called the other 8000 men at Guantanamo Bay to testify, would they consider it a Code Red?
+
+[FEMALE] Please the court, the witness can't possibly testify as to what 8000 other men would say. We object to this entire line of questioning as argumentative and irrelevant badgering of the witness.
+
+[MALE] The Government's objection is sustained, Lt. Kaffee, and I would remind you that you're now questioning marine officer with an impeccable service record.
+
+[FEMALE] Thank you judge.
+
+[NARRATOR] In the gentle half-light, a quiet glance passes across the room. A brief, wordless connection settles into the stillness, heavy and calm. The voice rises once more, soft and rhythmic, drawing the mind down into rest.
+
+[MALE] Lieutenant, was Dawson given a rating of Below Average on this last fitness report because you learned he'd been sneaking food to Private Barnes? Not so fast. Lieutenant?
+
+[Male] Corporal Dawson was found to be Below Average because he committed
+
+[NARRATOR] The courtroom air grew heavy and still, the afternoon light filtering through tall, dust-motes-dancing windows, casting long, somber shadows across the polished wooden floors. The silence stretched, deep and quiet as an undisturbed forest at twilight.
+
+[MALE] A crime.
+
+[NARRATOR] The voice echoed softly, hanging in the tranquil stillness of the room like a falling leaf. Kaffee leaned forward, his gaze steady, his breathing slow and measured, matching the hypnotic rhythm of the courtroom's heavy pendulum clock.
+
+[MALE] What crime did he commit? Lieutenant Kendrick? Dawson brought a hungry guy some food. What crime did he commit?
+
+[NARRATOR] A gentle stillness settled over the benches, the quiet murmur of the spectators fading into the background hum of a distant, cooling breeze rustling the trees outside. Kendrick shifted slightly, the leather of his uniform creaking softly in the vast, echoing quiet.
+
+[MALE] He disobeyed an order.
+
+[NARRATOR] Kaffee nodded slowly, pacing a soft, rhythmic path across the floorboards, his footsteps muffled by the thick carpet. The atmosphere was soporific, bathed in the amber glow of late afternoon, inviting every weary mind to drift.
+
+[MALE] And because he did, because he exercised his own set of values, because he made a decision about the welfare of a marine that was in conflict with an order of yours, he was punished, is that right?
+
+[NARRATOR] Kendrick’s jaw tightened, but his voice remained flat, low, and steady, like the murmur of a distant stream.
+
+[MALE] Corporal Dawson disobeyed an order.
+
+[NARRATOR] Kaffee paused, looking up toward the high, arched ceiling where shadows pooled in peaceful slumber. 
+
+[Male] Yeah, but it wasn't a real order, was it? After all, it's peacetime. He wasn't being asked to secure a hill... or advance on a beachhead. I mean, surely a marine of Dawson's intelligence can be trusted to determine on his own, which are the really important orders, and which orders might, say, be morally questionable. Lt. Kendrick? Can he? Can Corporal Dawson determine on his own which orders he's gonna follow?
+
+[NARRATOR] The pause stretched out, long and comfortable, a blanket of quiet wrapping around the room. The air felt cool and still. 
+
+[Male] No, he can not.
+
+[NARRATOR] Kaffee offered a soft, knowing nod, his voice dropping to a soothing, confidential register.
+
+[MALE] A lesson he learned after the Curtis Barnes incident, am I right?
+
+[MALE] I would think so.
+
+[MALE] You know so, don't you, Lieutenant.
+
+[NARRATOR] A sharp objection broke the quiet, but the judge's gavel fell with a soft, dull thud that only deepened the drowsiness of the room. Kaffee took a slow, deep breath, his eyes fixed on the witness.
+
+[MALE] Lieutenant Kendrick, one final question: if you ordered Dawson to give Santiago a code red...
+
+[NARRATOR] Ross half-rose, his voice cutting through the heavy air with a mild urgency.
+
+[MALE] -- please the court --
+
+[NARRATOR] Kendrick's eyes narrowed, dark and unyielding.
+
+[MALE] I told those men not to touch Santiago.
+
+[NARRATOR] Without missing a beat, sliding seamlessly into the quiet rhythm of the inquiry, Kaffee pressed on.
+
+[MALE] -- is it reasonable to think that he would've disobeyed you again?
+
+[MALE] Lieutenant, don't answer that.
+
+[MALE] You don't have to, I'm through.
+
+[NARRATOR] Ross didn't wait, his voice leaping into the void, eager to set the record straight in the fading light of day.
+
+[MALE] Lieutenant Kendrick, did you order Corporal Dawson and Private Downey to give Willy Santiago a code red?
+
+[NARRATOR] Kendrick sat in stony silence, his gaze fixed on Kaffee, completely ignoring the counsel's voice. The seconds ticked by, heavy and slow.
+
+[MALE] Lt. Kendrick, did you --
+
+[MALE] No, I did not.
+
+[MALE] Thank you.
+
+[NARRATOR] The scene dissolved, melting away into the cool, indigo embrace of night. 
+
+[NARRATOR] Far away, inside a dimly lit apartment, the hum of the city outside blended into a soft, white noise. A single orange streetlight cast a long, sleepy beam across the room. A nerf ball arched gracefully through the air, slamming gently into a miniature hoop with a muffled *fwap*, before dropping down to the hardwood floor. 
+
+[NARRATOR] Kaffee stood near the window, his shoulders dropping as the tension of the day slowly drained out of him. Sam stepped into the quiet room, carrying a stack of bound, leather-wrapped papers under his arm, his footsteps making a soft, reassuring patter on the rug.
+
+[MALE] What's the word?
+
+[MALE] This is the tower chief's log for that night. Jessep was telling the truth. The six a.m. flight was the first plane out.
+
+[NARRATOR] Kaffee's hand relaxed completely, letting the orange ball slip from his fingers, bouncing once, twice, and then coming to a complete rest on the floor. 
+
+[MALE] Let me see that.
+
+[NARRATOR] The shadows lengthened, and the scene drifted outward, crossing the quiet, sleeping town to the edge of the highway. 
+
+[NARRATOR] Out in the cool night air, a lone motel sat bathed in the silver glow of a crescent moon. A dark sedan, stamped with the quiet authority of U.S. Marshals, idled softly in front of a numbered door. The two federal agents inside sat in a peaceful, quiet cocoon of orange dashboard light, the rustle of turning newspaper pages the only sound in the humid night air.
+
+[NARRATOR] Suddenly, the low rumble of an approaching engine broke the quiet. Kaffee's car swerved to a halt beside them, gravel crunching softly beneath the tires. Kaffee threw the door open, his footsteps urgent against the pavement.
+
+[MALE] Workin' late, lieutenant?
+
+[NARRATOR] The agent's voice was a lazy, low drawl, half-swallowed by the night breeze. Kaffee ignored the greeting entirely, marching up to the heavy wooden door and pounding his fist against it in a steady, rhythmic cadence. 
+
+[NARRATOR] The door groaned open, a sliver of warm yellow light spilling out into the cool, dark night. Kaffee strode inside the small motel room, the door clicking shut behind him, sealing out the world. Without a word, he lifted the heavy log book and tossed it down onto the worn wooden table with a soft thud.
+
+[MALE] There was no flight out at eleven o'clock. What the fuck are you trying to pull?
+
+[NARRATOR] Markinson stood by the edge of the bed, bathed in the soft, amber glow of the bedside lamp, watching the dust motes drift lazily in the quiet air of the room.
+
+[MALE] The first flight stateside left Guantanamo Bay at eleven and arrived at Andrews Airforce Base, Maryland, at a few minutes past...
+
+[NARRATOR] The amber lamplight in the small, quiet room cast a long, gentle shadow against the muted wall, bathing everything in a deep, soothing stillness. The air felt heavy and undisturbed, save for the slow, rhythmic settling of the old building. 
+
+[MALE] Two.
+
+[NARRATOR] The single word hung in the hushed space, soft as falling snow, before dissolving completely into the quiet night. 
+
+[MALE] Then why the hell isn't it listed in the Tower Chief's log?! Why the hell did you think it would be?!!
+
+[NARRATOR] A heavy silence settled over the room like a thick velvet blanket, muting the edges of the furniture and slowing the very passage of time. The realization drifted downward like settling dust motes, slow and inevitable.
+
+[MALE] What are you telling me? He fixed the log book? Well, maybe he can make it so a plane didn't take off, but I can sure as hell prove that one landed. I'll get the log book from Andrews.
+
+[NARRATOR] Markinson stood motionless, his expression carved from stone and weariness, offering no words, only the silent weight of experience. 
+
+[MALE] He made an entire flight disappear?
+
+[MALE] Nathan Jessep is about to be named Director of Operations for the National Security Council. You don't get to that position without knowing how to side-step a few land mines. And putting me on the stand isn't gonna make him step on one.
+
+[NARRATOR] A long, slow breath escaped into the cool evening air. The heavy leather log book was lifted from the dark wood of the table, its pages resting quietly against the palm as footsteps faded slowly toward the door, leaving behind a profound and echoing emptiness.
+
+[NARRATOR] Hours later, deep in the quiet sanctuary of an apartment far away, the shadows lengthened across the floorboards as the flickering glow of a desk lamp warmed the midnight air. 
+
+[MALE] There's gotta be someone who can testify to the flight. A ground crew member. Someone.
+
+[MALE] Do you have any idea how many planes take off and land every day? A kid from the ground crew isn't gonna remember a flight that landed four weeks ago.
+
+[MALE] Forget the flight. We'll put Markinson on the stand and we'll deal with Jessep's refusal to transfer Santiago and he'll testify to the forged transfer order. That'll be enough. That and Downey's testimony really oughta be enough.
+
+[NARRATOR] The conversation drifted away like a gentle ripple on a placid lake, smoothing out into the quiet hours of the night. 
+
+[NARRATOR] Dawn broke slowly over the courthouse, filtering pale, watery sunlight through frosted glass windows into a quiet holding room. The room smelled faintly of old paper and polished wood. 
+
+[FEMALE] Private Downey, why did you go into Santiago's room on the night of the 6th?
+
+[MALE] To give Private Santiago a Code Red, ma'am.
+
+[FEMALE] And why did you give him a Code Red?
+
+[MALE] I was ordered to give him a Code Red by the Executive officer for Rifle Security Company Windward, Lieutenant Jonathan James Kendrick.
+
+[FEMALE] You're gonna do fine.
+
+[MALE] You think they'll let us go back to our platoon soon, ma'am?
+
+[FEMALE] Absolutely.
+
+[NARRATOR] The stillness of the holding room gave way to the quiet, echoing murmur of the marble-columned corridor outside. The light here was soft and diffused, bouncing gently off the pale stone walls.
+
+[FEMALE] You remember the order of the questions?
+
+[MALE] Yes.
+
+[FEMALE] Are you sure?
+
+[MALE] Yes.
+
+[FEMALE] And you'll use small words?
+
+[MALE] Yes.
+
+[FEMALE] He gets rattled when he doesn't understand something.
+
+[MALE] Jo—
+
+[FEMALE] I'm just saying go slow.
+
+[MALE] I'm gonna go slow.
+
+[FEMALE] Okay.
+
+[MALE] Alright.
+
+[FEMALE] And get him off as fast as you can.
+
+[MALE] Joanne!
+
+[FEMALE] What?
+
+[MALE] He's gonna be fine.
+
+[NARRATOR] They turned together, their footsteps echoing softly against the marble floor as they approached the tall, imposing double doors of the courtroom. Beneath the low murmur of their passing, a voice whispered from the past, gentle and melancholic, drifting through the quiet air.
+
+[MALE] Dear Mr. and Mrs. Santiago...
+
+[NARRATOR] Far away from the bustling corridors of justice, in the quiet, shadowed solitude of a modest motel room, a gentle, amber lamplight cast long, drowsy shadows against the walls. Outside, the afternoon sun drifted behind a slow-moving veil of clouds, bathing the world in a soft, muted twilight. Inside this stillness, Captain Matthew Andrew Markinson sat at a small wooden desk. The rhythmic scratch of a pen against paper was the only sound in the hushed room, a steady, soporific whisper echoing through the stillness.
+
+[MALE] I was William's company commander. I knew your son vaguely, which is to say I knew his name...
+
+[NARRATOR] The pen moved with deliberate, heavy grace. As the words flowed onto the paper, the atmosphere shifted, growing hazy and dreamlike, stretching across the miles to a quiet, reverent space. Markinson stood up from the desk and began the slow, methodical ritual of preparing his dress uniform. Every movement was slow, deliberate, and quiet as the soft wool of his Class A tunic settled over his shoulders. He pinned the medals to his chest, the tiny metallic clicks sounding distant and muffled in the heavy air. 
+
+[MALE] In a matter of time, the trial of the two men charged with your son's death will be concluded, and seven men and two women whom you've never met will try to offer you an explanation as to why William is dead. For my part, I've done as much as I can to bring the truth to light.
+
+[NARRATOR] The uniform was complete. The dress sabre rested securely at his side, catching the dim, fading light of the room in a dull, silver gleam. Markinson stood motionless in the center of the room, surrounded by a profound, enveloping quiet, feeling the heavy pull of exhaustion and release. 
+
+[MALE] And the truth is this: your son is dead for only one reason. I wasn't strong enough to stop it. Always, Captain Matthew Andrew Markinson. United States Marine Corps.
+
+[NARRATOR] A soft breeze drifted through a cracked window, carrying the distant, soothing hum of traffic like the sound of a gentle ocean tide washing against a faraway shore. Then, the quiet was gently broken, and the scene dissolved like mist, shifting instantly back to the cool, marble halls of the courtroom where the low murmur of voices rose and fell like a lullaby. 
+
+[NARRATOR] Inside the soaring, mahogany-paneled courtroom, the light filtered through high, arched windows in long, dust-moted beams, illuminating the quiet concentration of the room. Kaffee stood near the witness stand, his voice measured, soft, and unhurried against the vast expanse of the ceiling.
+
+[MALE] Private, I want you to tell us one last time: Why did you go into Private Santiago's room on the night of August 6th?
+
+[NARRATOR] On the witness stand, Private Downey shifted slightly, the soft rustle of his uniform blending into the heavy, hypnotic atmosphere of the late afternoon. He spoke in a steady, droning cadence that seemed to lull the listeners deeper into a state of restful detachment.
+
+[MALE] A code red was ordered by my platoon commander, Lt. Jonathan James Kendrick.
+
+[NARRATOR] Kaffee offered a quiet nod, his movements unhurried, before turning his gaze toward the prosecution table.
+
+[MALE] Thank you. Your witness.
+
+[NARRATOR] Prosecutor Ross stepped forward, her shoes clicking softly against the marble floor. Her voice, when she spoke, was smooth and rhythmic, carrying the steady, soporific hum of a bedtime story told in the dark.
+
+[FEMALE] Private, for the week of 2 August, the switch log has you down at Post 39, is that correct?
+
+[DOWNEY] I'm sure it is, sir, they keep that log pretty good.
+
+[FEMALE] How far is it from Post 39 to the Windward barracks?
+
+[DOWNEY] It's a ways, sir, it's a hike.
+
+[FEMALE] About how far by jeep?
+
+[DOWNEY] About ten, fifteen minutes, sir.
+
+[FEMALE] Have you ever had to walk it?
+
+[DOWNEY] Yes sir. That day, sir. Friday. The Pick-up Private -- sir, that's what we call the fella who drops us at our posts and picks us up... also, 'cause he can get girls in New York City -- the Pick-up Private got a flat...
+
+[NARRATOR] At the defense table, bathed in the warm, dim glow of a desk lamp, Kaffee remained entirely poker-faced. With slow, drowsy precision, he picked up a pen and scribbled a brief note on a scrap of paper, sliding it across the polished wood toward Jo. Jo glanced down at the hastily written words, her eyelids feeling heavy and warm in the quiet air. She read the note: *Where's he going with this?* With a soft sigh, she picked up her own pen, added a single question mark, and slid the paper back into the warm pool of light before Kaffee's hands.
+
+[DOWNEY] ...Right at 39. He pulled up and blam! ...A blowout-with no spare. The two of us had to double-time it back to the barracks.
+
+[FEMALE] And if it's ten or fifteen minutes by jeep, I'm guessing it must be a good hour by foot, am I right?
+
+[DOWNEY] Pick-up and me did it in 45 flat, sir.
+
+[FEMALE] Not bad. Now you say your assault on Private Santiago was the result of an order that...
+
+[NARRATOR] The voices in the courtroom began to drift away, softening into a gentle, indistinguishable murmur, like the sound of rain falling softly on a distant roof. The warm light grew dimmer, and the heavy, comforting blanket of sleep settled slowly over the room, wrapping every shadow in peace.
+
+[NARRATOR] The amber light of the courtroom continued to drift, softening around the edges like old parchment left out in the evening mist. The hours seemed to stretch and slow, dissolving into a quiet, heavy stillness. 
+
+[NARRATOR] Within the quiet dimness of the chamber, the prosecution pressed forward, closing the distance of the puzzle. Lieutenant Kendrick had given the order in the quiet sanctuary of the barracks room at sixteen-twenty. The weight of the impending realization hung in the air, a slow-moving cloud rolling over a tranquil valley, leaving no room for escape, no place to hide from the inevitability of the moment.
+
+[NARRATOR] Down at the defense table, the tension settled like dust motes falling lazily through a sunbeam. The realization settled over the room. There was nothing left to be done, nothing to stop the turning of the gears. 
+
+[MALE] Yes sir.
+
+[NARRATOR] The atmosphere grew heavy, draped in a profound, helpless silence. A quiet panic drifted through the space, soft and distant, like the rustle of dry autumn leaves in a fading wind.
+
+[FEMALE] But you just said that you didn't make it back to Windward Barracks until 16:45.
+
+[NARRATOR] A brief, quiet confusion settled over the young private, a soft fog blurring the edges of his thoughts as unfamiliar questions hung in the warm, stagnant air.
+
+[MALE] Sir?
+
+[FEMALE] If you didn't make it back to your barracks until 16:45, then how could you be in your room at 16:20?
+
+[NARRATOR] A long, gentle pause stretched out over the courtroom, slow as the ticking of a grandfather clock in an empty hall. 
+
+[MALE] You see sir, there was a flat tire.
+
+[FEMALE] Private, did you ever actually hear Lt. Kendrick order a Code Red?
+
+[NARRATOR] Across the mahogany, the world seemed to tilt ever so slightly, unspooling in slow motion. There was no reaching it, no catching the falling threads. The quiet certainty of defeat settled deep into the marrow.
+
+[NARRATOR] Another slow, deep pause drifted across the room, suspended in the amber air.
+
+[MALE] No, sir.
+
+[NARRATOR] With a sudden, sharp rustle, motion cut through the heavy lethargy as the defense counsel rose, searching for an anchor in the storm.
+
+[FEMALE] Please the court, I'd like to request a recess in order to confer with my client.
+
+[FEMALE] Why did you go into Santiago's room?
+
+[FEMALE] The witness has rights.
+
+[FEMALE] The witness has been read his rights, commander.
+
+[NARRATOR] A quiet, lingering hesitation brushed against the edges of the young man's voice, a soft reaching out for something familiar.
+
+[MALE] Hal?
+
+[NARRATOR] The voice of authority cut through the haze, low and steady, calling for the rhythm of the questions to resume.
+
+[MALE] The question will be repeated.
+
+[FEMALE] Why did you go into Santiago's room?
+
+[FEMALE] Your honor --
+
+[MALE] Hal?
+
+[FEMALE] Did Corporal Dawson tell you to do it?
+
+[NARRATOR] The entire room froze, held in suspension as if time itself had grown tired and decided to rest. Every shadow lengthened, every breath turned soft and low.
+
+[FEMALE] He did, didn't he? Dawson told you to give Santiago a code red.
+
+[NARRATOR] The young soldier turned his gaze slowly toward his companion, seeking guidance in the quiet twilight of the room.
+
+[MALE] Hal?
+
+[FEMALE] Don't look at him.
+
+[MALE] Hal?
+
+[NARRATOR] A quiet command drifted across the aisle, steady as a falling leaf finding the ground.
+
+[MALE] Private. Answer the Lieutenant's question.
+
+[NARRATOR] The silence stretched on, deep and uninterrupted, wrapping the courtroom in a heavy, comforting blanket of stillness. Then, the young soldier straightened, letting go of the confusion, finding an unexpected, quiet pride in the simple truth as he believed it to be.
+
+[MALE] Yes, Lieutenant. I was given an order by my squad leader, Lance Corporal Harold W. Dawson of the U.S. Marine Corps. And I followed it.
+
+[NARRATOR] The words hung in the quiet air, settling down like mist upon the grass. The prosecutor let the silence remain, glancing across the room toward the silent table where the defense sat, refusing to meet the gaze.
+
+[NARRATOR] Hours later, the scene shifted softly away from the courtroom, dissolving into the quiet, cool shadows of a dimly lit apartment at night. The city outside hummed a distant, low-pitched lullaby, muffled by the gathering darkness. Inside, the room was bathed in the gentle indigo wash of moonlight and streetlamps.
+
+[FEMALE] Where do you think he is?
+
+[NARRATOR] No answer came from the quiet corner where the other sat in stillness. The air was thick with the weight of unsaid words, heavy and drowsy. The woman tried to keep her breathing even, holding the frayed edges of the evening together.
+
+[FEMALE] As far as Downey was concerned, it was an order from Kendrick. It didn't matter that he didn't hear it first hand. He doesn't distinguish between the two.
+
+[NARRATOR] A quiet understanding passed through the room, acknowledged not by speech, but by the slow, rhythmic rise and fall of chest breaths in the dimness. Then, a soft click broke the silence as the front door drifted open, and footsteps padded gently across the floorboards.
+
+[FEMALE] Danny. I'm sorry.
+
+[NARRATOR] The weary traveler stood in the doorway, wrapped in an easy, unbothered calm, as if the storms of the day had merely been a dream passing through a sleeping mind.
+
+[MALE] Don't worry about it.
+
+[FEMALE] Sam and I were just talking about how all we really have to do is call some witnesses who'll talk about implied orders... or maybe we put Downey back on the stand before we get to Dawson.
+
+[MALE] Maybe if we work at it we can get Dawson charged with the Kennedy assassination.
+
+[NARRATOR] The woman paused, studying the relaxed silhouette in the quiet gloom, searching the relaxed lines of his face for any sign of the strain.
+
+[FEMALE] Are you drunk?
+
+[MALE] Pretty much. Yeah.
+
+[NARRATOR] A quiet sigh slipped into the dark room, dissolving into the peaceful, slow-moving shadows of the night.
+
+[FEMALE] I'll make a pot of coffee. We have a...
+
+[NARRATOR] The soft, lingering whisper of footsteps moved toward the kitchen, fading into the comforting stillness of the apartment. 
+
+[MALE] She's gonna make coffee. That's nice.
+
+[NARRATOR] He stood by the dim window, watching the city lights blur behind a gentle, slow-rolling fog that draped itself over the sleeping buildings. His voice was barely a murmur, drifting softly into the quiet room.
+
+[MALE] He wasn't in his room. He wasn't even there. That was an important piece of information, don't you think?
+
+[NARRATOR] A heavy, slow-moving silence settled over the room, thick with exhaustion and the deep, abiding weight of the late hour. 
+
+[FEMALE] Danny, it was just a setback. I'm sorry. But we'll fix it and then move on to Markinson.
+
+[NARRATOR] The shadows in the room seemed to deepen, pooling warmly around the edges of the worn furniture as the news hung in the quiet air.
+
+[MALE] Markinson's dead.
+
+[NARRATOR] Time seemed to stretch and slow to a crawl, the seconds drifting by like falling autumn leaves, absolutely weightless and unhurried. 
+
+[MALE] You really gotta hand it to those Federal Marshals, boy. It's not like he hanged himself by his shoelaces or slashed his wrists with a concealed butter knife. This guy got, into full dress uniform, stood in the middle of that room, drew a nickle plated pistol from his holster, and fired a bullet into his mouth.
+
+[NARRATOR] The room remained entirely still, the stillness of midnight wrapping around them like a heavy, comforting wool blanket. 
+
+[MALE] Anyway, since we seem to be out of witnesses, I thought I'd drink a little.
+
+[FEMALE] I still think we can win.
+
+[MALE] Then maybe you should drink a little.
+
+[FEMALE] Look, we'll go to Randolph in the morning and make a motion for a continuance. 24 hours.
+
+[MALE] Why would we want to do that?
+
+[FEMALE] To subpoena Colonel Jessep.
+
+[MALE] What?
+
+[FEMALE] Listen for a second --
+
+[MALE] No.
+
+[FEMALE] Just hear me out --
+
+[MALE] No. I won't listen to you and I won't hear you out. Your passion is comforting, Jo. It's also useless. Private Downey needed a trial lawyer today.
+
+[FEMALE] You chicken-shit. You're gonna use what happened today as an excuse to give up.
+
+[MALE] It's over!
+
+[FEMALE] Why did you ask Jessep for the transfer order?
+
+[MALE] What are you --
+
+[FEMALE] In Cuba. Why did you ask Jessep for the transfer order?
+
+[MALE] What does it matter --
+
+[FEMALE] Why?!
+
+[MALE] I wanted the damn transfer order!
+
+[FEMALE] Bullshit! You could've gotten it by picking up the phone and calling any one of a dozen departments at the Pentagon. You didn't want the transfer order. You wanted to see Jessep's reaction when you asked for the transfer order. You had an instinct. And it was confirmed by Markinson. Now damnit, let's put Jessep on the stand and end this thing!
+
+[MALE] What possible good could come from putting Jessep on the stand?
+
+[FEMALE] He told Kendrick to order the Code Red.
+
+[MALE] He did?! Why didn't you say so!? That's qreat! And of course you have proof of that.
+
+[FEMALE] I --
+
+[MALE] Ah, I keep forgetting: You were sick the day they taught law at law school.
+
+[FEMALE] You put him on the stand and you get it from him!
+
+[MALE] Yes. No problem. We get it from him. Colonel, isn't it true that you ordered the Code Red on Santiago?
+
+[MALE] Look, we're all a little --
+
+[MALE] I'm sorry, your time's run out. What do we have for the losers, Judge? Well, for our defendants it's a lifetime at
+
+[NARRATOR] The voices drifted off, dissolving peacefully into the quiet hum of the night, as the heavy eyelids of the world fluttered closed, drifting deeper and deeper into restful sleep.
+
+[NARRATOR] The amber glow of a single desk lamp cast long, softening shadows across the quiet office, where the air felt thick and heavy with the exhaustion of the late hour. Outside the window, a gentle, cooling breeze rustled through the slumbering trees, whispering a quiet lullaby to the resting world. 
+
+[MALE] I'm sorry I lost you your set of steak knives.
+
+[NARRATOR] The words hung softly in the quiet air, followed by the soft rustle of a coat being gathered, the click of a purse clasp, and the gentle, final thud of a door closing in the distance. The apartment settled back into a deep, meditative hush, broken only by the soft, steady rhythm of breathing in the dim light. 
+
+[NARRATOR] Sam remained knee-deep in the fallen sea of papers on the floor, his movements slow and methodical, gathering the loose pages like a collector picking up autumn leaves. A shadow moved silently toward the kitchen, returning moments later with the slow, deliberate clink of glass against wood.
+
+[MALE] Stop cleaning up.
+
+[NARRATOR] Sam paused, his hands resting gently among the scattered files, listening to the quiet gravity in the room.
+
+[MALE] Sam. Stop cleaning up.
+
+[NARRATOR] Sam let his hands fall still, sliding quietly into a nearby chair, his shoulders dropping as the tension of the day began to melt away into the quiet shadows. The couch groaned softly as weight settled upon it, the soft leather breathing out an age-old sigh.
+
+[MALE] You want a drink?
+
+[MALE] Yeah.
+
+[NARRATOR] A heavy glass bottle passed through the dim, warm light, the amber liquid catching the last flickers of the lamp before coming to rest. 
+
+[MALE] Is your father proud of you?
+
+[MALE] Don't do this to yourself.
+
+[MALE] I'll bet he is. I'll bet he bores the shit outta the neighbors and the relatives. "Sam, made Law Review. He's got a big case he's making -- He's arguing making an argument." I think my father would've enjoyed seeing me graduate from law school. I think he would've liked that... an awful lot.
+
+[NARRATOR] The silence returned, vast and comforting, wrapping around the two men like a warm blanket on a chilly night. 
+
+[MALE] Did I ever tell you that I wrote a paper on your father in college?
+
+[MALE] Yeah?
+
+[MALE] He was one of the best trial lawyers ever.
+
+[MALE] Yes he was.
+
+[MALE] And if I were Dawson and Downey and I had a choice between you or your father to represent me in this case, I'd take you any day of the week and twice on Sunday. You should have seen yourself thunder away at Kendrick.
+
+[MALE] Would you put Jessep on the stand?
+
+[MALE] No.
+
+[MALE] You think my father would've?
+
+[MALE] With the evidence we've got? Not in a million years. But here's the thing -- and there's really no way of getting around this -- neither Lionel Kaffee nor Sam Weinberg are lead counsel for the defense in the matter of U.S. versus Dawson and Downey. So there's only one question. What would you do?
+
+[NARRATOR] Time seemed to slow to a crawl, the worries of the courtroom dissolving into the vast, peaceful ether of the night. 
+
+[NARRATOR] Out upon a quiet suburban street, the cool midnight air kissed the pavement. Joanne walked with a steady, measured rhythm, her footsteps echoing softly in the stillness. The streetlights overhead hummed a low, hypnotic drone, casting pools of golden light through the gentle canopy of leaves. 
+
+[NARRATOR] From down the empty road, two soft, amber headlights appeared, cutting a warm path through the nocturnal mist. A familiar automobile crept forward, its engine purring with a low, rhythmic heartbeat as it matched her pace, gliding like a ship upon a calm sea. The glass of the passenger window rolled downward with a faint, whispering mechanical sigh.
+
+[MALE] Joanne.
+
+[NARRATOR] She pressed onward, her gaze fixed straight ahead, enveloped in the quiet solitude of the night breeze. The car drifted beside her, a gentle, persistent shadow, slowing its breath to match her own, inviting her into the comforting quiet of the journey home.
+
+[NARRATOR] The stillness of the night air pressed softly against the metal frame of the vehicle as it crept along the pavement. 
+
+[MALE] Jo, we look ridiculous. Stop the car.
+
+[NARRATOR] The door clicked open, and he stepped out into the cool, slumberous breeze, his footsteps crunching softly on the asphalt.
+
+[MALE] Joanne.
+
+[NARRATOR] She pressed onward, her gaze fixed straight ahead, enveloped in the quiet solitude of the night. The car drifted beside her, a gentle shadow matching her slow, deliberate pace.
+
+[MALE] I apologize. I was angry and... I'm sorry about what I said.
+
+[NARRATOR] Still, she walked on, her measured steps forming a comforting, hypnotic rhythm against the pavement.
+
+[MALE] I'm gonna put Jessep on the stand.
+
+[NARRATOR] At those words, the motion ceased. She stopped, the gentle breeze stirring her hair, and slowly turned around to face the quiet street. 
+
+Hours dissolved into a soft, golden afternoon haze within the sanctuary of a sun-dappled apartment. Golden slanting light filtered through the windowpanes, casting long, lazy shadows across the floor where a soft nerf ball bounced in a slow, rhythmic arc against the wall, striking the plaster with a dull, comforting *thump*. Sprawled across the worn furniture and the plush carpet, three figures rested in the quietude, deep in thought as the afternoon drifted by. A low, contented sigh escaped the room, heavy with the weight of quiet exhaustion.
+
+[FEMALE] I say we hit him with the phoney transfer order.
+
+[NARRATOR] The words drifted lazily in the warm air, suspended by the quiet stillness of the room.
+
+[MALE] What's the transfer order without a witness?
+
+[FEMALE] We have a witness.
+
+[MALE] A dead witness. And in the hands of a lesser attorney, that'd be a problem. Look at this. Last night he was swimming in his Jack Daniels, now he can leap tall buildings in a single bound. I'm getting my second wind. Siddown. Both of you.
+
+[NARRATOR] He looked down and noticed that both of his companions were already resting comfortably on the floor.
+
+[MALE] Good. Jessep told Kendrick to order a code red. Kendrick did, and our clients followed the order. The cover-up isn't our case. To win, Jessep has to tell the jury that he ordered the code red.
+
+[MALE] And you think you can get him to just say it?
+
+[NARRATOR] The room was entirely still, save for the gentle rise and fall of breathing in the warm afternoon light.
+
+[MALE] I think he wants to say it. I think he's pissed off that he's gotta hide from us. I think he wants to say that he made a command decision and that's the end of it. He eats breakfast 80 yards away from 4000 Cubans who are trained to kill him, and no one's gonna tell him how to run his base. Least of all the pushy broad, the smart Jew, and the Harvard clown. I need to shake him and put him on the defensive.
+
+[NARRATOR] A heavy, thoughtful silence settled over the room, as peaceful and deep as a quiet forest at dusk.
+
+[MALE] That's it? That's the plan?
+
+[MALE] That's the plan.
+
+[MALE] You're gonna trip Jessep and he's gonna confess.
+
+[MALE] I'm not gonna trip him. I'm gonna lead him right where he's dying to go.
+
+[MALE] And how are you gonna do that?
+
+[MALE] I have no idea. I need my bat.
+
+[FEMALE] What?
+
+[MALE] I need my bat. I think better with my bat. Where's my bat?
+
+[FEMALE] I put it in the closet.
+
+[MALE] You put it in the closet.
+
+[NARRATOR] He turned and wandered toward the darkened wooden door of the hallway closet, his steps soft against the floorboards.
+
+[FEMALE] I was tripping over it.
+
+[MALE] Don't ever put a bat in a closet.
+
+[FEMALE] He thinks better with his bat?
+
+[MALE] I can understand that. I used to have a stuffed panda named Mr. Boob. I could never do my homework without him.
+
+[NARRATOR] As the wooden door creaked open, revealing the dim, shadowy interior of the closet, a sudden, unexpected stillness filled the air.
+
+[NARRATOR] The evening shadows lengthened across the quiet apartment, stretching long and soft across the floorboards as a gentle, cooling draft drifted in from the open window, carrying the faint, soothing scent of approaching dusk. Inside the quiet bedroom, a slow realization took hold in the hushed air. A glance toward the closet revealed the neat rows of clothing hanging undisturbed along the wooden bar—uniforms and civilian garments resting in absolute stillness, touched by the amber glow of the fading daylight. 
+
+[NARRATOR] With a sudden, purposeful stride, footsteps crossed the soft rug of the living room, moving swiftly toward the heavy front door, cutting through the tranquil quiet of the evening.
+
+[MALE] Stay here, I'm going to the office for a while.
+
+[NARRATOR] The door clicked shut with a soft, muffled thud, leaving the apartment to the gentle hum of the evening settling over the city. A quiet chuckle broke the stillness, carrying a warm, affectionate note into the empty room.
+
+[FEMALE] Boy, he does think better with that bat.
+
+[NARRATOR] Far across the city, inside a small, sequestered computer room at the end of a quiet corridor, the ambient light was dim and purple-blue, cast by the steady, hypnotic rhythm of a mechanical printer. Paper fed through the metal rollers with a soft, rhythmic whispering sound, spitting out long, coded strips of military data. A hand reached down, tearing the warm paper from the machine, and carried it back into the shadowy sanctuary of an early evening office. 
+
+[NARRATOR] Desk lamps cast pools of golden light over stacks of paperwork as fingers traced down the columns of a large, encoded phone bill. Without hesitation, a telephone receiver was lifted, and a quiet, urgent voice spoke into the receiver.
+
+[MALE] Sam. I need you to do something.
+
+[NARRATOR] Back in the dim warmth of the apartment, the telephone was lowered onto its cradle with a slow, deliberate motion, the click echoing softly in the quiet room.
+
+[FEMALE] What's goin' on?
+
+[MALE] I've gotta go out to Andrews.
+
+[NARRATOR] The morning sun eventually broke through the tall windows of the courthouse corridor, casting long, pale beams of light across the polished stone floor. The atmosphere was hushed, charged with the quiet tension of the approaching day's session. Around the corner stepped a hurried figure, his eyes scanning the quiet hallway for a familiar face.
+
+[MALE] Is Sam here?
+
+[FEMALE] Not yet.
+
+[MALE] Where is he?
+
+[FEMALE] He's on his way.
+
+[MALE] Did he get the guys?
+
+[FEMALE] Yes. Listen, can I talk to you for a second?
+
+[NARRATOR] A heavy wooden door drifted shut behind them, sealing off the noise of the corridor and creating a quiet, private haven within the ante-room, bathed in soft, filtered morning light.
+
+[FEMALE] How're you feeling?
+
+[MALE] I think he's gonna have his hands full today.
+
+[FEMALE] Listen. Danny. When you're out there. If it's not gonna happen he's not gonna say it... don't go for it. If you feel like... if you feel like... You could get in trouble. I'm special counsel for internal affairs, and I'm telling you, you could get in a lot of trouble.
+
+[MALE] Why Lt. Commander Galloway... are you suggesting I back off a material witness?
+
+[FEMALE] If you think you can't get him. Yeah.
+
+[MALE] Do you think I can get him?
+
+[FEMALE] I think it doesn't matter what I think. I'm an administrator. I can't seem to defend people.
+
+[NARRATOR] The words hung in the quiet air, settling gently into the space between them. With a calm, measured movement, a leather briefcase was lifted from the desk, and a jacket was slung over a shoulder. A soft, knowing smile crossed the tired features.
+
+[MALE] You're my hero, Joanne. From the first day, you were a lawyer. Live with that.
+
+[NARRATOR] Far down the hallway, echoing through the high-arched ceilings of the courtroom, the deep, resonant voice of the sergeant at arms rang out, summoning the room to attention.
+
+[NARRATOR] All rise.
+
+[NARRATOR] Inside the vast, wood-paneled courtroom, figures rose in unison, standing in respectful silence as the judge entered and took his seat. An empty chair sat among the defense counsel, the absence lingering heavily in the still air.
+
+[MALE] Call your witness.
+
+[MALE] Where's Sam?
+
+[FEMALE] He'll be here.
+
+[MALE] Lieutenant, call your witness.
+
+[MALE] Defense calls Colonel Nathan Jessep.
+
+[NARRATOR] The heavy side door swung open with a slow, quiet creak, and the Colonel was escorted into the hushed courtroom, his dress uniform gleaming beneath the chandeliers, adorned with rows of medals that caught the soft, ambient light. He stepped forward with absolute, unyielding posture, ready to face the solemn stillness of the court.
+
+[NARRATOR] The heavy wooden doors of the courtroom yielded with a slow, almost imperceptible whisper, drawing all attention toward the center of the room. The air inside was still and heavy with the scent of polished mahogany and old paper, cooled gently by the soft, late afternoon shadows stretching across the floor. Overhead, the brass chandeliers cast a warm, amber glow that caught the gold braid and gleaming rows of ribbons adorning the Colonel's dress uniform, creating a quiet, hypnotic shimmer that danced lazily along the walls. 
+
+[NARRATOR] The atmosphere was suspended in a profound, restful stillness, broken only by the quiet rustle of paper and the deep, even breathing of those gathered. The solemnity of the moment settled over the room like a thick, comforting blanket, inviting the mind to drift and unwind.
+
+[NARRATOR] The solemn voice of the bailiff drifted through the quiet space, hanging softly in the heavy air.
+
+[MALE] Do you solemnly swear that the testimony you are about to give will be the truth, the whole truth, and nothing but the truth, so help you God?
+
+[NARRATOR] The Colonel’s posture remained utterly unyielding, his voice steady, low, and resonating with the quiet authority of a man accustomed to absolute obedience.
+
+[MALE] Yes, I do.
+
+[NARRATOR] The prosecutor adjusted his glasses, the gentle clink of metal against paper echoing softly in the vaulted chamber.
+
+[MALE] Would you state your name, rank, and current billet for the record, please, sir?
+
+[NARRATOR] The Colonel offered no extraneous movement, his gaze fixed straight ahead, anchored by the calm gravity of the proceedings.
+
+[MALE] Colonel Nathan R. Jessep, Commanding Officer, Marine Ground Forces, Guantanamo Bay, Cuba.
+
+[NARRATOR] The prosecutor offered a polite nod, the motion slow and deliberate in the hushed environment.
+
+[MALE] Thank you, sir. Would you have a seat, please?
+
+[NARRATOR] With measured, deliberate grace, the Colonel seated himself, the fabric of his uniform rustling softly against the polished wood of the chair. Across the floor, Lieutenant Kaffee stepped forward, his footsteps muted by the thick carpet. He regarded the witness with a calm, unhurried curiosity, the ambient light catching the edge of his crisp lapels.
+
+[MALE] Colonel, when you learned of Santiago's letter to the NIS, you had a meeting with your two senior officers, is that right?
+
+[NARRATOR] The Colonel’s response was immediate, low, and devoid of hesitation, vibrating softly in the quiet room.
+
+[MALE] Yes.
+
+[NARRATOR] Kaffee paused, letting the silence settle for a long, breathing moment before continuing.
+
+[MALE] The Executive Officer, Lt. Jonathan Kendrick, and the Company Commander, Captain Matthew Markinson.
+
+[NARRATOR] Again, the Colonel’s reply came like the steady ticking of a grandfather clock in an empty hallway.
+
+[MALE] Yes.
+
+[NARRATOR] Kaffee’s voice lowered, adopting a softer, more reflective cadence that seemed to lull the corners of the room into deeper repose.
+
+[MALE] And at present, Captain Markinson is dead, is that right?
+
+[NARRATOR] Before the question could fully settle, the prosecutor was on his feet, his tone sharp against the sleepy quiet.
+
+[MALE] Objection. I'd like to know just what defense counsel is implying.
+
+[NARRATOR] Kaffee turned slowly, his demeanor unruffled, speaking with a quiet, hypnotic casualness.
+
+[MALE] I'm implying simply that, at present, Captain Markinson is not alive.
+
+[NARRATOR] The prosecutor’s response cut through the air, tinged with a weary exasperation.
+
+[MALE] Surely Colonel Jessep doesn't need to appear in this courtroom to confirm that information.
+
+[NARRATOR] Kaffee took a slow step closer, his voice dropping to an even more subdued, confidential register.
+
+[MALE] I just wasn't sure if the witness was aware that two days ago, Captain Markinson took his own life with a .45 caliber pistol.
+
+[NARRATOR] At that exact moment, the rear doors of the courtroom parted with a gentle hush. Sam entered quietly, his footsteps falling like soft rain on dry leaves, escorting two young airmen in crisp dress uniforms. He guided them toward a row of polished wooden benches near the front, the brass buttons of their uniforms catching the dimming light of the late day, before taking his own place at the defense table. 
+
+[NARRATOR] Over the quiet murmur of movement, the judge’s voice drifted down from the bench, smooth and unhurried.
+
+[MALE] The witness is aware, the Court is aware, and now the jury is aware. We thank you for bringing this to our attention. Move on, Lieutenant.
+
+[NARRATOR] In the gentle shadow of the defense table, Sam quickly scribbled a few words onto a slip of paper. Kaffee glanced down, his eyes tracing the two handwritten names—Cecil O'Malley and Anthony Perez—before turning back toward the bench with a slow, easy nod.
+
+[MALE] Yes, sir.
+
+[NARRATOR] Kaffee shifted his weight, his eyes returning to the Colonel, who sat bathed in the warm, descending light of the chandeliers.
+
+[MALE] Colonel, at the time of this meeting, you gave Lt. Kendrick an order, is that right?
+
+[NARRATOR] The Colonel’s voice remained a low, grounding hum in the vast room.
+
+[MALE] I told Kendrick to tell his men that Santiago wasn't to be touched.
+
+[NARRATOR] Kaffee leaned in slightly, his tone soft and inquiring, like the rustle of autumn leaves outside a frosted window.
+
+[MALE] And did you give an order to Captain Markinson as well?
+
+[NARRATOR] The Colonel exhaled softly, his chest rising and falling beneath his medals in a slow, rhythmic wave.
+
+[MALE] I ordered Markinson to have Santiago transferred off the base immediately.
+
+[NARRATOR] Kaffee took a slow, deliberate pace to the side.
+
+[MALE] Why?
+
+[NARRATOR] The Colonel’s gaze remained fixed, unflinching, carrying the heavy weight of authority.
+
+[MALE] I felt that his life might be in danger once word of the letter got out.
+
+[NARRATOR] Kaffee’s voice dropped to a mere whisper, hanging gently in the warm, still air.
+
+[MALE] Grave danger?
+
+[NARRATOR] The Colonel’s reply was smooth, devoid of doubt.
+
+[MALE] Is there another kind?
+
+[NARRATOR] Reaching down to the defense table, Kaffee lifted a single, crisp document, the paper making a soft, papery sigh as it caught the light.
+
+[MALE] We have the transfer order that you and Markinson co-signed, ordering that Santiago be lifted on a flight leaving Guantanamo at six the next morning. Was that the first flight off the base?
+
+[NARRATOR] The Colonel’s eyes remained steady, his voice a steady drone that invited peaceful rest.
+
+[MALE] The six a.m. flight was the first flight off the base.
+
+[NARRATOR] Kaffee offered a small, affirmative nod, letting the document drift back down onto the table with a soft whisper. For a fraction of a second, the Colonel’s eyes drifted away, stealing a quick, quiet glance toward the two young airmen seated out in the dimming courtroom before returning his attention to the center aisle. Kaffee stepped forward once more, his voice gentle and hypnotic.
+
+[MALE] Colonel, you flew up to Washington early this morning, is that right?
+
+[NARRATOR] The Colonel’s answer was barely a breath.
+
+[MALE] Yes.
+
+[NARRATOR] Kaffee looked down at the Colonel’s chest, where the ribbons gleamed softly in the amber light, before meeting his eyes again.
+
+[MALE] I notice you're wearing your Class A appearance in dress uniform for court today.
+
+[NARRATOR] A faint, ghost-like shadow of a smile touched the corner of the Colonel’s mouth as his voice matched Kaffee’s easy rhythm.
+
+[MALE] As are you, Lieutenant.
+
+[NARRATOR] Kaffee took another unhurried step closer, the silence of the room deepening around them like a quiet dusk settling over a placid lake.
+
+[MALE] Did you wear that uniform on the plane?
+
+[NARRATOR] Before the words had even faded, the prosecutor rose once more, his voice a soft, weary plea cutting through the growing tranquility.
+
+[MALE] Please the Court, is this dialogue relevant to anything in particular?
+
+[NARRATOR] Kaffee did not hesitate, his voice remaining calm, steady, and soothing as he addressed the bench.
+
+[MALE] The defense didn't have an opportunity to depose this witness...
+
+[NARRATOR] The ambient light in the courtroom shifted subtly, casting a long, gentle shadow across the polished wooden panels as the heavy hours drifted onward into a quiet, hazy stillness. A soft, evening draft whispered through the tall, arched windows, carrying with it the cool, restorative hush of the approaching night, settling over the drowsy room like a velvet blanket.
+
+[MALE] Please the court.
+
+[NARRATOR] The voice was measured, unhurried, echoing softly in the cavernous, quiet space.
+
+[MALE] This is a surprise witness, your honor. I'd ask the court for a little latitude.
+
+[MALE] A very little latitude.
+
+[MALE] Colonel?
+
+[MALE] I wore fatigues on the plane.
+
+[MALE] And you brought your dress uniform with you.
+
+[MALE] Yes.
+
+[MALE] And a toothbrush? A shaving kit? Change of underwear?
+
+[FEMALE] Your honor.
+
+[NARRATOR] The defense counsel turned slightly, his gaze drifting toward the prosecutor with a calm, unbothered rhythm, his words falling like slow-moving drops of water in a serene pond.
+
+[MALE] Is the colonel's underwear a matter of national security?
+
+[MALE] Gentlemen. You better get somewhere fast with this, lieutenant.
+
+[MALE] Yes, sir. Colonel?
+
+[MALE] I brought a change of clothes and some personal items.
+
+[MALE] Thank you.
+
+[NARRATOR] The quiet rustle of paper filled the silent room as footsteps padded softly against the floor. A crisp document was lifted from the wooden table, the pages turning with a gentle, paper-dry whisper reminiscent of autumn leaves brushing against a windowpane.
+
+[NARRATOR] After Dawson and Downey's arrest on the night of the sixth, Santiago's barracks room was sealed off and its contents inventoried. Pairs of camouflage pants, six camouflage shirts, two pairs of boots, one pair of brown shoes, one pair of tennis shoes, eight khaki t-shirts, two belts, one sweater...
+
+[FEMALE] Please the court, is there a question anywhere in our future?
+
+[MALE] Lieutenant Kaffee, I have to...
+
+[NARRATOR] The defense counsel paused, letting the silence expand and soothe the tense edges of the room before speaking again in a low, hypnotic murmur.
+
+[MALE] I'm wondering why Santiago wasn't packed.
+
+[NARRATOR] The words drifted across the jurors, who sat bathed in the soft, amber glow of the lamps, their breathing slow and heavy with fatigue.
+
+[NARRATOR] I'll tell you what, we'll get back to that one in a minute.
+
+[NARRATOR] A soft exchange of papers occurred beneath the dim lights—a fresh computer printout passed from hand to hand like a quiet secret in the night.
+
+[NARRATOR] This is a record of all telephone calls made from your base in the past twenty-four hours. After being subpoenaed to Washington, you made three calls.
+
+[NARRATOR] The paper slid across the smooth wooden surface, coming to rest with a soft, settling hush.
+
+[NARRATOR] I've highlighted those calls in yellow. Do you recognize those numbers?
+
+[MALE] I called Colonel Fitzhughs in Quantico, Virginia. I wanted to let him know I'd be in town. The second call was to set up a meeting with Congressman Ramond of the House Armed Services Committee, and the third call was to my sister Elizabeth.
+
+[MALE] Why did you make that call, sir?
+
+[MALE] I thought she might like to have dinner tonight.
+
+[FEMALE] Judge...
+
+[MALE] I'm gonna put a stop to this now.
+
+[NARRATOR] Another stack of letters, tied with the weight of memory, was handed over, their edges whispering against one another in the tranquil air.
+
+[NARRATOR] Your honor, these are the telephone records from Gitmo for August sixth. And these are fourteen letters that Santiago wrote in nine months requesting, in fact begging, for a transfer. Upon hearing the news that he was finally getting his transfer, Santiago was so excited, that do you know how many people he called? Zero. Nobody. Not one call to his parents saying he was coming home. Not one call to a friend saying can you pick me up at the airport. He was asleep in his bed at midnight, and according to you he was getting on a plane in six hours, yet everything he owned was hanging neatly in his closet and folded neatly in his footlocker. You were leaving for one day and you packed a bag and made three phone calls. Santiago was leaving for the rest of his life, and he hadn't called a soul and he hadn't packed a thing. Can you explain that?
+
+[NARRATOR] The heavy silence of the sun-drenched courtroom hung suspended in the quiet air, settling over the polished mahogany and the motionless faces of the jury. Dust motes drifted lazily in the slanted beams of afternoon light that pierced the high, arched windows, illuminating a scene frozen in profound stillness. 
+
+[MALE] The fact is there was no transfer order. Santiago wasn't going anywhere, isn't that right, Colonel?
+
+[NARRATOR] Instantly, the defense counsel was on his feet, his voice cutting sharply through the tranquil quiet, breaking the spell of the dusty stillness.
+
+[FEMALE] Object. Your Honor, it's obvious that Lt. Kaffee's intention this morning is to smear a high ranking marine officer in the desperate hope that the mere appearance of impropriety will win him points with the jury. It's my recommendation, sir, that Lt. Kaffee receive an official reprimand from the bench, and that the witness be excused with the Court's deepest apologies.
+
+[NARRATOR] Judge Randolph pondered the objection for a long, slow moment, his eyes shifting thoughtfully across the quiet room as the slow-moving shadows stretched imperceptibly across the floor.
+
+[MALE] Overruled.
+
+[FEMALE] Your honor --
+
+[NARRATOR] The judge's voice was a low, steady rumble of quiet authority.
+
+[MALE] The objection's noted.
+
+[NARRATOR] Kaffee paused, drawing in a long, measured breath, letting the ambient quiet settle back over his shoulders before he spoke again.
+
+[MALE] Colonel?
+
+[NARRATOR] On the witness stand, the Colonel was smiling—a thin, knowing curve of the lips that soon softened, unable to contain a brief, dry laugh that echoed softly in the cavernous space.
+
+[MALE] Is this funny, sir?
+
+[NARRATOR] The Colonel’s smile vanished, replaced by an expression of heavy, weary gravity.
+
+[MALE] No. It's not. It's tragic.
+
+[NARRATOR] The Lieutenant stood his ground, unmoving in the quiet warmth of the room.
+
+[MALE] Do you have an answer?
+
+[NARRATOR] The Colonel leaned forward slightly, his presence filling the quiet air with effortless dominance.
+
+[MALE] Absolutely. My answer is I don't have the first damn clue. Maybe he was an early morning riser and he liked to pack in the nq. And maybe he didn't have any friends. I'm an educated man, but I'm afraid I can't speak intelligently about the travel habits of William Santiago. What I do know is that he was set to leave the base at 0600. Now are these really the questions I was called here to answer? Phone calls and footlockers? Please tell me you've got something more, Lieutenant. Please tell me there's an ace up your sleeve. These two marines are on trial for their lives. Please tell me their lawyer hasn't pinned their hopes to a phone bill. Do you have any other questions for me, counselor?
+
+[NARRATOR] The courtroom fell into an absolute, profound silence, heavy and thick as velvet. The Colonel had slammed the door on the argument, leaving a resonant echo in the quiet room. Kaffee looked around slowly, feeling the weight of the world resting on his shoulders, watching the gentle motes of dust settle through the shafts of light.
+
+[MALE] Lt. Kaffee?
+
+[NARRATOR] Kaffee remained silent, his gaze drifting momentarily over toward the young airmen sitting quietly in the gallery.
+
+[MALE] Lieutenant, do you have anything further for this witness?
+
+[NARRATOR] Still, Kaffee gave no response, lost in the quiet gravity of the moment. The Colonel began to stir, rising smoothly from the witness chair with the confident ease of a man leaving a conquered room.
+
+[MALE] Thanks, Danny. I love Washington.
+
+[NARRATOR] As the Colonel turned to walk away, a quiet command stopped him in his tracks.
+
+[MALE] Excuse me, I didn't dismiss you.
+
+[NARRATOR] The Colonel paused, turning back with a cool, unbothered curiosity.
+
+[MALE] I beg your pardon.
+
+[NARRATOR] Kaffee's voice was steady and calm, cutting through the peaceful stillness of the afternoon.
+
+[MALE] I'm not through with my examination. Sit down.
+
+[NARRATOR] The Colonel raised an eyebrow, a flicker of dangerous amusement in his eyes.
+
+[MALE] Colonel.
+
+[NARRATOR] Kaffee tilted his head, watching him.
+
+[MALE] What's that?
+
+[NARRATOR] The Colonel turned his attention to the bench, his voice dripping with quiet entitlement.
+
+[MALE] I'd appreciate it if he addressed me as Colonel or Sir. I believe I've earned it.
+
+[NARRATOR] Judge Randolph’s expression remained placid and unreadable beneath the warm, dim light of the courtroom lamps.
+
+[MALE] Defense counsel will address the witness as Colonel or Sir.
+
+[NARRATOR] The Colonel offered a brief, dismissive glance toward the judge's bench.
+
+[MALE] I don't know what the hell kind of an outfit you're running here.
+
+[NARRATOR] The judge leaned forward slightly, his voice dropping an octave into a smooth, resonant cadence that commanded absolute tranquility.
+
+[MALE] And the witness will address this Court as Judge or Your Honor. I'm quite certain I've earned it. Take your seat, Colonel.
+
+[NARRATOR] With a slow, measured stride, the Colonel returned to the witness stand and seated himself once more, the leather creaking softly in the quiet room.
+
+[MALE] What would you like to discuss now! My favorite color?
+
+[NARRATOR] Kaffee did not waver. He took a slow step forward, his voice a steady, rhythmic murmur.
+
+[MALE] Colonel, the six a.m. flight, was the first one off the base?
+
+[NARRATOR] The Colonel answered without missing a beat.
+
+[MALE] Yes.
+
+[NARRATOR] Kaffee pressed on gently, the cadence of his questioning smoothing out like ripples on a calm lake.
+
+[MALE] There wasn't a flight that left seven hours earlier and landed at Andrews Airforce Base at 2 a.m.?
+
+[NARRATOR] Before the answer could be given, the judge's voice drifted lazily across the room.
+
+[MALE] Lieutenant, I think we've covered this, haven't we?
+
+[NARRATOR] Without a word, Kaffee turned away from the witness stand, his footsteps falling softly against the floor as he moved to retrieve the heavy log books.
+
+[NARRATOR] The heavy silence of the courtroom settled over the polished wooden surfaces and the soft, scattered papers where Sam had so recently scribbled his hurried notes. The light from the high windows filtered down in long, amber shafts, casting a tranquil, dust-mote-filled haze through the quiet air. 
+
+[MALE] Your Honor, these are the Tower Chief's Logs for both Guantanamo Bay and Andrews Airforce Base. The Guantanamo log lists no flight that left at eleven p.m., and the Andrews log lists no flight that landed at 2 a.m. I'd like to admit them as Defense Exhibits "A" and "B".
+
+[NARRATOR] A murmur of quiet confusion rippled softly across the room, like a gentle breeze rustling through autumn leaves. 
+
+[MALE] I don't understand. You're admitting evidence of a flight that never existed?
+
+[MALE] We believe it did, sir. 
+
+[NARRATOR] Kaffee glanced downward at the small piece of paper resting on the table, then motioned slowly toward the back of the quiet room, where the air was cool and still.
+
+[MALE] Defense'll be calling Airman Cecil O'Malley and Airman Anthony Perez. They were working the ground crew at Andrews at two a.m. on the seventh.
+
+[FEMALE] Your Honor, these men weren't on the list.
+
+[MALE] Rebuttal witnesses, Your Honor, called specifically to refute testimony offered under direct examination.
+
+[NARRATORS] Under the warm, amber glow of the courtroom lights, a single, tiny drop of perspiration formed upon the temple of the Colonel, catching the light like a quiet tear before slipping downward.
+
+[MALE] I'll allow the witnesses.
+
+[MALE] This is ridiculous.
+
+[MALE] Colonel, a moment ago --
+
+[MALE] Check the Tower Logs for christ's sake.
+
+[MALE] We'll get to the airmen in just a minute, sir. A moment ago you said that you ordered Kendrick to order his men not to touch Santiago.
+
+[MALE] That's right.
+
+[MALE] And Kendrick was clear on what you wanted?
+
+[MALE] Crystal.
+
+[MALE] Any chance Kendrick ignored the order?
+
+[MALE] Ignored the order?
+
+[MALE] Any chance he just forgot about it?
+
+[MALE] No.
+
+[MALE] Any chance Kendrick left your office and said, "The 'old man's wrong"?
+
+[MALE] No.
+
+[MALE] When Kendrick spoke to the platoon and ordered them not to touch Santiago, any chance they ignored him?
+
+[MALE] Have you ever spent time in an infantry unit, son?
+
+[MALE] No sir.
+
+[MALE] Ever served in a forward area?
+
+[MALE] No sir.
+
+[MALE] Ever put your life in another man's hands, ask him to put his life in yours?
+
+[MALE] No sir.
+
+[MALE] We follow orders, son. We follow orders or people die. It's that simple. Are we clear?
+
+[MALE] Yes sir.
+
+[MALE] Are we clear?
+
+[MALE] Crystal.
+
+[NARRATOR] Kaffee's voice dropped to a soft, rhythmic cadence, carrying the quiet, steady confidence of someone watching the tide slowly turn upon a peaceful shore.
+
+[MALE] Colonel, I have just one more question before I call Airman O'Malley and Airman Perez: If you gave an order that Santiago wasn't to be touched, and your orders are always followed, then why would he be in danger, why would it be necessary to transfer him off the base?
+
+[NARRATOR] The Colonel sat motionless in the fading light, the vast weight of the silence pressing down upon him as he searched for words that simply would not come. For the very first time, he looked entirely adrift, lost in a quiet sea of his own making.
+
+[MALE] Private Santiago was a sub-standard marine. He was being transferred off the base because --
+
+[MALE] But that's not what you said. You said he was being transferred because he was in grave danger.
+
+[MALE] Yes. That's correct, but --
+
+[MALE] You said, "He was in danger". I said, "Grave danger". You said --
+
+[MALE] Yes, I recall what --
+
+[MALE] I can have the Court Reporter read back your --
+
+[MALE] I don't give a damn what the court reporter's got to say!
+
+[NARRATOR] The heavy silence in the courtroom stretched out, thick and heavy as a blanket of midnight fog, muffling even the quietest breaths of the weary observers. The ambient light filtered through the tall, dust-moted windows, casting long, somber shadows across the polished mahogany floor. A slow, gentle draft whispered through the high rafters, cooling the heated air where beads of perspiration gathered on tired brows. The legal counsel shifted in their heavy wooden chairs, the creak of old oak the only sound in the vast, dim expanse of the room. The air was heavy, thick with the scent of old paper and quiet tension, inviting a deep, heavy relaxation to wash over the tired senses.
+
+[MALE] I know what I said. I don't need it read back to me like I'm a damn --
+
+[NARRATOR] The quiet voice drifted into the stillness, calm and unyielding, cutting through the heavy atmosphere like a feather falling upon water. The rhythm of the room slowed down, the ticking of the grand clock on the wall seeming to stretch each second into an eternity. 
+
+[MALE] Then why the two orders? Colonel? Why did you --
+
+[NARRATOR] A profound quiet settled over the room once more, deep and settling, like the hush that falls over a quiet forest just before a gentle snow begins to drift downward. 
+
+[MALE] Sometimes men take matters into their own hands.
+
+[NARRATOR] The words hung in the quiet air, slow and deliberate, while outside, the afternoon light began to soften into the hazy amber hues of dusk. 
+
+[MALE] No sir. You made it clear just a moment ago that your men never take matters into their own hands. Your men follow orders or people die. So Santiago shouldn't have been in any danger at all, should he have, Colonel?
+
+[NARRATOR] A fine sheen of sweat glistened in the warm lamplight on the faces of the weary men, each breath slow and measured in the quiet dimness. 
+
+[MALE] You little bastard.
+
+[NARRATOR] The sharp whisper of paper rustling broke the spell for a fraction of a second, before the quiet reclaimed its hold over the courtroom, heavy and lulling.
+
+[MALE] Your Honor, I have to ask for a recess to --
+
+[NARRATOR] The cadence of the voices grew lower, softer, blending into a soothing, rhythmic drone that invited the eyelids to grow heavy and flutter shut.
+
+[MALE] I'd like an answer to the question, Judge.
+
+[MALE] The Court'll wait for an answer.
+
+[NARRATOR] The shadows lengthened across the floor, stretching into deep, comforting pools of darkness.
+
+[MALE] If Kendrick told his men that Santiago wasn't to be touched, then why did he have to be transferred? Colonel? Kendrick ordered the code red, didn't he? Because that's what you told Kendrick to do.
+
+[NARRATOR] The silence that followed was absolute, deep as an ocean trench, holding the entire room in a state of suspended, peaceful stillness.
+
+[MALE] Object!
+
+[MALE] Counsel.
+
+[NARRATOR] The voices washed over the listeners like a distant, murmuring stream, perfectly safe and entirely removed from the worries of the waking world.
+
+[MALE] And when it went bad, you cut these guys loose.
+
+[MALE] Your Honor --
+
+[MALE] That's all, counsel.
+
+[MALE] You had Markinson sign a phony transfer order --
+
+[MALE] Judge --
+
+[MALE] You doctored the log books.
+
+[MALE] Damnit Kaffee!!
+
+[MALE] I'll ask for the fourth time. You ordered --
+
+[NARRATOR] The heavy, rhythmic pause that followed was like the deep, even breathing of someone drifting into a wonderful, restorative slumber.
+
+[MALE] You want answers?
+
+[MALE] I think I'm entitled to them.
+
+[MALE] You want answers?!
+
+[MALE] I want the truth.
+
+[MALE] You can't handle the truth!
+
+[NARRATOR] The stillness deepened, heavy and warm, wrapping around every listener like a soft, woolen quilt on a chilly autumn night. 
+
+[MALE] Son, we live in a world that has walls. And those walls have to be guarded by men with guns. Who's gonna do it? You? You, Lt. Weinberg? I have a greater responsibility than you can possibly fathom. You weep for Santiago and you curse the marines. You have that luxury. You have the luxury of not knowing what I know: That Santiago's death, while tragic, probably saved lives. And my existence, while grotesque and incomprehensible to you, saves lives. You don't want the truth. Because deep down, in places you don't talk about at parties, you want me on that wall. You need me there. We use words like honor, code, loyalty... we use these words as the backbone to a life spent defending something. You use 'em as a punchline. I have neither the time nor the inclination to explain myself to a man who rises and sleeps under the blanket of the very freedom I provide, then questions the manner in which I provide it. I'd prefer you just said thank you and went on your way. Otherwise, I suggest you pick up a weapon and stand a post. Either way, I don't give a damn what you think you're entitled to.
+
+[NARRATOR] The rich, resonant voice filled the quiet room, rhythmic and hypnotic, lulling the senses into a deep, floating state of relaxation. The soft amber light flickered gently against the wooden walls, casting a warm, sleepy glow over everything it touched.
+
+[MALE] Did you order the code red?
+
+[NARRATOR] A long, tranquil pause drifted through the air, quiet and still as a sleeping lake under a canopy of stars.
+
+[MALE] I did the job you sent me to do.
+
+[NARRATOR] The final words drifted away like smoke into the quiet evening air, leaving behind only peace, stillness, and the gentle promise of rest.
+
+[MALE] Did you order
+
+[NARRATOR] The heavy silence in the courtroom settled over the polished wooden benches like a soft, descending mist, profound and absolute. The overhead lights hummed a low, distant note, casting long, slow shadows across the floor where dust motes drifted lazily in the still air. 
+
+[MALE] Did you order the code red?
+
+[NARRATOR] The words hung suspended in the quiet atmosphere, weighted with finality. A heavy, enveloping hush fell over every person in the room. The judges, the officers, and the quiet observers stood frozen in place, breath held against the gathering dusk. For a long, unhurried moment, the colonel seemed strangely, quietly relieved, as though a heavy burden had finally slipped from his weary shoulders. 
+
+[MALE] You're goddamn right I did.
+
+[NARRATOR] The confession echoed softly against the high walls, swallowed quickly by the thick, velvet quiet. The young lawyer took quiet command of the room, his voice steady and low, disturbing the peace only enough to guide the solemn proceedings forward.
+
+[MALE] Please the court, I suggest the jury be dismissed so that we can move to an immediate Article 39a Session. The witness has rights.
+
+[NARRATOR] A profound quiet lingered. The presiding judge glanced toward his colleague, seeking reassurance in the dim, amber glow of the lamps. With a quiet nod, the wheels of justice turned gently. 
+
+[MALE] The Sergeant at Arms will take the jury to an ante-room where you'll wait until further instruction.
+
+[NARRATOR] Soft footsteps whispered against the floorboards as the jurors filed out in an orderly, somber procession, their coats brushing lightly, their minds heavy with the weight of the evening. The heavy oak doors closed behind them with a soft, muffled click, sealing the room in a deep, insulated cocoon of quiet. The colonel’s voice cut through the stillness, touched with sudden, rising confusion.
+
+[MALE] What the hell's going on? Captain, what the hell's going on? I did my job. I'd do it again. Now I'm getting on a plane and going back to my base.
+
+[NARRATOR] The presiding officer's voice was firm, breaking through the murmur with quiet authority.
+
+[MALE] M.P.'s, guard the prisoner.
+
+[NARRATOR] The guards hesitated, their boots shifting softly against the floor, unfamiliar with the sudden turn of tides. Another voice joined the stillness, steadying the hesitant hands.
+
+[MALE] Guard the prisoner.
+
+[NARRATOR] The colonel’s voice rose, a mixture of disbelief and indignation, bouncing off the high ceilings before fading into the heavy drapery.
+
+[MALE] What the hell --
+
+[NARRATOR] The rhythmic, steady recitation of rights began, a low, droning incantation that lulled the edges of the room into a deep, hypnotic cadence.
+
+[MALE] Colonel Jessep, you have the right to remain silent. Any statement you do make can be used against you in a trial by court-martial or other judicial or administrative proceeding. You have the right...
+
+[NARRATOR] The colonel interrupted, his voice straining against the steady stream of words, seeking purchase where there was none.
+
+[MALE] I'm being charged with a crime? I'm -- that's what this is -- Marine! Marine!! I'm being charged with a crime? I'm -- that's what's happening? This -- I'm -- this is funny, you know that, this is --
+
+[NARRATOR] In a sudden flash of movement, the colonel lunged forward, but the waiting guards intercepted him with practiced grace, wrapping strong, steady arms around him in the quiet dimness. The voice of the colonel rang out, fierce and unyielding, echoing through the peaceful expanse.
+
+[MALE] I'm gonna tear your eyes right outta your head and piss in your dead skull. You fucked with the wrong marine.
+
+[NARRATOR] The recitation of rights resumed, washing over the sudden turbulence like a calming wave.
+
+[MALE] Colonel Jessep, do you understand those rights as I have just read them to you?
+
+[NARRATOR] The colonel shook his head slowly, the anger softening into a heavy, weary resignation as he looked out over the quiet courtroom.
+
+[MALE] I saved lives. That boy was -- there was a weak link. I saved lives, you hear me? You fuckin' people. You have no idea how to defend a nation. All you did was weaken a country today, Kaffee. That's all you did. You put people in danger. Sweet dreams, son.
+
+[NARRATOR] The young lawyer stood tall in the quiet light, his voice firm, carrying the weight of the late hour.
+
+[MALE] Don't call me son. I'm a lawyer, and an officer of the United States Navy. And you're under arrest, you sonofabitch.
+
+[NARRATOR] He held his gaze on the colonel for a long, silent moment, letting the stillness settle once more before delivering the final, peaceful words of the evening.
+
+[MALE] The witness is excused.
+
+[NARRATOR] The heavy oak doors of the courtroom seemed to absorb the quiet sighs of the late afternoon, as the slanting rays of golden sunlight stretched long, dusty shadows across the polished floorboards. Outside, the world was settling into the deep, indigo hush of twilight, but inside, the air remained suspended, thick with the gentle weight of exhaustion and release. 
+
+[NARRATOR] The jurors filed back into their wooden box with slow, measured steps, their faces softened by the gravity of their deliberations. A low, soothing murmur drifted through the gallery, like the sound of distant, gentle waves brushing against a quiet shore. The room waited, wrapped in a blanket of stillness, as the judge took his seat.
+
+[MALE] Ten-hut. All rise. 
+
+[NARRATOR] The sergeant at arms spoke in a hushed, reverent tone that echoed softly against the high ceiling. The rustle of uniforms and the shifting of chairs subsided almost immediately, melting back into absolute quiet as everyone sat once more. The judge looked down at the slips of paper handed to him by the foreman, his expression serene beneath the dimming light of the chandeliers.
+
+[MALE] Have the jurors reached a verdict?
+
+[MALE] We have, sir.
+
+[NARRATOR] The silence deepened, heavy and warm, as the judge unfolded the crisp paper, letting his eyes trace the carefully written words. 
+
+[MALE] On the charge of Murder, the Members find the defendants Not Guilty.
+
+[NARRATOR] A collective breath was let out across the room, a soft exhalation of relief that rippled through the rows of benches. The temptation to cheer was quieted by the solemnity of the hour, dissolving into a peaceful, resting stillness. 
+
+[MALE] On the charge of Conspiracy to Commit Murder, the Members find the defendants Not Guilty.
+
+[NARRATOR] The judge paused, the gentle rustle of paper sounding like autumn leaves in a calm breeze. He glanced up, then looked down at the final slip, his voice steady and low.
+
+[MALE] On the charge of Conduct Unbecoming a United States Marine, the members find the defendants Guilty as Charged.
+
+[NARRATOR] The energy of the room softened further, wrapping itself in a cool, quiet acceptance. The judge continued, his tone rhythmic and hypnotic, offering a swift passage toward the end of their long trial.
+
+[MALE] The defendants are hereby sentenced by this court to time already served, and are ordered... And are ordered to be dishonorably discharged from the marine corps. This Court-Martial is adjourned.
+
+[NARRATOR] The sharp tap of the gavel rang out, soft and final, like a closing book at the end of a long evening. 
+
+[MALE] Ten hut. All rise. 
+
+[NARRATOR] The judge departed quietly, leaving behind only the soft hum of fluorescent lights and the gentle shuffling of feet.
+
+[MALE] Dismissed.
+
+[NARRATOR] The martial policemen moved with quiet efficiency, stepping forward to unlock the silver handcuffs that bound the two young men. The metallic click was faint, swallowed up by the immense quiet of the room. Kaffee stood by the defense table, his movements slow and methodical as he began to slide his papers into his briefcase, wrapping up the remnants of a long day. 
+
+Dawson watched him, his brow furrowed with a tired, quiet confusion that seemed as heavy as the coat upon his shoulders.
+
+[MALE] Why?
+
+[NARRATOR] Kaffee paused, his hands resting on the papers. He looked up, his voice barely above a whisper, filled with a deep, weary gentleness.
+
+[MALE] Harold, I'm sorry.
+
+[MALE] Why?!
+
+[MALE] I don't understand. Colonel Jessep said he ordered the Code Red.
+
+[FEMALE] I know, but --
+
+[MALE] Colonel Jessep said he ordered the Code Red, what did we do wrong?
+
+[FEMALE] It's not as simple as --
+
+[MALE] What did we do wrong?
+
+[MALE] We did nothing wrong.
+
+[NARRATOR] Sam slammed his hands down onto the wooden table, the sound muffled by the thick air of the courtroom, his voice sharp yet laced with profound exhaustion.
+
+[MALE] Yes you did! A jury just said your conduct was unbecoming a marine. What does that mean?!
+
+[MALE] You're the lawyer.
+
+[MALE] You're the marine.
+
+[MALE] Not anymore.
+
+[NARRATOR] The words hung in the quiet air, drifting downward like falling dust motes in a beam of afternoon light. Dawson stared at Sam, his gaze slowly drifting downward, away from the faces around him, coming to rest upon the wooden floorboards. His shoulders dropped, the fight finally easing out of him, replaced by a profound and aching sorrow.
+
+[MALE] I never meant to hurt Willy.
+
+[NARRATOR] He looked up, his eyes finding his parents in the gallery, the silent moment stretching out like a long, tranquil night. Then, the sergeant at arms stepped gently into their peripheral vision, breaking the spell with a soft, respectful tone.
+
+[MALE] Kaffee, I've gotta take these guys over to personnel for some paper work.
+
+[NARRATOR] Kaffee gave a slow, solemn nod, his throat tight with unspoken thoughts. The sergeant turned his gaze toward the two young men.
+
+[MALE] Gentleman?
+
+[NARRATOR] Dawson looked one last time at Kaffee, his eyes searching for something more, some final anchor in a world that had suddenly shifted beneath his feet. But Kaffee had nothing left to say, only a quiet, understanding presence. 
+
+With slow, unhurried steps, Dawson and Downey turned away from the table, following the sergeant toward the doors, stepping out into the quiet, fading light of the evening.
+
+[NARRATOR] The heavy wooden doors of the courtroom loomed ahead, the evening shadows stretching long and deep across the polished floor. Dawson and Downey moved with measured, heavy steps, their boots making a soft, fading echo in the vast, quiet room. But before the threshold swallowed them, a sudden impulse stirred the stillness. 
+
+[MALE] Harold!
+
+[NARRATOR] Kaffee called out, his voice cutting softly through the stillness of the fading day. The two marines stopped, their broad shoulders pausing in unison, and slowly turned back toward the defense table.
+
+[MALE] Sir!
+
+[NARRATOR] Dawson replied, his voice steady and low. A long, suspended moment stretched between them, filled with the quiet weight of understanding, before Kaffee spoke once more into the hushed air.
+
+[MALE] You don't need to wear a patch on your arm to have honor.
+
+[NARRATOR] Dawson stared across the quiet expanse of the room, his eyes fixed on Kaffee, absorbing the quiet truth of the words. A profound shift seemed to settle over him, slow and deliberate.
+
+[MALE] Ten-hut.
+
+[NARRATOR] Dawson murmured, and instantly, both Dawson and Downey snapped into rigid, perfect attention, their bodies aligning with an innate, unshakeable discipline.
+
+[MALE] There's an officer on deck.
+
+[NARRATOR] Dawson's hand rose in a sharp, crisp salute, held high and motionless against the fading light, his gaze locked onto Kaffee with deep, quiet respect. Kaffee stared back across the distance. Slowly, a new strength filled him; he stood up straight from the chair and returned their salute with quiet dignity. With one last, lingering glance back, Dawson turned away, his boots finding their rhythm once more as he walked out the door, followed closely by Downey's quiet footsteps. 
+
+As the heavy doors clicked shut, the silence returned to the courtroom. Ross walked slowly over to the defense table, her footsteps gentle against the floor, her expression softening in the twilight.
+
+[FEMALE] Airmen Cecil O'Malley and Anthony Perez? What exactly were these guys gonna testify to?
+
+[MALE] Unless I'm mistaken they were gonna testify, under oath, that they have absolutely no recollection of anything.
+
+[NARRATOR] Ross smiled, a faint, knowing curve of her lips in the dimming light.
+
+[FEMALE] Strong witnesses.
+
+[NARRATOR] And very handsome, too, don't you think?
+
+[NARRATOR] Kaffee replied, a trace of warmth in his voice. Ross gathered her papers, turning toward the exit.
+
+[FEMALE] I'll see you around the campus. I've gotta go arrest Kendrick.
+
+[MALE] Tell him I say "Hi".
+
+[FEMALE] Will do.
+
+[NARRATOR] Outside, the dusk had draped the courthouse in deep, comforting shades of indigo and violet. Kaffee, Jo, and Sam walked slowly down the broad stone steps, their footsteps muffled by the soft evening air. Across the wide, open expanse, a brass band was practicing on the parade grounds, their distant, mellow notes drifting on the gentle, cooling breeze like a soft lullaby.
+
+[FEMALE] What do you say we take the rest of the day off. Go out someplace. Sam? Champagne? Yoo-Hoo?
+
+[MALE] Thanks, I can't. I'm gonna go home and talk to my daughter. I think she's gotta be bilingual by now.
+
+[NARRATOR] Sam offered a weary, affectionate smile, bidding them goodnight as he headed off toward his car, disappearing into the gathering shadows. Jo turned to Kaffee, the evening air stirring her hair gently.
+
+[FEMALE] So what's next for you?
+
+[MALE] Staff Sergeant Henry Williamson. He went to the movies on company time. What about you?
+
+[FEMALE] Me? Oh... you know... the usual.
+
+[MALE] Just pretty much generally annoying people?
+
+[FEMALE] Yeah. So what do you say? How 'bout a celebration?
+
+[MALE] No. How 'bout a date. A real date. Dinner. Attractive clothes. The works.
+
+[FEMALE] Sounds good. Who do you think I should call?
+
+[MALE] I'll pick you up at seven.
+
+[FEMALE] What are you gonna do now?
+
+[MALE] I'm gonna get started on Henry Williamson. Stand my post for a while.
+
+[NARRATOR] Jo held out her hand, a warm, silent gesture of peace and closure. Kaffee took it, shaking it gently before she leaned in and pressed a soft, lingering kiss to his cheek.
+
+[FEMALE] Wear matching socks.
+
+[NARRATOR] With a final, gentle smile, Jo split off toward her building, her steps growing softer until they faded away. Kaffee kept walking, his path leading toward the distant, empty bleachers. 
+
+The camera began to drift upward, floating gently away from the scene, pulling back to encompass the quiet, almost empty parade grounds where the last notes of the band dissolved into the night. It continued to drift higher and further back, revealing the sprawling, tranquil expanse of the Washington Navy Yard bathed in the soft, bruised light of dusk. Higher and back the perspective drifted, embracing the stillness of the resting city, until the world grew entirely quiet, peaceful, and still, drifting slowly into a deep, unbroken sleep.
+

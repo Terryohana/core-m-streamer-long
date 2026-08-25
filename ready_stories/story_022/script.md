@@ -2246,3 +2246,687 @@ Far across town, sunlight streams lazily through the afternoon windows of Daniel
 
 [NARRATOR] A soft gasp escapes her. She parts her lips and spits the entire handful out, watching the white pills scatter across the porcelain basin. With trembling fingers, she turns the chrome handle, letting the cool, clear stream of water rush over them, swirling them down, down, down into the dark safety of the sink drain. The water continues to run, a soft, soothing white noise washing away the heavy night. She sinks down, sitting quietly on the cool floor tiles, letting the peaceful, rhythmic sound of the water carry her into the quiet dark.
 
+[NARRATOR] The night air outside the South Orange train station hangs heavy and still, smelling of cool dew and distant iron tracks. A lone wooden bench sits beneath the amber glow of an overhead sodium lamp, casting long, drowsy shadows across the platform. Ryan waits there in the quiet, wrapped in the stillness of the midnight hour, listening to the gentle hum of the sleeping town. 
+
+[NARRATOR] Suddenly, the peaceful silence trembles as a heavy commuter train rumbles past, its rhythmic clatter shaking the gravel. As the long cars blur by and the noise slowly fades into a soft, receding clatter, the clearing view reveals Allison standing motionlessly on the opposite platform, bathed in the pale, silvery wash of moonlight. 
+
+[MALE] Yes!
+
+[NARRATOR] Ryan calls out across the tracks, a triumphant smile breaking through the cool evening air. Allison shakes her head, her voice carrying clearly across the quiet chasm between the rails.
+
+[FEMALE] You're on the wrong side.
+
+[MALE] What? No, I'm not.
+
+[NARRATOR] Allison raises a hand, pointing across the tracks toward a glowing metal sign that quietly reads, *Trains to Manhattan*. 
+
+[MALE] Oh. Well, good thing you came!
+
+[NARRATOR] Allison simply shakes her head again, a faint, weary smile touching her lips in the darkness. 
+
+[NARRATOR] Miles away, inside the quiet warmth of Diane’s house, the kitchen is cast in the soft, amber illumination of a single wall light. Diane stands near the counter, the pale blue glow of her smartphone screen reflecting in her anxious eyes as she taps out another silent message into the quiet. 
+
+[NARRATOR] *Where r u???* 
+
+[NARRATOR] A sudden, sharp knock echoes against the front door, shivering through the silent hallway. Diane freezes, her breath catching in her throat as fear ripples through her chest. She hurries down the dim corridor, her bare feet padding softly against the wooden floorboards, until she reaches the entryway. With trembling fingers, she pulls the heavy wooden door open.
+
+[NARRATOR] Standing on the porch, bathed in the cool, blue-tinged moonlight, is Daniel. He holds a hat in his hand, his posture gentle and unthreatening.
+
+[MALE] Hello, Diane. I'm very sorry to call on you this late, but I didn't have your number.
+
+[NARRATOR] Diane stares at him, her eyes wide with shock and lingering apprehension.
+
+[FEMALE] Oh, hey.
+
+[MALE] It's Daniel, Nathan's father.
+
+[NARRATOR] Diane slowly raises a hand to cover her mouth, her body locked in a statue-like freeze as the memories of the night rush in and then slowly ebb away into the quiet air.
+
+[MALE] Don't you remember me?
+
+[FEMALE] Yes, of course. I'm sorry, it's been a long time.
+
+[MALE] There's no need to be afraid of me. I'm just trying to find Ryan.
+
+[FEMALE] I'm not afraid of you. To be honest, I thought it might be the police. A bit of PTSD, I suppose.
+
+[MALE] Yes, well... I don't know how much Allie's told you, but we've been going to the same program.
+
+[FEMALE] Yes. I know. She said.
+
+[Male] Yeah. So, my granddaughter, Ryan's, taken quite an interest in Allie, and now I can't find her, so I thought I'd stop by and see if they might be here. I tried texting Allie, but all my texts are turning green. Do you know what that means?
+
+[FEMALE] I have no idea. I hate it when they go green, and you don't know if it's sent. It drives me crazy. You'll have to let me know if you figure that out. I'm not a techie.
+
+[NARRATOR] They stand there together in the quiet doorway, two weary adults nodding in unison, looking down at the glowing screens in their hands as the night breeze whispers softly through the porch screens.
+
+[FEMALE] I've actually been trying to find Allie as well. Do you think they're together?
+
+[MALE] They're both missing at the same time, so it does feel a bit curious.
+
+[FEMALE] No matter how old they get, you never stop worrying, but they always seem to turn up.
+
+[MALE] Well... not always.
+
+[NARRATOR] Diane is taken aback, the blunt honesty of his words hanging heavily in the cool night air like a sudden drop in temperature.
+
+[FEMALE] Yes. Well... please let me know if you find them.
+
+[MALE] I will.
+
+[NARRATOR] Daniel turns slowly on his heel, his footsteps crunching softly on the gravel path as he begins to walk away into the darkness. Diane starts to pull the heavy wooden door closed, but a sudden surge of quiet courage halts her movement. She opens the door a fraction wider and calls softly into the night.
+
+[FEMALE] Thank you.
+
+[NARRATOR] Daniel pauses, turning his head back toward the warm sliver of light coming from the doorway.
+
+[MALE] What's that?
+
+[FEMALE] I just wanted to say thank you for... being kind to Allie. She told me you were... very warm to her. And you know... some people wouldn't be like that.
+
+[NARRATOR] Daniel stands quietly in the shadows, the night wind gently rustling his jacket.
+
+[MALE] We're all just trying to move on, I suppose.
+
+[FEMALE] I don't think Allie and I are doing a very good job of that, Daniel.
+
+[MALE] Well, you know what...
+
+[NARRATOR] The cool night air wraps around them like a heavy, velvet blanket, carrying the faint, distant scent of pine and oncoming rain. The ambient light of the porch fixture casts a soft, golden halo against the peeling paint of the wooden doorframe, flickering lazily as moths drift through its warm glow. 
+
+[MALE] They say... comparison is the thief of joy.
+
+[FEMALE] What?
+
+[MALE] "Comparison is the thief of joy."
+
+[FEMALE] I didn't know they said that.
+
+[MALE] Well, somebody did. I best be going.
+
+[FEMALE] Yes, of course.
+
+[MALE] Goodnight.
+
+[NARRATOR] Daniel turns slowly, his footsteps muffled by the soft earth beneath his shoes, fading away into the peaceful quiet of the evening. 
+
+[NARRATOR] Moments later, the heavy wooden doors of a dimly lit rock club open, spilling a warm, amber haze onto the damp pavement outside. Inside, the atmosphere is thick with the hazy, hypnotic rhythm of a live band playing in slow, undulating waves of sound. Colored stage lights—deep indigos, soft magentas, and warm ambers—sweep lazily across the ceiling, painting the shadows in slow motion. In the crowded audience, bodies sway gently to the music. Ryan stands near the front, eyes wide with excitement, pointing eagerly toward the stage.
+
+[FEMALE] Oh my God, there he is. Look how hot he is.
+
+[FEMALE] Is that a face tattoo?
+
+[MALE] Yeah!
+
+[FEMALE] I love this song. Quinn sent it to me in a playlist. He knows so much about music.
+
+[FEMALE] I haven't seen live music in so long. Thank you. For getting me to come.
+
+[FEMALE] The guitarist, that's Thomas. He's staring right at you.
+
+[FEMALE] Not interested.
+
+[FEMALE] I know, you can do so much better. But he is fucking hot. OK, I'll be right back. I gotta go get someone in.
+
+[FEMALE] Should I come with you?
+
+[FEMALE] No! I'll be right back.
+
+[NARRATOR] Ryan slips away into the shifting sea of people. Allison stands alone for a moment, letting the music wash over her. She closes her eyes, breathing in the heavy, warm air of the club. Her head sways gently, a tiny, effortless smile curving across her lips as she surrenders to the cadence of the song. The moving lights dance softly across her face, creating a quiet, peaceful sanctuary in the middle of the noise. 
+
+[NARRATOR] When she opens her eyes, the world shifts. Standing right before her is Nathan, the ambient light catching the edge of his jacket. Beside him stands Joelle, her expression soft in the dim club lighting. Ryan pops up behind them, breathless and triumphant.
+
+[FEMALE] Surprise!
+
+[NARRATOR] Allison freezes, the breath catching in her throat as the music beats on like a distant heartbeat.
+
+[FEMALE] Nathan?
+
+[MALE] Hi.
+
+[FEMALE] Hey.
+
+[MALE] Ryan.
+
+[FEMALE] What?
+
+[FEMALE] Hi.
+
+[NARRATOR] The seconds stretch out, heavy and still, suspended in the hazy air. 
+
+[MALE] Uhhhh, sorry. Allie, this is my girlfriend, Joelle.
+
+[FEMALE] Hi. Sorry. So nice to meet you.
+
+[FEMALE] I've heard so much about you.
+
+[FEMALE] Oh. OK...
+
+[MALE] I think we're the victims of a teenage girl's good intentions.
+
+[FEMALE] What?
+
+[MALE] I said, I think she meant well; Ryan.
+
+[FEMALE] OK. Um, I have to go.
+
+[MALE] Are you good?
+
+[FEMALE] Yeah. Yup. Everything's good. Yeah. But, I have to go.
+
+[NARRATOR] Allison turns and moves quickly away, her footsteps light and hurried against the worn wooden floorboards. Nathan watches her retreat into the shadows, his jaw tight.
+
+[MALE] What the fuck did you do that for?
+
+[FEMALE] You weren't supposed to come. No offense. I know that being a paralegal is a good job. But he's supposed to be with Allie. I'm sorry.
+
+[MALE] Nathan, what the fuck did you do?
+
+[FEMALE] I'm fixing it. For mom.
+
+[MALE] Go find her. And then I'm taking you home.
+
+[NARRATOR] Ryan rushes off into the crowd. Nathan exhales a long, tired breath, shaking his head as the warm lights sweep overhead.
+
+[MALE] I am so sorry.
+
+[FEMALE] It's fine.
+
+[MALE] Yeah? You're good?
+
+[FEMALE] I'm fine. I need a drink, but I'm fine.
+
+[NARRATOR] Back at the shadowed length of the back bar, the air is cooler, smelling faintly of old wood and spilled beverages. Allison reaches out, her hand trembling slightly as she picks up a glass left unattended on the counter, lifting it to her lips. Footsteps approach from behind, growing closer in the quiet hum of the venue.
+
+[FEMALE] Why the fuck...
+
+[NARRATOR] The heavy, reverberating bass of the venue dissolves into a sharp, rising tension, the air suddenly thick and unbreathable beneath the dim, amber glow of overhead pendants. Allison’s fingers tighten around the glass as a voice shatters the quiet hum of the room, sharp and aggressive in the stillness.
+
+[FEMALE] Why the fuck...
+
+[NARRATOR] Ryan flinches under the sudden weight of her gaze, his expression defensive as the words spill out in a hurried defense against the dark.
+
+[MALE] ...did you do that?!
+
+[FEMALE] RYAN
+
+[MALE] I thought it would make you happy.
+
+[FEMALE] You thought it would make me happy?! Are you insane? 
+
+[NARRATOR] She turns away from him, her chest rising and falling in shallow, trembling breaths, seeking refuge at the sticky mahogany bar where the low amber lights reflect off bottles of amber liquor.
+
+[FEMALE] (to bartender) Can I have a triple tequila neat please? I can't breathe.
+
+[MALE] Calm down. I'm sorry.
+
+[FEMALE] You did this on purpose; to hurt me. You set me up.
+
+[MALE] No, I didn't!
+
+[NARRATOR] The sudden intrusion of hurried footsteps breaks the momentary confrontation as Thomas and Quinn rush over, their faces flushed and energized from the stage lights, completely unaware of the heavy weather between the couple.
+
+[MALE] Yesssssss! 86. Hi, I'm Quinn's friend, Ryan. You guys sounded so good. You're gonna be so famous.
+
+[MALE] I know. I really have to savor my anonymity.
+
+[FEMALE] We're going to this party over in Williamsburg. You guys wanna come?
+
+[FEMALE] Yes. I need to get out of here.
+
+[NARRATOR] The shot of amber liquid arrives, and she downs it in a single, burning motion, the heat spreading through her chest as they all turn to leave in a flurry of hurried excitement. In the shadows far across the venue, Nathan watches them go, his expression twisted in quiet confusion. 
+
+Miles away, inside the quiet warmth of Simone’s apartment, the soft blue glow of a television illuminates the room where Simone and her boyfriend, Max, sit eating takeout on the sofa, their toddler, Elvis, resting peacefully on her lap. The sharp, persistent ringing of a phone cuts through the evening quiet. Simone reaches for it, her voice gentle as she answers the screen.
+
+[FEMALE] Hey Danny. Everything OK?
+
+[NARRATOR] Intercut across the city, Daniel paces the wooden floorboards of his darkened house, his phone pressed tightly to his ear, his shadow stretching long against the wall under a single lamplight.
+
+[MALE] I can't find Ryan, and I've tried everything. Anyway, my mind couldn't help but wonder if you'd heard from Allie or not.
+
+[FEMALE] No, I haven't. I can text her, if you want.
+
+[MALE] Well, I keep trying them both, but neither one is replying.
+
+[MALE] What's wrong?
+
+[FEMALE] Daniel can't find his granddaughter.
+
+[MALE] If he pays for her phone, he can login to her account and use "Find My Phone".
+
+[FEMALE] Daniel, do you know what "Find My Phone" is?
+
+[MALE] No, what the hell is that?
+
+[NARRATOR] Far across the river, inside a sprawling Williamsburg loft bathed in deep indigo shadows and the pale glow of neon signs from the street below, a gathering of people smoke and drink in a hazy, dreamlike fog. Ryan and Quinn stand near the center of the room, wearing bulky VR headsets, their bodies swaying and laughing as they drunkenly navigate some unseen digital landscape.
+
+[MALE] Woah, this is amazing.
+
+[NARRATOR] Allison stands alone in the quiet shadows of the kitchen, her thumb sliding across her phone screen as a sudden, overwhelming barrage of missed texts begins to stream in like a digital storm. From her mother: *WHERE ARE YOU!* From Simone: *Daniel's looking for Ryan. Any idea where she is?* From Daniel: *Allie, are you with Ryan?* From her mother again: *Call or text me plz!* And Simone, demanding: *Why aren't you texting me back???* 
+
+She stares at the glowing screen, her breathing shallow, until Thomas approaches, leading a shadowy figure toward her through the crowd.
+
+[MALE] Allie, this is Jarvis. He brought the thing you asked for.
+
+[MALE] I don't have any 30's. Just dope.
+
+[FEMALE] I'll just take whatever you have. 
+
+[NARRATOR] She turns to Thomas, her eyes wide and desperate in the dim loft lighting.
+
+[FEMALE] (to Thomas) Can you spot me? I promise I'll pay you back.
+
+[MALE] Uh OK.
+
+[NARRATOR] Thomas hands over the cash and takes the tiny, crinkling bag of heroin, passing it to Allie’s trembling hand.
+
+[FEMALE] You want some?
+
+[MALE] Nooo. I don't fuck with that shit.
+
+[FEMALE] Oh, I don't either, but I don't have any of the medicine I take, so I'm just gonna do a tiny bit.
+
+[NARRATOR] She turns her back to the noise and movement of the party, retreating into the quietest corner of the counter to escape the noise of the world. Thomas watches her for a moment, shifting his weight uneasily in the ambient haze.
+
+[MALE] I mean, don't get me wrong; I wanna be Kurt Cobain, but I don't wanna be Kurt Cobain. Know what I mean? 
+
+[NARRATOR] He pauses, letting the heavy bass from the other room vibrate through the floorboards, before asking the question that has been lingering in his mind.
+
+[MALE] Did you like the show?
+
+[FEMALE] What?
+
+[MALE] Our set. Did you like it?
+
+[NARRATOR] The ambient noise of the crowded loft hums like a distant, low-frequency tide, washing over the furniture and the drifting bodies. Thomas leans back against the worn fabric of the sofa, his eyes bright with ambition and the lingering adrenaline of the stage, while Allison sits beside him, her gaze drifting toward the edges of the room where the shadows pool.
+
+[FEMALE] Oh, yeah. Yeah. You were great.
+
+[NARRATOR] Thomas offers a slow, confident smile, a self-assured tilt of his chin as he basks in the casual compliment. 
+
+[MALE] I play with Cary when he's on tour, but wait until you hear my stuff.
+
+[FEMALE] Great.
+
+[MALE] Do you think I'm gonna be famous?
+
+[FEMALE] What?
+
+[MALE] I said, do you think I'm gonna be famous?
+
+[FEMALE] Oh, I don't know.
+
+[NARRATOR] He chuckles softly, a sound lost beneath the collective murmur of the party, his mind already drifting into grandiose fantasies of a future yet unwritten.
+
+[MALE] One day, when I'm super famous, you can tell people I bought you heroin once.
+
+[FEMALE] Yeah... for sure.
+
+[NARRATOR] A few feet away, obscured by the dim lighting and the shifting mass of coats and shoulders, Ryan disappears into the quiet sanctuary of a side bedroom, guided gently by Quinn's hand. 
+
+[NARRATOR] Miles away, beneath the quiet, fluorescent glow of a kitchen table in a silent house, Daniel stares down at the illuminated screen of his phone. The blue light casts soft shadows across his face as Simone's voice drifts through the speaker, steady and grounding. 
+
+[MALE] OK, it's coming up. I think it's working...
+
+[FEMALE] What's it say?
+
+[NARRATOR] On the screen, a tiny glowing dot flickers to life, pinning a precise location against the dark cartography of the city, resting softly within the sprawling expanse of a Williamsburg loft.
+
+[NARRATOR] Inside that bedroom, the air is thick and still, heavy with the slow, drowsy weight of the night. Ryan sits on the edge of the mattress, the room gently tilting around her in slow, hypnotic rotations as she and Quinn lean close.
+
+[FEMALE] The whole room is spinning.
+
+[NARRATOR] Suddenly, the silence of the mattress is broken by the gentle, insistent vibration of a phone resting against the sheets, lighting up the dark fabric with a sudden, sharp glare.
+
+[FEMALE] That's my phone.
+
+[MALE] Don't worry about it.
+
+[FEMALE] Wait, just stop for a second. Where's my phone?
+
+[NARRATOR] The glowing letters on the screen read simply: *Find My Phone Alert*, casting a quiet, rhythmic pulse against the dark headboard.
+
+[NARRATOR] Back in the distant kitchen, the map on the screen locks onto its target, the harsh realization hitting the quiet room like a sudden draft of cold air.
+
+[MALE] What the fuck?!
+
+[FEMALE] What?
+
+[MALE] She's in the fucking city! She's in motherfucking Williamsburg!
+
+[FEMALE] Daniel. Wait. I'll pick you up. You don't wanna do something you'll regret.
+
+[MALE] I'm gonna fucking kill him.
+
+[FEMALE] Exactly. That's what I'm worried about. I'm on my way.
+
+[MALE] FUCK!!!
+
+[NARRATOR] The phone hits the wooden table with a sharp, echoing slap. Daniel's chest rises and falls in heavy, measured breaths as his gaze lifts toward the high, shadowed cabinets where the forgotten whiskey bottle rests. Moving with a mechanical, heavy-footed precision, he retrieves the wooden step-stool, climbing up into the quiet dark to pull down the glass vessel. His fingers fumble briefly with the small, hidden drawer beneath the pantry shelf, tapping a familiar sequence of numbers into the keypad. The metal door clicks open, revealing the cold, dark steel of a revolver nestled within the velvet lining.
+
+[NARRATOR] An hour breathes by, stretching the night into a deep, hazy blur. The party outside the bedroom has grown dense, a sea of breathing silhouettes and muted laughter. Allison tries to stand from the couch, her limbs heavy and uncooperative as she tumbles softly against the sea of strangers resting beside her.
+
+[MALE] OK. Easy does it. You're wasted.
+
+[FEMALE] No, I'm not. I gotta find her.
+
+[NARRATOR] She drifts sideways through the narrow corridor, her vision blurring in and out of focus, a rhythmic dance of color where the red and blue beams of a rotating party globe sweep lazily across her face and the dust motes hanging in the air.
+
+[FEMALE] Ryan!
+
+[NARRATOR] Outside, on the cobblestone street beneath the amber glow of a solitary streetlamp, a car screeches to a sudden, rubber-burning halt. The passenger door swings open, and as Daniel steps out into the cool night air, the heavy, empty whiskey bottle slips from his fingers, clattering onto the pavement with a hollow, echoing ring.
+
+[NARRATOR] The heavy glass flask of whiskey dips from his trembling fingers, striking the dark, damp asphalt with a sudden, shivering chime that dissolves quickly into the quiet Brooklyn night. Above, the amber streetlamp casts a long, sleepy shadow, humming softly as it warms the cool evening air. Simone watches the amber pieces scatter, her eyes reflecting the dim street light like ripples on a still, midnight pond. 
+
+[NARRATOR] Inside the old Williamsburg loft, the wooden stairs creak in slow, rhythmic breaths beneath Daniel’s heavy boots. He climbs upward into the haze of dust and distant, muffled bass notes, his hand brushing against his heavy coat pocket where the cold steel of a revolver rests. 
+
+[NARRATOR] Upstairs, down the dim corridor, Allison hurries toward a heavy, locked wooden door, her knuckles tapping in a rapid, anxious rhythm against the grain.
+
+[FEMALE] Ryan! Ryan, are you in there?
+
+[NARRATOR] From the darkness of the room, a muffled, thick voice echoes through the wood, heavy with indifference and intoxication.
+
+[MALE] She's fine. Go the fuck away!
+
+[NARRATOR] The heavy front door swings inward, and Daniel and Simone step through the threshold, parting the sea of slumbering, slow-moving partygoers. A deep, amber fog drifts across the room, catching the lazy sweep of distant laser lights that paint the ceiling in hues of violet and green. Daniel’s eyes are clouded, heavy with a tired, hazy fatigue as he spots Allison standing anxiously before the bedroom door.
+
+[FEMALE] Allison!
+
+[FEMALE] What are you guys doing here?
+
+[MALE] Where's Ryan?!
+
+[FEMALE] She won't open the door.
+
+[NARRATOR] Daniel steps closer, the wood floor groaning beneath his weight, his voice lowering into a gravelly, protective murmur.
+
+[MALE] Ryan?! Ry! It's grandpa. Open the door?
+
+[NARRATOR] There is only silence from within, a thick, quiet blanket resting against the other side of the wood.
+
+[MALE] Open the door, baby.
+
+[MALE] Fuck off!
+
+[NARRATOR] The instinct of the old lawman takes over; Daniel steps back, a shadow moving in slow, deliberate motion, and kicks the wooden door wide. It swings open with a hollow, resonant crash, revealing the dim interior where Ryan rests, shadowed and still upon the unmade bed. Quinn stumbles backward, blinking against the sudden light.
+
+[MALE] What the fuck?!
+
+[NARRATOR] Daniel’s hand moves with the well-worn muscle memory of decades past, pulling the heavy steel from his pocket and leveling the barrel straight ahead.
+
+[MALE] You again. Get the fuck up.
+
+[NARRATOR] Allison and Simone rush into the doorway, their breathing soft and shallow in the heavy air. Quinn stumbles upright, raising both hands into the amber shadows, palms open and empty.
+
+[FEMALE] Danny! No, no, no, don't do that.
+
+[MALE] Nothing happened.
+
+[MALE] She's passed out! Tell me why I shouldn't kill you?
+
+[MALE] We were just making out.
+
+[MALE] You hurt my baby. Now it's time for me to hurt you.
+
+[NARRATOR] His thumb presses back against the metal hammer of the revolver, clicking softly into place, echoing in the quiet room. 
+
+[MALE] Dad, stop.
+
+[NARRATOR] Nathan stands quietly in the doorway, a soft silhouette framed by the hallway light. Daniel blinks, lowering his gaze slightly through the haze of exhaustion.
+
+[MALE] What the hell are you doing here, Nate? This is family business.
+
+[MALE] Please don't do this.
+
+[MALE] Go on back to your new life.
+
+[MALE] Put the gun down. Please! Please!
+
+[MALE] He's not worth it.
+
+[MALE] I have nothing left to lose.
+
+[MALE] You have me. You have Ryan. We need you. If you do this, it's over. We get no more time.
+
+[FEMALE] Danny, put the gun down.
+
+[NARRATOR] Nathan takes a quiet, steady step forward, placing himself gently between the barrel and the room, until the cold steel rests softly against his own chest. Daniel stares down at his son, the deep, burning anger in his chest warring with the heavy weight of his love. In the dim, ambient glow, Nathan reaches out with a calm, deliberate hand, his fingers closing gently around the grip, taking the heavy weapon away. 
+
+[NARRATOR] Turning slowly, Nathan looks toward Quinn, his jaw set in the quiet shadows.
+
+[MALE] That's my niece. She's 16 years old.
+
+[NARRATOR] A single, muffled strike echoes softly through the room as Nathan’s fist connects, and Quinn slips down against the floorboards, clutching his face in the quiet dark.
+
+[MALE] Agh! My fucking nose!
+
+[NARRATOR] Nathan moves quickly to the edge of the bed, gently lifting Ryan by the shoulders with Simone’s help. The young girl stirs, her eyes fluttering open just enough to lean her weight against them as they guide her toward the exit.
+
+[FEMALE] We gotta get outta here.
+
+[NARRATOR] Time slows, stretching out into a soft, dreamlike cadence. Daniel guides Allison by the arm, moving through the lingering crowd like a quiet specter. Simone and Nathan follow close behind, supporting the sleeping girl between them. The surrounding partygoers part like water around a stone, watching in silence beneath the slow, sweeping ribbons of violet and green laser light.
+
+[NARRATOR] They step out into the cool, dark embrace of the Williamsburg night, the damp pavement reflecting the quiet amber glow of the city streets above.
+
+[NARRATOR] The midnight air of the Brooklyn street settles heavily around them, carrying the faint, distant hum of the city fading into a deeper rest. The damp pavement exhales a cool mist beneath their shoes, reflecting the amber streetlights that flicker softly in the quiet dark. 
+
+[MALE] What the fuck is the matter with you?
+
+[NARRATOR] The words hang in the still air, sharp as falling glass, before dissolving into the gentle rustle of distant trees. 
+
+[FEMALE] I was trying to protect her.
+
+[MALE] Protect her? I told you to stay away from her! Protect her? Who the fuck are you to try and protect anyone? You're a mess.
+
+[NARRATOR] A younger voice cuts softly through the heavy night, steady and weary, trying to soothe the gathering storm.
+
+[MALE] Dad.
+
+[FEMALE] I was trying to help you with her. To make things right.
+
+[MALE] Well, let me tell you something, Allison. You could never, ever fix what you have done to me. You hear me?! I want my fucking life back! You hear me?! I want my child back. My baby girl. My Molly. You took my baby away from me!
+
+[NARRATOR] Tears rise slowly in his eyes, born of a quiet rage and an endless, heavy grief that has lived in his chest for too long. 
+
+[MALE] Dad. Enough.
+
+[FEMALE] Let him say it.
+
+[MALE] I wanted to hate you, but I stopped myself. And when you walked into that meeting, I said to myself, "This is God testing me. This is proof there's a higher power! He's testing me in this church right now. He's seeing if he can break me. But I'm gonna show him... I'm gonna show him that I am unbreakable, and I am gonna offer my hand to this sorry, little, fucking pill-junkie." All I asked was that you stay away from this child. Now look at her.
+
+[NARRATOR] Across the quiet steps, a gentle figure cradles the small, resting form in the shadows. 
+
+[MALE] She's got no mother, no father... And how many years could I have left? What a fucking waste you are. What a waste of a soul. What a waste of a chance.
+
+[NARRATOR] He turns away, his chest heaving in the cool night breeze, taking a few slow paces to let the dark air cool his skin. Another voice steps into the quiet space, measured and grounding.
+
+[FEMALE] OK, Danny. You've said your piece. Enough.
+
+[MALE] This wasn't how it was supposed to go. I'm a good person. I'm not saying God has to be fair, but I never thought... I just never thought he could be this cruel.
+
+[NARRATOR] He exhales a long, trembling breath, his chin dipping slowly toward his chest as the fight drains out of him, leaving only the profound fatigue of the night.
+
+[MALE] Taxi!
+
+[FEMALE] Danny, let me take you home.
+
+[MALE] No.
+
+[MALE] I'll go with them.
+
+[NARRATOR] A yellow cab drifts out of the shadows, its tires hissing softly on the damp asphalt, pulling over to the curb with a gentle squeak of brakes. The door opens, spilling a warm, yellow light onto the street. He places a small form gently inside, then turns back, stepping close, his breath fogging in the chill. 
+
+[FEMALE] You drank.
+
+[MALE] You reopened the MAPS app at 17:36 and 22 seconds. The impact was at 17:36 and 24. Tire skids show you lost 30 feet before you swerved. You didn't have time to stop because you were looking at your fucking phone. Stop blaming Alvarez. They're dead because of you.
+
+[NARRATOR] He turns his back, climbing into the waiting cab. Through the glass, a brief exchange of glances passes between the young man and the figure standing alone on the pavement, before the vehicle pulls away, its red taillights bleeding into the misty dark. 
+
+She stands entirely alone in the center of the quiet street, the night wrapping around her like a heavy, silent blanket. 
+
+Fade to black.
+
+The hours drift by in a quiet, timeless void, until the first pale tendrils of morning light begin to filter through the cracks of the curtains in a distant apartment. The room is bathed in a soft, silvery blue twilight as dust motes dance lazily in the motionless air.
+
+On the living room sofa, she stirs from a heavy, dreamless sleep. Nearby, a small child plays in quiet contentment, the soft clatter of wooden toys providing the only sound in the peaceful room. 
+
+Resting on the wooden coffee table, catching the first pale ray of dawn, lies a familiar silver watch, its polished metal gleaming faintly in the morning quiet. She sits up slowly, the weight of the new day settling over her shoulders, and stares down at it.
+
+[CHILD] Good morning.
+
+[FEMALE] Good...
+
+[NARRATOR] The morning air drifted softly through the quiet room, carrying the gentle, distant hum of the waking world. Allie shifted in the dim, tranquil light, her gaze lingering on the silver watch resting on the wooden table before slowly lifting her eyes. 
+
+[CHILD] Good morning.
+
+[FEMALE] Good...
+
+[NARRATOR] ...morning. 
+
+[NARRATOR] The day felt heavy, like a dense mist that had settled over the landscape, blurring the edges of everything in sight. In another quiet corner of the world, amidst the soft clatter of wooden blocks and the scent of fresh pine, a small structure took shape. 
+
+[MALE] I made a house. Do you have a headache?
+
+[FEMALE] Yeah.
+
+[NARRATOR] The hours drifted away like drifting clouds, carrying her through the hazy, sunlit streets until the heavy wooden door of the pawn shop closed out the clamor of the afternoon. Dust motes danced lazily in the shafts of light that cut through the shop window. Allie stepped forward, her hand trembling slightly as she reached out to place the silver watch upon the worn wooden counter. The cool metal caught the amber glow of the hanging lamps.
+
+[FEMALE] Hey, can I sell this please?
+
+[NARRATOR] The elderly shop owner peered over his spectacles, his thumb tracing the intricate engravings on the casing. 
+
+[PAWN_SHOP_OWNER] I'll give you twelve-five.
+
+[FEMALE] Yeah. OK. Thank you.
+
+[PAWN_SHOP_OWNER] It's a beauty.
+
+[NARRATOR] He slid the folded paper notes across the scarred wood, and the transaction drifted into silence. From there, time flowed like a slow, deep river, carrying her into the quiet, sheltered halls of the inpatient retreat. Days blurred into a continuous ribbon of pale light and long shadows. There were soft footsteps on polished floors, the rustle of papers, and the gentle patter of rain against the tall, arched windows. In a quiet, sunlit room, her fingers hovered above the ivory and ebony keys of an upright piano, pressing down to release notes that drifted like falling leaves into the stillness.
+
+Weeks passed, marked only by the rhythm of swimming laps in turquoise water, the quiet scratching of a pen on lined paper, and the soft murmur of voices in circle groups. The light shifted from the golden warmth of late summer to the crisp, silver chill of autumn. 
+
+Then came an afternoon steeped in quiet anticipation. Allie walked down a long, softly lit corridor, her footsteps muffled by the carpet, until she pushed open the heavy wooden door of the visitor's room. Sitting across the table, bathed in the gentle afternoon sun, was Nathan. The heavy silence of the room was filled with the unspoken weight of distance and time.
+
+[FEMALE] Hey.
+
+[NATHAN] Hi.
+
+[NARRATOR] They settled into the wooden chairs opposite one another, the space between them bridged by the soft amber light filtering through the sheer curtains. 
+
+[FEMALE] Thank you so much for coming.
+
+[NATHAN] You look great.
+
+[FEMALE] Ha. I was about to put make-up on and then laughed at myself. Do you like my clips?
+
+[NATHAN] Wow. Yeah.
+
+[FEMALE] Thanks. I stole them from a pharmacy. Not recently, like awhile back.
+
+[NATHAN] I don't know where to start.
+
+[FEMALE] I'll just start. Nate, I didn't have the faintest idea how to handle my own grief. I didn't even know if I was allowed to grieve.
+
+[NATHAN] We were all
+
+[NARRATOR] The evening settles in softly around them, wrapping the quiet room in a blanket of warm, amber shadows. A gentle breeze whispers against the pane, carrying the faint, distant scent of rain on pavement. The world outside slows down, its frantic noise fading into a deep, peaceful stillness.
+
+[MALE] We were all flailing.
+
+[NARRATOR] Allison looks down at her hands, resting on the worn wooden table. She takes a slow, deep breath, feeling the cool air fill her lungs, and lets it drift out in a long, quiet sigh.
+
+[FEMALE] But I abandoned you. That was so selfish. I ran as fast as I could away from you.
+
+[NARRATOR] Nathan watches her, his expression softened by the dim, ambient candlelight that flickers gently in the center of the table. 
+
+[MALE] I still wanted you to be my wife.
+
+[NARRATOR] Allison nods, her eyes shining with unshed tears, reflecting the soft glow of the room. She reaches out, her fingertips brushing the edge of the wood.
+
+[FEMALE] I know. The truth is... 
+
+[NARRATOR] She pauses, taking another slow breath, gathering the quiet strength of the night.
+
+[FEMALE] The truth is, Nathan... I was so sure that I was gonna...
+
+[MALE] I know...
+
+[FEMALE] And I... you know... I tried... but I couldn't. Because I didn't ever want to hurt you again.
+
+[MALE] It wasn't your fault.
+
+[FEMALE] It was, Nate. Your dad's right. If I hadn't been checking my phone, I could have stopped in time. You deserve an apology that has never come. I'm so sorry.
+
+[NARRATOR] Nathan digests these quiet words, the heavy burden of the past gently lifting into the night air. He slowly nods.
+
+[MALE] I've been spending a little more time with him lately. It's a work in progress.
+
+[FEMALE] Good. He kept me alive. I know about your ear.
+
+[NARRATOR] She gently reaches her hand across the table, her palm resting softly against his right ear, a tender, grounding touch in the quiet room.
+
+[FEMALE] I want you to be clear on one thing... Look at me. I loved you so much. Along with everything else, I will forever grieve for the life we might have had.
+
+[MALE] Me too. We were a good team. It would be nice if we could one day find a way to be in each other's lives. Maybe that's unrealistic...
+
+[FEMALE] Maybe.
+
+[MALE] Maybe.
+
+[NARRATOR] He reaches his hands across the table, sliding them into hers. She grips them tight, then lifts them gently to her face, a warm smile passing softly between them in the quiet dark.
+
+[NARRATOR] Hours later, under the bright, supportive lights of the inpatient rehab center, the room hums with gentle voices and rustling flowers. Allison stands at a simple wooden podium, her voice steady and clear, echoing softly against the walls.
+
+[FEMALE] Momma, I'm so grateful for you. Thank you for everything you've done for me, and I love you.
+
+[NARRATOR] She steps down into the embrace of her mother, Diane, the two of them holding each other close amidst the sea of well-wishers. Allison lifts her gaze to the doorway, where Daniel stands quietly in the shadows. Her breath catches, her face dropping for a fleeting second before she mouths a silent greeting.
+
+[FEMALE] Hi.
+
+[NARRATOR] Daniel smiles a warm, comforting smile and nods. She longs to push through the crowd toward him, but the gentle tide of people surrounds her once more. When she looks up again, the doorway is empty. He is gone.
+
+[NARRATOR] Days later, in a humble apartment bathed in the golden hues of evening, Allison sits alone at her small kitchen table. The room is quiet, save for the rhythmic, soothing tick of a cheap Casio watch on her wrist. She glances down at the time, letting the gentle solitude wash over her.
+
+[NARRATOR] Night falls over downtown Newark, bringing with it the soft, intimate murmur of a tiny music bar. Allison sits on stage at an upright piano, her fingers gliding effortlessly over the keys to play a gentle, original melody. As the final note fades into the cozy room, she speaks softly into the microphone.
+
+[FEMALE] Thank you. I'm selling my first EP over at the coat check, cause I'm also the coat-check girl. So come buy an album... or I won't give you your coats back.
+
+[NARRATOR] A wave of warm laughter ripples through the audience, and she smiles, her heart light and at peace. 
+
+[NARRATOR] Moments later, back in her quiet booth at the coat check, the sharp, sudden ring of her phone breaks the gentle ambiance. She looks down at the screen; it is Nathan.
+
+[FEMALE] I know you're calling about one year clean, but guess what I just did?
+
+[NARRATOR] Her smile slowly fades, her expression dropping as the quiet night holds its breath.
+
+[NARRATOR] Daylight filtered gently through the windows of Daniel’s house, casting long, lazy beams of amber and dust across the living room where mourners gathered in soft woolen black. Outside, the world was quiet and still, cradled in the deep hush of an afternoon that seemed to stretch out into eternity. Allie and Nathan moved in a quiet, synchronized rhythm, setting out trays of food upon the wooden table, their movements slow and soothing, like ripples on a calm lake. Nearby, Diane and Ryan played a quiet, comforting game with the dogs, Elvis and Simone, whose soft tails brushed against the floorboards with a gentle, rhythmic thud. 
+
+[NARRATOR] Gathering a stack of empty plates, Allie turned and carried them toward the kitchen. As she walked, her footsteps fell silent upon the runner rug. She paused beside the heavy wooden door of the basement. The house around her breathed softly, old timber settling in the warmth of the day. She stared at the closed door, drawn by an invisible, gentle gravity, her mind floating in the quiet space between sorrow and peace. 
+
+[NARRATOR] With a soft click, she pressed the wall switch and descended the wooden stairs into Daniel’s sacred subterranean lair. The air down here was cool, smelling faintly of old paper, polished wood, and dried pine. Gingerly, she approached the vast, intricate train town that spanned the center of the room. Her fingers found the master switch, and she flipped it upward. 
+
+[NARRATOR] Instantly, the miniature world awakened. Tiny streetlamps flickered to life with a warm, amber glow, illuminating the tiny brick storefronts, the minuscule rolling hills, and the delicate network of tracks. A soft, contented smile touched Allie’s lips as her eyes wandered over the landscape. Resting against the model of the miniature house, she noticed a small white envelope. Written upon it in crisp, dark ink was a single word: *Allison*. Perched atop the envelope sat a tiny, hand-painted figurine—a miniature replica of Allison herself, balanced upon her bicycle. 
+
+[NARRATOR] With trembling, gentle fingers, she unfolded the letter, its texture heavy and aged, typed upon the keys of an old typewriter. The familiar, comforting cadence of Daniel’s voice drifted through her mind, warm and steady as the hum of a distant transformer.
+
+[NARRATOR] Dear Allison, down here, in 1:87 scale, the lovers always kiss, the neighbors are always kind and the trains always take you to the far off places you always swore you'd go. In life, of course, nothing is as nearly as neat and tidy. 
+
+[NARRATOR] In a soft, hazy memory of the porch upstairs, the afternoon light caught the silver in Daniel’s hair as his fingers rhythmically struck the keys of the old typewriter. Nathan and Ryan sat nearby on the wooden porch swing, swaying back and forth in a slow, hypnotic arc, their quiet voices blending with the rustle of the surrounding trees.
+
+[NARRATOR] Everything I own has been left to Nathan and Ryan. Nathan has agreed to move home and be her guardian until she's off to college. He'll need help. 
+
+[NARRATOR] Back in the quiet sanctuary of the basement, Allie’s eyes traced every typed word, her breath rising and falling in slow, measured harmony with the tiny world at her feet.
+
+[NARRATOR] Please help him, Allie. Molly always said Nathan was the best version of himself when he was with you. Who knows, maybe you can even get her into Stanford. Haha. When we first met in that diner, you asked what my tattoo meant. "Amor-Fati" is Latin. It means "to love one's fate." Neither of us chose this fate, Allie. But perhaps we can find a way to love it. Fate has given me one final year with my son. He looks at me differently these days. Once in awhile, I even catching him smiling at me with a look that might just even be love. Amor Fati, Allison. Until we meet again, Daniel.
+
+[NARRATOR] Allie stood frozen in the warm, miniature glow, the letter cradled softly in her hands. The distant, muffled sound of footsteps broke the stillness.
+
+[MALE] Allie? What are you doing? Come on outside.
+
+[FEMALE] OK.
+
+[NARRATOR] She folded the letter, letting the miniature world hum on in its eternal peace, and climbed the stairs back into the light of the house. Moments later, she joined Ryan on the sun-warmed front stoop. Nathan stood nearby, his gaze drifting lazily across the distant green of the trees. Allie stood still, feeling the gentle breeze brush against her cheek, her expression shell-shocked and tender. And then, as the afternoon slowly melted toward dusk, the softest, most peaceful smile tiptoed across her lips. *Amor Fati.* 
+
+[NARRATOR] The world faded into a deep, velvety black, wrapped in unending quiet and rest.
+

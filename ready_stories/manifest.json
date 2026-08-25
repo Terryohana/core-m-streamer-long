@@ -1,5 +1,5 @@
 {
-  "total_stories": 20,
+  "total_stories": 41,
   "stories": [
     {
       "story_id": "story_001",
@@ -360,6 +360,384 @@
       "total_words": 53632,
       "estimated_duration_minutes": 429.1,
       "created_at": "2026-08-25 20:52:15"
+    },
+    {
+      "story_id": "story_022",
+      "original_name": "A Good Person",
+      "title": "The Gentle Mending of Broken Glass",
+      "description": "Sink into the quiet grace of dawn as soft, healing light slowly restores a weary spirit. Drift away on a tide of forgiveness, wrapped in the comforting stillness of peace and renewal.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 37,
+      "total_words": 29996,
+      "estimated_duration_minutes": 240.0,
+      "created_at": "2026-08-25 20:55:48"
+    },
+    {
+      "story_id": "story_021",
+      "original_name": "A Few Good Men",
+      "title": "The Quiet Honorship of Midnight Stars",
+      "description": "Rest beneath a canopy of steadfast constellations where the weight of duty dissolves into peaceful slumber. Let the gentle whispers of the night guard your dreams until morning arrives.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 55,
+      "total_words": 44710,
+      "estimated_duration_minutes": 357.7,
+      "created_at": "2026-08-25 20:58:15"
+    },
+    {
+      "story_id": "story_023",
+      "original_name": "A Million Miles Away",
+      "title": "Where Starlight Meets the Dust of Dreams",
+      "description": "Drift away on a celestial journey across quiet galaxies and gentle, breathing skies. Close your eyes and let the quiet expanse of the cosmos cradle you into a deep, peaceful slumber.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 45,
+      "total_words": 40709,
+      "estimated_duration_minutes": 325.7,
+      "created_at": "2026-08-25 21:00:40"
+    },
+    {
+      "story_id": "story_024",
+      "original_name": "A Most Violent Year",
+      "title": "The Amber Snowfall Over Granite Streets",
+      "description": "Sink into the quiet stillness of a winter night, where the biting frost of the city melts away beneath layers of heavy, comforting blankets. Let the gentle whispers of the sleeping metropolis guide your mind toward deep, untroubled rest.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 53,
+      "total_words": 45442,
+      "estimated_duration_minutes": 363.5,
+      "created_at": "2026-08-25 21:03:38"
+    },
+    {
+      "story_id": "story_026",
+      "original_name": "A Quiet Place",
+      "title": "The Whispering Silences of the Starlit Valley",
+      "description": "Slip into a realm of profound stillness where every gentle breath is wrapped in velvet shadows. Drift away as the quiet night cradles your weary mind into a deep, untroubled slumber.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 45,
+      "total_words": 34031,
+      "estimated_duration_minutes": 272.2,
+      "created_at": "2026-08-25 21:05:22"
+    },
+    {
+      "story_id": "story_025",
+      "original_name": "A Prayer Before Dawn",
+      "title": "Where Shadows Find Sanctuary",
+      "description": "Drift into a quiet realm where the heavy weight of the fading night surrenders to the gentle, forgiving breath of morning. Rest your weary mind as soft dawn light slowly dissolves the echoes of the dark.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 46,
+      "total_words": 44472,
+      "estimated_duration_minutes": 355.8,
+      "created_at": "2026-08-25 21:05:23"
+    },
+    {
+      "story_id": "story_027",
+      "original_name": "A Real Pain",
+      "title": "Whispers of the Ancestral Stone",
+      "description": "Drift away on a gentle journey through time, where old grief softens into quiet acceptance beneath the autumn leaves. Let the slow rhythm of the ancient city lull your restless thoughts into a peaceful, dreamless sleep.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 35,
+      "total_words": 29471,
+      "estimated_duration_minutes": 235.8,
+      "created_at": "2026-08-25 21:07:32"
+    },
+    {
+      "story_id": "story_029",
+      "original_name": "A Serious Man",
+      "title": "The Quiet Calculus of Falling Stars",
+      "description": "Drift into a contemplative slumber as you wander through midnight orchards where ancient riddles dissolve into the gentle hum of the cosmos. Let the weight of unanswered questions gently slip away, leaving only peace and stillness in the quiet dark.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 44,
+      "total_words": 35973,
+      "estimated_duration_minutes": 287.8,
+      "created_at": "2026-08-25 21:11:19"
+    },
+    {
+      "story_id": "story_028",
+      "original_name": "A Scanner Darkly",
+      "title": "The Glass Iris and the Shifting Smoke",
+      "description": "Drift into a hazy dreamscape where neon pulses softly beneath a veil of twilight and shifting perceptions. Let go of reality and float gently into the quiet blur of an endless, peaceful slumber.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 55,
+      "total_words": 46069,
+      "estimated_duration_minutes": 368.6,
+      "created_at": "2026-08-25 21:11:48"
+    },
+    {
+      "story_id": "story_035",
+      "original_name": "Addams Family The",
+      "title": "Whispers in the Gothic Mist",
+      "description": "Drift into a velvet dreamscape where shadows dance softly through forgotten halls and ancient secrets rest easy in the dark. Let the gentle hum of midnight lull you into a peaceful, starry slumber.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 18,
+      "total_words": 14433,
+      "estimated_duration_minutes": 115.5,
+      "created_at": "2026-08-25 21:16:32"
+    },
+    {
+      "story_id": "story_032",
+      "original_name": "Abyss The",
+      "title": "The Velvet Deep",
+      "description": "Drift into the quiet, bioluminescent stillness of a forgotten ocean realm where ancient currents cradle you in endless peace. Let the gentle pressure of the deep waters wash away your waking thoughts as you surrender to slumber.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 63,
+      "total_words": 49999,
+      "estimated_duration_minutes": 400.0,
+      "created_at": "2026-08-25 21:19:46"
+    },
+    {
+      "story_id": "story_030",
+      "original_name": "Above the Law",
+      "title": "The Velvet Midnight Verdict",
+      "description": "Drift into a realm where the quiet hum of nocturnal shadows settles every restless thought. Let the gentle weight of peace dissolve your worries as you journey beneath the quiet law of the stars.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 57,
+      "total_words": 44769,
+      "estimated_duration_minutes": 358.2,
+      "created_at": "2026-08-25 21:21:11"
+    },
+    {
+      "story_id": "story_033",
+      "original_name": "Ad Astra",
+      "title": "The Quiet Edge of the Infinite Dark",
+      "description": "Drift away on a gentle, cosmic journey across starlit oceans and silent silver galaxies. Let the tranquil whispers of deep space carry you into a peaceful, dreamless sleep.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 48,
+      "total_words": 38925,
+      "estimated_duration_minutes": 311.4,
+      "created_at": "2026-08-25 21:22:50"
+    },
+    {
+      "story_id": "story_031",
+      "original_name": "Absolute Power",
+      "title": "The Velvet Midnight Crown",
+      "description": "Drift into a slumber where the weight of the waking world gently dissolves into quiet shadows. Let peaceful stillness wrap around your tired mind as you surrender to the restorative peace of the night.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 53,
+      "total_words": 41753,
+      "estimated_duration_minutes": 334.0,
+      "created_at": "2026-08-25 21:24:46"
+    },
+    {
+      "story_id": "story_034",
+      "original_name": "Adaptation",
+      "title": "The Weaver's Quiet Bloom",
+      "description": "Drift into a tranquil sanctuary where delicate petals unfold and the gentle rustle of leaves composes a soothing lullaby for the restless mind. Surrender to the quiet metamorphosis of the night and let peaceful slumber gently take root.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 51,
+      "total_words": 45154,
+      "estimated_duration_minutes": 361.2,
+      "created_at": "2026-08-25 21:25:10"
+    },
+    {
+      "story_id": "story_036",
+      "original_name": "Adjustment Bureau The",
+      "title": "The Weaver of Whispered Paths",
+      "description": "Slip away from the rigid lines of destiny and wander through a labyrinth of soft, shifting clouds. Let every predetermined thought dissolve into a gentle mist of profound stillness and peace.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 49,
+      "total_words": 42898,
+      "estimated_duration_minutes": 343.2,
+      "created_at": "2026-08-25 21:29:48"
+    },
+    {
+      "story_id": "story_037",
+      "original_name": "Adventures of Buckaroo Banzai Across the Eighth Dimension The",
+      "title": "The Starlight Navigator's Quantum Lullaby",
+      "description": "Drift across vibrant nebula currents and multi-dimensional starry skies as gentle cosmic rhythms guide you into a profound slumber. Let the quiet hum of distant galaxies safely carry your wandering mind toward the edge of dreamland.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 50,
+      "total_words": 42632,
+      "estimated_duration_minutes": 341.1,
+      "created_at": "2026-08-25 21:35:57"
+    },
+    {
+      "story_id": "story_038",
+      "original_name": "Affliction",
+      "title": "The Silent Frost of Whispering Pines",
+      "description": "Drift into a deep, peaceful sleep as winter's quiet snow blankets the ancient forest in stillness. Let the gentle hush of icy winds carry away your waking worries into the starry night.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 33,
+      "total_words": 27975,
+      "estimated_duration_minutes": 223.8,
+      "created_at": "2026-08-25 21:36:11"
+    },
+    {
+      "story_id": "story_040",
+      "original_name": "AfterLife",
+      "title": "The Velvet Mist of Somnus",
+      "description": "Drift into a peaceful, timeless slumber where quiet shadows whisper secrets of the starry cosmos. Let go of the waking world and surrender to the gentle, eternal quiet of the night.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 43,
+      "total_words": 39024,
+      "estimated_duration_minutes": 312.2,
+      "created_at": "2026-08-25 21:36:35"
+    },
+    {
+      "story_id": "story_041",
+      "original_name": "Agnes of God",
+      "title": "Whispers in the Cloister of Velvet Silence",
+      "description": "Drift into a sanctuary of sacred stillness where gentle candlelight flickers against ancient stone walls. Let soft, ethereal harmonies guide your mind toward a deep and restorative slumber.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 29,
+      "total_words": 24385,
+      "estimated_duration_minutes": 195.1,
+      "created_at": "2026-08-25 21:37:46"
+    },
+    {
+      "story_id": "story_039",
+      "original_name": "After School Special",
+      "title": "The Last Chalkdust on the Wooden Desk",
+      "description": "Drift back to the quiet hours of an empty classroom where the afternoon light gently fades across varnished oak and turning pages. Let the soft, nostalgic hum of a forgotten hallway carry you into a peaceful, dreamlike slumber.",
+      "tags": [
+        "sleep story",
+        "bedtime story",
+        "relaxing audio",
+        "sleep aid",
+        "ambient storytelling",
+        "full movie sleep story"
+      ],
+      "scenes_processed": 45,
+      "total_words": 39678,
+      "estimated_duration_minutes": 317.4,
+      "created_at": "2026-08-25 21:38:38"
     }
   ]
 }
