@@ -318,11 +318,15 @@ def process_ready_story(story_dir):
     description = meta.get("description", "A calming, atmospheric sleep story.")
     tags = meta.get("tags", ["sleep story", "bedtime story"])
     
-    print(f"Synthesizing audio for '{title}'...")
+    print(f"Synthesizing audio for '{title}'...", flush=True)
+    print("Initializing Kokoro TTS pipeline...", flush=True)
     pipeline = KPipeline(lang_code='a')
     audio_segments = []
     
     lines = full_script.split('\n')
+    total_lines = len(lines)
+    print(f"Total script lines to synthesize: {total_lines}", flush=True)
+    
     for line_idx, line in enumerate(lines):
         line = line.strip()
         if not line:
@@ -345,32 +349,36 @@ def process_ready_story(story_dir):
         if not line:
             continue
             
-        if line_idx % 20 == 0:
-            print(f"[{line_idx+1}/{len(lines)}] Rendering audio ({voice})...", flush=True)
+        if line_idx % 10 == 0 or line_idx == total_lines - 1:
+            pct = round(((line_idx + 1) / total_lines) * 100, 1)
+            print(f"[{line_idx+1}/{total_lines} ({pct}%)] Synthesizing {voice}: {line[:40]}...", flush=True)
             
         try:
             generator = pipeline(line, voice=voice, speed=1.25, split_pattern=r'\n+')
             for _, _, audio in generator:
                 audio_segments.append(audio)
         except Exception as e:
-            print(f"Error rendering line: {e}")
+            print(f"Error rendering line {line_idx+1}: {e}", flush=True)
             
     if not audio_segments:
-        print("No audio segments generated.")
+        print("No audio segments generated.", flush=True)
         return
         
     final_audio = os.path.join(story_dir, "audio.wav")
+    print(f"Concatenating {len(audio_segments)} audio chunks into {final_audio}...", flush=True)
     final_audio_data = np.concatenate(audio_segments)
     sf.write(final_audio, final_audio_data, 24000)
-    print(f"Audio saved to {final_audio}")
+    print(f"Audio file saved successfully ({len(final_audio_data)/24000/60:.1f} minutes of audio)!", flush=True)
     
     # Video & YouTube Upload
     try:
         import youtube_uploader
         final_mp4 = os.path.join(story_dir, "video.mp4")
+        print(f"Encoding MP4 video with FFmpeg...", flush=True)
         youtube_uploader.create_mp4(final_audio, thumb_path, final_mp4)
         
         if os.environ.get("YOUTUBE_OAUTH_TOKEN"):
+            print("Connecting to YouTube API...", flush=True)
             yt_service = youtube_uploader.get_authenticated_service()
             youtube_uploader.upload_video(
                 youtube=yt_service,
@@ -380,9 +388,9 @@ def process_ready_story(story_dir):
                 thumbnail_path=thumb_path
             )
         else:
-            print("Skipping YouTube upload: YOUTUBE_OAUTH_TOKEN not set.")
+            print("Skipping YouTube upload: YOUTUBE_OAUTH_TOKEN not set.", flush=True)
     except Exception as e:
-        print(f"YouTube Upload Pipeline failed: {e}")
+        print(f"YouTube Upload Pipeline failed: {e}", flush=True)
 
 def main():
     # 1. Check ready_stories queue first

@@ -31,7 +31,7 @@ jobs:
           COMMANDCODE_API_KEY: ${{ secrets.COMMANDCODE_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           YOUTUBE_OAUTH_TOKEN: ${{ secrets.YOUTUBE_OAUTH_TOKEN }}
-        run: python process_movies.py
+        run: python -u process_movies.py
 
       - name: Commit Queue Changes
         run: |
