@@ -147,6 +147,30 @@ def process_movie(srt_file):
         final_audio_data = np.concatenate(audio_segments)
         sf.write(final_audio, final_audio_data, 24000)
         print(f"Final audio saved to {final_audio}")
+        
+        # --- YouTube Auto-Upload Pipeline ---
+        try:
+            import youtube_uploader
+            thumbnail_jpg = youtube_uploader.generate_thumbnail(base_name)
+            final_mp4 = f"{base_name}_video.mp4"
+            youtube_uploader.create_mp4(final_audio, thumbnail_jpg, final_mp4)
+            
+            # If the user has added the YOUTUBE_OAUTH_TOKEN secret, upload it!
+            if os.environ.get("YOUTUBE_OAUTH_TOKEN"):
+                yt_service = youtube_uploader.get_authenticated_service()
+                youtube_uploader.upload_video(
+                    youtube=yt_service,
+                    video_file=final_mp4,
+                    title=base_name,
+                    description=f"An atmospheric sleep story re-imagined from the classic script: {base_name}.",
+                    thumbnail_path=thumbnail_jpg
+                )
+            else:
+                print("Skipping YouTube upload: YOUTUBE_OAUTH_TOKEN not set.")
+                
+        except Exception as e:
+            print(f"YouTube Upload Pipeline failed: {e}")
+            
     else:
         print("No audio was generated!")
 
