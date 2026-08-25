@@ -7,6 +7,7 @@ from kokoro import KPipeline
 import time
 import glob
 
+COMMANDCODE_API_KEY = os.environ.get("COMMANDCODE_API_KEY")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
 def extract_text_from_srt(filepath):
@@ -17,6 +18,48 @@ def extract_text_from_srt(filepath):
     content = re.sub(r'<[^>]+>', '', content)
     lines = [line.strip() for line in content.splitlines() if line.strip()]
     return " ".join(lines)
+
+def rewrite_chunk_commandcode(chunk_text, previous_context=""):
+    url = "https://api.commandcode.ai/provider/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {COMMANDCODE_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
+    system_prompt = """You are a master storyteller. We are converting a movie script into an atmospheric sleep story.
+Format the output strictly with these exact speaker tags at the start of dialogue lines: [NARRATOR], [MALE], or [FEMALE]. Do not add any other tags.
+Make the prose incredibly soothing, slow, and hypnotic. Convert the provided movie dialogue into a continuous third-person narrative."""
+
+    user_prompt = f"""Previous context (for continuity):
+{previous_context}
+
+Next dialogue to rewrite:
+{chunk_text}
+"""
+
+    payload = {
+        "model": "google/gemini-3.5-flash-lite",
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ],
+        "temperature": 0.7,
+        "max_tokens": 3000
+    }
+    
+    for attempt in range(5):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=45)
+            if resp.status_code == 200:
+                return resp.json()["choices"][0]["message"]["content"].strip()
+            else:
+                print(f"CommandCode API returned status {resp.status_code}: {resp.text[:200]}")
+                time.sleep(5 * (attempt + 1))
+        except Exception as e:
+            print(f"CommandCode API error: {e}")
+            time.sleep(5 * (attempt + 1))
+            
+    raise Exception("CommandCode API failed after 5 attempts.")
 
 def rewrite_chunk_groq(chunk_text, previous_context=""):
     url = "https://api.groq.com/openai/v1/chat/completions"
@@ -55,14 +98,12 @@ Next dialogue to rewrite:
                 error_msg = resp.text
                 print(f"Groq API returned status {resp.status_code}: {error_msg}")
                 if resp.status_code == 429:
-                    # Extract wait time from Groq's error message (e.g., "Please try again in 23m6.7s")
-                    import re
                     match = re.search(r'try again in (?:(\d+)h)?(?:(\d+)m)?(?:([\d.]+)s)?', error_msg)
                     if match:
                         h = float(match.group(1)) if match.group(1) else 0
                         m = float(match.group(2)) if match.group(2) else 0
                         s = float(match.group(3)) if match.group(3) else 0
-                        sleep_time = (h * 3600) + (m * 60) + s + 5 # Add 5 seconds buffer
+                        sleep_time = (h * 3600) + (m * 60) + s + 5
                         print(f"Daily Limit Hit! Sleeping for {sleep_time/60:.1f} minutes...")
                         time.sleep(sleep_time)
                         continue
@@ -78,26 +119,66 @@ Next dialogue to rewrite:
             time.sleep(30 * (attempt + 1))
     raise Exception("Groq API failed after 50 attempts.")
 
+def rewrite_chunk(chunk_text, previous_context=""):
+    if COMMANDCODE_API_KEY:
+        try:
+            return rewrite_chunk_commandcode(chunk_text, previous_context)
+        except Exception as e:
+            print(f"CommandCode failed ({e}), attempting Groq fallback...")
+    
+    if GROQ_API_KEY:
+        return rewrite_chunk_groq(chunk_text, previous_context)
+    
+    raise Exception("No valid LLM API key available (need COMMANDCODE_API_KEY or GROQ_API_KEY).")
+
 def generate_new_title(movie_name):
-    url = "https://api.groq.com/openai/v1/chat/completions"
-    headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json"
-    }
-    payload = {
-        "model": "qwen/qwen3.6-27b",
-        "messages": [
-            {"role": "system", "content": "You are a creative writer. Generate a very short, poetic, aesthetic sleep story title inspired by the vibe of the given movie name. Do not include the original movie name. Output ONLY the title, nothing else. Example: 'Echoes of the Midnight Stars'"},
-            {"role": "user", "content": f"Movie: {movie_name}"}
-        ],
-        "temperature": 0.8,
-        "max_tokens": 50
-    }
-    try:
-        resp = requests.post(url, headers=headers, json=payload, timeout=20)
-        return resp.json()["choices"][0]["message"]["content"].replace('"', '').strip()
-    except Exception:
-        return "Whispers of the Deep Night"
+    # Try CommandCode first
+    if COMMANDCODE_API_KEY:
+        try:
+            url = "https://api.commandcode.ai/provider/v1/chat/completions"
+            headers = {
+                "Authorization": f"Bearer {COMMANDCODE_API_KEY}",
+                "Content-Type": "application/json"
+            }
+            payload = {
+                "model": "google/gemini-3.5-flash-lite",
+                "messages": [
+                    {"role": "system", "content": "You are a creative writer. Generate a very short, poetic, aesthetic sleep story title inspired by the vibe of the given movie name. Do not include the original movie name. Output ONLY the title, nothing else. Example: 'Echoes of the Midnight Stars'"},
+                    {"role": "user", "content": f"Movie: {movie_name}"}
+                ],
+                "temperature": 0.8,
+                "max_tokens": 50
+            }
+            resp = requests.post(url, headers=headers, json=payload, timeout=20)
+            if resp.status_code == 200:
+                return resp.json()["choices"][0]["message"]["content"].replace('"', '').strip()
+        except Exception as e:
+            print(f"CommandCode title generation failed: {e}")
+
+    # Fallback to Groq
+    if GROQ_API_KEY:
+        try:
+            url = "https://api.groq.com/openai/v1/chat/completions"
+            headers = {
+                "Authorization": f"Bearer {GROQ_API_KEY}",
+                "Content-Type": "application/json"
+            }
+            payload = {
+                "model": "qwen/qwen3.6-27b",
+                "messages": [
+                    {"role": "system", "content": "You are a creative writer. Generate a very short, poetic, aesthetic sleep story title inspired by the vibe of the given movie name. Do not include the original movie name. Output ONLY the title, nothing else. Example: 'Echoes of the Midnight Stars'"},
+                    {"role": "user", "content": f"Movie: {movie_name}"}
+                ],
+                "temperature": 0.8,
+                "max_tokens": 50
+            }
+            resp = requests.post(url, headers=headers, json=payload, timeout=20)
+            if resp.status_code == 200:
+                return resp.json()["choices"][0]["message"]["content"].replace('"', '').strip()
+        except Exception:
+            pass
+
+    return "Whispers of the Deep Night"
 
 def process_movie(script_file):
     base_name = os.path.splitext(os.path.basename(script_file))[0]
@@ -138,8 +219,9 @@ def process_movie(script_file):
 
     for i in range(start_chunk, len(text_chunks)):
         chunk = text_chunks[i]
-        print(f"Rewriting chunk {i+1}/{len(text_chunks)} via Groq...")
-        rewritten = rewrite_chunk_groq(chunk, previous_context)
+        provider_name = "CommandCode (Gemini 3.5 Flash Lite)" if COMMANDCODE_API_KEY else "Groq"
+        print(f"Rewriting chunk {i+1}/{len(text_chunks)} via {provider_name}...")
+        rewritten = rewrite_chunk(chunk, previous_context)
         full_script += rewritten + "\n\n"
         previous_context = rewritten[-200:]
         
@@ -220,8 +302,8 @@ def process_movie(script_file):
         print("No audio was generated!")
 
 def main():
-    if not GROQ_API_KEY:
-        print("ERROR: GROQ_API_KEY environment variable not set.")
+    if not COMMANDCODE_API_KEY and not GROQ_API_KEY:
+        print("ERROR: Neither COMMANDCODE_API_KEY nor GROQ_API_KEY environment variable is set.")
         return
         
     if not os.path.exists("pending_scripts"):
