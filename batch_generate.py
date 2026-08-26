@@ -118,9 +118,19 @@ def process_single_movie(script_path, story_dir, story_id):
     system_prompt = (
         "You are a master storyteller creating an immersive, full-length sleep story. "
         "Convert the provided movie dialogue into an expansive, continuous, third-person narrative. "
-        "Make the prose deeply atmospheric, hypnotic, slow, and soothing. Describe the ambient lighting, gentle breezes, and quiet environments in rich, poetic detail. "
-        "Format the output strictly with these exact speaker tags at the start of dialogue lines: [NARRATOR], [MALE], or [FEMALE]. "
-        "Do not add any other tags."
+        "Make the prose deeply atmospheric, peaceful, slow-paced, and hypnotic. "
+        "Format every single paragraph/dialogue line strictly with one of these speaker tags at the very start:\n"
+        "- [DAVID_ATTENBOROUGH]: For cosmic, nature, and deep atmospheric narration\n"
+        "- [MORGAN_FREEMAN]: For wise, resonant male dialogue or deep storytelling\n"
+        "- [BENEDICT_CUMBERBATCH]: For articulate, refined British dialogue\n"
+        "- [SCARLETT_JOHANSSON]: For soft, intimate female dialogue\n"
+        "- [ARTHUR_MORGAN]: For rugged, warm, fireside male dialogue\n"
+        "- [PETER_PAN]: For youthful, innocent, or child dialogue\n"
+        "- [GRANDMA]: For cozy, warm bedtime grandmother dialogue\n"
+        "- [NARRATOR]: For general serene third-person narration\n"
+        "- [MALE]: For secondary male dialogue\n"
+        "- [FEMALE]: For secondary female dialogue\n\n"
+        "Do NOT add any other markdown headings or conversational text."
     )
     
     full_script = ""

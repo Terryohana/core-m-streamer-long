@@ -27,9 +27,20 @@ def rewrite_chunk_commandcode(chunk_text, previous_context=""):
         "Content-Type": "application/json"
     }
     
-    system_prompt = """You are a master storyteller. We are converting a movie script into an atmospheric sleep story.
-Format the output strictly with these exact speaker tags at the start of dialogue lines: [NARRATOR], [MALE], or [FEMALE]. Do not add any other tags.
-Make the prose incredibly soothing, slow, and hypnotic. Convert the provided movie dialogue into a continuous third-person narrative."""
+    system_prompt = """You are a master storyteller converting a movie script into an atmospheric sleep story.
+Format every single paragraph/dialogue line strictly with one of these speaker tags at the very start:
+- [DAVID_ATTENBOROUGH]: For cosmic, nature, and deep atmospheric narration
+- [MORGAN_FREEMAN]: For wise, resonant male dialogue or deep storytelling
+- [BENEDICT_CUMBERBATCH]: For articulate, refined British dialogue
+- [SCARLETT_JOHANSSON]: For soft, intimate female dialogue
+- [ARTHUR_MORGAN]: For rugged, warm, fireside male dialogue
+- [PETER_PAN]: For youthful, innocent, or child dialogue
+- [GRANDMA]: For cozy, warm bedtime grandmother dialogue
+- [NARRATOR]: For general serene third-person narration
+- [MALE]: For secondary male dialogue
+- [FEMALE]: For secondary female dialogue
+
+Make the prose deeply atmospheric, peaceful, slow-paced, and hypnotic."""
 
     user_prompt = f"""Previous context (for continuity):
 {previous_context}
@@ -69,9 +80,20 @@ def rewrite_chunk_groq(chunk_text, previous_context=""):
         "Content-Type": "application/json"
     }
     
-    system_prompt = """You are a master storyteller. We are converting a movie script into an atmospheric sleep story.
-Format the output strictly with these exact speaker tags at the start of dialogue lines: [NARRATOR], [MALE], or [FEMALE]. Do not add any other tags.
-Make the prose incredibly soothing, slow, and hypnotic. Convert the provided movie dialogue into a continuous third-person narrative."""
+    system_prompt = """You are a master storyteller converting a movie script into an atmospheric sleep story.
+Format every single paragraph/dialogue line strictly with one of these speaker tags at the very start:
+- [DAVID_ATTENBOROUGH]: For cosmic, nature, and deep atmospheric narration
+- [MORGAN_FREEMAN]: For wise, resonant male dialogue or deep storytelling
+- [BENEDICT_CUMBERBATCH]: For articulate, refined British dialogue
+- [SCARLETT_JOHANSSON]: For soft, intimate female dialogue
+- [ARTHUR_MORGAN]: For rugged, warm, fireside male dialogue
+- [PETER_PAN]: For youthful, innocent, or child dialogue
+- [GRANDMA]: For cozy, warm bedtime grandmother dialogue
+- [NARRATOR]: For general serene third-person narration
+- [MALE]: For secondary male dialogue
+- [FEMALE]: For secondary female dialogue
+
+Make the prose deeply atmospheric, peaceful, slow-paced, and hypnotic."""
 
     user_prompt = f"""Previous context (for continuity):
 {previous_context}
