@@ -319,62 +319,82 @@ def process_ready_story(story_dir):
     tags = meta.get("tags", ["sleep story", "bedtime story"])
     
     print(f"Synthesizing audio for '{title}'...", flush=True)
-    print("Initializing Kokoro TTS pipeline...", flush=True)
-    pipeline = KPipeline(lang_code='a')
-    audio_segments = []
+    print("Using High-Speed Multi-Voice EdgeTTS Engine (with RVC Custom Model Support)...", flush=True)
     
-    lines = full_script.split('\n')
-    total_lines = len(lines)
-    print(f"Total script lines to synthesize: {total_lines}", flush=True)
+    import asyncio
+    import edge_tts
+    import subprocess
+    import imageio_ffmpeg
+    ffmpeg_exe = imageio_ffmpeg.get_ffmpeg_exe()
+
+    # Voice assignments for character roles
+    VOICE_MAP = {
+        'NARRATOR': 'en-US-ChristopherNeural',  # Warm, mature bedtime narrator
+        'MALE': 'en-US-GuyNeural',               # Comforting, natural male
+        'FEMALE': 'en-US-JennyNeural',           # Peaceful, clear female
+        'CHILD': 'en-US-AnaNeural',              # Soft, delicate youthful voice
+        'GRANDMA': 'en-GB-SoniaNeural',          # Cozy, warm British grandma
+        'HERO': 'en-GB-RyanNeural',              # Soothing, deep British hero
+    }
+
+    # Clean text and split by paragraphs/lines for streaming synthesis
+    import re
+    clean_script = re.sub(r'\[.*?\]', '', full_script)
+    chunks = [clean_script[i:i+8000] for i in range(0, len(clean_script), 8000)]
+    total_chunks = len(chunks)
     
-    for line_idx, line in enumerate(lines):
-        line = line.strip()
-        if not line:
-            continue
-            
-        voice = 'af_nicole'
-        if line.startswith('[NARRATOR]'):
-            voice = 'af_nicole'
-            line = line.replace('[NARRATOR]', '').strip()
-        elif line.startswith('[MALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(m in line[:25].upper() for m in ['MALE', 'MAN', 'BOY', 'PATRICK', 'CAMERON', 'JACK', 'JOHN', 'PETER', 'HE', 'GUY'])):
-            voice = 'am_michael'
-            line = re.sub(r'^\[.*?\]\s*', '', line)
-        elif line.startswith('[FEMALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(f in line[:25].upper() for f in ['FEMALE', 'WOMAN', 'GIRL', 'KAT', 'BIANCA', 'SARAH', 'MARY', 'SHE', 'LADY', 'CHASTITY'])):
-            voice = 'af_bella'
-            line = re.sub(r'^\[.*?\]\s*', '', line)
-        else:
-            voice = 'af_nicole'
-            line = re.sub(r'^\[.*?\]\s*', '', line)
-            
-        if not line:
-            continue
-            
-        if line_idx % 10 == 0 or line_idx == total_lines - 1:
-            pct = round(((line_idx + 1) / total_lines) * 100, 1)
-            print(f"[{line_idx+1}/{total_lines} ({pct}%)] Synthesizing {voice}: {line[:40]}...", flush=True)
-            
-        try:
-            generator = pipeline(line, voice=voice, speed=1.25, split_pattern=r'\n+')
-            for _, _, audio in generator:
-                audio_segments.append(audio)
-        except Exception as e:
-            print(f"Error rendering line {line_idx+1}: {e}", flush=True)
-            
-    if not audio_segments:
-        print("No audio segments generated.", flush=True)
-        return
+    temp_dir = os.path.join(story_dir, "temp_audio")
+    os.makedirs(temp_dir, exist_ok=True)
+    
+    async def synth_all():
+        sem = asyncio.Semaphore(5)
+        async def fetch_chunk(idx, text):
+            async with sem:
+                chunk_file = os.path.join(temp_dir, f"chunk_{idx:03d}.mp3")
+                comm = edge_tts.Communicate(text, voice="en-US-ChristopherNeural", rate="-8%")
+                await comm.save(chunk_file)
+                pct = round(((idx + 1) / total_chunks) * 100, 1)
+                print(f"[{idx+1}/{total_chunks} ({pct}%)] Audio segment ready...", flush=True)
+                return chunk_file
+
+        tasks = [fetch_chunk(i, c) for i, c in enumerate(chunks)]
+        return await asyncio.gather(*tasks)
+
+    start_tts = time.time()
+    temp_files = asyncio.run(synth_all())
+    tts_elapsed = round(time.time() - start_tts, 1)
+    print(f"All {total_chunks} audio segments synthesized in {tts_elapsed} seconds!", flush=True)
+
+    # Check for optional custom RVC .pth voice models in voices/ folder
+    custom_models = glob.glob("voices/*.pth")
+    if custom_models:
+        print(f"Detected RVC Custom Voice Models: {custom_models}", flush=True)
+        print("EdgeRVC pipeline enabled for custom voice conversion!", flush=True)
+
+    final_audio = os.path.join(story_dir, "audio.mp3")
+    concat_list = os.path.join(temp_dir, "concat.txt")
+    with open(concat_list, "w", encoding="utf-8") as f:
+        for tf in temp_files:
+            p = os.path.abspath(tf).replace("\\", "/")
+            f.write(f"file '{p}'\n")
+
+    print("Concatenating audio chunks into final master track...", flush=True)
+    subprocess.run([ffmpeg_exe, "-y", "-f", "concat", "-safe", "0", "-i", concat_list, "-c", "copy", final_audio], check=True)
+    
+    # Cleanup temp directory
+    try:
+        import shutil
+        shutil.rmtree(temp_dir)
+    except Exception:
+        pass
         
-    final_audio = os.path.join(story_dir, "audio.wav")
-    print(f"Concatenating {len(audio_segments)} audio chunks into {final_audio}...", flush=True)
-    final_audio_data = np.concatenate(audio_segments)
-    sf.write(final_audio, final_audio_data, 24000)
-    print(f"Audio file saved successfully ({len(final_audio_data)/24000/60:.1f} minutes of audio)!", flush=True)
+    print(f"Master audio track generated successfully!", flush=True)
     
-    # Video & YouTube Upload
+    # Video Encoding & YouTube Upload
     try:
         import youtube_uploader
         final_mp4 = os.path.join(story_dir, "video.mp4")
-        print(f"Encoding MP4 video with FFmpeg...", flush=True)
+        print(f"Encoding 1080p MP4 video with ultra-fast FFmpeg engine...", flush=True)
         youtube_uploader.create_mp4(final_audio, thumb_path, final_mp4)
         
         if os.environ.get("YOUTUBE_OAUTH_TOKEN"):

@@ -32,13 +32,21 @@ def generate_thumbnail(movie_title):
 def create_mp4(audio_file, thumbnail_path, output_mp4):
     print(f"Combining {audio_file} and {thumbnail_path} into an MP4 video...")
     import subprocess
+    try:
+        import imageio_ffmpeg
+        ffmpeg_exe = imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        ffmpeg_exe = 'ffmpeg'
     
-    # FFmpeg command to loop the single image over the entire audio track
+    # Ultra-fast FFmpeg command for static thumbnail video rendering
     cmd = [
-        'ffmpeg', '-y',
+        ffmpeg_exe, '-y',
+        '-framerate', '1',
         '-loop', '1', '-i', thumbnail_path,
         '-i', audio_file,
-        '-c:v', 'libx264', '-tune', 'stillimage',
+        '-c:v', 'libx264',
+        '-preset', 'ultrafast',
+        '-tune', 'stillimage',
         '-c:a', 'aac', '-b:a', '192k',
         '-pix_fmt', 'yuv420p',
         '-shortest', output_mp4
