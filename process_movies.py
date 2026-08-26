@@ -337,7 +337,7 @@ def process_ready_story(story_dir):
             voice = 'af_nicole'
             line = line.replace('[NARRATOR]', '').strip()
         elif line.startswith('[MALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(m in line[:25].upper() for m in ['MALE', 'MAN', 'BOY', 'PATRICK', 'CAMERON', 'JACK', 'JOHN', 'PETER', 'HE', 'GUY'])):
-            voice = 'am_adam'
+            voice = 'am_michael'
             line = re.sub(r'^\[.*?\]\s*', '', line)
         elif line.startswith('[FEMALE]') or (re.match(r'^\[[A-Z0-9_ ]+\]', line) and any(f in line[:25].upper() for f in ['FEMALE', 'WOMAN', 'GIRL', 'KAT', 'BIANCA', 'SARAH', 'MARY', 'SHE', 'LADY', 'CHASTITY'])):
             voice = 'af_bella'

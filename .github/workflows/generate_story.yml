@@ -37,7 +37,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ready_stories/ completed_stories/ pending_scripts/ completed_scripts/
+          mkdir -p completed_stories
+          git add -A ready_stories/ completed_stories/
           git commit -m "Updated story queue" || echo "No changes to commit"
           git push
 
