@@ -7,7 +7,8 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 API_KEY = "user_2trCechmdfT44LHrFP5rawqfM5KoExeGJeN1AWzyzMwWtcZhUgEoSepie3bdgGAKSAGAwpXNFKsQU7coZjLdpZgf"
-MODEL = "google/gemini-3.5-flash-lite"
+MODELS = ["Qwen/Qwen3.8-27B", "meta/muse-spark-1.2", "poolside/laguna-s-2.1-free"]
+MODEL = MODELS[0]
 ENDPOINT = "https://api.commandcode.ai/provider/v1/chat/completions"
 
 HEADERS = {
@@ -29,24 +30,28 @@ def extract_text(filepath):
             return f.read()
 
 def call_llm(messages, max_tokens=3000, temperature=0.7, retries=5):
-    payload = {
-        "model": MODEL,
-        "messages": messages,
-        "temperature": temperature,
-        "max_tokens": max_tokens
-    }
-    for attempt in range(retries):
-        try:
-            r = requests.post(ENDPOINT, headers=HEADERS, json=payload, timeout=45)
-            if r.status_code == 200:
-                return r.json()["choices"][0]["message"]["content"].strip()
-            else:
-                print(f"[Attempt {attempt+1}] LLM status {r.status_code}: {r.text[:150]}", flush=True)
+    for model_name in MODELS:
+        payload = {
+            "model": model_name,
+            "messages": messages,
+            "temperature": temperature,
+            "max_tokens": max_tokens
+        }
+        for attempt in range(retries):
+            try:
+                r = requests.post(ENDPOINT, headers=HEADERS, json=payload, timeout=45)
+                if r.status_code == 200:
+                    return r.json()["choices"][0]["message"]["content"].strip()
+                elif "PREMIUM_CREDITS_EXHAUSTED" in r.text or r.status_code == 400:
+                    print(f"[{model_name}] Credit exhausted/unsupported, rotating to next model...", flush=True)
+                    break
+                else:
+                    print(f"[{model_name} Attempt {attempt+1}] LLM status {r.status_code}: {r.text[:100]}", flush=True)
+                    time.sleep(3 * (attempt + 1))
+            except Exception as e:
+                print(f"[{model_name} Attempt {attempt+1}] LLM error: {e}", flush=True)
                 time.sleep(3 * (attempt + 1))
-        except Exception as e:
-            print(f"[Attempt {attempt+1}] LLM error: {e}", flush=True)
-            time.sleep(3 * (attempt + 1))
-    raise Exception("LLM call failed after retries.")
+    raise Exception("LLM call failed across all open-source models.")
 
 def generate_title_and_description(original_name):
     system_prompt = (
@@ -169,20 +174,49 @@ def process_single_movie(script_path, story_dir, story_id):
     print(f"[{story_id}] COMPLETED: '{repurposed_title}' -> {final_word_count} words (~{est_duration_minutes} mins / {round(est_duration_minutes/60, 2)} hours of audio)", flush=True)
     return metadata
 
-def run_batch(limit=8, max_workers=4):
+def run_batch(limit=None, max_workers=6):
     os.makedirs("ready_stories", exist_ok=True)
-    script_files = sorted(glob.glob("pending_scripts/*.txt") + glob.glob("pending_scripts/*.srt"))[:limit]
-    
+    all_script_files = sorted(glob.glob("pending_scripts/*.txt") + glob.glob("pending_scripts/*.srt"))
+    if limit:
+        script_files = all_script_files[:limit]
+    else:
+        script_files = all_script_files
+        
     print(f"==================================================", flush=True)
-    print(f"BATCH PROCESSOR: Processing first {len(script_files)} stories with {MODEL}", flush=True)
+    print(f"BATCH PROCESSOR: Processing {len(script_files)} stories with {MODEL}", flush=True)
     print(f"==================================================", flush=True)
     
+    manifest_path = os.path.join("ready_stories", "manifest.json")
     results = []
+    if os.path.exists(manifest_path):
+        try:
+            with open(manifest_path, "r", encoding="utf-8") as f:
+                existing_manifest = json.load(f)
+                results = existing_manifest.get("stories", [])
+        except Exception:
+            results = []
+            
+    completed_ids = {s.get("story_id") for s in results}
+    
+    to_process = []
+    for i, path in enumerate(script_files):
+        story_id = f"story_{i+1:03d}"
+        story_dir = os.path.join("ready_stories", story_id)
+        meta_file = os.path.join(story_dir, "metadata.json")
+        script_file = os.path.join(story_dir, "script.md")
+        
+        # Check if already complete
+        if story_id in completed_ids and os.path.exists(meta_file) and os.path.exists(script_file):
+            print(f"[{story_id}] Already complete, skipping.", flush=True)
+            continue
+            
+        to_process.append((path, story_dir, story_id))
+        
+    print(f"Stories remaining to process: {len(to_process)}", flush=True)
+    
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {}
-        for i, path in enumerate(script_files):
-            story_id = f"story_{i+1:03d}"
-            story_dir = os.path.join("ready_stories", story_id)
+        for path, story_dir, story_id in to_process:
             future = executor.submit(process_single_movie, path, story_dir, story_id)
             futures[future] = story_id
             
@@ -191,10 +225,12 @@ def run_batch(limit=8, max_workers=4):
             try:
                 meta = future.result()
                 results.append(meta)
+                # Update manifest after every completion
+                with open(manifest_path, "w", encoding="utf-8") as f:
+                    json.dump({"total_stories": len(results), "stories": results}, f, indent=2)
             except Exception as e:
                 print(f"ERROR in {story_id}: {e}", flush=True)
                 
-    manifest_path = os.path.join("ready_stories", "manifest.json")
     with open(manifest_path, "w", encoding="utf-8") as f:
         json.dump({"total_stories": len(results), "stories": results}, f, indent=2)
         
@@ -204,4 +240,4 @@ def run_batch(limit=8, max_workers=4):
     print(f"==================================================", flush=True)
 
 if __name__ == "__main__":
-    run_batch(limit=8, max_workers=4)
+    run_batch(limit=None, max_workers=6)
