@@ -4,7 +4,6 @@ import json
 import requests
 import soundfile as sf
 import numpy as np
-from kokoro import KPipeline
 import time
 import glob
 
