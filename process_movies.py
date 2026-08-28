@@ -349,14 +349,30 @@ def process_ready_story(story_dir):
     import imageio_ffmpeg
     ffmpeg_exe = imageio_ffmpeg.get_ffmpeg_exe()
 
-    # Voice assignments for character roles
+    # Voice assignments for character roles & famous custom voices
     VOICE_MAP = {
-        'NARRATOR': 'en-US-ChristopherNeural',  # Warm, mature bedtime narrator
-        'MALE': 'en-US-GuyNeural',               # Comforting, natural male
-        'FEMALE': 'en-US-JennyNeural',           # Peaceful, clear female
-        'CHILD': 'en-US-AnaNeural',              # Soft, delicate youthful voice
-        'GRANDMA': 'en-GB-SoniaNeural',          # Cozy, warm British grandma
-        'HERO': 'en-GB-RyanNeural',              # Soothing, deep British hero
+        # Famous Men
+        'DAVID_ATTENBOROUGH': ('en-GB-RyanNeural', 'voices/DavidAttenborough.pth'),
+        'MORGAN_FREEMAN': ('en-US-ChristopherNeural', 'voices/Morgan_Freeman.pth'),
+        'ARTHUR_MORGAN': ('en-US-GuyNeural', 'voices/ArthurMorgan_465e_28365s.pth'),
+        'KRATOS': ('en-US-GuyNeural', 'voices/Kratos.pth'),
+        'OPTIMUS_PRIME': ('en-US-ChristopherNeural', 'voices/OptimusPrime.pth'),
+        # Famous Women
+        'ELSA': ('en-US-JennyNeural', 'voices/ElsaFrozen.pth'),
+        'TAYLOR_SWIFT': ('en-US-JennyNeural', 'voices/TaylorSwift.pth'),
+        'ARIANA_GRANDE': ('en-US-JennyNeural', 'voices/ArianaGrande.pth'),
+        # Children / Youthful
+        'ARIEL': ('en-US-AnaNeural', 'voices/Ariel_LittleMermaid.pth'),
+        'CHILD_GIRL': ('en-US-AnaNeural', 'voices/ChildGirl.pth'),
+        'STEWIE_GRIFFIN': ('en-US-AnaNeural', 'voices/StewieGriffin.pth'),
+        'SPONGEBOB': ('en-US-AnaNeural', 'voices/SpongeBob.pth'),
+        # Standard Fallbacks
+        'NARRATOR': ('en-US-ChristopherNeural', None),
+        'MALE': ('en-US-GuyNeural', None),
+        'FEMALE': ('en-US-JennyNeural', None),
+        'CHILD': ('en-US-AnaNeural', None),
+        'GRANDMA': ('en-GB-SoniaNeural', None),
+        'HERO': ('en-GB-RyanNeural', None),
     }
 
     # Clean text and split by paragraphs/lines for streaming synthesis

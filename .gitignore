@@ -1,2 +1,10 @@
 client_secrets.json
 moltbuuk_token.json
+*.index
+rvc_engine/assets/hubert/
+rvc_engine/assets/rmvpe/
+temp_audio/
+*.mp4
+*.wav
+*.mp3
+!voices/*.pth

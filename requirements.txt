@@ -1,9 +1,13 @@
 requests
 numpy
 soundfile
-kokoro
 torch
 torchaudio
+edge-tts
+imageio-ffmpeg
+librosa
+praat-parselmouth
+scipy
 google-api-python-client
 google-auth-oauthlib
 google-auth-httplib2
