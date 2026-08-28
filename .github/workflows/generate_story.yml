@@ -1,6 +1,13 @@
 name: Generate Sleep Story
 
 on:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'completed_stories/**'
+      - 'README.md'
+      - 'walkthrough.md'
+      - '.gitignore'
   schedule:
     - cron: '0 23 * * *' # Runs at 23:00 UTC (7:00 PM EST) every day
   workflow_dispatch: # Allows you to run it manually from the Actions tab
@@ -21,7 +28,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install System Dependencies
-        run: sudo apt-get update && sudo apt-get install -y espeak-ng ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Install Python Dependencies
         run: pip install -r requirements.txt
@@ -39,12 +46,5 @@ jobs:
           git config --local user.name "GitHub Action"
           mkdir -p completed_stories
           git add -A ready_stories/ completed_stories/
-          git commit -m "Updated story queue" || echo "No changes to commit"
+          git commit -m "Updated story queue [skip ci]" || echo "No changes to commit"
           git push
-
-      - name: Upload Audio Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: sleep-story-audio
-          path: '*_audio.wav'
-          retention-days: 7
