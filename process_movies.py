@@ -376,47 +376,45 @@ def process_ready_story(story_dir):
 
     # Clean text and split by paragraphs/lines for streaming synthesis
     import re
-    clean_script = re.sub(r'\[.*?\]', '', full_script)
-    chunks = [clean_script[i:i+8000] for i in range(0, len(clean_script), 8000)]
-    total_chunks = len(chunks)
+    clean_script = re.sub(r'\[.*?\]', '', full_script).strip()
+    
+    print("Synthesizing audio with Kokoro TTS (Voice: am_michael, Speed: 1.25x)...", flush=True)
+    from kokoro import KPipeline
+    import soundfile as sf
+    import numpy as np
+
+    pipeline = KPipeline(lang_code='a', repo_id='hexgrad/Kokoro-82M')
+    
+    # Split paragraphs for streaming Kokoro synthesis
+    paragraphs = [p.strip() for p in clean_script.split('\n') if p.strip()]
+    total_paras = len(paragraphs)
+    print(f"Total script paragraphs to synthesize: {total_paras}", flush=True)
     
     temp_dir = os.path.join(story_dir, "temp_audio")
     os.makedirs(temp_dir, exist_ok=True)
     
-    async def synth_all():
-        sem = asyncio.Semaphore(5)
-        async def fetch_chunk(idx, text):
-            async with sem:
-                chunk_file = os.path.join(temp_dir, f"chunk_{idx:03d}.mp3")
-                comm = edge_tts.Communicate(text, voice="en-US-ChristopherNeural", rate="-8%")
-                await comm.save(chunk_file)
-                pct = round(((idx + 1) / total_chunks) * 100, 1)
-                print(f"[{idx+1}/{total_chunks} ({pct}%)] Audio segment ready...", flush=True)
-                return chunk_file
-
-        tasks = [fetch_chunk(i, c) for i, c in enumerate(chunks)]
-        return await asyncio.gather(*tasks)
-
     start_tts = time.time()
-    temp_files = asyncio.run(synth_all())
-    tts_elapsed = round(time.time() - start_tts, 1)
-    print(f"All {total_chunks} audio segments synthesized in {tts_elapsed} seconds!", flush=True)
+    audio_chunks = []
+    
+    for idx, p_text in enumerate(paragraphs):
+        for gs, ps, audio in pipeline(p_text, voice='am_michael', speed=1.25, split_pattern=r'\n+'):
+            if audio is not None and len(audio) > 0:
+                audio_chunks.append(audio)
+        if (idx + 1) % 5 == 0 or (idx + 1) == total_paras:
+            pct = round(((idx + 1) / total_paras) * 100, 1)
+            print(f"[{idx+1}/{total_paras} ({pct}%)] Synthesizing audio paragraphs...", flush=True)
 
-    # Check for optional custom RVC .pth voice models in voices/ folder
-    custom_models = glob.glob("voices/*.pth")
-    if custom_models:
-        print(f"Detected RVC Custom Voice Models: {custom_models}", flush=True)
-        print("EdgeRVC pipeline enabled for custom voice conversion!", flush=True)
-
+    master_wav = os.path.join(temp_dir, "master.wav")
     final_audio = os.path.join(story_dir, "audio.mp3")
-    concat_list = os.path.join(temp_dir, "concat.txt")
-    with open(concat_list, "w", encoding="utf-8") as f:
-        for tf in temp_files:
-            p = os.path.abspath(tf).replace("\\", "/")
-            f.write(f"file '{p}'\n")
-
-    print("Concatenating audio chunks into final master track...", flush=True)
-    subprocess.run([ffmpeg_exe, "-y", "-f", "concat", "-safe", "0", "-i", concat_list, "-c", "copy", final_audio], check=True)
+    
+    full_audio = np.concatenate(audio_chunks)
+    sf.write(master_wav, full_audio, 24000)
+    
+    tts_elapsed = round(time.time() - start_tts, 1)
+    print(f"All audio synthesized in {tts_elapsed} seconds! Converting to MP3 master track...", flush=True)
+    
+    # Convert master WAV to MP3 using ffmpeg
+    subprocess.run([ffmpeg_exe, "-y", "-i", master_wav, "-codec:a", "libmp3lame", "-b:a", "192k", final_audio], check=True)
     
     # Cleanup temp directory
     try:

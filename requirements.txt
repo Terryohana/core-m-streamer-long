@@ -3,7 +3,7 @@ numpy
 soundfile
 torch
 torchaudio
-edge-tts
+kokoro>=0.3.4
 imageio-ffmpeg
 librosa
 praat-parselmouth
@@ -12,3 +12,4 @@ google-api-python-client
 google-auth-oauthlib
 google-auth-httplib2
 Pillow
+
