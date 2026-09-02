@@ -27,11 +27,22 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Free Disk Space
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /usr/local/lib/android
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /opt/hostedtoolcache/CodeQL
+
       - name: Install System Dependencies
         run: sudo apt-get update && sudo apt-get install -y ffmpeg espeak-ng
 
+      - name: Install PyTorch CPU
+        run: pip install --no-cache-dir torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+
       - name: Install Python Dependencies
-        run: pip install -r requirements.txt
+        run: pip install --no-cache-dir -r requirements.txt
+
 
       - name: Process Movies
         env:
