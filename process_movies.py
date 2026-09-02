@@ -340,13 +340,11 @@ def process_ready_story(story_dir):
     tags = meta.get("tags", ["sleep story", "bedtime story"])
     
     print(f"Synthesizing audio for '{title}'...", flush=True)
-    print("Using High-Speed Multi-Voice EdgeTTS Engine (with RVC Custom Model Support)...", flush=True)
     
-    import asyncio
-    import edge_tts
     import subprocess
     import imageio_ffmpeg
     ffmpeg_exe = imageio_ffmpeg.get_ffmpeg_exe()
+
 
     # Voice assignments for character roles & famous custom voices
     VOICE_MAP = {

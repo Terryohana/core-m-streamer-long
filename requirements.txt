@@ -4,6 +4,7 @@ soundfile
 torch
 torchaudio
 kokoro>=0.3.4
+edge-tts
 imageio-ffmpeg
 librosa
 praat-parselmouth
@@ -12,4 +13,5 @@ google-api-python-client
 google-auth-oauthlib
 google-auth-httplib2
 Pillow
+
 
