@@ -339,7 +339,14 @@ def process_ready_story(story_dir):
     description = meta.get("description", "A calming, atmospheric sleep story.")
     tags = meta.get("tags", ["sleep story", "bedtime story"])
     
+    if not os.path.exists(thumb_path):
+        print(f"No custom thumbnail found in {story_dir}. Generating atmospheric AI thumbnail...", flush=True)
+        import youtube_uploader
+        thumb_path = youtube_uploader.generate_thumbnail(title)
+        
     print(f"Synthesizing audio for '{title}'...", flush=True)
+
+
     
     import subprocess
     import imageio_ffmpeg
