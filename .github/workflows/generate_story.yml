@@ -44,6 +44,19 @@ jobs:
         run: pip install --no-cache-dir -r requirements.txt
 
 
+      - name: Temporarily Set Repository to Public (Unlimited Free Action Minutes)
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -n "$GH_PAT" ]; then
+            echo "Switching repository to PUBLIC for unlimited free minutes..."
+            curl -s -X PATCH \
+              -H "Authorization: token $GH_PAT" \
+              -H "Accept: application/vnd.github.v3+json" \
+              https://api.github.com/repos/${{ github.repository }} \
+              -d '{"private":false}' || true
+          fi
+
       - name: Process Movies
         env:
           COMMANDCODE_API_KEY: ${{ secrets.COMMANDCODE_API_KEY }}
@@ -59,3 +72,18 @@ jobs:
           git add -A ready_stories/ completed_stories/
           git commit -m "Updated story queue [skip ci]" || echo "No changes to commit"
           git push
+
+      - name: Revert Repository to Private
+        if: always()
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -n "$GH_PAT" ]; then
+            echo "Reverting repository to PRIVATE..."
+            curl -s -X PATCH \
+              -H "Authorization: token $GH_PAT" \
+              -H "Accept: application/vnd.github.v3+json" \
+              https://api.github.com/repos/${{ github.repository }} \
+              -d '{"private":true}' || true
+          fi
+
