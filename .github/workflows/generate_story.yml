@@ -1,16 +1,10 @@
 name: Generate Sleep Story
 
 on:
-  push:
-    branches: [ main ]
-    paths-ignore:
-      - 'completed_stories/**'
-      - 'README.md'
-      - 'walkthrough.md'
-      - '.gitignore'
   schedule:
-    - cron: '0 23 * * *' # Runs at 23:00 UTC (7:00 PM EST) every day
+    - cron: '0 23 * * *' # Runs at 23:00 UTC (2:00 AM EAT) every day
   workflow_dispatch: # Allows you to run it manually from the Actions tab
+
 
 jobs:
   generate:
