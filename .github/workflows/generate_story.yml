@@ -71,7 +71,10 @@ jobs:
           mkdir -p completed_stories
           git add -A ready_stories/ completed_stories/
           git commit -m "Updated story queue [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main || true
           git push
+
+
 
       - name: Revert Repository to Private
         if: always()
