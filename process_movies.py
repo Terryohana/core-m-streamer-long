@@ -434,19 +434,44 @@ def process_ready_story(story_dir):
     try:
         import youtube_uploader
         final_mp4 = os.path.join(story_dir, "video.mp4")
-        print(f"Encoding 1080p MP4 video with ultra-fast FFmpeg engine...", flush=True)
+        short_mp4 = os.path.join(story_dir, "short.mp4")
+        
+        print(f"1. Encoding 1080p full-length MP4 video with ultra-fast FFmpeg engine...", flush=True)
         youtube_uploader.create_mp4(final_audio, thumb_path, final_mp4)
+        
+        print(f"2. Rendering 9:16 vertical Highlight Short with atmospheric artwork...", flush=True)
+        try:
+            youtube_uploader.create_short_mp4(final_audio, thumb_path, title, short_mp4, duration=50)
+        except Exception as se:
+            print(f"Short rendering encountered an issue (continuing with long video): {se}", flush=True)
+            short_mp4 = None
         
         if os.environ.get("YOUTUBE_OAUTH_TOKEN"):
             print("Connecting to YouTube API...", flush=True)
             yt_service = youtube_uploader.get_authenticated_service()
-            youtube_uploader.upload_video(
+            
+            # Step 1: Upload Full-Length Sleep Story Video
+            print(f"Uploading Full-Length Sleep Story to YouTube...", flush=True)
+            long_vid_id = youtube_uploader.upload_video(
                 youtube=yt_service,
                 video_file=final_mp4,
                 title=title,
                 description=description,
                 thumbnail_path=thumb_path
             )
+            
+            # Step 2: Upload 9:16 Highlight Short (linking directly to the full story)
+            if short_mp4 and os.path.exists(short_mp4):
+                try:
+                    print(f"Uploading Highlight Short linking to https://youtu.be/{long_vid_id}...", flush=True)
+                    youtube_uploader.upload_short(
+                        youtube=yt_service,
+                        video_file=short_mp4,
+                        title=title,
+                        long_video_id=long_vid_id
+                    )
+                except Exception as ue:
+                    print(f"Short upload encountered an issue (main video uploaded OK): {ue}", flush=True)
         else:
             print("Skipping YouTube upload: YOUTUBE_OAUTH_TOKEN not set.", flush=True)
     except Exception as e:
