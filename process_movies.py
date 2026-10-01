@@ -478,16 +478,36 @@ def process_ready_story(story_dir):
         print(f"YouTube Upload Pipeline failed: {e}", flush=True)
 
 def main():
-    # 1. Check ready_stories queue first
-    ready_dirs = sorted([d for d in glob.glob("ready_stories/story_*") if os.path.isdir(d)])
+    # 1. Check ready_stories queue first (strictly validated)
+    candidate_dirs = sorted([d for d in glob.glob("ready_stories/story_*") if os.path.isdir(d)])
+    ready_dirs = []
+    for d in candidate_dirs:
+        meta_path = os.path.join(d, "metadata.json")
+        script_path = os.path.join(d, "script.md")
+        if os.path.exists(meta_path) and os.path.exists(script_path):
+            try:
+                if os.path.getsize(script_path) > 100:
+                    with open(meta_path, "r", encoding="utf-8") as f:
+                        json.load(f)
+                    ready_dirs.append(d)
+                else:
+                    print(f"Skipping incomplete folder (empty script): {d}")
+            except Exception as e:
+                print(f"Skipping invalid package {d}: {e}")
+        else:
+            print(f"Skipping incomplete package {d} (missing metadata.json or script.md)")
+
     if ready_dirs:
         target_dir = ready_dirs[0]
-        print(f"Found ready story package: {target_dir}")
+        print(f"Found validated ready story package: {target_dir}")
         process_ready_story(target_dir)
         
         os.makedirs("completed_stories", exist_ok=True)
         import shutil
-        shutil.move(target_dir, os.path.join("completed_stories", os.path.basename(target_dir)))
+        dest = os.path.join("completed_stories", os.path.basename(target_dir))
+        if os.path.exists(dest):
+            shutil.rmtree(dest)
+        shutil.move(target_dir, dest)
         print(f"Moved {target_dir} to completed_stories/")
         return
 
@@ -518,3 +538,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
