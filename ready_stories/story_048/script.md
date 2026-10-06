@@ -1,4381 +1,1730 @@
-[NARRATOR] Welcome to tonight's peaceful sanctuary of deep, restorative slumber. Take this moment to settle into your bed, softening your posture, letting your head sink gently into the pillow, and releasing all the residual tension of the day. Inhale slowly and deeply... feeling the cool, tranquil air fill your lungs... and gently exhale, letting go of all effort. Tonight, we journey through an expansive, atmospheric sleep story inspired by the world of The River of Enduring Light. Allow the calming rhythm of the narrative to carry you effortlessly into stillness and deep rest.
+[NARRATOR] The afternoon light outside drifts softly across the sprawling, dew-kissed lawns of Oregon, casting long, peaceful shadows over a very different kind of morning. Inside a quiet, unassuming office building—one that feels miles away from luxury—the air is still and heavy with the quiet hum of routine. The year is 1984, and the world moves at a slower, gentler pace. Down a long, hushed hallway, the eye drifts past framed photographs of Olympic track stars, runners caught mid-stride, frozen in golden moments of quiet triumph. The wooden floors creak ever so softly beneath unseen steps, leading toward a conference room where the atmosphere is thick with afternoon drowsiness. 
 
-[NARRATOR] 12 Years A Slave whispers gently into the still air:
+[NARRATOR] At the head of the long table stands Rob Strasser, a mountain of a man with broad shoulders and a warm, glowing red beard that catches the dim light filtering through the blinds. He looks out over the small, weary gathering of marketing men, pencil pushers in neatly pressed collared shirts, clutching their heavy ceramic coffee mugs. Strasser leans forward, his voice a low, rumbling bass that vibrates soothingly against the wood-paneled walls.
 
-[MALE] Written by John Ridley CARD: 1841 FADE IN: 1 INT. TOWNHOUSE/STUDY - DAY 1 -EARLY APRIL, 1841- We are close on a PAIR OF BLACK HANDS as they open A FINELY WRAPPED PACKET OF VIOLIN STRINGS. WE CUT TO the hands stringing a VIOLIN. It's not a high end piece, but it is quite nice. WE CUT TO a wide shot of the study. Sitting in a chair with violin in hand is SOLOMON NORTHUP; a man in his late twenties. Everything about Solomon, his mien and manner, is distinguished. But he, too, seems a hardy individual. Someone who has known manual labor in his time. Solomon begins to lightly play his violin, as if testing the strings, their tuning. Satisfied, Solomon begins to play vigorously. As he does, we make a HARD CUT TO: INT. HOUSE/LIVING ROOM - EVENING We come in on a lively affair. A dinner party is being thrown within the confines of a fairly stately house. In attendance are EIGHT COUPLES. All are WHITE and all are FAIRLY YOUNG, in their early twenties. The men and women are dressed in very fine attire. We should get the sense that for the most part they are people of means. The furniture has been set aside in the living room. At the moment the couples are engaged in the dancing of a
+[MALE] Well... Orwell was right. 1984's been a tough year. Sales down. Growth down. Ratings down. But I know I'm not worried. How about you guys? Bids are going in next week. Let's run through ideas? Alright. Olajuwon is off the table. Number one pick isn't coming here. We're not getting Jordan either. Word is he's going Adidas. Maybe Converse if they're willing to pay. So... same plan as always: we'll identify three players, and split the baby. We know we're going after Barkley and Bowie. Any other ideas? Anyone?
 
-[NARRATOR] Reel. responds with gentle reassurance:
+[NARRATOR] The only sound in the warm, quiet room is the rhythmic, hypnotic tapping of wooden pencils against lined yellow notepads. Tap. Tap. Tap. Strasser scans the tired faces around the table, waiting for a spark in the hazy afternoon stillness.
 
-[MALE] The music they are dancing to is being played by Solomon, having cut directly from the tune he was previously playing. He plays with a light determination, and in no way seems possessed with empty servitude. Solomon concludes the reel, and the dancers break into enthusiastic applause, which is followed by personal thanks and congratulations from all. It should be clear that despite their respective races there is much admiration and appreciation for Solomon's abilities. INT. NORTHUP HOUSE/BEDROOM - MORNING It is a Saturday morning. Clad in her finest attire is ANNE; Solomon's wife, a few years younger than he. We see also the Northup children: MARGARET who is eight, and ALONZO who is five. They are handsome, and well groomed kids. Anne straightens up the children. She finishes,
+[MALE] Anyone else?
 
-[NARRATOR] 2. offers quietly, watching the shadows drift across the room:
+[MALE] I like Melvin Turpin.
 
-[MALE] 3 CONTINUED: 3 she rises up and stands behind them, almost as if preparing to pose for a portrait. They all wait a moment, then Solomon enters the foyer. He stands and looks admiringly at his family. ADMIRINGLY stressed. It isn't that he doesn't have love for them, he does as well. But in the moment, he truly admires his greatest accomplishment: a family that is healthy and well and provided for. He goes to his children, and hands each a coin, then goes to Anne. Gives her a kiss on the cheek. The children giggle at the sight. EXT. STREET - DAY Solomon and his family are out walking along the streets and groves of Saratoga. The streets are well populated this morning with many people out strolling. Most are WHITE, but there are BLACKS as well. They are FREED BLACKS who mingle fairly easily - though not always completely - with the whites. We see, too, a few BLACK SLAVES who travel with their WHITE MASTERS. These pairings are largely from the south and - despite the fact the blacks are slaves - they are not physically downtrodden, not field hands. They are well dressed and "leading apparently an easy life" - comparatively speaking - as they trail their masters. As they walk, Solomon and his family arrive to an intersection well-worn and muddied from horse and cart traffic. Solomon and his children easily jump across the muck. Anne stands at the lip of the puddle, calls for Solomon to help her across.
+[NARRATOR] Strasser nods, picking up a dry-erase marker and sweeping it across the white board with a smooth, satisfying squeak.
 
-[NARRATOR] Anne murmurs with a warm, steady cadence:
+[MALE] Great. Let's get him on the board. Anyone else?
 
-[MALE] Solomon... Solomon, turning back to his wife with a broad smile waving her forward:
+[MALE] What about John Stockton?
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[NARRATOR] Strasser pauses, tilting his head as he considers the name in the quiet room.
 
-[MALE] Come, Anne. Jump. The children, now smiling as well, egg their mother on.
+[MALE] Interesting. From Gonzaga?
 
-[NARRATOR] Alonzo Margaret adds in a relaxed, peaceful voice:
+[MALE] Yeah.
 
-[MALE] Jump. You can make it. I've done it. You can make it.
+[NARRATOR] Strasser turns back to the board, a faint, weary smile touching his lips.
 
-[NARRATOR] Anne responds with gentle reassurance:
+[MALE] Alright. Well, let's go into...
 
-[MALE] I will not ruin my dress. Catch me! Solomon moves close, holds out his arms. Yet, there's still just a bit of mischievousness in his eyes. Anne gives her husband a lightly stern look to which Solomon replies.
+[NARRATOR] Suddenly, from the dark, shadowy corner at the very back of the room, a low, casual voice cuts through the sleepy haze, drawing every pair of tired eyes toward the rear.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[MALE] Why do you like Melvin Turpin?
 
-[MALE] I will catch you, Anne.
+[NARRATOR] The heavy, dust-mote-filled air of the conference room settles even deeper, the warm afternoon sunlight slanting lazily through the high blinds, casting long, peaceful stripes of gold and shadow across the worn carpet. From the back of the room steps Sonny, a heavy-set man of forty-five with the unmistakable posture of someone who has long forgotten the art of resting. The dark, soft half-moons beneath his eyes speak of a quiet, relentless exhaustion, a quiet static that hums in the background of his mind as he leans forward slightly, his gaze fixed and unblinking.
 
-[NARRATOR] I will.
+[MALE] Melvin Turpin. What do you like about him?
 
-[NARRATOR] Again, lightly stern:
+[NARRATOR] A mild, uneasy ripple passes through the seated group, the collective breath hitching softly in the quiet room. Bill, caught off guard in the warm, ambient glow, blinks against the light.
 
-[NARRATOR] Anne offers quietly, watching the shadows drift across the room:
+[MALE] Me?
 
-[MALE] You will. And with that Anne takes the leap. Solomon catches her, swings her around grandly and sets her down lightly to the delighted applause of the children. That done, Solomon takes Anne's hand and leads her on. As Solomon and his family make their way, among the slaves on the street, we see one in particular; JASPER. As he trails his MASTER he can't help but note Solomon and his family as they enter A STORE. His intrigue of this most handsome and harmonious group should be obvious. With his Master occupied, Jasper moves slyly toward the STORE. Frozen on the spot, Jasper looks on admiringly. Suddenly a voice barks out-
+[MALE] You're the one who said you like Melvin Turpin, right? Jim?
 
-[NARRATOR] A Voice responds with gentle reassurance:
+[MALE] Bill.
 
-[MALE] Jasper! Come on! INT. STORE - LATER We are inside the store of MR. CEPHAS PARKER; a white man and a supplier of general goods. Solomon greets him WITH:
+[MALE] Bill. Right. Bill the big Melvin Turpin fan.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] He made the Final Four last year.
 
-[MALE] Mr. Parker.
+[NARRATOR] Bill’s voice trails off slightly, losing itself in the quiet acoustics of the expansive room, where every word seems to stretch and soften before fading into the upholstery.
 
-[NARRATOR] Parker responds with gentle reassurance:
+[MALE] So did forty other players.
 
-[MALE] Mr. Northup. Mrs. Northup. With money in hand the Northup children move quickly about the store looking for items to purchase. CONTINUED: Anne looks over some silks and fabrics. Parker suggests TO SOLOMON:
+[MALE] Kentucky puts good players in the NBA. I mean, he was the fifth pick...
 
-[NARRATOR] Parker adds in a relaxed, peaceful voice:
+[MALE] Have you watched him?
 
-[MALE] A new cravat, Solomon? Pure silk by way of the French.
+[MALE] Of course, I...
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[MALE] So what do you like about his game?
 
-[MALE] We are in need of a fresh carry all for the Mrs's travels.
+[MALE] He's got a good feel for the court. Good vision.
 
-[NARRATOR] Parker whispers gently into the still air:
+[MALE] He only had 33 assists last year, which would tell most observers otherwise.
 
-[MALE] A year's passed? Off to Sandy Hill?
+[MALE] Listen, I...
 
-[NARRATOR] Anne answers in a low, calming tone:
+[MALE] No, actually I agree with you. Mel Turpin is going be good. In Europe, when he's out of the league in four years. Maybe we can sign him then. We have an office in Paris, right? You like Mel Turpin because he was the fifth pick in the draft. You like him because it's an easy answer and no one is going to give you shit for saying you like the fifth pick in the draft.
 
-[MALE] I am. Using a long pole, Mr. Parker fetches down a CARRY ALL from an upper shelf.
+[NARRATOR] A profound, heavy silence descends upon the room, thick and velvety, broken only by the distant, muffled hum of the building's ventilation system whispering through the vents. Strasser shifts in his seat, the leather creaking softly in the stillness.
 
-[NARRATOR] Parker responds with gentle reassurance:
+[MALE] Alright, alright. Any other ideas?
 
-[MALE] Something to suit your style, but sturdy enough for the forty miles round trip. Handing the Bag to Anne, she is immediately taken by it.
+[NARRATOR] The silence stretches, deep and uninterrupted, a blanket of quiet settling over the tired minds. Then, with a slow, deliberate motion, Sonny slowly raises two fingers, pressing them gently against his temple in a mock gesture of finality, and mimics the soft, silent pop of an imaginary trigger.
 
-[NARRATOR] Anne offers quietly, watching the shadows drift across the room:
+[MALE] What the hell is wrong with you?
 
-[MALE] It's beautiful.
+[NARRATOR] The transition dissolves gently into the bright, neutral hum of the Nike headquarters cafeteria at midday. A soft murmur of overlapping conversations floats like a distant river over the clatter of plastic trays and silverware. Under the pale, fluorescent panels, a long, winding sea of people inches forward for the daily corporate lunch. Away from the bustle, tucked into a quiet corner booth, Sonny and Strasser sit opposite one another. Strasser is already quietly eating the humble, uniform meal that everyone else patiently waits in line for, the subtle steam rising in the cool indoor air.
 
-[NARRATOR] At what price?
+[MALE] So who are we thinking?
 
-[NARRATOR] Anne responds with gentle reassurance:
+[MALE] We just sat in a conference room for an hour trying to answer that exact question.
 
-[MALE] We will take it. Children, come see what your father has just purchased for me. As the children run over - chattering excitedly about the new gift - they RUN PAST JASPER who has quietly entered the store. At the checkout counter sits a portrait of WILLIAM HENRY HARRISON, the edges draped in black crepe. Before the book sits a LEDGER. Mr. Parker asks of Solomon:
+[MALE] I like Stockton some.
 
-[NARRATOR] Parker adds in a relaxed, peaceful voice:
+[MALE] That would have been nice to discuss in the meeting. He was brought up.
 
-[MALE] If you would sign our condolence book. My hope is to find a way to forward it to the Widow Harrison. Sad days for the nation.
+[MALE] I didn't want to discuss it in the meeting. I wanted to discuss it with you. What happens in there is bullshit.
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[MALE] That's because people are scared to speak.
 
-[MALE] Yes, certainly. Poor Mrs. Harris and her children. I hope brighter times ahead.
+[MALE] Why would they be scared?
 
-[NARRATOR] 4A. whispers gently into the still air:
+[MALE] Because you chew their heads off!
 
-[MALE] 5 CONTINUED:  5 Jasper looks scared, timid. It's as though he'd like to engage, but is unsure of as to how. Noting Jasper, Parker SAYS:
+[MALE] I wouldn't do that if they had good suggestions. Mel Turpin?
 
-[NARRATOR] Parker offers quietly, watching the shadows drift across the room:
+[MALE] I didn't say Melvin Turpin was a good idea.
 
-[MALE] A moment, sir, and you will be assisted.
+[MALE] Then why defend it?
 
-[NARRATOR] Solomon answers in a low, calming tone:
+[MALE] Team mindset, Sonny.
 
-[MALE] If we could discuss the price...
+[MALE] I prefer the truth.
 
-[NARRATOR] 5. answers in a low, calming tone:
+[NARRATOR] Strasser pauses, his fork hovering just above his plate. He lowers his voice, the ambient noise of the cafeteria washing over them like white noise, creating an intimate bubble of quiet focus between the two men.
 
-[MALE] 5 CONTINUED:  5
+[MALE] We have 250k for three players. How do we want to spend it?
 
-[NARRATOR] Parker answers in a low, calming tone:
+[MALE] Can we get more?
 
-[MALE] Forgive me, Mrs. Northup. A customer waits. Welcome, sir. To Jasper, with good nature:
+[MALE] No chance. I'd say Barkley is the most interesting, the most marketable... the round mound of rebound. It's there already. We don't have to do anything - just have to print it on a billboard.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] What about Jordan?
 
-[MALE] Shop well, but mind your wallet.
+[MALE] Converse or Adidas. For sure. I sat in Falk's office for three hours last month. Just too expensive.
 
-[NARRATOR] Parker offers quietly, watching the shadows drift across the room:
+[MALE] Guy never shuts...
 
-[MALE] Ignore the gentleman's nonsense. Now, may I interest you in a new cravat? Pure silk by way of the-- Before Parker can finish, the door opens. It's Jasper's Master, FITZGERALD. He's stern, clearly displeased.
+[NARRATOR] The afternoon sun casts long, golden bands of light across the vast, flat fields surrounding the office campus. A gentle, cooling breeze rustles the tall prairie grass just outside the window, whispering through the quiet expanse. Inside, the hum of the building settles into a low, rhythmic drone, lulling the room into a deep, meditative stillness. 
 
-[NARRATOR] Fitzgerald whispers gently into the still air:
+[MALE] I do like Stockton some. Gonzaga though...? I don't think people even know where that is.
 
-[MALE] Jasper!
+[MALE] I'm not saying it's ideal.
 
-[NARRATOR] My regrets for the intrusion.
+[NARRATOR] Sonny turns his gaze outward, watching the light slowly shift across the horizon, painting the sky in soft shades of amber and pale blue. The world outside is vast, quiet, and unhurried. 
 
-[NARRATOR] Solomon answers in a low, calming tone:
+[MALE] Listen, what I said in there? About not being worried? I was lying.
 
-[MALE] No intrusion. Fitzgerald looks to Solomon. It is a cold glare as though he wasn't speaking to, and has no interest in a response from a black man. Looking back to Parker:
+[MALE] No shit.
 
-[NARRATOR] Fitzgerald answers in a low, calming tone:
+[MALE] You saw the numbers. One of these three needs to be a star. Otherwise... Nike may well be out of the basketball business. And we'll be out of jobs.
 
-[MALE] Good day, sir.
+[MALE] I'm out of a job. You'd be fine. We're on the brink. It's just a matter of time before we hit on the right player.
 
-[NARRATOR] 6 6 adds in a relaxed, peaceful voice:
+[MALE] Unfortunately, time is the one thing we're short on.
 
-[MALE] INT. NORTHUP HOUSE/DINING ROOM - EVENING Anne, busy in the kitchen, puts the final touches to the meal, which is just about to begin. Solomon, in the meanwhile, sits at the head of the table reading from a NEWSPAPER. He reads to his children solemn news of the funeral arrangements for the recently deceased President Harrison.
+[NARRATOR] A deep, weary sigh escapes, dissolving into the quiet air of the room as a gaze fixes thoughtfully upon the ceiling, watching the faint play of shadows from the afternoon light.
 
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[MALE] OK. So, Barkley. Stockton. And Bowie. These are good players.
 
-[MALE] "Thus has passed away from earth our late President." Solomon starts from the top of the article.
+[MALE] Yeah. They are.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] Then what's wrong?
 
-[MALE] "During the morning, from sunrise, the heavy bells had been pealing forth their slow and solemn toll while the minute guns announced that soon the grave would receive its trust. Our city as well as our entire nation has been called to weep over the fall of a great and good man. One who was by the wishes of a large majority of our
+[MALE] Just a feeling.
 
-[NARRATOR] 5A. whispers gently into the still air:
+[MALE] The time for feelings was six months ago. Now it's time to pick players. Nike needs a basketball icon. It's as simple as that. But icons are like money... they don't grow on trees.
 
-[MALE] 6 CONTINUED: 6
+[MALE] Money's made with paper. Paper comes from trees.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] Yeah, well I...
 
-[MALE] people raised to fill the highest place of trust within their gift. William Henry Harrison." A long moment of quiet, the family continuing to eat. Then, from Margaret:
+[NARRATOR] The heavy silence of the office is gently interrupted by approaching footsteps, soft and hesitant against the carpet. Richard stands nearby, bathed in the soft, fluorescent glow of the hallway, wearing the quiet, unassuming attire of middle management—a pale green button-up and simple khakis.
 
-[NARRATOR] Margaret responds with gentle reassurance:
+[MALE] Excuse me. Mr. Strasser... I... sorry to interrupt you.
 
-[MALE] Will you read it again?
+[MALE] That's fine, it's good to see you... Uh...
 
-[NARRATOR] Anne speaks with a quiet, measured softness:
+[MALE] I just wanted... could I get some time on your calendar next week? We've been discussing some marketing strategies on the Air Sole expansion and I'd love to pick your brain on it.
 
-[MALE] Not just now, darling. Anne enters the dining room and places a large chicken at the center of the table. As she takes a seat, all heads are bowed.
+[MALE] Of course. Just stop by my office and we'll get it on the books.
 
-[NARRATOR] Margaret adds in a relaxed, peaceful voice:
+[MALE] Great. Great! Looking forward to it!
 
-[MALE] For food that stays our hunger, For rest that brings us ease, For homes where memories linger, We give our thanks for these.
+[NARRATOR] Richard walks away with a quiet sense of accomplishment, his steps fading softly down the carpeted corridor. 
 
-[NARRATOR] All answers in a low, calming tone:
+[MALE] I have no idea who that is. You know there was a time I could name everyone who worked here?
 
-[MALE] Amen.
+[MALE] Things change. Places grow.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[NARRATOR] The ambient chatter of the cafeteria drifts in gently from afar. People move quietly, milling about like slow-moving streams of water, lost in their own peaceful routines under the warm indoor lights.
 
-[MALE] Margaret, that was wonderful.
+[MALE] I guess so. You want dessert? Sundae bar today.
 
-[NARRATOR] Margaret offers quietly, watching the shadows drift across the room:
+[MALE] Can't.
 
-[MALE] Thank you, Papa.
+[MALE] What, you have other plans?
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] Have a meeting.
 
-[MALE] Alonzo, do you have something to say?
+[MALE] With who?
 
-[NARRATOR] Alonzo answers in a low, calming tone:
+[MALE] The shoe dog.
 
-[MALE] Yes, I helped Momma make this.
+[NARRATOR] Eyebrows raise in silent surprise, breaking the tranquil moment with a flicker of intrigue. 
 
-[NARRATOR] Anne murmurs with a warm, steady cadence:
+[NARRATOR] Night has fallen softly over the campus, blanketing the grounds in a blanket of cool, starry darkness. Inside the private sanctuary of Phil Knight's office, the lighting is warm and amber, cast by a solitary desk lamp that creates a cozy pool of illumination against the deepening night. Phil sits quietly—a bohemian capitalist with an orange-red beard and long, flowing hair, possessing the lean, effortless grace of a long-distance runner. 
 
-[MALE] Yes, and you were such a good help. Especially making the gravy.
+[MALE] Sonny.
 
-[NARRATOR] Margaret answers in a low, calming tone:
+[NARRATOR] Sonny makes the long, deliberate walk across the carpeted floor from the heavy oak door to the massive wooden desk. Resting upon it is a small plastic basketball. He reaches out, picking it up, feeling its familiar texture, and tosses it gently up and down, catching it in a soft, repetitive rhythm. On the wood-paneled wall nearby hangs a miniature Oregon Ducks hoop, and right beside it, resting in quiet reverence, is the infamous waffle iron—the humble tool that birthed the very first sole of a Nike shoe, now resting peacefully in history.
 
-[MALE] Papa, I would very much like to learn how to play the violin. Could you teach me?
+[MALE] I'm missing the sundae bar, Phil.
 
-[NARRATOR] Alonzo adds in a relaxed, peaceful voice:
+[MALE]
 
-[MALE] Me too!
+[NARRATOR] The afternoon sun casts long, golden amber slats of light across the rich wood-paneled walls of the office, settling in a warm, dusty haze over the room. Outside, a gentle breeze rustles the tall, swaying pines of Oregon, carrying the quiet, steady hum of the afternoon. 
 
-[NARRATOR] Margaret offers quietly, watching the shadows drift across the room:
+[MALE] Who's this lunatic that keeps skateboarding in the parking lot?
 
-[MALE] Yes, but I asked Papa first.
+[NARRATOR] They both turn their gaze toward the wide, double-paned window, looking down at the quiet expanse of the parking lot below. There, gliding smoothly between the parked cars, a solitary figure weaves a graceful path across the asphalt. The skateboarder wears a heavy leather jacket and a wide-brimmed cowboy hat, both catching the afternoon sunlight with an effortless, designer sheen, even from this second-floor vantage point. 
 
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[MALE] No idea.
 
-[MALE] Both of you, calm down. We will have our first lesson after this wonderful dinner. And on that note, let's start eating.
+[NARRATOR] Below them, the skater bends his knees, launches upward, and leaps cleanly over the back of a sedan, landing with a soft, rolling rustle of urethane wheels against the pavement. 
 
-[NARRATOR] 5B. murmurs with a warm, steady cadence:
+[MALE] Jesus Christ.
 
-[MALE] 6 CONTINUED:  6 The family all tuck in to their meal. The scene is one of warmth and happiness.
+[NARRATOR] Phil Knight turns his shoulders away from the window, pulling his attention back to the desk, back to the work, back to the relentless rhythm of the business.
 
-[NARRATOR] Solomon and Anne have fun and difficulty putting the
+[MALE] How was the strategy meeting?
 
-[NARRATOR] unruly children to bed. They are tucked in, and each
+[MALE] Oh, just enlightening.
 
-[NARRATOR] given a kiss good night. As Margaret lays down to sleep,
+[MALE] Do we have a plan in place?
 
-[NARRATOR] Anne blows out the candle darkening the room.
+[MALE] Well, if you ask Strasser, the plan in place is the plan that's always been in place. Split our budget in three, sign three players... and cross our fingers. Maybe we can try pressing the Magic Money Button while we're at it.
 
-[NARRATOR] Silhouetted in the doorway, Solomon takes Anne in his
+[MALE] Don't fuck around, Sonny. First quarterly loss in history. I just had to lay off a quarter of the fucking company.
 
-[NARRATOR] arms, holds her tightly as they both luxuriate in the
+[NARRATOR] The room grows heavier, the silence between their words stretching out like the long, quiet shadows on the carpet. The distant rustle of the trees outside offers a soft, rhythmic lull.
 
-[NARRATOR] simple, beautiful gift that is their children.
+[MALE] There's no escape hatch, Phil. We need to increase spending.
 
-[NARRATOR] 7A 7A responds with gentle reassurance:
+[MALE] That's not going to happen.
 
-[MALE] INT. NORTHUP HOUSE - NIGHT Now alone together, we see Anne and Solomon wrapped in each other's arms. Beyond being physically close, emotionally close, they are just so very comfortable with one another. They are the very representation of a couple who are made for each other. They look at each other for a prolonged time.
-
-[NARRATOR] Three weeks. Two days.
-
-[NARRATOR] Anne responds with gentle reassurance:
-
-[MALE] It is the custom. I wonder what you'll do without me?
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] I won't stay idle. SOLOMON's eyes lower.
-
-[NARRATOR] Anne whispers gently into the still air:
-
-[MALE] Darling, it's good money.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] If only I didn't have to share your cooking with other people. ANNE holds his gaze.
-
-[NARRATOR] Anne answers in a low, calming tone:
-
-[MALE] You don't. They kiss.
-
-[NARRATOR] 7. offers quietly, watching the shadows drift across the room:
-
-[MALE] 9 EXT. NORTHUP HOUSE - MORNING 9 We are just outside the Northup house. A CARRIAGE waits with a DRIVER. Anne and the children are dressed for travel - Anne sporting HER NEW CARRY ALL. The Driver loads bags into the carriage. For her parting gift, Anne gives her husband a kiss.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] Travel safely.
-
-[NARRATOR] Anne responds with gentle reassurance:
-
-[MALE] Stay safely. Anne and the children loaded up, the Driver chides the horse and the carriage heads off. Solomon waves a hearty good bye to his wife and children.
-
-[NARRATOR] 10 10 answers in a low, calming tone:
-
-[MALE] EXT. PARK - DAY Solomon is now out for a stroll. He passes two men - two in particular - who stand outside conversing with MR. MOON himself: MERRILL BROWN and ABRAM HAMILTON. Brown is about 40, with a countenance indicating shrewdness and intelligence. Hamilton is closer to 25, a man of fair complexion and light eyes. Both are finely, if perhaps a bit garishly, dressed. Hamilton, as Solomon describes him, slightly effeminate. Moon, spotting Solomon:
-
-[NARRATOR] Mr. Moon murmurs with a warm, steady cadence:
-
-[MALE] Call the Devil's name... There he is now. Mr. Northup...! I have two gentlemen who should make your acquaintance. Messrs. Brown and Hamilton.
-
-[NARRATOR] Brown answers in a low, calming tone:
-
-[MALE] Sir.
-
-[NARRATOR] Mr. Moon answers in a low, calming tone:
-
-[MALE] Mr. Northup, these two gentlemen were inquiring about distinguished individuals, and I was just this very moment telling them that Solomon Northup is an expert player on the violin.
-
-[NARRATOR] Hamilton adds in a relaxed, peaceful voice:
-
-[MALE] He was indeed.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Mr. Moon is being overly gracious.
-
-[NARRATOR] 8. murmurs with a warm, steady cadence:
-
-[MALE] 10 CONTINUED: 10
-
-[NARRATOR] Brown murmurs with a warm, steady cadence:
-
-[MALE] Taking into consideration his graciousness and your modesty, may we trouble you for a moment of your time to converse, sir?
-
-[NARRATOR] 11 11 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. PARK/PAVILION - LATER We make a jump to a green space. Solomon, Brown and Hamilton are sitting at a bench.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] A circus?
-
-[NARRATOR] Hamilton adds in a relaxed, peaceful voice:
-
-[MALE] That is our usual employee. The company currently in the city of Washington.
-
-[NARRATOR] Brown responds with gentle reassurance:
-
-[MALE] Circus too constricting a word to describe the talented and merry band with which we travel. It is a spectacle unlike most have ever witnessed. Creatures from the darkest Africa as yet unseen by civilized man. Acrobats from the Orient able to contort themselves in the most confounding manners.
-
-[NARRATOR] Hamilton murmurs with a warm, steady cadence:
-
-[MALE] And I myself in aide of Mr. Brown; an internationally renowned practitioner in the art of prestidigitation.
-
-[NARRATOR] Brown answers in a low, calming tone:
-
-[MALE] We are on our way thither to rejoin the company having left for a short time to make a small profit from our own exhibitions.
-
-[NARRATOR] Hamilton responds with gentle reassurance:
-
-[MALE] The reason for our inquiry with Mr. Moon...
-
-[NARRATOR] Brown murmurs with a warm, steady cadence:
-
-[MALE] Yes. We had just a devil of a time in procuring music for our
-
-[NARRATOR] 9. murmurs with a warm, steady cadence:
-
-[MALE] 11 CONTINUED: 11
-
-[NARRATOR] Brown whispers gently into the still air:
-
-[MALE] entertainments. Men of true talent seemingly in short supply.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] Thank you sir...
-
-[NARRATOR] Brown responds with gentle reassurance:
-
-[MALE] If we could persuade you to accompany us as far as New York... We would give you one dollar for each day's service and three dollars for every night played at our performances. In addition we would provide sufficient pay for the expenses of your return from New York here to Saratoga.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] You understand this is all very sudden.
-
-[NARRATOR] Hamilton responds with gentle reassurance:
-
-[MALE] Consider it an opportunity to see
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] It's intriguing...
-
-[NARRATOR] Hamilton speaks with a quiet, measured softness:
-
-[MALE] If there is any way in which you would give consideration to the offer... Solomon gives the whole deal one last consideration.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] The payment offered is enticement enough, as is my desire to visit the metropolis.
-
-[NARRATOR] Hamilton murmurs with a warm, steady cadence:
-
-[MALE] We are delighted, sir. So delighted. Though we would add that our travel plans--
-
-[NARRATOR] Brown offers quietly, watching the shadows drift across the room:
-
-[MALE] We would like to depart with haste.
-
-[NARRATOR] 10. murmurs with a warm, steady cadence:
-
-[MALE] 11 CONTINUED:  11
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] As luck would have it, my wife and children are traveling. I will write her of our plans.
-
-[NARRATOR] Brown speaks with a quiet, measured softness:
-
-[MALE] Excellent! I would beg you collect yourself, then we may proceed.
-
-[NARRATOR] 12 12 murmurs with a warm, steady cadence:
-
-[MALE] INT. NORTHUP HOUSE/BEDROOM - LATER Back in his house, we see Solomon packing: putting some clothes in a travel case, and collecting his violin as well. 13 INT. NORTHUP HOUSE/STUDY - LATER 13 Solomon sits down to write a letter; pen poised over paper with already a few lines written. But Solomon thinks better of it. WITH LITTLE THOUGHT HE TEARS THE PAPER AND SETS IT ASIDE. WE SHOULD GET THE SENSE THAT THE ABSOLUTE VALUE OF BEING ABLE TO COMMUNICATE BY LETTER IS LOST ON SOLOMON. THIS FACT WILL HAVE GREAT WEIGHT IN
-
-[NARRATOR] 14 14 answers in a low, calming tone:
-
-[MALE] EXT. SOLOMON'S HOUSE/INT. COVERED CARRIAGE - LATER Solomon enters the buggy, carpet bag in hand. Brown and Hamilton are waiting. They ride in a covered carriage led by a pair of "noble" horses.
-
-[NARRATOR] Hamilton responds with gentle reassurance:
-
-[MALE] No letter to post?
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] No need. My return will coincide with my family's.
-
-[NARRATOR] Brown adds in a relaxed, peaceful voice:
-
-[MALE] We're off then.
-
-[NARRATOR] 15 15 responds with gentle reassurance:
-
-[MALE] INT. PUB - EVENING -MID TO LATE APRIL, 1841- We find ourselves in a roadside pub. It serves the purpose of drinking and diversion, and little more. As Solomon plays his violin, Brown and Hamilton perform a decent, paired magic routine before a SPARSE AUDIENCE NOT OF "SELECT CHARACTER."
-
-[NARRATOR] 16 Int. Pub - Later 16 whispers gently into the still air:
-
-[MALE] After the show, the pub now fairly empty, Solomon, Hamilton and Brown sit down to eat. Hamilton and Brown drink, but again Solomon abstains. Though Solomon remains cool, Hamilton and Brown put up a great show of being disappointed as Hamilton counts out what little money was collected.
-
-[NARRATOR] Hamilton murmurs with a warm, steady cadence:
-
-[MALE] Not an additional tip from a one of them. They expect to be entertained for nothing.
-
-[NARRATOR] Brown speaks with a quiet, measured softness:
-
-[MALE] And not satisfied a bit despite giving them more than what they paid for.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] It's the national mood. There's too much grief to make room for frivolity.
-
-[NARRATOR] Hamilton answers in a low, calming tone:
-
-[MALE] My sincerest apologies, Solomon. You were promised opportunity, and you were given none.
-
-[NARRATOR] Brown whispers gently into the still air:
-
-[MALE] The opportunity is with the circus. A two man show poorly promoted, what were we to expect? But the circus bills itself.
-
-[NARRATOR] Hamilton whispers gently into the still air:
-
-[MALE] True.
-
-[NARRATOR] Brown answers in a low, calming tone:
-
-[MALE] I have told you of the circus with which we are connected. Creatures from the darkest of Africa. Acrobats from the Orient who--
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] You have described it, yes.
-
-[NARRATOR] Brown murmurs with a warm, steady cadence:
-
-[MALE] Yes. We need to return immediately to Washington. Solomon...I believe us familiar enough now, but forgive me if I am bold...would you consider making the trip with us? Solomon gives a bit of a laugh at the idea.
-
-[NARRATOR] 12. offers quietly, watching the shadows drift across the room:
-
-[MALE] 16 CONTINUED: 16
-
-[NARRATOR] Hamilton responds with gentle reassurance:
-
-[MALE] Entertaining at pubs and inns has it's place, but a man of your skills deserves better.
-
-[NARRATOR] Brown offers quietly, watching the shadows drift across the room:
-
-[MALE] Hear, hear.
-
-[NARRATOR] Hamilton responds with gentle reassurance:
-
-[MALE] And more importantly you would build your own name and following. The circus tends to attract those with the highest of reputations. An introduction here and there could amount to a lifetime of reward. Now would be the time. With your family away, an opportunity presents itself.
-
-[NARRATOR] Brown adds in a relaxed, peaceful voice:
-
-[MALE] Said as fellow artists as well as businessmen. Well worth the effort at least.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] You present a flattering representation. As my family will be traveling back shortly, perhaps I might commit only to one trial engagement.
-
-[NARRATOR] Hamilton responds with gentle reassurance:
-
-[MALE] Oh, very good, sir. Very good. I cannot recall being so excited.
-
-[NARRATOR] Brown whispers gently into the still air:
-
-[MALE] There is a practical concern. If you are to continue on with us you should obtain your free papers.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] Not necessary.
-
-[NARRATOR] Brown answers in a low, calming tone:
-
-[MALE] Here in New York, no. But we will be entering slave states and as a matter of precaution... It's to all our benefit we should not have to come to account for your well being.
-
-[NARRATOR] Hamilton answers in a low, calming tone:
-
-[MALE] Six shillings worth of effort could well save much trouble later.
-
-[NARRATOR] 12A. adds in a relaxed, peaceful voice:
-
-[MALE] 16 CONTINUED:  16
-
-[NARRATOR] Brown offers quietly, watching the shadows drift across the room:
-
-[MALE] We'll go to the Customs House in the morning, then travel on. Good business all around.
-
-[NARRATOR] The city is a swarm of people. At the moment the populace
-
-[NARRATOR] is displaying both sorrow and anticipation. Sorrow for
-
-[NARRATOR] the loss of the President. Many are dressed in black,
-
-[NARRATOR] and black crepe hangs nearly everywhere. Black armbands
-
-[NARRATOR] are frequently seen, and the occasional American Flag
-
-[NARRATOR] hung at half mast. As well, there are portraits of
-
-[NARRATOR] Harrison at varying locations.
-
-[NARRATOR] Having arrived in Washington, Solomon, Hamilton and Brown
-
-[NARRATOR] 19 19 murmurs with a warm, steady cadence:
-
-[MALE] INT. GADSBY HOTEL/DINNING ROOM - EVENING A decent though crowded, boisterous and smoke-filled joint. Very lively. Solomon, Hamilton and Brown are among several parties drinking in the hotel's bar. As with seemingly everywhere in the city black crepes accessorize the background. Brown counts out $43.00 IN COIN on the tabletop. Solomon is astonished by the amount.
-
-[NARRATOR] Brown speaks with a quiet, measured softness:
-
-[MALE] Forty-three dollars. All to you.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] That...it's far more than my wages amount to.
-
-[NARRATOR] Brown offers quietly, watching the shadows drift across the room:
-
-[MALE] Consider the remainder an advance from the circus. I cannot tell you...I honestly wish you had seen the expression of our director when I described your abilities. He was fairly overcome with excitement.
-
-[NARRATOR] Hamilton adds in a relaxed, peaceful voice:
-
-[MALE] You should have invited him to sup with us.
-
-[NARRATOR] Brown answers in a low, calming tone:
-
-[MALE] I did. I did, but so many preparations before the company is to depart.
-
-[NARRATOR] Brown speaks with a quiet, measured softness:
-
-[MALE] Tomorrow we shall prepare for our Washington debut. But tonight, our thoughts are with the great man
-
-[NARRATOR] 13A. responds with gentle reassurance:
-
-[MALE] 19 CONTINUED: 19
-
-[NARRATOR] Brown murmurs with a warm, steady cadence:
-
-[MALE] for whom this city prepared solemn memorial. He has passed from the praise of men to receive the plaudit of his heavenly father. A fine man has passed. Let us remember him with a drink.
-
-[NARRATOR] 14. offers quietly, watching the shadows drift across the room:
-
-[MALE] 19 CONTINUED:  19 Both Hamilton and Brown hold up their tankards to drink. Solomon, a bit reluctantly, does the same.
-
-[NARRATOR] Hamilton answers in a low, calming tone:
-
-[MALE] Cheers.
-
-[NARRATOR] Brown adds in a relaxed, peaceful voice:
-
-[MALE] Another. Our departed President deserves all the salutation we can imbibe. Hamilton and Brown drink again, and Solomon does as well.
-
-[NARRATOR] 22 Ext. Alley - Later 22 offers quietly, watching the shadows drift across the room:
-
-[MALE] WE MAKE A HARD CUT to Solomon outside of the Pub, in an alley, with Brown and Hamilton in silhouette, back-lit by the street lights. He is violently ill, hunched over and retching horribly.
-
-[NARRATOR] Hamilton whispers gently into the still air:
-
-[MALE] That's all right Solomon. No shame in it. No shame at all.
-
-[NARRATOR] 15. adds in a relaxed, peaceful voice:
-
-[MALE] A23 INT. GADSBY HOTEL - STAIRCASE A23 Hamilton and Brown help Solomon to lumber up the spiral staircase, passing the occasional bemused guest. 23 INT. GADSBY HOTEL/SOLOMON'S ROOM - NIGHT 23 Hamilton is placing a spittoon near Solomon's bed, where a prone and reeling Solomon lays. Hamilton sits on the bed. As he strokes Solomon's sweaty face, Hamilton speaks sweetly.
-
-[NARRATOR] Hamilton adds in a relaxed, peaceful voice:
-
-[MALE] I'm afraid that Brown and I haven't brought you much luck. But rough waters bring smooth sailing. Eventually they do.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] ....So...so sorry...
-
-[NARRATOR] Hamilton speaks with a quiet, measured softness:
-
-[MALE] Shhh. We won't hear it. We won't.
-
-[NARRATOR] Brown speaks with a quiet, measured softness:
-
-[MALE] Let him sleep.
-
-[NARRATOR] Hamilton responds with gentle reassurance:
-
-[MALE] Hmm. A good night's sleep. And tomorrow...tomorrow you will feel as well and refreshed as though the earth were new again. Hamilton lingers a bit too long and a bit too close to Solomon for Brown's taste. With more than a bit of SIGNIFICATION:
-
-[NARRATOR] Brown whispers gently into the still air:
-
-[MALE] Hamilton! Nothing more we can do for him.
-
-[NARRATOR] Hamilton offers quietly, watching the shadows drift across the room:
-
-[MALE] Such is the pity. Displaying an odd sort of disappointment, Hamilton slinks away from the bed. He crosses to, and BLOWS OUT A CANDLE. The room goes dark with a blackness more than night. Brown and Hamilton exit. Solomon lays in the dark and moans. His sounds becoming MORE AND MORE
-
-[NARRATOR] 24 24 responds with gentle reassurance:
-
-[MALE] INT. BURCH'S DUNGEON - DAWN
-
-[NARRATOR] 16. adds in a relaxed, peaceful voice:
-
-[MALE] 24 CONTINUED: 24 Solomon stirs, then slowly awakes to his new circumstances. He finds himself in a nearly lightless room about twelve feet square with walls of solid masonry. There is a thick and well-locked door, a small window covered with iron bars and a shutter. The only furniture is a wood stool and an old fashioned, dirty box stove. As Solomon rises he sees that his HANDS are CUFFED - the chain running to a bolt in the ground - and his LEGS IN IRONS. At first Solomon is incredulous. But that emotion is replaced first by fury and then panic. He begins to pull on the chains, fight against them. He does so with increasing desperation. Solomon flails about, the sounds of the steel chains whipping and beating against the masonry. He grunts and screams without regard as the cuffs and irons bite into his flesh, but he cannot pull himself free. After several minutes of intense effort, Solomon tires, slows, then finally he collapses. And in this collapsed state he remains.
-
-[NARRATOR] 25 25 answers in a low, calming tone:
-
-[MALE] INT. BURCH'S DUNGEON - MORNING Solomon again awakens. He hears sounds beyond the door...footsteps. Eventually the door opens. Enter JAMES BURCH - who runs the slave pen - and EBENEZER RADBURN who works as a turnkey and overseer. As the door opens, this is the first light to seep into the otherwise near-black room. The shine is painful to Solomon's eyes. With no salutation whatsoever, Burch ASKS:
-
-[NARRATOR] Burch responds with gentle reassurance:
-
-[MALE] Well, my boy, how yah feel now? Solomon rises up as best he can. With all the resolve he can put together he states what he considers to be fact:
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] I am Solomon Northup. I am a free man; a resident of Saratoga, New York. The residence also of my wife and children who are equally free. I have papers. You have no right whatsoever to detain me--
-
-[NARRATOR] Burch offers quietly, watching the shadows drift across the room:
-
-[MALE] Yah not any--
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] And I promise you - I promise - upon my liberation I will have satisfaction for this wrong.
-
-[NARRATOR] Burch offers quietly, watching the shadows drift across the room:
-
-[MALE] Resolve this. Produce your papers.
-
-[NARRATOR] 17. answers in a low, calming tone:
-
-[MALE] 25 CONTINUED: 25 With confidence Solomon goes to the pocket of his trousers. He searches one, then the other, but they are empty. He feels quickly about himself, but clearly his papers have been lifted. Solomon's confidence shifts, but to resolve rather than fear. Papers or none, he will not be easily cowed. Still, Burch asserts:
-
-[NARRATOR] Burch answers in a low, calming tone:
-
-[MALE] Yah no free man. And yah ain't from Saratoga. Yah from Georgia. A moment. Not a word spoken among the trio, but Solomon and Burch do some serious eye fucking, neither man yielding. Burch says again:
-
-[NARRATOR] Burch speaks with a quiet, measured softness:
-
-[MALE] Yah ain't a free man. Yah nuthin' but a Georgia runaway. Burch waits for Solomon to acquiesce. Solomon does not in any way. Both men exchange a long and daring stare. The two are clearly at an intellectual stand off. Burch, leans to Radburn, SAYS SOMETHING WHICH WE CANNOT
-
-[NARRATOR] Distinguish. offers quietly, watching the shadows drift across the room:
-
-[MALE] Radburn walks off-camera and returns with a pair of "instruments:" a PADDLE - the flattened portion, which is about the size in circumference of two open hands, and bored with a small auger in numerous places. He also carries a WHIP. A cat-o-nine tails; a large rope of many strands. The strands unraveled and a knot tied at the extremity of each. Burch says again:
-
-[NARRATOR] Burch answers in a low, calming tone:
-
-[MALE] Yah a runaway nigger from Georgia. Solomon stands with a quiet stoicism. He will say nothing of the kind. As that is the case, Solomon is seized by both men. He is pulled over the bench, face downward, shirt still on his back. Radburn then STEPS ON HIS CHAINS, holding Solomon down in a bent position. With no preamble, Burch begins to beat Solomon about the back with the paddle. Burch strikes him wordlessly - no taunting, no sneering. Solomon screaming against each blow. His back immediately SWELLING WITH WELTS AND
-
-[NARRATOR] Bruises. adds in a relaxed, peaceful voice:
-
-[MALE] This beating continues on and on and on until quite literally Burch WEARS HIMSELF OUT with the effort. Dripping in sweat and panting:
-
-[NARRATOR] 18. speaks with a quiet, measured softness:
-
-[MALE] 25 CONTINUED:  25
-
-[NARRATOR] Burch responds with gentle reassurance:
-
-[MALE] Yah still insist yah a free man?
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] ...I...I insist... Burch regrets hearing this. Not from sympathy, but rather because he's nearly too tired to go back to beating Solomon. Yet, as if returning to work, Burch returns to pummeling Solomon. Burch punctuates the blows WITH:
-
-[NARRATOR] Burch murmurs with a warm, steady cadence:
-
-[MALE] Yah a slave. Yah a Georgia slave! Burch continues to strike, and strike... This time until the paddle SNAPS IN HALF. Burch then GRABS THE WHIP. Hardly missing a stroke, he whips Solomon relentlessly, the flails cutting into Solomon's back. Again, Burch's arm tires before Solomon "breaks."
-
-[NARRATOR] Burch adds in a relaxed, peaceful voice:
-
-[MALE] Are yah slave?
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] ...No... Burch goes back to whipping and whipping, and whipping... SOLOMON'S BACK IS NOW TORN OPEN WITH LACERATIONS AND OOZING WITH BLOOD. Finally Burch can whip no more. He pours sweat and sucks air, leaving himself just enough energy to take up his instruments and EXIT. Radburn lingers for a moment. He takes the irons off Solomon's legs. Opens the window some. As he makes these gestures, in a patronizing and confidential manner, one wrought with poor sincerity::
-
-[NARRATOR] Radburn murmurs with a warm, steady cadence:
-
-[MALE] I seen a good many of the black kind just where yah're. Sick. Make me sick. Often times the situation was resolved, and I think; what was all the beatin' and abuse for? Things end as they should, and the violence was for naught. So why cause trouble when they ain't no cause for it? Be of a cooperative nature, and things don't need be particularly unpleasant.
-
-[NARRATOR] Or, yah can carry on like yah
-
-[NARRATOR] been, and I fear yah won't live to
-
-[NARRATOR] see Sunday next.
-
-[NARRATOR] With that thought, Radburn exits. Solomon rests. But to
-
-[NARRATOR] rest seems like giving in to defeat. He begins pulling
-
-[NARRATOR] 19. murmurs with a warm, steady cadence:
-
-[MALE] 25 CONTINUED:  25 on his chains. But for all his struggling, the chain loosens none. Solomon calls out:
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] Help me! Someone help me! If anyone at all hears him, they do not respond. Solomon continues his plaintive cry for assistance.
-
-[NARRATOR] 26 26 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. BURCH'S DUNGEON - CONTINUOUS Beginning with a TIGHT SHOT on the shuttered, barred window of Burch's dungeon - Solomon's cries barely eking beyond the space - THE CAMERA PULLS BACK from the building, onto the city until clearly visible is the Nation's capital. It's icon's of freedom - the WHITE HOUSE, the CAPITOL BUILDING - fairly mocking Solomon's captivity. Simultaneously, barren at the early hour and cluttered with litter and the remains of previous day's procession, the city is a bleak and forboding sight.
-
-[NARRATOR] 27 27 answers in a low, calming tone:
-
-[MALE] INT. BURCH'S DUNGEON - DAY IT IS DAY NOW. The door to the yard is thrown open. The harsh white light floods all over Solomon.
-
-[NARRATOR] 20. answers in a low, calming tone:
-
-[MALE] 28 CONTINUED: 28
-
-[NARRATOR] 21. responds with gentle reassurance:
-
-[MALE] 30 EXT. BURCH'S DUNGEON/YARD - DAY 30 It is a yard just beyond Burch's. The yard is hemmed in by a brick wall. In the yard are two men, and a boy. The oldest is CLEMENS RAY a man of about 25 years of age. He is well educated. JOHN WILLIAMS is about 20 years old. He is born and bred a slave, is lacking in education, and overwhelmed with fear of the situation. Finally there is a child about 10 years of age who answers to the name of Randall. Solomon, Clemens Ray, John and Randall ALL STAND NAKED. Though they try to cover their privates a bit, they are all aware of the uselessness of modesty. Radburn is present. He has before him A COUPLE OF BUCKETS OF COLD WATER. He throws water on the naked men.
-
-[NARRATOR] Radburn answers in a low, calming tone:
-
-[MALE] Go on. Warsh up. The men, soaking in humility as well as water, begin to scrub with A SINGLE BAR OF HARSH SOAP passed among them.
-
-[NARRATOR] Radburn murmurs with a warm, steady cadence:
-
-[MALE] The boy, too. Get him clean. Solomon takes some soap and rubs it over Randall.
-
-[NARRATOR] Radburn offers quietly, watching the shadows drift across the room:
-
-[MALE] Scrub now. Git 'em clean. Solomon scrubs harder. Randall - clearly cold and uncomfortable - appeals to Solomon.
-
-[NARRATOR] Randall adds in a relaxed, peaceful voice:
-
-[MALE] Do you know when my Mama will come?
-
-[NARRATOR] Radburn murmurs with a warm, steady cadence:
-
-[MALE] Hush him up! Seeing Solomon has no answer for him, Randall begins to cry.
-
-[NARRATOR] Randall responds with gentle reassurance:
-
-[MALE] Mama ..! Mama! Is she going to come? Doing all he can to spare the child from a certain BEATING:
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] Quiet, please. Randall is becoming nearly inconsolable.
-
-[NARRATOR] Randall murmurs with a warm, steady cadence:
-
-[MALE] Mama!
-
-[NARRATOR] 21A. responds with gentle reassurance:
-
-[MALE] 30 CONTINUED: 30 Saying anything to keep the boy quiet:
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] Your mother will come, I swear she will, but you must be silent. Please. Be silent! On the seeming strength of Solomon's promise, Randall goes silent. Solomon looks to Radburn, who just throws water on the soapy men.
-
-[NARRATOR] 31 Omitted 31 responds with gentle reassurance:
-
-[MALE] A32 INT. BURCH'S DUNGEON - EVENING A32 Radburn brings food in to Solomon; a shriveled piece of meat and some water. Just barely enough to sustain Solomon. Radburn also has a SHIRT.
-
-[NARRATOR] Radburn answers in a low, calming tone:
-
-[MALE] That old thing of yours is just rags and tatters. Need something proper to wear. Solomon doesn't move for the clothing.
-
-[NARRATOR] Radburn murmurs with a warm, steady cadence:
-
-[MALE] Go'won. Put it on. With slow defiance, Solomon does as instructed. He removes what remains of his old shirt - the one he was wearing when first kidnapped - and puts on the one Radburn brought him. The shirt's ill-fitting and dirty. Despite that, Radburn says:
-
-[NARRATOR] Radburn speaks with a quiet, measured softness:
-
-[MALE] There. Tha's fine. Tha's fine. Got no gratitude?
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] ...Thank you...
-
-[NARRATOR] Radburn responds with gentle reassurance:
-
-[MALE] Yah keep bein' proper, yah'll see how things work out. Radburn starts to take the old shirt.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] No! It was from my wife.
-
-[NARRATOR] Radburn responds with gentle reassurance:
-
-[MALE] Rags and tatters. Rags and tatters. Taking the shirt, the "rags and tatters" as he calls them, Radburn exits, locking the door behind him. Solomon sits with the plate of food before him. He pushes the plate away rather than eat.
-
-[NARRATOR] 32 32 murmurs with a warm, steady cadence:
-
-[MALE] EXT. BURCH'S DUNGEON/YARD - DAY Sitting together out in the yard are Clemens Ray, John and Solomon. Over time they have drawn trustworthy enough to speak with one another. At the moment Solomon is still trying to apply reason to the situation.
-
-[NARRATOR] 22A. responds with gentle reassurance:
-
-[MALE] 32 CONTINUED: 32 Randall wanders about in the background. As usual, he calls out for his "Mama." By now, however, his calls should feel like little more than background noise.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] This can't stand. It is a crime. I believe now someone lay in wait for me. My drink was altered... We are free men. They have...they have no right to hold us. Solomon waits for a response from the others. They give none.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] We need a sympathetic ear. If we have an opportunity to explain our
-
-[NARRATOR] Clemens speaks with a quiet, measured softness:
-
-[MALE] Who in your estimation is that sympathetic ear?
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] The two men I journeyed with. I'm certain they're making inquires at this very moment.
-
-[NARRATOR] Clemens offers quietly, watching the shadows drift across the room:
-
-[MALE] I would be just as certain they are counting the money paid for delivering you to this place.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] They were not kidnappers. They were artists. Fellow performers.
-
-[NARRATOR] Clemens whispers gently into the still air:
-
-[MALE] You know that? You know for certain who they were?
-
-[NARRATOR] 23. murmurs with a warm, steady cadence:
-
-[MALE] 32 CONTINUED:  32 The fact is, Solomon can't say for certain.
-
-[NARRATOR] Clemens speaks with a quiet, measured softness:
-
-[MALE] How I reckon the situation: whatever past we had...well, that's done now. The reality to come is us being transported southward. New Orleans if I were to venture. After we arrive, we'll be put to market. Beyond that... Well, once in a slave state I suppose there's only one outcome.
-
-[NARRATOR] John answers in a low, calming tone:
-
-[MALE] No.
-
-[NARRATOR] Clemens responds with gentle reassurance:
-
-[MALE] I don't say that to give you empty agitation, John...
-
-[NARRATOR] John speaks with a quiet, measured softness:
-
-[MALE] For y'all. For y'all they ain't nothin' but that! But John was'n kidnapped. John bein' hold as debt, tha's all. Massa pay his debt, and John be redeemed--
-
-[NARRATOR] Clemens adds in a relaxed, peaceful voice:
-
-[MALE] Boy, our masters will not come for us. John is nearly beside himself with panic.
-
-[NARRATOR] John murmurs with a warm, steady cadence:
-
-[MALE] Now John's...John's sorry for y'all, but tha's how it be. Where y'all goin', yah goin' witout John. Massa take care of me. Massa take care.
-
-[NARRATOR] Randall offers quietly, watching the shadows drift across the room:
-
-[MALE] Mama! All three men turn and look. At the moment Randall doesn't call out emptily. At the door to the yard is Burch along with two women. One in her late twenties; ELIZA. She is "arrayed in silk, with rings upon her fingers, and golden ornaments suspended from her ears." Though a slave, Eliza was a mistress and has - to this point - lived well. This is reflected in her airs and her speech. The other is a little girl, light in skin color, of about seven or eight. This is EMILY, Randall's half sister. As she enters the yard Eliza squeals with high delight, then breaks into tears of both sorrow and joy. Clearly this is mother and child being reunited.
-
-[NARRATOR] 24. whispers gently into the still air:
-
-[MALE] 32 CONTINUED:  32 As Burch locks the yard door, Eliza clutches Randall. She is overcome with emotion.
-
-[NARRATOR] Eliza speaks with a quiet, measured softness:
-
-[MALE] My darling. My sweet, sweet baby.
-
-[NARRATOR] 33 33 adds in a relaxed, peaceful voice:
-
-[MALE] INT. BURCH'S DUNGEON - EVENING Later in the evening. Solomon now shares his space with Eliza and her children. As the children rest, Eliza drops into a lament as if pleading her case to Solomon who lends a sympathetic ear. Both slyly, and with a bit of aggrandizement:
-
-[NARRATOR] Eliza murmurs with a warm, steady cadence:
-
-[MALE] When I say I had my master's favor, you understand. Above even his own wife, I had it. Do you know that he built a house for me? Built it on the sole condition that I reside there with him. The added promise in time I would be emancipated. And for nine years he blessed me with every comfort and luxury in life. Displaying the finery she still wears:
-
-[NARRATOR] Eliza answers in a low, calming tone:
-
-[MALE] Silks and jewels and even servants to wait upon us. Such was our life, and the life of this beautiful girl I bore for him. But Master Berry's daughter...she always looked at me with an unkind nature. She hated Emily no matter she and Emily were flesh of flesh. As Master Berry's health failed, she gained power in the household. Eventually, I was brought to the city on the false pretense of our free papers being executed. If I had known what waited; to be sent south? I swear I would not have come here alive.
-
-[NARRATOR] 25. whispers gently into the still air:
-
-[MALE] 33 CONTINUED: 33 Eliza turns to her children:
-
-[NARRATOR] Eliza answers in a low, calming tone:
-
-[MALE] My poor, poor babies. 34 INT. BURCH'S DUNGEON - NIGHT 34 It's the deep of night, all are sleeping. A KEY TURNS IN THE LOCK AND THE DOOR OPENS. Burch enters with Radburn beside him. Both carry LANTERNS with them. Hardly giving Solomon and Eliza a moment to rouse themselves, BURCH DEMANDS:
-
-[NARRATOR] Burch murmurs with a warm, steady cadence:
-
-[MALE] Come on. Get yer blankets. Get up. Sensing that things will not end well:
-
-[NARRATOR] Eliza offers quietly, watching the shadows drift across the room:
-
-[MALE] No, please don't...
-
-[NARRATOR] Burch offers quietly, watching the shadows drift across the room:
-
-[MALE] I don't want to hear yer talk. Get in the yard.
-
-[NARRATOR] Eliza responds with gentle reassurance:
-
-[MALE] Please...
-
-[NARRATOR] Radburn speaks with a quiet, measured softness:
-
-[MALE] Ain't no need for all that. Putting hand to Randall's head.
-
-[NARRATOR] Radburn speaks with a quiet, measured softness:
-
-[MALE] Jus takin' a li'l trip, tha's all. Don't want to frighten the chil'ren none over a li'l boat ride, do yah? Eliza gives a shake of her head to the negative.
-
-[NARRATOR] Radburn whispers gently into the still air:
-
-[MALE] Alright then. Git yerselves up.
-
-[NARRATOR] 35 35 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. BURCH'S DUNGEON/YARD - NIGHT We now have Solomon, Clemens, John, Eliza and the children. They are being cuffed together. As John is cuffed, he pulls back. Scared. He beings in DESPERATION:
-
-[NARRATOR] John responds with gentle reassurance:
-
-[MALE] John's massa gunna pay his debt. John's massa gunna come for him.
-
-[NARRATOR] 26-28. whispers gently into the still air:
-
-[MALE] 35 CONTINUED: 35 Not wanting to hear any of this talk, Burch strikes John several times in the head with a sap-like instrument. Weakened, but again:
-
-[NARRATOR] John speaks with a quiet, measured softness:
-
-[MALE] John's massa gunna-- Burch again strikes John until he's quiet. Curiously, Emily and Randall don't even flinch. Why would they? They are quite used to seeing this kind of violence.
-
-[NARRATOR] Burch whispers gently into the still air:
-
-[MALE] Not a word out of none a yah. Not a word. Burch and Radburn begin driving the shackled slaves from the yard.
-
-[NARRATOR] A36 A36 answers in a low, calming tone:
-
-[MALE] EXT. BURCH'S DUNGEON/INT. WAGON/FLAT BED - LATER The slaves are lead to a flat bed of the horse and carriage. They are made to lay down side-by-side. We stay with them as some sort of cloth is flung over them, obscuring and blacking out their view. At that moment, the screen is BLACKENED and we hear the sound of the cart moving in haste.
-
-[NARRATOR] 36 36 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. WASHINGTON, D.C. DOCK - NIGHT Led by Burch, the group of slaves arrive to a dock. They are taken quickly up a gangplank and onto the steamboat ORLEANS as the CAPTAIN, CREW and a MULATTO WOMAN WATCH, but do not interfere.
-
-[NARRATOR] 37 37 answers in a low, calming tone:
-
-[MALE] INT. ORLEANS/HOLD - CONTINUOUS The slaves are hustled down one at a time into a dark, dank hold among barrels and boxes of freight...and RATS. Burch comes around and "checks" the chains; makes sure they are all secure and locked. Satisfied, he heads up out of the hold. Radburn follows. Alone in the dark in the hold, John cries, as does Eliza. Solomon stares down Burch for as long as he can, as if wishing bad things. As if wanting to exact some measure of revenge. But the greater insult is that Burch and Radburn, engaged in conversation, take no notice of Solomon whatsoever. He is that insignificant to them. That fact, that reality, makes Solomon boil with a rage he cannot express in words.
-
-[NARRATOR] We are now in the engine room of the steamboat, pistons
-
-[NARRATOR] pumping, black oily cogs turning, the power and the
-
-[NARRATOR] rhythm are both aggressive and hypnotic. A shovel comes
-
-[NARRATOR] into view, feeding the furnace.
-
-[NARRATOR] 38B EXT. SEA - DUSK/DAWN 38B
-
-[NARRATOR] The steamboat is en route between Washington and Norfolk.
-
-[NARRATOR] We tilt up from the violent water foam to the powering
-
-[NARRATOR] paddles of the boat.
-
-[NARRATOR] 42 Omit 42 speaks with a quiet, measured softness:
-
-[MALE] 43 INT. ORLEANS/HOLD - LATER - NIGHT 43 Down in the hold the slaves eat, pray. The MULATTO WOMAN moves among them, catching ELIZA's eye.
-
-[NARRATOR] Mulatto Woman speaks with a quiet, measured softness:
-
-[FEMALE] Cheer up and don't be so cast down. Clemens Ray and Solomon watch as the Mulatto Woman returns to top deck, the trapdoor locked firmly behind her. Clemens Ray turns to Solomon with a deadpan stern expression.
-
-[NARRATOR] Clemens Ray responds with gentle reassurance:
-
-[MALE] If you want to survive, do and say as little as possible. Tell no one who you really are and tell no one that you can read and write.
-
-[NARRATOR] 30. responds with gentle reassurance:
-
-[MALE] 43 CONTINUED: 43 Clemens Ray turns away from Solomon, eyes lost into the distance.
-
-[NARRATOR] Unless you want to be a dead
-
-[NARRATOR] nigger.
-
-[NARRATOR] Solomon's face is one of a confused despair.
-
-[NARRATOR] 43A EXT. NORFOLK/PORT - DAY 43A
-
-[NARRATOR] We see a flat overhead view of the port of Norfolk.
-
-[NARRATOR] Sardines are laid out to dry in rows, glittering in the
-
-[NARRATOR] day's sun as if like silver pennies. A chain of slaves
-
-[NARRATOR] enter the frame and are led one by one on to the docked
-
-[NARRATOR] vessel.
-
-[NARRATOR] MORE SLAVES - about 15 in all, of various genders and
-
-[NARRATOR] ages - are brought on board. Chief among them is ROBERT
-
-[NARRATOR] who fights viciously with his captors. "With all haste"
-
-[NARRATOR] is shoved down into the hold.
-
-[NARRATOR] Having taken their cargo as far as they care or need to,
-
-[NARRATOR] Burch and Radburn depart. They do so without a word
-
-[NARRATOR] spoken to Solomon or the others.
-
-[NARRATOR] With this new and sizable batch of slaves on board, the
-
-[NARRATOR] crew again CASTS OFF, and the Orleans makes its way
-
-[NARRATOR] again.
-
-[NARRATOR] 44 INT. ORLEANS/GALLEY 44
-
-[NARRATOR] Solomon is back cleaning in the galley. As he cleans, he
-
-[NARRATOR] again watches Robert prep food. Robert's skill with a
-
-[NARRATOR] knife is not lost on Solomon.
-
-[NARRATOR] The hold is packed tighter now.
-
-[NARRATOR] Muzzle covering his face, Robert is shackled with his
-
-[NARRATOR] hands tied behind his back. Solomon and Clemens Ray look
-
-[NARRATOR] on.
-
-[NARRATOR] A sailor descends the staircase and takes off Robert's
-
-[NARRATOR] muzzle, shooting him a forbidding look. He leaves.
-
-[NARRATOR] 31. answers in a low, calming tone:
-
-[MALE] 45 CONTINUED: 45 CUT TO: Solomon, Clemens Ray and Robert, now in mid-conversation.
-
-[NARRATOR] Robert whispers gently into the still air:
-
-[MALE] I say we fight. Robert delivers this in a hushed voice.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] The crew is fairly small. If it were well planned, I believe they could be strong armed.
-
-[NARRATOR] Clemens Ray murmurs with a warm, steady cadence:
-
-[MALE] Three can't stand against a whole crew. The rest here are niggers, born and bred slaves. Niggers ain't got the stomach for a fight, not a damn one.
-
-[NARRATOR] Robert responds with gentle reassurance:
-
-[MALE] All I know, we get where we travelling we'll wish we'd died trying.
-
-[NARRATOR] Clemens Ray offers quietly, watching the shadows drift across the room:
-
-[MALE] Survival is not about certain death, it is about keeping your head down. Solomon looks at Clemens Ray, agitated -- his voice now raised above the previous whispers. Grits his teeth.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Days ago I was with my family, in my home. Now you tell me all is lost. "Tell no one who I really am" if I want to survive. I don't want to survive, I want to live.
-
-[NARRATOR] The steamboat paddles pound the water, filling the whole
-
-[NARRATOR] frame. The vessel ploughs on south.
-
-[NARRATOR] The slaves are asleep.
-
-[NARRATOR] A Sailor descends the ladder approaching Eliza. He bends
-
-[NARRATOR] down and attempts to wake the daughter by caressing her
-
-[NARRATOR] face.
-
-[NARRATOR] Solomon rouses, and looks across to witness the scene.
-
-[NARRATOR] From his vantage point, we see Eliza stand to interrupt
-
-[NARRATOR] the Sailor. The Sailor looks at Eliza, Eliza looks back
-
-[NARRATOR] at him. Knowingly she leads him off into a corner of the
-
-[NARRATOR] hold.
-
-[NARRATOR] As she does so, Eliza passes Robert who jumps up to stand
-
-[NARRATOR] between Eliza and the Sailor. Stretching out a firm hand
-
-[NARRATOR] to the sailor's shoulder, Robert's look says "No you
-
-[NARRATOR] don't."
-
-[NARRATOR] Clemens Ray is awake now, watching.
-
-[NARRATOR] There is an odd moment of stillness between the Sailor
-
-[NARRATOR] and Robert, an impasse.
-
-[NARRATOR] We focus on the Sailor's face. Slowly, a greasy smile
-
-[NARRATOR] erupts upon it. Back now to Robert's face, a look of
-
-[NARRATOR] incomprehension.
-
-[NARRATOR] Robert looks down. We follow his gaze to the knife that
-
-[NARRATOR] has already been jabbed unseen between Robert's ribs.
-
-[NARRATOR] The sailor withdraws the bloody blade.
-
-[NARRATOR] A wide shot of the two men. Robert collapses to the
-
-[NARRATOR] floor like a sack of potatoes.
-
-[NARRATOR] Clemens Ray and Solomon react. Complete horror.
-
-[NARRATOR] 33. answers in a low, calming tone:
-
-[MALE] 51 EXT. ORLEANS/DECK - DAY 51 We are back up on the deck of the ship. SOLOMON AND CLEMENS RAY dump ROBERT's body over the side of the ship. Solomon watches as the body churns for a moment in the wake of the vessel... then sinks beneath the water. Clemens Ray, with no sentimentality:
-
-[NARRATOR] Clemens Ray adds in a relaxed, peaceful voice:
-
-[MALE] Better off. Better than us. 51A EXT. NEW ORLEANS HARBOUR - DAY 51A Solomon's POV from the back of the steamship of Robert's corpse slipping gracefully into the water. 52 EXT. NEW ORLEANS/PORT - DAY 52 -MID MAY, 1841- A white male, fairly smart, with broad shoulders, stands
-
-[NARRATOR] Ray answers in a low, calming tone:
-
-[MALE] Clemens...! Clemens Ray! We are in the port of New Orleans, one of the busiest in the young nation. On the dock itself there is a bustle of activity as goods are loaded and unloaded from a various ships. It's a bit of controlled chaos as a VARIETY OF LANGUAGES are spoken and shouted while slaves are shuttled from the Orleans to a holding pen. Solomon, and all the slaves are overwhelmed by all that is happening around them. Two men - among many - are awaiting the arrival of the Orleans. They are JONUS RAY - Clemens Ray's master - and DAVIS who is the solicitor of Mr. Ray. They both look like they mean business. The moment the gangplank is laid, Ray yells for Clemens. Clemens, seeing his master, is nearly crazy with delight. He is, uncharacteristically beside himself. Ironically, his master now represents "freedom."
-
-[NARRATOR] 34. whispers gently into the still air:
-
-[MALE] 52 CONTINUED: 52
-
-[NARRATOR] Clemens answers in a low, calming tone:
-
-[MALE] ...My master... Master Ray, sir! Master Ray! Clemens pulls on his chain. As he does so, Several other slaves collapse in his effort to reach his master, like dominos.
-
-[NARRATOR] Ray speaks with a quiet, measured softness:
-
-[MALE] Who is in charge of this vessel?
-
-[NARRATOR] Captain speaks with a quiet, measured softness:
-
-[MALE] I am the Captain.
-
-[NARRATOR] Ray murmurs with a warm, steady cadence:
-
-[MALE] I am Mr. Jonus Ray. My solicitor has documentation verifying that the Negro named Clemens Ray is my property. As he reads PAPERS handed to him by Davis:
-
-[NARRATOR] Captain responds with gentle reassurance:
-
-[MALE] I know nothing of--
-
-[NARRATOR] Ray responds with gentle reassurance:
-
-[MALE] You are ordered by court to return that property immediately, or face charges of thievery.
-
-[NARRATOR] Captain adds in a relaxed, peaceful voice:
-
-[MALE] My duty is to transport goods. I am not responsible for their origin.
-
-[NARRATOR] Ray answers in a low, calming tone:
-
-[MALE] Remove these contraptions! To his mate:
-
-[NARRATOR] Captain adds in a relaxed, peaceful voice:
-
-[MALE] Free him! Biddee does as ordered. Once free, Clemens hugs and sobs over his master as would a lost and then found child.
-
-[NARRATOR] Ray whispers gently into the still air:
-
-[MALE] It's all well, now, Clemens. You will return home with me.  Consider this notice and warning.
-
-[NARRATOR] 35. speaks with a quiet, measured softness:
-
-[MALE] 52 CONTINUED:  52 Ray, Davis and Clemens head away. Solomon seems both desperate and hopeful of some aid from Clemens and Ray. But there is none forthcoming. Ray and Clemens continue on - Clemens not so much as even looking back in Solomon's direction. Solomon stands and watches as they fade into the environs and are gone from sight.
-
-[NARRATOR] 53 53 murmurs with a warm, steady cadence:
-
-[MALE] EXT. NEW ORLEANS/PORT - LATER Hours later. The slaves sit off on one side of the dock, baking in the sun, awaiting their fate. THEOPHILUS FREEMAN - a tall, thin-faced man with light complexion and a little bent - moves along the deck calling out names from a list. The slaves STAND as they are called.
-
-[NARRATOR] Freeman answers in a low, calming tone:
-
-[MALE] Oren. John. Lethe. Eliza. Randall. Emily. Platt... Platt! Solomon does not respond. Freeman looks around. He spots Solomon.
-
-[NARRATOR] Freeman whispers gently into the still air:
-
-[MALE] Captain, who shipped that nigger?
-
-[NARRATOR] Captain offers quietly, watching the shadows drift across the room:
-
-[MALE] Burch. Freeman steps to Solomon. He gives him a looking over.
-
-[NARRATOR] Freeman whispers gently into the still air:
-
-[MALE] Stand up. Solomon does as told.
-
-[NARRATOR] Freeman speaks with a quiet, measured softness:
-
-[MALE] You fit the description given. Why didn't you answer when called?
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] My name is not Platt. My name is-- Freeman strikes Solomon hard across the face.
-
-[NARRATOR] Freeman adds in a relaxed, peaceful voice:
-
-[MALE] Your name is Platt, and I will teach you your name so that you don't forget.  Shackle my niggers. Get them to my cart.
-
-[NARRATOR] 36. whispers gently into the still air:
-
-[MALE] 54 I/E. CART - LATER 54 Solomon is carted off along with the rest of "Burch's stock:" Eliza and her children, John and Solomon. As they move off from the port in a make-shift cart, it opens up to the frenzic, busy port. For the first time Solomon sees true and severe slavery. These are not visiting servants, such as Jasper was back in Saratoga. These are humans held in strict bondage - herded like cattle, chained together as if in a "chain gang." Slaves are evident not merely by the color of their skin. The residue and accessories of slavery are everywhere. Blacks almost universally display scars - THICK AND HEAVY DEAD TISSUE FROM LACERATIONS LEFT UNTREATED - brands, and are often missing limbs. Blacks are held in all types of shackles, from simple chains to elaborate bindings, to neck collars that are spiked. Some are muzzled or forced to wear bits. One slave is attacked by a dog and the slave owner. The dog pulls and tears at the slave's clothes. THESE IMAGES SHOULD BE A CONSTANT AND CONTINUAL CANVAS TO THE PIECE. EVER PRESENT, BUT NOT REALLY COMMENTED ON AS THEY ARE THE NORM. They should be a reminder that not only are people being oppressed, but that there is an entire system of oppression in place.
-
-[NARRATOR] 55 55 answers in a low, calming tone:
-
-[MALE] EXT. FREEMAN'S SLAVE PEN - LATER "Burch's stock:" arrive at Freeman's slave pen. They are led in by Freeman and his house slave CAPE - a mulatto. The yard is enclosed by plank, standing upright, with ends sharpened instead of brick walls as with Burch's. Including Burch's group there are about 30 SLAVES in the pen. Solomon and the others look around and see nothing but downtrodden and despondent faces. Three men sit next to each other with muzzles and quietly stare back at this new batch of arrivals. One attempts to speak, but all that comes out is a muffled, unintelligible sound.
-
-[NARRATOR] 56 56 speaks with a quiet, measured softness:
-
-[MALE] EXT. FREEMAN'S SLAVE PEN - LATER The slaves are in various states of undress, men and women alike. They clean themselves, scrubbing with soap and water. Women wash their hair. Men shave, skin is oiled. Freeman walks among them, inspecting them as they primp themselves.
-
-[NARRATOR] 57 57 murmurs with a warm, steady cadence:
-
-[MALE] INT. FREEMAN'S SLAVE PEN - LATER The slaves are given new clothes by Cape. The men are given hat, coat, shirt, pants and shoes. The women
-
-[NARRATOR] 37. adds in a relaxed, peaceful voice:
-
-[MALE] 57 CONTINUED: 57 frocks of calico and handkerchiefs to bind about their heads. 58 INT. FREEMAN'S/GREAT ROOM - LATER 58 It's an odd, ironic scene. The slaves are in a large and fairly ornate room within Freeman's house. CAPE PLAYS A PAINFUL TUNE ON A FIDDLE - background music - as Freeman tries to line up A SMALL GROUP OF THE SLAVES, he becomes less patient, jittery and nervous, knowing that his livelihood is at stake, he wants his slaves to make a good impression. Sometimes his patience gets the better of him, and his hands move freely in direction of the slaves. The business has the air of an etiquette class, though what Freeman is trying to do is coach the slaves into being more "sellable." He works with them in groups of five or so.
-
-[NARRATOR] Freeman speaks with a quiet, measured softness:
-
-[MALE] Tallest to smallest, understand? Are you taller than her? Then you'd go before her. Do it. Move.  Keep your heads up. A sense of direction; that's how you look smart. None of those saucer eyes. Rid yourself of that smile. Look like a goddamn grinnin' monkey. Put the least thought in your head. C'mon, now. Think of somethin'. Weary of Cape's playing, Solomon moves to Cape. He asks:
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] Can you play a reel?
-
-[NARRATOR] Nah. I don't know no reel.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] If I may...? Cape looks to Freeman:
-
-[NARRATOR] Freeman murmurs with a warm, steady cadence:
-
-[MALE] He sick of your caterwaulin'. Let him play, boy. Let's see what he can do. Cape reluctantly hands the fiddle over to Solomon. Solomon tunes it a bit, then begins to play. His fingers stiff at first, he takes a moment to warm up. But as he warms up he is, despite the circumstances, masterful.
-
-[NARRATOR] 38. answers in a low, calming tone:
-
-[MALE] 58 CONTINUED: 58 THE SLAVES ALL CLAP ALONG. SOME DANCE ALONG. All admire his work. Freeman chief among them.
-
-[NARRATOR] Freeman responds with gentle reassurance:
-
-[MALE] Keep on. Keep on. Solomon continues to play.
-
-[NARRATOR] Freeman responds with gentle reassurance:
-
-[MALE] A damn sight better than you, Cape. A damn sight better. Cape looks bitter as Solomon plays on.
-
-[NARRATOR] 59 59 offers quietly, watching the shadows drift across the room:
-
-[MALE] INT. FREEMAN'S/GREAT ROOM - DAY We come in on an odd sort of sight; A JUMBLE OF ACTIVITY. CUSTOMERS have come to see Freeman's lot - the room all gussied up with flowers. Freeman moves among them, displaying them as a rancher would prize chattel. Freeman makes the slaves hold their heads up - "look smart" as he previously admonished them. They are made to walk briskly back and forth while customers feel their hands and arms and bodies, turn them about and ask what skills they possess. The Customers routinely make the slaves open their mouths and show their teeth. At times a MALE or FEMALE SLAVE are taken off to the side, stripped and inspected more minutely. One of them, John, is stripped and inspected. Cape, as he's done previously, plays his fiddle. A buyer - WILLIAM FORD; a man of middle age, and an attractive nature in his tone of voice - consults a list he's drawn up and asks of Freeman:
-
-[NARRATOR] Ford responds with gentle reassurance:
-
-[MALE] What is the price for the ones Platt and Eliza?
-
-[NARRATOR] Freeman speaks with a quiet, measured softness:
-
-[MALE] A thousand for Platt; he is a nigger of talent. Seven hundred for Eliza. My fairest price.
-
-[NARRATOR] Ford whispers gently into the still air:
-
-[MALE] You will accept a note?
-
-[NARRATOR] Freeman adds in a relaxed, peaceful voice:
-
-[MALE] As always, from you, Mr. Ford. Eliza is beside herself as it seems she is about to be separated from her family. She begs of Ford:
-
-[NARRATOR] 39. speaks with a quiet, measured softness:
-
-[MALE] 59 CONTINUED: 59
-
-[NARRATOR] Eliza adds in a relaxed, peaceful voice:
-
-[MALE] Please, sir... Please don't divide my family. Don't take me unless you take my children as well.
-
-[NARRATOR] Freeman whispers gently into the still air:
-
-[MALE] Eliza, quiet!
-
-[NARRATOR] Eliza responds with gentle reassurance:
-
-[MALE] You will have the most faithful slave in me, sir. The most faithful slave that has ever lived, but I beg that you do not separate us. A BUYER interrupts the skirmish and approaches Freeman and delivers coolly, eyeing Randall-
-
-[NARRATOR] Buyer murmurs with a warm, steady cadence:
-
-[MALE] Your price for the child?
-
-[NARRATOR] Freeman whispers gently into the still air:
-
-[MALE] You see how fit the boy is. Like ripe fruit. He will grow into a fine beast. Randall is made to run, and jump by FREEMAN - exhibiting his activity and his condition.
-
-[NARRATOR] Freeman offers quietly, watching the shadows drift across the room:
-
-[MALE] Six hundred, and that's fair and final.
-
-[NARRATOR] Buyer adds in a relaxed, peaceful voice:
-
-[MALE] Done. He reaches into his waistcoat and retrieves his wallet, counting out six hundred dollars, placing them into the already extended hand of Freeman. Ford sees the distress and panic in Eliza; it visibly touches him. He now tries to buy EMILY to console her.
-
-[NARRATOR] Ford responds with gentle reassurance:
-
-[MALE] How much for the little girl? You have no need for her. One so young will bring you no profit.
-
-[NARRATOR] Freeman adds in a relaxed, peaceful voice:
-
-[MALE] I will not sell the girl. There's heaps 'n piles of money to be made off her. She is a beauty. One of the regular bloods. None of your thick-lipped, bullet headed, cotton picking niggers.
-
-[NARRATOR] 39A. murmurs with a warm, steady cadence:
-
-[MALE] 59 CONTINUED:  59
-
-[NARRATOR] Ford answers in a low, calming tone:
-
-[MALE] Her child, man. For God's sake, are you not sentimental in the least?
-
-[NARRATOR] Freeman whispers gently into the still air:
-
-[MALE] My sentimentality stretches the length of a coin. Do you want the lot, Mr. Ford, or do you pass on them all?
-
-[NARRATOR] Ford speaks with a quiet, measured softness:
-
-[MALE] I will take the ones Platt and Eliza. Eliza grips her children tight.
-
-[NARRATOR] Eliza answers in a low, calming tone:
-
-[MALE] I will not go without my children. You will not take them from me.
-
-[NARRATOR] 40. offers quietly, watching the shadows drift across the room:
-
-[MALE] 59 CONTINUED:  59 As if to prove her wrong, Freeman puts a foot to Eliza and harshly kicks her away from Emily.
-
-[NARRATOR] Eliza whispers gently into the still air:
-
-[MALE] Please, don't. No! Freeman, to Cape:
-
-[NARRATOR] Freeman answers in a low, calming tone:
-
-[MALE] Take her out of here. Cape DROPS HIS FIDDLE, begins to pull Eliza away toward the door of the room, but her screaming and pleading do not abate. IT IS CLEARLY UNSETTLING TO THE OTHER BUYERS.
-
-[NARRATOR] Freeman answers in a low, calming tone:
-
-[MALE] Keep her quiet. Cape tries to muzzle her with his hand, but Eliza continues to scream for her children as Emily does for her mother.
-
-[NARRATOR] Emily adds in a relaxed, peaceful voice:
-
-[MALE] Mama... Mama!
-
-[NARRATOR] Play something! Get the fiddle
-
-[NARRATOR] and play.
-
-[NARRATOR] As ordered, Solomon takes up Cape's fiddle and begins to
-
-[NARRATOR] play lightly.
-
-[NARRATOR] Freeman murmurs with a warm, steady cadence:
-
-[MALE] Play! Solomon plays harder and more loudly. Still, it is barely enough to drown out Eliza's cries. Freeman gets the other slaves to clap along with Solomon's playing. Emily frees herself and runs back, crying but endeavoring to be strong-
-
-[NARRATOR] Emily adds in a relaxed, peaceful voice:
-
-[MALE] Don't cry, Mama. I will be a good girl. Don't cry. I will keep my head up and I will look smart. I will always look smart.
-
-[NARRATOR] Freeman offers quietly, watching the shadows drift across the room:
-
-[MALE] Make merry, all of you! Goddamn it, Cape! Keep her quiet or it's your damned hide I will take it out of! Cape pulls a rag, stuffs it in Eliza's mouth. Clamping both hands over her mouth, he hauls Eliza from the room by the head. IT IS AN UGLY, UGLY SCENE.
-
-[NARRATOR] 40A. offers quietly, watching the shadows drift across the room:
-
-[MALE] 60 EXT. FORD PLANTATION - LATER 60 Driven in a horse drawn wagon by Ford are Solomon and Eliza. Eliza is sullen to say the least. With the loss of her two children she has dropped into a depression she will not be able to pull out of.
-
-[NARRATOR] 41. whispers gently into the still air:
-
-[MALE] 60 CONTINUED: 60 They arrive to the FORD PLANTATION. The main house of the plantation - the GREAT HOUSE as they are commonly called - is sizable. Two stories high with a piazza in front. In the rear are also a log kitchen, poultry house, corncribs and several slave cabins. The plantation is described as "a green spot in the wilderness." With the arrival of Master Ford there is a flurry of activity - the "excitement" of a new delivery. MR. CHAPIN, a white overseer, instructs a slave named SAM.
-
-[NARRATOR] Chapin murmurs with a warm, steady cadence:
-
-[MALE] Sam, call to the Mistress.
-
-[NARRATOR] Sam responds with gentle reassurance:
-
-[MALE] Mistress! Mistress, they arrivn'. MISTRESS FORD EXITS the house - along with her attending slave, RACHEL, who is a cook AS WELL AS SAM'S WIFE - and travels to her husband, kisses him, then laughingly INQUIRES:
-
-[NARRATOR] Mrs. Ford answers in a low, calming tone:
-
-[MALE] Did you bring all those niggers? Two of them? You got two?
-
-[NARRATOR] Ford adds in a relaxed, peaceful voice:
-
-[MALE] Make me something to eat, dear. The day has taken it from me.
-
-[NARRATOR] Mrs. Ford speaks with a quiet, measured softness:
-
-[MALE] Let me get a look at them...
-
-[NARRATOR] Ford whispers gently into the still air:
-
-[MALE] Mr. Chapin--
-
-[NARRATOR] Mrs. Ford responds with gentle reassurance:
-
-[MALE] This one's cryin'. Why is this one cryin'?
-
-[NARRATOR] Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] Separated from her children.
-
-[NARRATOR] Mrs. Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh, dear.
-
-[NARRATOR] Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] It couldn't be helped.
-
-[NARRATOR] Mrs. Ford answers in a low, calming tone:
-
-[MALE] Poor, poor woman.
-
-[NARRATOR] Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] Mr. Chapin, tomorrow you will take these two up to the mill and start them workin'. For now make them
-
-[NARRATOR] 42. whispers gently into the still air:
-
-[MALE] 60 CONTINUED:  60
-
-[NARRATOR] Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] adequate; fix them a meal, and have them rest themselves.
-
-[NARRATOR] Chapin answers in a low, calming tone:
-
-[MALE] Yes, sir.  C'mon, now. C'mon. Don't dawdle.
-
-[NARRATOR] Mrs. Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] Something to eat and some rest; your children will soon enough be forgotten.
-
-[NARRATOR] A61A A61A adds in a relaxed, peaceful voice:
-
-[MALE] EXT. FORD'S WORK AREA - DAY John Tibeats, stands before the slaves. Chapin hovers to one side.
-
-[NARRATOR] Tibeats adds in a relaxed, peaceful voice:
-
-[MALE] My name is John Tibeats, William Ford's chief carpenter. You will refer to me as Master. Tibeats nods in Chapin's direction:
-
-[NARRATOR] Tibeats answers in a low, calming tone:
-
-[MALE] Mister Chapin is the overseer on this plantation. He is responsible for all of Ford's property. You too will refer to him as Master. This plantation covers many hundreds of acres, and you will traverse the Texas road between the forest site and the sawmill in double time. Any clever nigger on that path that gets a little lightfooted, I will remind him that on one side men and bloodhounds patrol the border and on the other the bayou provides a hard living, with alligators and little to eat or drink that won't kill you. No slave has escaped here with his life. You're here to work niggers, so let's commence. Tibeats begins to sing the song "Run Nigger, Run" mockingly. We cut to Solomon chopping logs and into the montage of the slaves doing manual labor and arriving back to the sawmill. Lyrics for "Run Nigger, Run"
-
-[NARRATOR] 42A. answers in a low, calming tone:
-
-[MALE] A61A CONTINUED: A61A Oh run nigger run well the pattyroller will get you Run nigger run well you better get away Run nigger run well the pattyroller will get you Run nigger run well you better get away Nigger run nigger flew Nigger tore his shirt in two Run run the pattyroller will get you Run nigger run well you better get away Nigger run, run so fast Stoved his head in a hornets nest Run nigger run well the pattyroller will get you Run nigger run well you better get away Nigger run through the field Black slick coal and barley heel Run nigger run the pattyroller will get you Run nigger run well you better get away Some folks say a nigger won't steal I caught three in my corn field One has a bushel? And one has a peck One had a rope and it was hung around his neck Run nigger run well the pattyroller will get you Run nigger run well you better get away Run nigger run well the pattyroller will get you Run nigger run well you better get away Oh nigger run and nigger flew Why in the devil can't a white man chew Run nigger run well the pattyroller will get you Run nigger run well you better get away Hey Mr. Pattyroller don't catch me Catch that nigger behind that tree Run nigger run well the pattyroller will get you? Run nigger run well you better get away Nigger run, run so fast Stoved his head in a hornets nest Run nigger run well the pattyroller will get you Run nigger run well you better get away
-
-[NARRATOR] -END OF MAY THROUGH EARLY JUNE, 1841-
-
-[NARRATOR] We are in a wooded area. There is A GANG OF SLAVES
-
-[NARRATOR] chopping trees into timber. It is hard, laborious work
-
-[NARRATOR] made no more easy by the sweltering heat. Solomon is
-
-[NARRATOR] among them as well as Sam.
-
-[NARRATOR] 62 62 murmurs with a warm, steady cadence:
-
-[MALE] EXT. WOODS - LATER The slaves now load the timber onto a horse drawn wagon. Again, hard work done under the ever present sun.
-
-[NARRATOR] 63 Ext. Road - Later 63 offers quietly, watching the shadows drift across the room:
-
-[MALE] As Sam drives the wagon, the other slaves trudge along side by foot. We should get the sense the travel is long and tedious. 64 EXT. FORD'S WORK AREA - LATER 64 It is a sizable work area on the edge of Indian Creek. There is much work being done, the slaves primarily employed in piling the timber and chopping it into lumber. As before, there is little doubt about the rigors of the job at hand. Working as a carpenter at the work area is JOHN TIBEATS. There are also various CUSTOMERS who move about placing orders.
-
-[NARRATOR] 65 65 responds with gentle reassurance:
-
-[MALE] EXT. FORD PLANTATION - DAY -EARLY TO MID JUNE, 1841- It's Sunday morning. All of Ford's slaves are dressed with their "finest" clothes - brightly colored and as free as possible of defect. The slaves are gathered on
-
-[NARRATOR] 43. adds in a relaxed, peaceful voice:
-
-[MALE] 65 CONTINUED: 65 the lawn just beyond the piazza. Mistress Ford is present as well. As the slaves listen, Ford reads to them Scripture. His tone is of a man trying to preach by way of compassion.
-
-[NARRATOR] Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob. God is not the God of the dead, but of the living. And when the multitude heard this, they were astonished at his doctrine. Then one of them, which was a lawyer, asked him a question, tempting him, and saying, Master, which is the great commandment in the law? Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, thou shalt love thy neighbor as thyself. On these two commandments hang all the law and the prophets." Despite the lightness with which Ford speaks and the hope in his words, ELIZA SITS OFF TO THE SIDE - SELF-SECLUDED
-
-[NARRATOR] A Bit - Weeping Gently. answers in a low, calming tone:
-
-[MALE] We should be able to see in Mistress Ford's eyes that Eliza's constant crying is unsettling.
-
-[NARRATOR] 69 Omit 69 speaks with a quiet, measured softness:
-
-[MALE] 70 EXT. FORD'S WORK AREA - DAY 70 -MID JUNE, 1841- The slaves have broken for lunch. They snack on smoked meat and drink water from gourds. As they lunch Solomon reads from Sam's Bible to the other slaves.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] But he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve. For whether is greater, he that sitteth at meat, or he that serveth? Is not he that sitteth at meat? But I am among you as he that serveth. A white customer - WINSLOW - irate at the sight and sound of slaves reading Scripture, crosses over. He grabs the Bible.
-
-[NARRATOR] Winslow responds with gentle reassurance:
-
-[MALE] From where did you thieve this?
-
-[NARRATOR] Sam speaks with a quiet, measured softness:
-
-[MALE] Suh, the book is my property. The White Customer has no interest in Sam's answer. With flailing hands he STARTS BEATING ON SAM. Solomon tries to stop him. That only makes the situation worse, Solomon now the target of the man's ire.
-
-[NARRATOR] Winslow answers in a low, calming tone:
-
-[MALE] Take your hands from me! Ford comes running over.
-
-[NARRATOR] Ford speaks with a quiet, measured softness:
-
-[MALE] What is the commotion?
-
-[NARRATOR] Winslow whispers gently into the still air:
-
-[MALE] Your niggers are either brazen or rebellious. This one was readin' Scripture, and this one claims it to be his.
-
-[NARRATOR] Ford murmurs with a warm, steady cadence:
-
-[MALE] It is. A gift from his Mistress.
-
-[NARRATOR] Winslow answers in a low, calming tone:
-
-[MALE] You condone this?
-
-[NARRATOR] Ford adds in a relaxed, peaceful voice:
-
-[MALE] I encourage it. As a Christian I can do no less.
-
-[NARRATOR] 45. murmurs with a warm, steady cadence:
-
-[MALE] 70 CONTINUED: 70
-
-[NARRATOR] Winslow murmurs with a warm, steady cadence:
-
-[MALE] You can do no worse, Ford. A slave that reads is dangerous. Winslow moves off. He yells back at Ford:
-
-[NARRATOR] Winslow whispers gently into the still air:
-
-[MALE] And the man who would allow a slave to read is unfit to own niggers! Handing the Bible back to Sam, very matter of factly:
-
-[NARRATOR] Ford responds with gentle reassurance:
-
-[MALE] Pay him no mind. The word of God applies to all. In that you may take comfort.
-
-[NARRATOR] Sam is at the reigns of the wagon carrying the timber to
-
-[NARRATOR] Ford's WORK AREA. Slaves trudge alongside, same as it
-
-[NARRATOR] ever was. Only...it's not quite the same. Sam brings
-
-[NARRATOR] the wagon to a halt. He, and the slaves look up the road
-
-[NARRATOR] ahead of them.
-
-[NARRATOR] Standing in the middle of the road is a group of
-
-[NARRATOR] CHICKASAWS INDIANS. They are in their "usual" dress of
-
-[NARRATOR] buckskin breeches and calico hunting shirts of fantastic
-
-[NARRATOR] colors, buttoned from belt to chin. They have with them
-
-[NARRATOR] DOGS and HORSES. They carry with them the carcass of a
-
-[NARRATOR] deer.
-
-[NARRATOR] The two groups stare at each other for a long moment.
-
-[NARRATOR] 73 73 answers in a low, calming tone:
-
-[MALE] EXT. FIELD - DUSK/END OF DAY The groups of slaves and Chickasaws are now intermingled. They "break bread" - actually they work on the carcass of the deer which is now roasting over a large fire. As well the group share a smoke on a pipe. One of the Chickasaws is playing a tune on an "INDIAN FIDDLE." The Chickasaws perform a customary dance; trotting after each other, and giving utterance to a guttural, sing-song noise. The slaves enjoy the respite from work, Solomon particularly taken by the music...if not entirely enthralled by it.
-
-[NARRATOR] 46. speaks with a quiet, measured softness:
-
-[MALE] 73 CONTINUED: 73 After a bit, Solomon rights himself and heads from the group. 74 EXT. RIVER BANK - CONTINUOUS 74 Solomon arrives to some tall grass at the edge of the river. Lowering his trousers, SOLOMON SQUATS TO DEFECATE. As he does, he stares out toward the flowing waters of Indian Creek. After a few moments, as though a thought far greater than relieving himself has come to him, Solomon stands and replaces his pants. Oddly, Solomon stares out at the water as though he were a man possessed.
-
-[NARRATOR] 75 75 murmurs with a warm, steady cadence:
-
-[MALE] EXT. FORD'S WORK AREA - DAY Just beyond the WORK AREA Solomon speaks with Ford as Tibeats listens. Solomon is drawing in the dirt, making rough diagrams for Ford as he explains himself.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] The creek is plenty deep enough to sail, even with a boat full of load. The distance from the WORK AREA to the point on the latter bayou is several miles by water fewer than land. It occurs to me that the expense of the transportation would be materially
-
-[NARRATOR] Tibeats offers quietly, watching the shadows drift across the room:
-
-[MALE] "Materially diminished?"
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] If we use the waterway.
-
-[NARRATOR] Tibeats murmurs with a warm, steady cadence:
-
-[MALE] It's a scheme. Plenty of engineers have schemed similarly. The passes are too tight.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] I reckon them at more than twelve feet at their most narrow. Wide enough for a tub to traverse. A team of niggers can clear it out.
-
-[NARRATOR] Tibeats adds in a relaxed, peaceful voice:
-
-[MALE] And you know what of transport and terra formin'?
-
-[NARRATOR] 47. responds with gentle reassurance:
-
-[MALE] 75 CONTINUED: 75
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] I labored repairing the Champlain canal, on the section over which William Van Nortwick was superintendent. With my earnings I hired several efficient hands to assist me, and I entered into contracts for the transportation of large rafts of timber from Lake Champlain to Troy.
-
-[NARRATOR] I'll admit to being impressed even
-
-[NARRATOR] if you won't.
-
-[NARRATOR] Collect a gang, see what good you
-
-[NARRATOR] can do.
-
-[NARRATOR] 76 76 murmurs with a warm, steady cadence:
-
-[MALE] EXT. CREEK - DAY -END OF JUNE, 1841- WE HAVE A SERIES OF SCENES in which we see Solomon and a TEAM OF BLACKS working on the creek: CHOPPING TREES ALONG THE BANKS, widening out the shore... It's all just a trial for now. The work is diligent, but it is basic to this point. Still, under Solomon's direction, the slaves go at it like they've got something to prove. And rightly they do. Solomon also works on a narrow raft of twelve cribs with which he will transport the timber. Once this is constructed, HE PERSONALLY "SAILS" THEM UP
-
-[NARRATOR] 77 77 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. FORD'S WORK AREA - LATER Ford and a group of slaves wait along the river banks just beyond the WORK AREA. All are expectant in their manner. A long moment passes with no sign of Solomon. Then, from up river, we see Solomon's raft of lumber winding its way. SLAVES CHEER, and Ford literally applauds the effort. Tibeats looks pissed. He has just been shown up after all.
-
-[NARRATOR] 78 78 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. FORD PLANTATION/GREAT HOUSE - DAY As we come into the scene, Ford is presenting Solomon with a fiddle. Not as grand as the one he previously owned in New York, but a fine instrument none the less. It is a gift of thanks for his hard work. Solomon's gratitude is easily expressed.
-
-[NARRATOR] 48. speaks with a quiet, measured softness:
-
-[MALE] 78 CONTINUED: 78
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] My great thanks, Master Ford.
-
-[NARRATOR] Ford murmurs with a warm, steady cadence:
-
-[MALE] My thanks to you, and it is the least of it. My hope is that it brings us both much joy over the years. Following the statement, Solomon's not sure how to react. He remains grateful, but the thought of "over the years" is just a reminder of the altered state in which he now finds himself.
-
-[NARRATOR] 79 79 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. FORD PLANATION/SLAVE SHACK - EVENING -END OF JULY, 1841- The slaves eat. All tired from a days work they conduct themselves in silence. All except for Eliza who, SLIPPING INTO PERMANENT DEPRESSION, as always weeps. The sound of her sobbing edging him up - particularly after Master Ford's "over the years" observation. Solomon FINALLY SNAPS:
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] Eliza. Eliza, stop! Solomon goes to her, grabs Eliza. She does not stop. As if to force the misery from her, Solomon SHAKES ELIZA
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Stop it! Stop!
-
-[NARRATOR] Eliza answers in a low, calming tone:
-
-[MALE] It's all I have to keeps my loss present.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] You let yourself be overcome by sorrow. You will drown in it.
-
-[NARRATOR] Eliza murmurs with a warm, steady cadence:
-
-[MALE] Have you stopped crying for your children? You make no sounds, but will you ever let them go in your heart?
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] ...They are as my flesh...
-
-[NARRATOR] 49. speaks with a quiet, measured softness:
-
-[MALE] 79 CONTINUED: 79
-
-[NARRATOR] Eliza speaks with a quiet, measured softness:
-
-[MALE] Then who is distressed? Do I upset the Mistress and the Master? Do you care less for my loss than their well being?
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] Master Ford is a decent man.
-
-[NARRATOR] Eliza murmurs with a warm, steady cadence:
-
-[MALE] He is a slaver.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] Under the circumstances--
-
-[NARRATOR] Eliza responds with gentle reassurance:
-
-[MALE] Under the circumstances he is a slaver! Christian only in his proclamations. Separated me from my precious babies for lack of a few dollars. But you truckle at
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] No...
-
-[NARRATOR] Eliza murmurs with a warm, steady cadence:
-
-[MALE] You luxuriate in his favor.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] I survive. I will not fall into despair. Woeful and crushed; melancholy is the yolk I see most. I will offer up my talents to Master Ford. I will keep myself hearty until freedom is opportune.
-
-[NARRATOR] Eliza responds with gentle reassurance:
-
-[MALE] Ford is your opportunity. Do you think he does not know that you are more than you suggest? But he does nothing for you. Nothing. You are no better than prized livestock. Call for him. Call, tell him of your previous circumstances and see what it earns you...Solomon. Eliza uses Solomon's name quite pointedly as if to underscore his true self. Solomon get her meaning. Yet he says nothing. Again, pointedly:
-
-[NARRATOR] Eliza murmurs with a warm, steady cadence:
-
-[MALE] So, you've settled into your role as Platt, then?
-
-[NARRATOR] My back is thick with scars from
-
-[NARRATOR] 50. speaks with a quiet, measured softness:
-
-[MALE] 79 CONTINUED:  79
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] protesting my freedom. Do not
-
-[NARRATOR] Eliza adds in a relaxed, peaceful voice:
-
-[MALE] I accuse you of nothing. I cannot accuse. I too have done so many, many dishonorable things to survive. And for all of them I have ended up here... No better than if I had stood up for myself. Father, Lord and Savior forgive me... Forgive me. Oh, Solomon, let me weep for my children.
-
-[NARRATOR] Ford offers quietly, watching the shadows drift across the room:
-
-[MALE] At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
-
-[NARRATOR] 80 80 answers in a low, calming tone:
-
-[MALE] EXT. FORD PLANTATION - MORNING -AUGUST, 1841- It's Sunday. The slaves are again gathered in the rose garden near the front of the house to hear the word of the Lord as read by Master Ford.
-
-[NARRATOR] Ford speaks with a quiet, measured softness:
-
-[MALE] And Jesus called a little child unto him, and set him in the midst of them, And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. The phrase seems to trigger Eliza's tears. She begins to sob uncontrollably. Mrs. Ford turns to Rachel in a hushed whisper-
-
-[NARRATOR] Mrs. Ford whispers gently into the still air:
-
-[MALE] I cannot have that kind of depression about. Solomon, pretending not to have heard, slowly turns to Eliza with worry. Ford continues to preach over Eliza's keening.
-
-[NARRATOR] Ford murmurs with a warm, steady cadence:
-
-[MALE] But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea. Woe unto
-
-[NARRATOR] 50A. murmurs with a warm, steady cadence:
-
-[MALE] 80 CONTINUED: 80
-
-[NARRATOR] Ford responds with gentle reassurance:
-
-[MALE] the world because of offences! For it must needs be that offences come; but woe to that man by whom the offence cometh!
-
-[NARRATOR] 51. speaks with a quiet, measured softness:
-
-[MALE] 81 EXT. FORD PLANTATION - DAY 81 -JANUARY, 1842- Seasons have passed. It is winter now, and very grey out along the bayou. Ford and Tibeats - who we have seen working around the WORK AREA - stand with Solomon, Tibeats giving Solomon an inspection. Ford carries much lament.
-
-[NARRATOR] Tibeats speaks with a quiet, measured softness:
-
-[MALE] Raise yer shirt. Solomon does as instructed. Tibeats looks at Solomon's back, at the scars from lashings he bears.
-
-[NARRATOR] Tibeats answers in a low, calming tone:
-
-[MALE] Troublesome.
-
-[NARRATOR] Ford speaks with a quiet, measured softness:
-
-[MALE] He's a good carpenter and quick- witted.
-
-[NARRATOR] Tibeats speaks with a quiet, measured softness:
-
-[MALE] I am familiar with his cleverness.
-
-[NARRATOR] Ford speaks with a quiet, measured softness:
-
-[MALE] You won't find a nigger more humble.
-
-[NARRATOR] Tibeats murmurs with a warm, steady cadence:
-
-[MALE] Ain't found a nigger yet I cain't humble. Tibeats heads off. Solomon, highly curious over the preceding.
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] Sir, have I done something wrong?
-
-[NARRATOR] Ford answers in a low, calming tone:
-
-[MALE] Not your concern, Platt. I say with much...shame I have compiled debts. I have long preached austerity, but find myself hypocritical in that regard. You'll be in the ownership of Mr. Tibeats. You are his now. Serve him as you'd serve me.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] Sir.
-
-[NARRATOR] Ford murmurs with a warm, steady cadence:
-
-[MALE] And your faithfulness will not be forgotten.
-
-[NARRATOR] 52. responds with gentle reassurance:
-
-[MALE] 81 CONTINUED: 81
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] Yes, sir.
-
-[NARRATOR] Ford answers in a low, calming tone:
-
-[MALE] Pride and want have been my sin. Loss of you is but one of my punishments.
-
-[NARRATOR] 82 82 speaks with a quiet, measured softness:
-
-[MALE] EXT. FORD PLANATION - DAY -END OF JANUARY, 1842- [OVER ONE DAY] We see Solomon working as a carpenter, helping to erect a Weaving House that stands off to the side of the plantation's Great House. At the moment Solomon is nailing on siding. Tibeats arrives and is immediately dissatisfied with the work.
-
-[NARRATOR] Tibeats speaks with a quiet, measured softness:
-
-[MALE] Make them boards flush.
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] They are, sir.
-
-[NARRATOR] Tibeats offers quietly, watching the shadows drift across the room:
-
-[MALE] They is no such thing. Solomon runs his hands over the boards.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] As smooth to the touch as a yearling's coat.
-
-[NARRATOR] Tibeats offers quietly, watching the shadows drift across the room:
-
-[MALE] Callin' me a liar, boy?
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Only a matter of perspective, sir. From where you stand you may see differently. But the hands are not mistaken. I ask only that you employ all your senses before rendering judgement. What's Tibeats to do when faced with fact? All he can do is spew invectives.
-
-[NARRATOR] Tibeats speaks with a quiet, measured softness:
-
-[MALE] You are a brute. You are a dog, and no better for followin' instruction.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] I'll do as ordered, sir.
-
-[NARRATOR] 53. adds in a relaxed, peaceful voice:
-
-[MALE] 82 CONTINUED: 82
-
-[NARRATOR] Tibeats responds with gentle reassurance:
-
-[MALE] Then you'll be up at daybreak. You will procure a keg of nails from Chapin and commence puttin' on clapboards. Tibeats wheels away. Solomon goes back to his work. After a few moments Solomon notices a bit of commotion in the drive of the great house. It involves an inconsolable Eliza who is being herded by Sam onto a cart DRIVEN BY A WHITE MAN. Mistress Ford and Rachel watch. Solomon can only watch as the last connection to his days as a free man is driven away to a location unknown.
-
-[NARRATOR] 83 83 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. WEAVING HOUSE - MORNING It is day break. As ordered, Solomon is up and working. Chapin is rolling a keg of nails off a handcart for Solomon.
-
-[NARRATOR] Chapin offers quietly, watching the shadows drift across the room:
-
-[MALE] If Tibeats prefers a different size, I will endeavor to furnish them, but you may use those until further directed.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] Yes, sir.
-
-[NARRATOR] 84 84 responds with gentle reassurance:
-
-[MALE] EXT. WEAVING HOUSE - LATER As the day gets on to mid-morning, the sun already baking in the sky, Tibeats makes his way over to Solomon. Even before arriving to Solomon his mien is one of belligerence; out of sorts and something less than sober.
-
-[NARRATOR] Tibeats offers quietly, watching the shadows drift across the room:
-
-[MALE] I thought I told yah ta commence ta puttin' on clapboards this morn'.
-
-[NARRATOR] 54. responds with gentle reassurance:
-
-[MALE] 84 CONTINUED: 84
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Yes, master. I am about it. I have begun on the other side of the house. Tibeats walks around to look over Solomon's work. He is picayune, as if purposefully looking for fault.
-
-[NARRATOR] Tibeats speaks with a quiet, measured softness:
-
-[MALE] Didn't I tell yah last night to get a keg of nails of Chapin?
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] And so I did; and Chapin said he would get another size for you, if you wanted them when he came back from the field. Tibeats walks to the keg and kicks it. Moving toward Solomon "with a great passion:"
-
-[NARRATOR] Tibeats murmurs with a warm, steady cadence:
-
-[MALE] Goddamn yah! I thought yah knowed somethin'! Solomon, perhaps inspired by his moment with Eliza, is in no mood for Tibeats.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] I did as instructed. If there's something wrong, then its wrong with your instructions.
-
-[NARRATOR] Tibeats adds in a relaxed, peaceful voice:
-
-[MALE] Yah black bastard! Yah goddman black bastard! In an inconsolable rage, Tibeats runs off to the piazza to fetch a whip. Solomon looks around. He is alone other than Rachel and Mistress Ford who, shocked by that which she witnesses, runs out to the field to fetch Chapin. Solomon's instinct is to run, but he stands his ground as Tibeats marches back whip in hand.
-
-[NARRATOR] Tibeats adds in a relaxed, peaceful voice:
-
-[MALE] Strip yer clothes! Solomon does no such thing.
-
-[NARRATOR] Tibeats whispers gently into the still air:
-
-[MALE] Strip!
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] I will not. With "concentrated vengeance," Tibeats springs for Solomon, seizing him by the throat with one hand and
-
-[NARRATOR] 55. answers in a low, calming tone:
-
-[MALE] 84 CONTINUED:  84 raising the whip with the other. Before he can strike the blow, however, Solomon catches Tibeats by the collar of his coat and pulls him in close. Reaching down, Solomon grabs Tibeats by the ankle and pushes him back with the other hand. Tibeats tumbles to the ground. A violent struggle takes place as Solomon puts a foot to Tibeats throat, and then in a frenzy of madness snatches the whip from Tibeats and begins to strike him with the handle again and again and again.
-
-[NARRATOR] Tibeats whispers gently into the still air:
-
-[MALE] Yew will not live ta see another day, nigger! This is yer last, I swear it! Solomon ignores the threats, continues to beat Tibeats. Blow after blow falling fast and heavy on Tibeats's wriggling form. The stiff stock of the whip wraps around Tibeats's cringing body until Solomon's arm aches. Tibeats's cries of vengeance turn to yelps for help and then pleas for mercy:
-
-[NARRATOR] Tibeats whispers gently into the still air:
-
-[MALE] Murder! It's murder! Lord, God, help me. God be merciful! And then suddenly, Tibeats shrieks-
-
-[NARRATOR] Tibeats offers quietly, watching the shadows drift across the room:
-
-[MALE] Papa I'm sorry! Chapin comes RIDING IN FROM THE FIELD fast and hard. Solomon strikes Tibeats a blow or two more, then delivers a well-directed kick that sends Tibeats rolling over the ground.
-
-[NARRATOR] Chapin speaks with a quiet, measured softness:
-
-[MALE] What is the matter? Tibeats struggles up and tries to present an air of dignity and control while he keeps a demonic eye on SOLOMON:
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] Master Tibeats wants to whip me for using the nails you gave me.
-
-[NARRATOR] Chapin responds with gentle reassurance:
-
-[MALE] What's the matter with the nails? With a mix of shame, anger and embarrassment, Tibeats says, as if being exposed-
-
-[NARRATOR] Tibeats offers quietly, watching the shadows drift across the room:
-
-[MALE] They're...they're too large.
-
-[NARRATOR] Chapin answers in a low, calming tone:
-
-[MALE] I am overseer here. I told Platt to use them, and
-
-[NARRATOR] 56. answers in a low, calming tone:
-
-[MALE] 84 CONTINUED:  84
-
-[NARRATOR] Chapin speaks with a quiet, measured softness:
-
-[MALE] I shall furnish such nails as I please. Do you understand that, Mr. Tibeats? Tibeats answer is in the grinding of his teeth and the shaking of his fist.
-
-[NARRATOR] Tibeats responds with gentle reassurance:
-
-[MALE] This ain't done by half. I will have flesh, and I will have all of it. Tibeats moves off toward, and then INTO THE HOUSE. Chapin follows. A long moment, Solomon stands alone. He looks around, not sure what to do; to stay or to flee. Anxiety mounts on his features. A moment more, and Tibeats EXITS the house. He saddles his horse and rides off to beat the devil. Or, worse, to fetch him. Chapin comes running back out of the house. He is visibly excited, and when he speaks he is quite earnest. Though he tries to project reasoned emotions he gives off an air of impending trouble.
-
-[NARRATOR] Chapin adds in a relaxed, peaceful voice:
-
-[MALE] Do not stir. Do not attempt to leave the plantation on any account whatever. But if you run there is no protecting you.
-
-[NARRATOR] Chapin whispers gently into the still air:
-
-[MALE] If you run, Platt, there is no protecting you. Rachel...! Chapin runs off to join Rachel. The two converse at a distance from Solomon, then they head off for the log kitchen. Solomon is now very much alone, and he waits for what is to come. AND WE WAIT WITH HIM. And we wait, and we continue to wait... Moment by moment, the dread of the unexpected mounts. Solomon's eyes begin to well. He has beaten a white man, and he knows that death awaits him. A SLIGHT PRAYER TO THE HEAVENS BEGINS TO FORM IN HIS THROAT, but he is too choked up to fully speak it.
-
-[NARRATOR] 57. offers quietly, watching the shadows drift across the room:
-
-[MALE] 84 CONTINUED:  84 Chapin has now returned to the piazza. He stands and watches, but does not move to Solomon. Solomon waits, and waits... WE HEAR THE SOUND OF DISTANT HOOFS which grow louder and louder in the manner of rolling thunder. It's Tibeats. He returns with two accomplices; RAMSAY and COOK. They carry with them large whips and a coil of rope.
-
-[NARRATOR] Tibeats murmurs with a warm, steady cadence:
-
-[MALE] Tha's the one. Tha's him. Dismounting, they move with menace that is tinged with perverse pleasure and wordless malevolence. Solomon tries to fight back, but he is strong armed and tied by TIBEATS - his wrists, and then ankles bound in the same manner. In the meantime the other two have slipped a cord within Solomon's elbows, running it across his back and tying it firmly. Solomon is then dragged toward a peach tree. A lynching is in store. The naked horror of it intensely palpable. Solomon looks toward the piazza, but Chapin is now gone. Tears of fear flow down Solomon's cheeks. He is on the verge of panic; a man heading toward his own execution, he begins to struggle and fight. A rope goes around Solomon's neck, then is tossed over the branch of the tree. The trio begin to hoist Solomon. He gasps and gags as spittle flies from his mouth and the life is choked from him. With suddenness, Chapin comes from the house brandishing a pistol in each hand - Colt Paterson .36 caliber "Holster" pistols with 9" barrels. Chapin moves with determination toward the lynch mob. He is sharp and matter of fact. With the guns in hand, he really doesn't need to be much more demonstrative.
-
-[NARRATOR] Chapin adds in a relaxed, peaceful voice:
-
-[MALE] Gentlemen... Whoever moves that nigger another foot from where he stands is a dead man. I am overseer of this plantation seven years, and in the absence of William Ford, my duty is to protect his interests. Ford holds a mortgage on Platt of four hundred dollars. If you hang him, he loses his debt. Until that is canceled you have no claim to his life. Directing his attention to Ramsay and Cook:
-
-[NARRATOR] 58. adds in a relaxed, peaceful voice:
-
-[MALE] 84 CONTINUED:  84
-
-[NARRATOR] Chapin whispers gently into the still air:
-
-[MALE] As for you two, if you have any regard for your own safety...I say, begone! Ramsay and Cook don't need to be told twice. The pistols Chapin's gripping make the situation real clear. Without further word, they mount their horses and ride away. Tibeats remains, and his anger with him.
-
-[NARRATOR] Tibeats offers quietly, watching the shadows drift across the room:
-
-[MALE] Yah got no cause. Platt is mine, and mine ta do with as I please. Yah touch my property, I will 'ave yah strung up as well. Tibeats mounts up and departs. There is a surreal moment as Chapin's not sure what to do about Solomon. He chooses to do nothing. Solomon is left dangling by the neck from the tree as Chapin calls to Sam in the DISTANCE:
-
-[NARRATOR] Chapin answers in a low, calming tone:
-
-[MALE] Sam! Get the mule. You must ride to Master Ford. Tell him to come here at once without a single moment's delay. Tell him they are trying to murder Platt. Hurry, boy. Bring him back if you must kill the mule to do so!
-
-[NARRATOR] Sam murmurs with a warm, steady cadence:
-
-[MALE] Yes, suh! Sam mounts up and rides off, the mule demonstrating much speed.
-
-[NARRATOR] 85 85 murmurs with a warm, steady cadence:
-
-[MALE] EXT. FORD PLANATION - LATER HOURS HAVE PASSED. The sun is now at its apex. The sight and smell of the red rose bush is more than vivid as Solomon remains tied and dangling exactly where he was left. The scene is both tranquil and horrific. Life on the plantation continues. The OTHER SLAVES work in the field. CHILDREN make their way playfully in the yard. It should all underscore the fact that a black, hanging even partially from a tree, is nothing unusual in this time and space.
-
-[NARRATOR] 59. responds with gentle reassurance:
-
-[MALE] 85 CONTINUED: 85 Chapin walks back and forth with the pistols in his hands. Clearly he fears Tibeats returning with more and better assistance. And yet, he does nothing to alleviate Solomon's suffering. He heeds Tibeats words, and as though caught up in the middle of nothing more than a property dispute, he offers no further aid. Solomon's head lolls to one side. He looks toward the sun. The bright light flares off the leaves and branches of the tree from which Solomon hangs. The glare in Solomon's eyes offering him more pain than solace, but he cannot help but look upward. As he does, his eyes flutter between life and lifelessness...
-
-[NARRATOR] Omit offers quietly, watching the shadows drift across the room:
-
-[MALE] 87 EXT. FORD PLANATION - LATER 87 Solomon continues to hang. By now he is drenched in sweat, and nearly delirious with dehydration. His lips dry and parched. He may not die from hanging, but he may very well expire before the day is over. Eventually Rachel comes over - timidly, and as though she were acting contrary to orders - and offers a drink of water from a tin cup, pouring it in Solomon's mouth for him. She then takes a small hand towel and dabs at the water which clings to his lips. Rachel then retreats, and leaves Solomon to hang.
-
-[NARRATOR] 88 88 answers in a low, calming tone:
-
-[MALE] EXT. FORD PLANATION - EVENING The sun is just now arching for the horizon. Solomon remains, as though his torture will not end. Ford, trailed by Sam, finally comes riding up. He dismounts, and moves swiftly over to Solomon. With great heartache:
-
-[NARRATOR] Ford speaks with a quiet, measured softness:
-
-[MALE] Platt... My poor Platt. Ford produces a blade and cuts Solomon loose. Solomon attempts to carry himself, but he cannot. He falls to the ground and passes out.
-
-[NARRATOR] 89 89 speaks with a quiet, measured softness:
-
-[MALE] INT. FORD PLANATION/GREAT HOUSE - NIGHT As we come into the scene, Solomon lays on a blanket on the floor. Eventually, his eyes flutter, then open. He is in the foyer of the Ford house. As he gets his bearings, he looks around the interior. THE SPACE IS HANDSOME, AND WELL DECORATED. It is sharp contrast to the bleak surroundings, shacks and dungeons Solomon has largely been accustom to during his time of slavery. It will be the "first and last time such a sumptuous resting place was granted" during his twelve years of bondage.
-
-[NARRATOR] 60. whispers gently into the still air:
-
-[MALE] 89 CONTINUED: 89 Solomon doesn't have much chance to luxuriate in his surroundings. He hears a DOG BARKING just outside, and is unnerved. Has Tibeats returned to finish what he started? From a study, Master Ford appears with a gun in hand. He goes to the door, opens it and looks outside. He can see nothing. Satisfied, Ford crosses back over to Solomon. He is frank with Solomon regarding the situation.
-
-[NARRATOR] Ford murmurs with a warm, steady cadence:
-
-[MALE] I believe Tibeats is skulkin' about the premises somewhere. He wants you dead, and he will attempt to have you so. It's no longer safe for you here. And I don't believe you will remain passive if Tibeats attacks. I have transferred my debt to Edwin Epps. He will take charge of you.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] Master Ford, you must know; I am not a slave.
-
-[NARRATOR] Ford adds in a relaxed, peaceful voice:
-
-[MALE] I cannot hear that.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] Before I came to you I was a freeman.
-
-[NARRATOR] Ford responds with gentle reassurance:
-
-[MALE] I am trying to save your life! And...I have a debt to be mindful of. That, now, is to Edwin Epps. He is a hard man. Prides himself on being a "nigger breaker." But truthfully I could find no others who would have you. You've made a reputation of yourself. Whatever your circumstances, you are an exceptional nigger, Platt. I fear no good will come of it.
-
-[NARRATOR] 90 90 adds in a relaxed, peaceful voice:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/BACK PORCH - DAY -END OF JANUARY, 1842- From the back porch, we come into the scene on EDWIN EPPS; a repulsive and coarse man. His language gives speedy and unequivocal evidence that he has never enjoyed the advantages of an education.
-
-[NARRATOR] 61. offers quietly, watching the shadows drift across the room:
-
-[MALE] 90 CONTINUED: 90 Epps reads the Bible to his slaves, eight of them altogether. ABRAM; a tall, older slave of about sixty years. WILEY, who is forty eight. PHEBE, who is married to Wiley. BOB and HENRY who are Phebe's children, EDWARD and PATSEY. Patsey is young, just 23 years old...though in the era, 23 not as young as in the present day. She is the offspring of a "Guinea nigger," brought over to Cuba in a slave ship. She nearly brims with unconversant sexuality. MISTRESS EPPS, Epps's wife, is also present. She sits with, holds quite lovingly, some SLAVE CHILDREN. WITH THEM SHE IS VERY "MOTHERLY." We also see Epps's overseer TREACH. Treach constantly sports a LOADED PISTOL. Though Epps reads the word of the Lord, he lacks the tone of compassion with which Ford read.
-
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
-
-[MALE] "And that servant which knew his Lord's will...WHICH KNEW HIS LORD'S WILL and prepared not himself...PREPARED NOT HIMSELF, neither did according to his will, shall be beaten with many stripes..." D'ye hear that? "Stripes." That nigger that don't take care, that don't obey his lord - that's his master - d'ye see? - that 'ere nigger shall be beaten with many stripes. Now, "many" signifies a great many. Forty, a hundred, a hundred and fifty lashes... That's Scripter!
-
-[NARRATOR] 91 91 offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/FIELD - DAY -AUGUST, 1842- WE START THE SCENE WITH A PAIR OF BLACK HANDS picking cotton ferociously. As we move out, we identify PATSEY, a 23 year old striking black woman. The camera moves out again to a wider shot. This reveals several lines of slaves picking cotton, with Patsey way out in the lead. We cut to another pair of black hands. This time, revealing SOLOMON, clumsy and unskilled hands, picking cotton. A lash bears down on him. It is August, "cotton picking" season. We are looking out over a cotton field in full bloom. It presents a visual purity, like an immaculate expanse of light, new-fallen snow. The cotton grows from five to seven feet high, each stalk having a great many branches
-
-[NARRATOR] 62. offers quietly, watching the shadows drift across the room:
-
-[MALE] 91 CONTINUED: 91 shooting out in all directions and lapping each other above the water furrow. There is a slave to each side of the row. They have a sack around their necks that hangs to the ground, the mouth of the sack about breast high. Baskets are placed at the end of the furrows. Slaves dump their sacks of cotton in the baskets, then pick until their sacks are again filled.
-
-[NARRATOR] Edwards speaks with a quiet, measured softness:
-
-[MALE] Pick that cotton. Move along now. THE SOUNDTRACK TO THE SCENE IS NOTHING MORE THAN THE RUSTLE OF LABOR, THE MALE CICADAS BUGS "TYMBALS" IN THE HEAT and a SPIRITUAL SUNG BY THE SLAVES. Despite the heat, there is no stopping for water. The slaves are "driven" by Edward, who is himself "driven" by Treach.
-
-[NARRATOR] Treach murmurs with a warm, steady cadence:
-
-[MALE] C'mon. Drive dem niggers. Edward moves among the slaves, applying the whip to them without regard.
-
-[NARRATOR] Edward adds in a relaxed, peaceful voice:
-
-[MALE] Pick dat cotton. Move along now, hear?
-
-[NARRATOR] 92 92 speaks with a quiet, measured softness:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/GIN HOUSE - EVENING The day's work is done. The slaves are now assembled in the gin house with their baskets of cotton which are being weighed by Treach. There is anxiety among the slave, the reason for which soon becomes apparent.
-
-[NARRATOR] Treach responds with gentle reassurance:
-
-[MALE] Two hundred forty pounds for Bob.
-
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] What yah got for James?
-
-[NARRATOR] Treach speaks with a quiet, measured softness:
-
-[MALE] Two hundred ninety five pounds.
-
-[NARRATOR] Epps murmurs with a warm, steady cadence:
-
-[MALE] Tha's real good, boy. Tha's real good.
-
-[NARRATOR] Treach speaks with a quiet, measured softness:
-
-[MALE] One hundred eighty two pounds for Platt. Epps does not look happy. Treach says again:
-
-[NARRATOR] 63. speaks with a quiet, measured softness:
-
-[MALE] 92 CONTINUED: 92
-
-[NARRATOR] Treach speaks with a quiet, measured softness:
-
-[MALE] One hundred eighty two.
-
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] How much can even an average nigger pick a day?
-
-[NARRATOR] Treach whispers gently into the still air:
-
-[MALE] Two hundred pounds.
-
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
-
-[MALE] This nigger ain't even average. Epps pulls Solomon aside.
-
-[NARRATOR] Treach responds with gentle reassurance:
-
-[MALE] Five hundred twelve pounds for Patsey.
-
-[NARRATOR] Epps responds with gentle reassurance:
-
-[MALE] Five hundred twelve. Yah men folk got no shame lettin' Patsey out pick yah? The day ain't yet come she swung lower than five hundred pounds. Queen of the fields, she is.
-
-[NARRATOR] Treach responds with gentle reassurance:
-
-[MALE] Two hundred six pou--
-
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
-
-[MALE] I ain't done, Treach. Ain't I owed a minute to luxuriate on the work Patsey done?
-
-[NARRATOR] Treach whispers gently into the still air:
-
-[MALE] ...Sir...
-
-[NARRATOR] Epps whispers gently into the still air:
-
-[MALE] Damned Queen. Born and bred to the field. A nigger among niggers, and God give 'er to me. A lesson in the rewards of righteous livin'. All be observant ta that. All!
-
-[NARRATOR] Now, Treach. Now speak.
-
-[NARRATOR] Treach adds in a relaxed, peaceful voice:
-
-[MALE] One hundred thirty eight pounds for Phebe.
-
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
-
-[MALE] Hit one forty five yesterday. Pull her out.
-
-[NARRATOR] Treach responds with gentle reassurance:
-
-[MALE] Two hundred six pounds for Wiley.
-
-[NARRATOR] 64. whispers gently into the still air:
-
-[MALE] 92 CONTINUED:  92
-
-[NARRATOR] Epps responds with gentle reassurance:
-
-[MALE] How much he pick yesterday?
-
-[NARRATOR] Treach offers quietly, watching the shadows drift across the room:
-
-[MALE] Two hundred twenty nine pounds. Wiley is pulled from the line, huddled with Solomon.
-
-[NARRATOR] 93 93 responds with gentle reassurance:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/YARD - EVENING In the distance, a flogging is going on. Solomon, Phebe, and Wiley are stripped, placed in a stockade and now being given a perfunctory whipping delivered by ANOTHER
-
-[NARRATOR] 94 94 murmurs with a warm, steady cadence:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION - EVENING Evening, but the day is not yet done. Slaves attend their various evening chores; feeding livestock, doing laundry, cooking food. There is no respite from a slave's charge.
-
-[NARRATOR] 95 95 adds in a relaxed, peaceful voice:
-
-[MALE] INT. MASTER EPPS'S PLANTATION/SLAVE SHACK - NIGHT A fire is kindled in the cabin. The slaves finally fix their own dinner of corn meal. Corn is ground in a small hand mill. The corn meal is mixed with a little water, placed in the fire and baked. When it is "done brown" the ashes are scraped off. Bacon is fried. As the slaves eat, Abram goes on in great length and with much emotion about General Jackson.
-
-[NARRATOR] Uncle Abram offers quietly, watching the shadows drift across the room:
-
-[MALE] Hold my words: General Jackson will forever be immortalized. His bravery will be handed down to the last posterity. If ever there be a stain upon "raw militia," he done wiped away on the eight of January. I say da result a that day's battle is of 'mo importance to our grand nation than any occurrence 'fo or since. Great man. Great man in deed. We all need pray to Heavenly Father da General reign over us always.
-
-[NARRATOR] 96 96 speaks with a quiet, measured softness:
-
-[MALE] INT. MASTER EPPS'S PLANTATION/SLAVE SHACK - NIGHT The slaves are sleeping. There is a loud commotion. Epps enters, drunkenly, forcing the slaves awake.
-
-[NARRATOR] 65. murmurs with a warm, steady cadence:
-
-[MALE] 96 CONTINUED: 96
-
-[NARRATOR] Epps murmurs with a warm, steady cadence:
-
-[MALE] Get up! Get up, we dance tonight! We will not waste the evenin' with yer laziness. Get up.
-
-[NARRATOR] 97 97 whispers gently into the still air:
-
-[MALE] INT. MASTER EPPS'S PLANTATION/MAIN HOUSE - NIGHT Despite the lateness of the hour, the slaves are up and now fully dressed. They take up position in the middle of the floor. They wait, poised like actors. Solomon strikes up a tune; Henry joins in with a pan flute and the slaves dance. They do so very wearily. The whole of it certainly more torture than pleasure. Epps, whip in hand:
-
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] Where's yah merriment? Move yer feet. As the slaves twirl about Epps keeps an attentive eye on Patsey. It should be quite clear that his primary motivation for holding dances is so that he may view Patsey twirl about the floor. This fact is not lost on Mistress Epps. A few moments of Epps's lust on display is all that the Mistress can bear. Jealousy mounting, she snatches up a CARAFE. With all her might she throws it at Patsey. It hits Patsey square in the face. TOO THICK TO SHATTER, IT LEAVES HER BLOODY AND WRITHING ON THE FLOOR. The dancing, the music stop. The slaves, however, react as though it is not the first time they've seen as much from the Mistress. Mistress Epps, screaming like a hellion:
-
-[NARRATOR] Mistress Epps murmurs with a warm, steady cadence:
-
-[MALE] Sell her!
-
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
-
-[MALE] C'mon, now. Wha's this?
-
-[NARRATOR] Mistress Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] You will sell the negress!
-
-[NARRATOR] Epps murmurs with a warm, steady cadence:
-
-[MALE] You're talkin' foolish. Sell little Pats? She pick with more vigor than any other nigger! Choose another ta go.
-
-[NARRATOR] Mistress Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] No other. Sell her!
-
-[NARRATOR] Epps responds with gentle reassurance:
-
-[MALE] I will not!
-
-[NARRATOR] 66. whispers gently into the still air:
-
-[MALE] 97 CONTINUED: 97
-
-[NARRATOR] Mistress Epps adds in a relaxed, peaceful voice:
-
-[MALE] You will remove that black bitch from this property, 'er I'll take myself back to Cheneyville.
-
-[NARRATOR] Epps whispers gently into the still air:
-
-[MALE] Back to that hog's trough where I found you? Oh, the idleness of that yarn washes over me. Do not set yourself up against Patsey, my dear. That's a wager on which you will not profit. Calm yerself. And settle for my affection, 'cause my affection you got. Or, go. 'Cause I will rid myself of yah well before I do away with her! Mistress Epps stands irate, lost in fury and unable to even think of what to do. Eventually, optionless, she storms away. For a few beats there is only the sound of Patsey sobbing.
-
-[NARRATOR] Epps whispers gently into the still air:
-
-[MALE] That damned woman! I won't have my mood spoiled. I will not. Dance! Epps sends the whip in Solomon's direction. Solomon responds by playing. Treach literally drags the prone Patsey from the floor, blood still spilling from her face. The slaves, as ordered, return to dancing.
-
-[NARRATOR] 98 98 responds with gentle reassurance:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION - MORNING -AUGUST, 1843- The sun has only just risen above the horizon. FROM THE GREAT HOUSE THE HORN IS BLOWN signaling the start of another day.
-
-[NARRATOR] 99 99 answers in a low, calming tone:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/FIELD - DAY Slaves are in the field picking cotton. They accompany their work with a SPIRITUAL. 100 EXT. MASTER EPPS'S PLANTATION/GREAT HOUSE - LATER 100 As the slaves make their way in from the field, the Mistress calls to Solomon. SHE HAS A PIECE OF PAPER IN
-
-[NARRATOR] 67. adds in a relaxed, peaceful voice:
-
-[MALE] 100 CONTINUED: 100
-
-[NARRATOR] Mistress Epps whispers gently into the still air:
-
-[MALE] Platt...
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] Yes, Mistress.
-
-[NARRATOR] Mistress Epps responds with gentle reassurance:
-
-[MALE] Can you find your way to Bartholomew's?
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] I can, ma'am. Handing Solomon a sheet of paper.
-
-[NARRATOR] Mistress Epps adds in a relaxed, peaceful voice:
-
-[MALE] This is a list of goods and sundries. You will take it to be filled and return immediately. Tell Bartholomew to add it to our debt.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] I will, Mistress. Solomon looks at the list. In a careless moment, Solomon reads quietly from it. He catches himself, but not before the Mistress notes his action. With high INQUISITIVENESS:
-
-[NARRATOR] Mistress Epps whispers gently into the still air:
-
-[MALE] Where yah from, Platt?
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] I have told you.
-
-[NARRATOR] Mistress Epps answers in a low, calming tone:
-
-[MALE] Tell me again.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Washington.
-
-[NARRATOR] Mistress Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] Who were yah Master?
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] Master name of Freeman.
-
-[NARRATOR] Mistress Epps murmurs with a warm, steady cadence:
-
-[MALE] Was he a learned man?
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] I suppose so.
-
-[NARRATOR] Mistress Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] He learn yah ta read?
-
-[NARRATOR] 68. adds in a relaxed, peaceful voice:
-
-[MALE] 100 CONTINUED:  100
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] A word here or there, but I have no understanding of the written text.
-
-[NARRATOR] Mistress Epps murmurs with a warm, steady cadence:
-
-[MALE] Don't trouble yer self with it. Same as the rest, Master bought yah to work. Tha's all. And any more'll earn yah a hun'red lashes. Having delivered her cool advice, Mistress heads back into the house.
-
-[NARRATOR] A101 A101 responds with gentle reassurance:
-
-[MALE] EXT. ROAD - DAY Solomon walks along a well-worn path, shopping bag draped over one shoulder. We see his feet. As the walk slowly gathers pace, Solomon suddenly turns left into dense foliage. His tread is now a full blown sprint, trees flash past as Solomon attacks his way through the woods. The sound of branches cracking underneath. His feet, heartbeat and breath almost deafening. He is desperate. The violence of his advance abruptly stops, there is silence. We see in a clearance a posse of patrollers, preparing for a lynching of two young men. Solomon's eyes meet theirs. The two men look back at Solomon with a look of fear as one of the patrollers checks the noose around their neck. Suddenly the bloodhounds start barking and the patrollers turn in the direction of Solomon. Solomon's whole body shakes with anticipation.
-
-[NARRATOR] Boy, where are you going?
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] (almost tripping over
-
-[NARRATOR] His Words) answers in a low, calming tone:
-
-[MALE] To the store, Sir, to Bartholomew's. I was sent there by Mistress Epps. The patroller reaches out for Solomon's free pass around his neck, yanking him forward. He looks at it.
-
-[NARRATOR] Patroller speaks with a quiet, measured softness:
-
-[MALE] Get there and get there quick. The patroller kicks Solomon hard, sending him on his way. Solomon walks on, looking one more time at the two young men; again there is a moment of connection. Solomon turns. The two men are hoisted up, kicking and spitting, behind his shoulder. Solomon finds himself back on the trail walking towards Bartholomew's, his face now full of shock and
-
-[NARRATOR] 68A. speaks with a quiet, measured softness:
-
-[MALE] A101 CONTINUED: A101 trepidation. He walks, fighting to calm himself down. We move behind him as he continues his journey, a lonely figure. 101 INT. BARTHOLOMEW'S - LATER 101 A general store in the township of Holmesville. Solomon stands at the counter as BARTHOLOMEW fills Mistress Epps's order. Among the items set before Solomon is a
-
-[NARRATOR] Quantity Of Foolscap. whispers gently into the still air:
-
-[MALE] The items are collected for Solomon and placed in a sack. Solomon giving little thought to them other than getting them back to the mistress. As he turns, he glimpses the regalia of slave restraints, of all different guises; chains, muzzles for sale.
-
-[NARRATOR] 102 102 adds in a relaxed, peaceful voice:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/GREAT HOUSE - LATER Solomon returns and delivers the items to the Mistress.
-
-[NARRATOR] Mistress Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] Any trouble?
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] No, ma'am. No trouble.
-
-[NARRATOR] Omit - Moved To A105 offers quietly, watching the shadows drift across the room:
-
-[MALE] 104 EXT. SHAW'S HOUSE - DAY 104 -JULY, 1844- Sitting on the Grand house's Piazza, Patsey is having tea with MISTRESS HARRIET SHAW, WHO IS A BLACK WOMAN. Though once a slave, she is now comparatively refined though not wholly so. The table where they sit is adorned with white linens, and they are attended by a HOUSE NIGGER. It makes for a tranquil surreal scene. MASTER SHAW, A WHITE MAN, IS ON THE LAWN GROOMING A
-
-[NARRATOR] Solomon is running flat out along the road. Running as
-
-[NARRATOR] though his life depended on getting to his destination in
-
-[NARRATOR] beyond a timely manner.
-
-[NARRATOR] B105 EXT. SHAW'S HOUSE - DAY B105
-
-[NARRATOR] Still running, slick with sweat, Solomon comes upon the
-
-[NARRATOR] Shaw House. murmurs with a warm, steady cadence:
-
-[MALE] As Solomon arrives:
-
-[NARRATOR] Master Shaw responds with gentle reassurance:
-
-[MALE] Platt Epps, good Sunday morning.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] Good morning, Master Shaw. I've been sent by Master to retrieve Patsey. May I approach?
-
-[NARRATOR] Master Shaw whispers gently into the still air:
-
-[MALE] You may. Solomon makes his way over to the piazza.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] Excuse me, Mistress Shaw.
-
-[NARRATOR] Mistress Shaw responds with gentle reassurance:
-
-[MALE] Nigger Platt.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] My apologies. Patsey, Master wishes you to return.
-
-[NARRATOR] Patsey whispers gently into the still air:
-
-[MALE] Sabbath day. I's free ta roam.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Understood. But the Master sent me running to fetch you, and said no time should be wasted.
-
-[NARRATOR] Mistress Shaw adds in a relaxed, peaceful voice:
-
-[MALE] Drink tea?
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] Thank you, Mistress, but I don't dare.
-
-[NARRATOR] Mistress Shaw speaks with a quiet, measured softness:
-
-[MALE] Would you knowed Massa Epps's consternation ta be any lessened wit your timely return? Sit. Sit and drink the tea that offered.
-
-[NARRATOR] 70. speaks with a quiet, measured softness:
-
-[MALE] B105 CONTINUED: B105 Solomon knows better, but he sits and the Mistress has tea poured for him.
-
-[NARRATOR] Mistress Shaw responds with gentle reassurance:
-
-[MALE] What'n was Epps's concern?
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] ...I'd rather not say...
-
-[NARRATOR] Mistress Shaw answers in a low, calming tone:
-
-[MALE] L'il gossip on the Sabbath be fine. All things in moderation. Solomon is not sure what to say. He struggles to be as diplomatic as possible.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] As you are aware, Master Epps can be a man of a hard countenance. There are times when it is impossible to account for his logic. You know he has ill feelings toward your husband.
-
-[NARRATOR] Mistress Shaw speaks with a quiet, measured softness:
-
-[MALE] He do.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] Master Epps has somehow come to believe, as incorrectly as it may be, that Master Shaw is... That he is something of a lothario and an unprincipled man. A misguided belief born out of their mutual competition as planters, no doubt.
-
-[NARRATOR] Mistress Shaw answers in a low, calming tone:
-
-[MALE] No doubt...if not born outta truth itself. The Mistress waves to Shaw. Shaw, unsuspecting of the conversation, waves back.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] I'm certain Patsey's well being is Master Epps's only concern.
-
-[NARRATOR] Mistress Shaw whispers gently into the still air:
-
-[MALE] Nothin' Epps desire come outta concern.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] I meant no disrespect.
-
-[NARRATOR] Mistress Shaw speaks with a quiet, measured softness:
-
-[MALE] He ain't heard you.
-
-[NARRATOR] 71. offers quietly, watching the shadows drift across the room:
-
-[MALE] B105 CONTINUED:  B105
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] I meant no disrespect to you, Mistress.
-
-[NARRATOR] Mistress Shaw offers quietly, watching the shadows drift across the room:
-
-[MALE] Ha! You worry for me? Got no cause to worry for my sensibilities. I ain't felt the end of a lash in 'mo years than I cain recall. Ain't worked a field, neither. Where one time I served, now I got others servin' me. The cost to my current existence be Massa Shaw broadcasting his affections, 'n me enjoyin' his pantomime of fidelity. If that what keep me from the cotton pickin' niggers, that what it be. A small and reasonable price to be paid 'fo sure. Looking toward Patsey, speaking with great empathy:
-
-[NARRATOR] Mistress Shaw speaks with a quiet, measured softness:
-
-[MALE] I knowed what it like to be the object of Massa's predilections and peculiarities. And I knowed they can get expressed with kindness or wit violence. A lusty visit in the night, or a visitation from the whip. And wit my experience, if'n I can give comfort, then comfort I give. And you take comfort, Patsey; the Good Lord will manage Epps. In His own time the Good Lord will manage dem all. Yes, Lordy, there's a day comin' that will burn as an oven. It comin' as sure as the Lord is just. When His will be done...the curse on the Pharos is a poor example of all that wait 'fo the plantation class. Mistress Shaw turns her head to the side, catching a slave's attention. As she does so, the slave, a YOUNG WOMAN, commences to pour tea. As if to punctuate her thought, the Mistress takes a sip of her tea.
-
-[NARRATOR] 105 105 adds in a relaxed, peaceful voice:
-
-[MALE] EXT. EPPS'S PLANTATION - LATER Solomon and Patsey are returning from Shaw's. Waiting on the porch of the Great House, a drunk Epps beckons for Patsey, his lewd intentions obvious.
-
-[NARRATOR] 72. adds in a relaxed, peaceful voice:
-
-[MALE] 105 CONTINUED: 105
-
-[NARRATOR] Epps responds with gentle reassurance:
-
-[MALE] Pats...! Patsey!
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] Do not look in his direction. Continue on. Epps does not care to be ignored. He lifts himself and moves toward the pair in a rage.
-
-[NARRATOR] Epps murmurs with a warm, steady cadence:
-
-[MALE] Patsey...! Solomon moves between Epps and Patsey, cutting Epps off as Patsey continues on. Playing up his "ignorance" of THE SITUATION:
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] Found her, Master, and brought her back just as instructed.
-
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] What'd you jus now tell her? What'd you say to Pats?
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] No words were spoken. None of consequence.
-
-[NARRATOR] Epps answers in a low, calming tone:
-
-[MALE] Lie! Damned liar! Saw you talkin' with 'er. Tell me!
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] I cannot speak of what did not occur. Epps grabs Solomon.
-
-[NARRATOR] Epps responds with gentle reassurance:
-
-[MALE] I'll cut your black throat. Solomon pulls away from Epps, RIPPING HIS SHIRT IN THE PROCESS. Epps gives chase. Solomon begins to run around the large pig sty, easily keeping his distance. Epps, however is undeterred. He moves after Solomon as speedily as he can, which isn't very speedily at all. And quickly he tires. Epps is forced to bend over and suck air. Solomon maintains his distance, barely breathing hard. His breath returned to him, Epps starts up the chase again. Solomon runs on out of reach. Shortly, Epps again stops, gets his breath... And now in what should be quite comical, Epps again runs after Solomon. Again, Epps's vigor leaves him before he can even get close to the slave. Dropping down to the dirt, in a show of regret and piety:
-
-[NARRATOR] 73. murmurs with a warm, steady cadence:
-
-[MALE] 105 CONTINUED:  105
-
-[NARRATOR] Epps answers in a low, calming tone:
-
-[MALE] Platt... Platt, liquor filled me. I admit that it did, and I done over reacted. It's the Lord's day. Ain't nothin' Christian in us carryin' on like this. Help me ta my feet, and let us both pray to the Lord for forgiveness. Epps extends a hand to Solomon. Cautiously, Solomon moves close, but not too close. As Solomon draws within striking distance, Epps lunges for him. He chases Solomon on until he is again out of breath and once more drops down. And again offering a treaty:
-
-[NARRATOR] Epps answers in a low, calming tone:
-
-[MALE] I'm all done in, Platt. I have met my limitations, and I ain't equal to 'em. I concede to yah, but in the name of valor, help yer master to his feet. Solomon cautiously moves closer to help. Again he is attacked by Epps - this time by knife. Sort of. Epps is too drunk and tired to fully open the folding blade - and chased far around the field by Epps. ALL OF THE PRECEDING SHOULD BE MORE FUNNY THAN SHOCKING. A CHANGE OF PACE FROM THE OTHERWISE NECESSARY BLEAKNESS OF SLAVE
-
-[NARRATOR] Life. offers quietly, watching the shadows drift across the room:
-
-[MALE] Mistress Epps comes running from the house to the pair.
-
-[NARRATOR] Mistress Epps whispers gently into the still air:
-
-[MALE] What? Wha's the fuss?
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] A misunderstanding is all. It began when I was sent to retrieve Patsey from where she'd taken sabbatical at Master Shaw's. Upon returning, Master Epps believed Patsey and me to be in conversation when we were not. I tried to explain, but it lead to all this.
-
-[NARRATOR] Mistress Epps whispers gently into the still air:
-
-[MALE] What is it? Ya cain't remain the Sabbath without her under your eye? Ya are a no-account bastard.
-
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] Hold a moment...
-
-[NARRATOR] Mistress Epps responds with gentle reassurance:
-
-[MALE] A filthy, godless heathen. My bed is too holy for yah ta share.
-
-[NARRATOR] 74. whispers gently into the still air:
-
-[MALE] 105 CONTINUED:  105
-
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
-
-[MALE] Wha's...wha's he been tellin' yah?
-
-[NARRATOR] Mistress Epps speaks with a quiet, measured softness:
-
-[MALE] Of yer misbegotten ways.
-
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] And he would know what of anythin'? I ain't even spoken with him today. Platt, yah lyin' nigger, have I? Have I? Discretion being the better part and all, Solomon remains silent.
-
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] There; there's all the truth he got. Damned nigger. Damn yah. Epps pushes his way past the Mistress.
-
-[NARRATOR] 106 106 adds in a relaxed, peaceful voice:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/FIELD - DAY -AUGUST, 1844- With the sun yet again high in the sky the slaves are working the field picking cotton. As before THEY SING A SPIRITUAL, the only thing that distracts them from the tedium at hand. But there is no distracting from the heat. We see Henry begin to falter before it... And eventually collapse right in the dirt. Though the other slaves take note, none move to help him. None dare. From Treach rather matter of factly:
-
-[NARRATOR] Treach answers in a low, calming tone:
-
-[MALE] Get him water. Edward runs to fetch a gourd. He carries it to Henry, DUMPS THE WATER ON HIM, BUT DOES NOT ACTUALLY GIVE HENRY
-
-[NARRATOR] Anything To Drink. responds with gentle reassurance:
-
-[MALE] Roused, Henry rights himself.
-
-[NARRATOR] Edward speaks with a quiet, measured softness:
-
-[MALE] Go'won. Git up. Unsteadily, Henry lifts himself and goes back to picking cotton. He joins in again with the spiritual, as if the song is all that can keep him going.
-
-[NARRATOR] 107 107 adds in a relaxed, peaceful voice:
-
-[MALE] INT. MASTER EPPS'S PLANTATION/SLAVE SHACKS - NIGHT -OCTOBER, 1844-
-
-[NARRATOR] 75. whispers gently into the still air:
-
-[MALE] 107 CONTINUED: 107 The slaves are asleep. Epps arrives, again without knocking, with his whip in hand. The slaves stir. Uncle ABRAM ASKS:
-
-[NARRATOR] Uncle Abram answers in a low, calming tone:
-
-[MALE] We dance tonight, massa? Epps remains quietly focused on Patsey. And it's clear from her apprehensive expression just what it is he's come looking for. This time there is no escaping it. As if to acknowledge the badness to come, Phebe lightly cries.
-
-[NARRATOR] 108 108 responds with gentle reassurance:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/SMOKE HOUSE - NIGHT On top of a wood pile, in the back of the smoke house - Epps shoves Patsey. He stops, stands as if gathering his manhood, then he's all over Patsey. He is rough and clumsy. It looks like something between an awkward rape and a virgin attempting his first sexual encounter. Patsey does not respond in any way other than to continually turn her head from Epps, but otherwise remain as still as possible. If there is such a thing, she is vicious with her passive aggressiveness. Epps's frustration mounts until - as the Mistress Shaw had cautioned - he crosses the line from passion to violence. He begins slapping Patsey to get a response from her. When that fails, he punches her which only leads to him taking up his whip and lashing Patsey MERCILESSLY. Still, she gives him nothing. Beaten, Patsey sits in the dirt among the cotton, Epps deep breathing above her. The desire for sex now having left him. Epps heads from the field. Patsey is left where she is.
-
-[NARRATOR] 109 109 offers quietly, watching the shadows drift across the room:
-
-[MALE] INT. BARTHOLOMEW'S - DAY -NOVEMBER, 1844- As before, Solomon waits as Bartholomew fills Mistress Epps order. Among the items set before Solomon is another quantity of foolscap.
-
-[NARRATOR] 110 110 adds in a relaxed, peaceful voice:
-
-[MALE] EXT. ROAD - DAY Solomon is making his way back to the Epps plantation. He carries with him a sack filled with the goods from the store. As he walks, SOLOMON LOOKS AROUND CASUALLY. When he is certain he is alone, he sets down the sack, opens it and appropriates A SINGLE SHEET OF THE PAPER which he folds and places in his pocket. That done, he cinches up the sack and continues on his way.
-
-[NARRATOR] 111 Omit 111 responds with gentle reassurance:
-
-[MALE] 112 INT. EPPS'S PLANTATION/SLAVE SHACK - DAY 112 Solomon takes the slip of paper and hides it within his fiddle. Perhaps the safest place he can think of. He acts as though he's hiding away found gold. In reality it's more than that. For Solomon the paper is a first step toward freedom.
-
-[NARRATOR] 113 113 whispers gently into the still air:
-
-[MALE] INT. MASTER EPPS'S PLANTATION/MAIN HOUSE - NIGHT -DECEMBER, 1844- It's another night of Epps's forced revelry. Coming in quick from the previous scene, we go from Solomon holding his fiddle, to playing it as the slaves are again made to dance. Mistress Epps brings out a tray of freshly baked pastries. She sets them down on a table.
-
-[NARRATOR] Mistress Epps answers in a low, calming tone:
-
-[MALE] A moment from the dancing. Come sample what I baked for y'all. The slaves, thankful for the rest as much as the food, file toward the tray reciting a chorus of "Thank you, Mistress." As Patsey moves toward the pastries:
-
-[NARRATOR] Mistress Epps adds in a relaxed, peaceful voice:
-
-[MALE] There'll be none for you, Patsey. Patsey merely turns away. Her non responsiveness, however, serves only to incite the Mistress. Screaming:
-
-[NARRATOR] Mistress Epps adds in a relaxed, peaceful voice:
-
-[MALE] Yah see that? Did yah see the look of insolence she give me?
-
-[NARRATOR] Epps answers in a low, calming tone:
-
-[MALE] Seen nothin' but her turn away.
-
-[NARRATOR] Mistress Epps responds with gentle reassurance:
-
-[MALE] Are you blind or ignorant? It was hot, hateful scorn. It filled that black face. Yah tell me yah did'n see it, then yah choose not to look, or yah sayin' I lie.
-
-[NARRATOR] Epps speaks with a quiet, measured softness:
-
-[MALE] Whatever it was, it passed.
-
-[NARRATOR] Mistress Epps answers in a low, calming tone:
-
-[MALE] Is that how yah are with the niggers? Let every ill thought fester inside 'em. Look at 'em.
-
-[NARRATOR] 77. answers in a low, calming tone:
-
-[MALE] 113 CONTINUED: 113
-
-[NARRATOR] Mistress Epps offers quietly, watching the shadows drift across the room:
-
-[MALE] They foul with it; foul with their hate. You let it be, it'll come back to us in the dark a night. Yah want that? Yah want them black animals to leave us gut like pigs in our own sleep? Epps isn't sure how to respond to the inchoate berating. It's an invitation for the Mistress to continue.
-
-[NARRATOR] Mistress Epps whispers gently into the still air:
-
-[MALE] You are manless. A damned eunuch if ever there was. And if yah won't stand for me, I'd pray you'd at least be a credit to yer own kind and beat every foul thought from 'em. Epps does nothing. The Mistress lets her anger loose. She moves quickly to Patsey, DRIVES HER NAILS INTO THE PATSEY'S FACE AND DRAWS THEM DOWN ACROSS HER FEATURES. FIVE DEEP AND BLOODY GASHES ARE LEFT IN PATSEY'S SKIN, the moment marked with appropriate screams. Patsey collapses on the floor, covering her bleeding face.
-
-[NARRATOR] Mistress Epps speaks with a quiet, measured softness:
-
-[MALE] Beat it from 'em! Thoroughly cuckolded by the Mistress's actions, Epps takes his whip and pulls Patsey out of the house. His intentions are plain. All the slaves remain silent. The Mistress, however, displaying high satisfaction, entreats the others:
-
-[NARRATOR] Mistress Epps speaks with a quiet, measured softness:
-
-[MALE] Eat. Fill yourselves. ...And then we dance. The slaves eat, but without a hint of levity.
-
-[NARRATOR] 114 114 adds in a relaxed, peaceful voice:
-
-[MALE] INT. MASTER EPPS'S PLANTATION/SLAVE SHACK - NIGHT We come up on the slaves who lay sleeping. All except for Patsey. She rises from her bedding, goes to a corner of the cabin and removes something from a secretive location. She then moves over to Platt.
-
-[NARRATOR] Patsey murmurs with a warm, steady cadence:
-
-[MALE] Platt... Platt, you awake?
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] I am.
-
-[NARRATOR] Patsey speaks with a quiet, measured softness:
-
-[MALE] I have a request; an act of kindness.
-
-[NARRATOR] 78. adds in a relaxed, peaceful voice:
-
-[MALE] 114 CONTINUED: 114 Patsey displays what she took from hiding. It is a
-
-[NARRATOR] Patsey responds with gentle reassurance:
-
-[MALE] I secreted it from the Mistress.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] Return it!
-
-[NARRATOR] Patsey whispers gently into the still air:
-
-[MALE] It yours, Platt.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] For what cause?
-
-[NARRATOR] Patsey offers quietly, watching the shadows drift across the room:
-
-[MALE] All I ask: end my life. Take my body to the margin of the swamp-- Solomon looks at Patsey as though she were insane.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] No.
-
-[NARRATOR] Patsey responds with gentle reassurance:
-
-[MALE] Take me by the throat. Hold me low in the water until I's still 'n without life. Bury me in a lonely place of dyin'.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] No! I will do no such thing. The...the gory detail with which
-
-[NARRATOR] Patsey adds in a relaxed, peaceful voice:
-
-[MALE] I thought on it long and hard.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] It is melancholia, nothing more. How does such despair even come to you?
-
-[NARRATOR] Patsey whispers gently into the still air:
-
-[MALE] How can you not know? I got no comfort in this life. If I cain't buy mercy from yah, I'll beg it.
-
-[NARRATOR] Solomon whispers gently into the still air:
-
-[MALE] There are others. Beg them.
-
-[NARRATOR] Patsey responds with gentle reassurance:
-
-[MALE] I'm begging you!
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] Why? Why would you consign me to damnation with such an un-Godly request?
-
-[NARRATOR] 79. speaks with a quiet, measured softness:
-
-[MALE] 114 CONTINUED:  114
-
-[NARRATOR] Patsey speaks with a quiet, measured softness:
-
-[MALE] There is God here! God is merciful, and He forgive merciful acts. Won't be no hell for you. Do it. Do what I ain't got the strength ta do myself. Solomon says nothing. Clearly he's not about to do the deed. With nothing else to do, knowing she is damned with every breath she draws, Patsey crawls back to her spot on the floor and lays herself down.
-
-[NARRATOR] 115 115 adds in a relaxed, peaceful voice:
-
-[MALE] EXT. MASTER EPPS'S PLANTATION/FIELD - DAY -JULY, 1846- Hard times on the planation. Where previously the field in bloom was a carpet of white, it is now patchy and under grown. The slaves move through the field picking not cotton, but rather COTTON WORMS from the plants. The cotton worms have dined on the cotton and nearly destroyed the crop. We see the cotton worms in extreme close-up, moving among and destroying the cotton crop. Epps is beside himself as he looks out over his ruined field.
-
-[NARRATOR] Epps murmurs with a warm, steady cadence:
-
-[MALE] It is a plague.
-
-[NARRATOR] Treach whispers gently into the still air:
-
-[MALE] Cotton worm.
-
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
-
-[MALE] A plague! It's damn Biblical. Two season God done sent a plague to smite me. I am near ruination. Why, Treach? What I done that God hate me so? Do I not preach His word?
-
-[NARRATOR] Treach responds with gentle reassurance:
-
-[MALE] The whole Bayou sufferin'.
-
-[NARRATOR] Epps whispers gently into the still air:
-
-[MALE] I don't care nothin' fer the damn Bayou. I'm sufferin'. Epps looks among his slaves at work, his enmity growing.
-
-[NARRATOR] Epps murmurs with a warm, steady cadence:
-
-[MALE] It's that Godless lot. They brought this on me. I bring 'em
-
-[NARRATOR] 80. answers in a low, calming tone:
-
-[MALE] 115 CONTINUED: 115
-
-[NARRATOR] Epps whispers gently into the still air:
-
-[MALE] God's word, and heathens they are, they brung me God's scorn. Crazed, Epps runs into the field, taking himself from slave to slave delivering a whipping to all he can lay his hands on.
-
-[NARRATOR] Epps whispers gently into the still air:
-
-[MALE] Damn you! Damn you all! Damn you!
-
-[NARRATOR] Re-Omit adds in a relaxed, peaceful voice:
-
-[MALE] 117 EXT. JUDGE TURNER'S PLANTATION - EVENING 117 -OCTOBER, 1846- Henry, Bob, Uncle Abram and Solomon sit in the back of a cart. SOLOMON HAS HIS FIDDLE WITH HIM. Epps has delivered the men to JUDGE TURNER, a distinguished man and extensive planter whose large estate is situated on Bayou Salle within a few miles of the gulf. Epps and Turner stand off to one side engaged in bargaining as Henry, Bob, Uncle Abram and Solomon wait and watch. One of the slaves whisper under their breath.
-
-[NARRATOR] Epps' Slave murmurs with a warm, steady cadence:
-
-[MALE] I hear cutting cane is twice as hard as picking cotton.
-
-[NARRATOR] Bob speaks with a quiet, measured softness:
-
-[MALE] But at least we'll be away from Master Epps.
-
-[NARRATOR] Uncle Abram whispers gently into the still air:
-
-[MALE] Boy, you two have no sense. Epps returns to his slaves and gives a parting salutation.
-
-[NARRATOR] Epps responds with gentle reassurance:
-
-[MALE] Yer Judge Turner's for the season. More if need be, until my crop return. Yah'll bring no disrespect to me, and yah'll bring no biblical plagues to him. Be decent, ere mark my words, I will deliver an ungodly whippin'.
-
-[NARRATOR] 118 118 offers quietly, watching the shadows drift across the room:
-
-[MALE] INT. SLAVE SHACK - NIGHT
-
-[NARRATOR] 81. speaks with a quiet, measured softness:
-
-[MALE] 118 CONTINUED: 118 Slaves are crammed into the shack - LITERALLY ON TOP OF EACH OTHER - as they try to sleep. Some lay, some sit up. Packed in like cattle, there is barely room to move let alone draw a deep, clean breath. There is a real risk of suffocating in the mass. Some cough and wheeze.
-
-[NARRATOR] A Child Cries... responds with gentle reassurance:
-
-[MALE] Among them is Solomon who must believe at this point that his life has reached its very lowest point. The odds of survival are slight, let alone the chance of actually ever returning to his family. This clearly weighs on him as he struggles to find anything like comfortable space in the pen.
-
-[NARRATOR] 119 119 whispers gently into the still air:
-
-[MALE] EXT. CANE FIELDS - DAY An OVERSEER is explaining to the new slaves - SOLOMON AMONG THEM - how to cultivate cane. WITH A KNIFE IN HAND he demonstrates the process:
-
-[NARRATOR] Overseer answers in a low, calming tone:
-
-[MALE] Draw the cane from the rick, cut the top and flags from the stalk, understand? Leave only that part which is sound and healthy. Cast off the rest...
-
-[NARRATOR] 120 120 responds with gentle reassurance:
-
-[MALE] EXT. CANE FIELDS - DAY -NOVEMBER, 1846- ABOUT THIRTY SLAVES are working the field. They are divided into THREE GANGS. The first which draw the cane, the next lay the cane in the drill, the last then hoe the rows after. Solomon is among a gang that draws and cuts, and he moves with speed and skill. Certainly more so than he displayed picking cotton. Standing with his overseer, Judge Turner watches.
-
-[NARRATOR] 121 121 responds with gentle reassurance:
-
-[MALE] INT. SLAVE SHACK - NIGHT Again, the slaves have been herded into the shack and pressed together. As he tries to rest - sleep is nearly impossible - Solomon finds himself face to face with a woman, ANNA. She is awake. For a few beats she avoids eye contact with Solomon. She seems, like Solomon, to be unaccustomed to her surroundings and horribly frightened by them. Eventually her eyes meet Solomon's. She makes no sound, but great apprehension spills from her eyes. Whatever's next, whatever horror awaits, she can barely stand to face. Fear, proximity... They drive her hand
-
-[NARRATOR] 81A. offers quietly, watching the shadows drift across the room:
-
-[MALE] 121 CONTINUED: 121 to Solomon's. After a moment of seemingly reacquainting herself with genuine human contact, the woman TAKES
-
-[NARRATOR] 82. adds in a relaxed, peaceful voice:
-
-[MALE] 121 CONTINUED:  121 SOLOMON'S HAND AND PRESSES IT TO HER BREAST. Solomon tries to jerk his hand away, but ANNA HOLDS IT IN PLACE. Manipulating Solomon's hand, she begins to massage her breast. Solomon takes no real pleasure in the act - really, neither does Anna. THERE SHOULD BE A TRUE SENSE ANNA IS JUST SO VERY, VERY DESPERATE FOR HUMAN CONTACT, FOR THE NEED TO FEEL ALIVE AND LIKE A PERSON RATHER THAN AN ANIMAL THAT EMOTIONALLY SHE IS WILLING TO ENGAGE
-
-[NARRATOR] Solomon. responds with gentle reassurance:
-
-[MALE] The need quickly compounds. Anna presses her lips to Solomon's. Eventually, SHE DIRECTS HIS HAND BENEATH HER DRESS AND BETWEEN HER LEGS. Solomon, with slightly more compassion than a guy making union wages, BEGINS TO MANIPULATE ANNA WITH HIS HAND. The act remains more perfunctory than passionate. We can see Anna moving toward climax and eventual release. But more - or substantially less - than joyous sex, it is really just a drug-like inoculation against reality. But the feeling quickly fades. All that remains, as with most chance encounters, is regret. And there is shame, too. This is put on display as Anna turns away from Solomon. As quickly as it began, it is as though the act had not happened at all.
-
-[NARRATOR] Omit whispers gently into the still air:
-
-[MALE] 123 EXT. JUDGE TURNER'S PLANTATION/GREAT HOUSE - EVENING 123 Solomon waits outside the house on the porch. A house servant - ZACHARY - approaches and admonishes Solomon.
-
-[NARRATOR] Zachary whispers gently into the still air:
-
-[MALE] Off the porch. Get off. Like a dog shooed away, Solomon steps down. Eventually Judge Turner exits the house and crosses to Solomon.
-
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
-
-[MALE] ...Sir...
-
-[NARRATOR] Judge Turner offers quietly, watching the shadows drift across the room:
-
-[MALE] Platt is it? Have you cultivated cane previously?
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] No, sir, I have not.
-
-[NARRATOR] Judge Turner whispers gently into the still air:
-
-[MALE] You take to it quite naturally. Are you educated?
-
-[NARRATOR] 83. responds with gentle reassurance:
-
-[MALE] 123 CONTINUED: 123
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] Niggers are hired to work, not to read and write. Turner gives that a bit of consideration as he gives Solomon a wary looking over.
-
-[NARRATOR] Judge Turner responds with gentle reassurance:
-
-[MALE] You play the fiddle?
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] I do.
-
-[NARRATOR] Judge Turner offers quietly, watching the shadows drift across the room:
-
-[MALE] Willard Yarney, a planter up the bayou, celebrates his anniversary in a three week's time. I will hold out your name to him. What you earn is yours to keep.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] Sir.
-
-[NARRATOR] Judge Turner whispers gently into the still air:
-
-[MALE] Mind yourself, Platt.
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] Yes, sir. 124 EXT. TURNER PLANTATION - LATER  124 Work over, the slaves congregate to eat. As Solomon eats, he takes note of the JUICE FROM SOME
-
-[NARRATOR] Berries On His Plate. responds with gentle reassurance:
-
-[MALE] 125 EXT. TURNER'S PLANTATION - EVENING  125 Solomon plays with a piece of cane, fashions it into some kind of writing tool, testing it in the mud. He then brushes over the dirt with his hand.
-
-[NARRATOR] 84. adds in a relaxed, peaceful voice:
-
-[MALE] 126 EXT. TURNER PLANTATION - NIGHT  126 Secreted away out near the edge of the bayou and sitting by a small fire, Solomon takes the slip of paper from his fiddle. It is yellowed, showing age, but still usable. Dipping the piece of cane - a quill - into the crushed berries, Solomon attempts to write a bit on the paper. The berry juice, too free-flowing, is unusable as ink. Solomon returns the paper to the fiddle. He has some scraps of food with him, which he snacks on.
-
-[NARRATOR] Omitted answers in a low, calming tone:
-
-[MALE] A127A INT. SLAVE SHACK - DAY A127A We see a sharp object scratching onto a surface. The tool moves on to form another mark. The sound is repetitive and almost unbearable. As we move out, we see the names Anne, Margaret, Alonzo. They are engraved onto the violin, in the hidden area where Solomon would rest his chin. Solomon looks at it for a moment, moving his fingertips across the engraving. His face full of loss. Sadly, he lifts his instrument under his chin and leaning his head to the side as if to play. 127 INT. YARNEY'S HOUSE - EVENING 127 A party has commenced at the noble home of one MR. YARNEY. A group of REVELERS have gathered and are on the dance floor, in fancy dress. Their faces are covered with a variation of decorative masks. The party is a feast of celebration. As entertainment, SOLOMON ACCOMPANIES A GROUP OF MUSICIANS, no more than three. And as he does so, they all play with jovial liveliness. Clearly a good time is being had by all.
-
-[NARRATOR] 128 128 adds in a relaxed, peaceful voice:
-
-[MALE] EXT. ROAD - NIGHT His playing done for the evening, Solomon is returning to Judge Turner's on foot. There is only the moonlight with which to light the way. As he walks, Solomon eats from a HEARTY CHUCK OF BREAD. Obviously part of his haul from the evening. Solomon again hears noises coming from the brush just up ahead of him. Solomon tears off some of the bread, kneels and holds it out before him.
-
-[NARRATOR] Solomon answers in a low, calming tone:
-
-[MALE] C'mere. C'mon, boy.
-
-[NARRATOR] 85. adds in a relaxed, peaceful voice:
-
-[MALE] 128 CONTINUED: 128 This time, there is no dog. Instead, from the dark and the brush step TWO BLACK MEN. Solomon stands. He looks the men over - their clothes tatters and they themselves covered in dirt. It becomes quite clear they are not just slaves. A fact confirmed when they step menacingly toward Solomon, ONE WITH A SHIV IN HAND. At first it seems they want Solomon's food or money. Worse, THEY GO FOR HIS FIDDLE. Solomon has but a moment to brace himself before he is attacked, TAKING A CUT TO THE ARM. Solomon fights back, PICKING UP A PINE KNOT and striking his attacker over the head. That takes the fight out of him, and both men retreat back the way they came leaving Solomon be.
-
-[NARRATOR] A129 A129 speaks with a quiet, measured softness:
-
-[MALE] EXT. TURNER PLANTATION - NIGHT Outside of the slave shacks Solomon's wound tended by Uncle Abram. As he works on it:
-
-[NARRATOR] Uncle Abram offers quietly, watching the shadows drift across the room:
-
-[MALE] Runaways I would expect. The Bayou full with 'em. They nothin' 'mo dangerous than a nigger in flight.
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
-
-[MALE] They acted out of desperation.
-
-[NARRATOR] Uncle Abram answers in a low, calming tone:
-
-[MALE] Act outta lunacy. Heads fulla stories 'bout life up north. Yah ever been north, Platt?
-
-[NARRATOR] Solomon speaks with a quiet, measured softness:
-
-[MALE] ...No...
-
-[NARRATOR] Uncle Abram whispers gently into the still air:
-
-[MALE] And never should yah be. I hope that yah never bear witness the sorry condition of the northern black. Got neither no purpose, nor direction. They jus...they jus fall about the streets in search of sustenance of both body and spirit.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] You know this to be so?
-
-[NARRATOR] Uncle Abram adds in a relaxed, peaceful voice:
-
-[MALE] Two of my massas tolt me.
-
-[NARRATOR] 86. speaks with a quiet, measured softness:
-
-[MALE] A129 CONTINUED: A129
-
-[NARRATOR] 129 Omit 129 adds in a relaxed, peaceful voice:
-
-[MALE] 130 EXT. TURNER PLANTATION - NIGHT 130 -FEBRUARY/MARCH, 1847- Alone out on the edge of the Bayou, Solomon is playing a low air on his violin WHILE SNACKING ON SCRAPS OF BACON. As he plays, something appears in the distance. From the edge of the bayou, coming forth like an apparition arisen from the earth, is CELESTE. She is a young woman of about 19 years of age and far whiter than most blacks. "IT REQUIRED CLOSE INSPECTION TO DISTINGUISH IN HER FEATURE THE SLIGHTEST TRACE OF AFRICAN BLOOD." Beyond that, she is pale and haggard, but still lovely. Dressed in a white gown, she emerges from the water. Draped on her dress, her period. A line in her skirt. It's very visible, but not shocking. A ribbon of red in her dress. Celeste moves to Solomon without fear or hesitation. As Solomon, startled, takes her in, Celeste says quite PLAINLY:
-
-[NARRATOR] Celeste murmurs with a warm, steady cadence:
-
-[MALE] I am hungry. Give me food.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] Who are you?
-
-[NARRATOR] Celeste speaks with a quiet, measured softness:
-
-[MALE] I'm hungry. Solomon gives Celeste some of his food. Celeste, famished, devours it.
-
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
-
-[MALE] What is your name?
-
-[NARRATOR] Celeste offers quietly, watching the shadows drift across the room:
-
-[MALE] My name is Celeste.
-
-[NARRATOR] Solomon responds with gentle reassurance:
-
-[MALE] What are your circumstances?
-
-[NARRATOR] Celeste murmurs with a warm, steady cadence:
-
-[MALE] I belong ta Massa Carey, and 'ave been two days among da palmettoes. Celeste is sick and cain't work, and would rather die in the swamp
-
-[NARRATOR] 87. murmurs with a warm, steady cadence:
-
-[MALE] 130 CONTINUED: 130
-
-[NARRATOR] Celeste speaks with a quiet, measured softness:
-
-[MALE] than be whipped to death by the overseer. So I took myself away. Massa's dogs won't follow me. The patrollers 'ave tried to set dem on me. But dey a secret between dem and Celeste, and dey won't mind the devilish orders of the overseer. Celeste lifts her head from the food on which she gnaws.
-
-[NARRATOR] Celeste responds with gentle reassurance:
-
-[MALE] Do you believe me?
-
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[MALE] Is Strasser's number right? 250k?
 
 [MALE] Yes.
 
-[NARRATOR] Celeste responds with gentle reassurance:
+[MALE] What about five?
 
-[MALE] Why?
+[MALE] No. Profits have dropped, we should be dropping the budget along with it. You're lucky to have 250 as is.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] It's not enough. We need to invest more in basketball.
 
-[MALE] There are some whose tracks the hounds will refuse to follow.
+[MALE] Why? We took four golds at the Olympics.
 
-[NARRATOR] Celeste adds in a relaxed, peaceful voice:
+[MALE] No one gives a fuck. That's a morale boost. Kids don't care about running. I'm sorry, but it's the truth. Not everyone is you, Phil. Track and field doesn't sell.
 
-[MALE] Give me more food. I'm starvin'.
+[MALE] But at least we know what we're getting with a runner. Their performance and fame isn't reliant on the team that's around them.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] I know you--
 
-[MALE] This is all my allowance for the
+[MALE] People don't know what you do here.
 
-[NARRATOR] Celeste murmurs with a warm, steady cadence:
+[MALE] You know what I do here.
 
-[MALE] Give it to me. Almost as if compelled, Solomon does as ordered. As she eats, Celeste aggrandizes herself:
+[MALE] That's not the point. I have a board to answer to. And guess what they're asking me about?
 
-[NARRATOR] Celeste murmurs with a warm, steady cadence:
+[MALE] The rules of basketball?
 
-[MALE] Most slaves escape at night. The overseers are alert for such chicanes. But Celeste tricked dem 'n alight in the middle of the day wit the sun up at its highest. The place of my concealment now deep in the swamp, not half a mile from Massa's plantation, and a world apart. A world a tall trees whose long arms make fo' a canopy so dense dey keep away even the beams of the sun. It twilight always in Celeste's world, even in the brightest day. I will live there, and I will live freely. The overseers are a cowardly lot. Dey will not go where their dogs show fear and where it always be night. Others will join me in the twilight, and we ain't gunna be slaves no 'mo forever.
+[MALE] You. You don't make shoes, you're a pain in the ass in meetings, you don't work normal hours. You're off running high school tournaments half the year. So... Sonny... What the hell do you do?
 
-[NARRATOR] 88. murmurs with a warm, steady cadence:
+[NARRATOR] Sonny reaches out, his palm resting against the smooth leather of a basketball sitting on the desk. With a slow, lazy flick of his fingers, he sets the ball spinning in place, watching the orange lines blur into a hypnotic, steady hum of motion.
 
-[MALE] 130 CONTINUED:  130 Solomon isn't sure what to say. Before he can say ANYTHING:
+[MALE] I bring you players. I find basketball players.
 
-[NARRATOR] Celeste answers in a low, calming tone:
+[MALE] Then where are they? I brought you in to grow our basketball business and it's shrunk every year.
 
-[MALE] Celeste will come to you again in the night. You will have food for her. Celeste departs the way she came; as though she were a vision.
+[MALE] I'm telling you, we just need more--
 
-[NARRATOR] 131 131 adds in a relaxed, peaceful voice:
+[MALE] I would have hired a parrot if its only job was to ask for more money. I've got the board on my ass asking why we even need basketball. It's a wasted investment.
 
-[MALE] INT. JUDGE TURNER'S PLANTATION/FOOD STORAGE - NIGHT Solomon stealthfully makes his way into the storage shed. Dried and smoked meats are hung, and milled corn is about. Taking out a handkerchief, Solomon begins to load it with food. Not too much. Not so much his thievery will be readily noticed, but he does avail himself.
+[MALE] Because basketball is the future.
 
-[NARRATOR] 132 132 answers in a low, calming tone:
+[MALE] Sonny, the NBA finals are on tape delay. They don't tape delay the future.
 
-[MALE] EXT. TURNER PLANTATION - NIGHT Solomon plays his violin, but plays it with an anxious nature as he waits. Then, as before, a figure appears in the distance. It is Celeste coming out of the night. She makes her way directly to Solomon. With no greeting, she says:
+[MALE] This is why I told you not to go public. These things happen when you go public.
 
-[NARRATOR] Celeste responds with gentle reassurance:
+[MALE] Investing in basketball is not a reason to...
 
-[MALE] I am hungry. Solomon gives Celeste the handkerchief he's filled. She opens it, and begins to devour the food. As she eats:
+[NARRATOR] The afternoon light slowly softens across the quiet office, casting long, peaceful shadows over the polished wood and the leather chairs. 
 
-[NARRATOR] Celeste whispers gently into the still air:
+[MALE] Put off going public. It's done now, there's nothing--
 
-[MALE] I was rude, and didn't even ask yo name.
+[NARRATOR] Sonny leans forward, his voice a low, steady murmur in the stillness of the room, cutting through the heavy air with quiet conviction.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] It's called plateauing. It happens to every company. Well, almost every company. Every boring company for sure. Every company with limited aspirations. Every company that doesn't see the bigger picture. That only cares about the P and L statement and the board being happy.
 
-[MALE] Platt.
+[NARRATOR] Phil Knight listens, his expression unreadable, bathed in the gentle amber glow of the desk lamp as the quiet breeze rustles the papers nearby.
 
-[NARRATOR] Solomon. Solomon is my true and
+[MALE] Don't use the company's failings to mask your own. Personal ambition is a danger.
 
-[NARRATOR] free name.
+[MALE] The line between personal ambition and group success is thinner than you think.
 
-[NARRATOR] Celeste offers quietly, watching the shadows drift across the room:
+[MALE] That's what someone who values personal ambition would say.
 
-[MALE] Was you free?
+[NARRATOR] Phil leans back in his executive chair, the leather creaking softly, and breathes out a long, slow sigh that seems to carry away the remaining tension of the day.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] Do you run?
 
-[MALE] I was. I am. Solomon exposes his wrist, displays his tattoo as he ANNOUNCES:
+[MALE] Is this going to lead to some Buddhist aphorism I don't want to hear?
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[MALE] Do you run?
 
-[MALE] I remain free in my heart.
+[NARRATOR] Sonny gestures gently to his midsection, a quiet, self-deprecating acknowledgment of comfort over exertion.
 
-[NARRATOR] 89. whispers gently into the still air:
+[MALE] Phil, look at me.
 
-[MALE] 132 CONTINUED: 132 Giving a laugh as though it's the silliest thing she's HEARD:
+[MALE] It's painful, it's hard. The act itself is a destination. It's suffering.
 
-[NARRATOR] Celeste offers quietly, watching the shadows drift across the room:
+[MALE] There's a thought within the Catholic Church that suffering is the only true path to salvation.
 
-[MALE] Free heart means nothin if'n yo body gunna die a slave.
+[MALE] And are you willing to suffer?
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] I don't know, Phil, but the longer you have me at this desk the more I'm thinking the answer is yes. So are you going to tell me why you run?
 
-[MALE] I will not.
+[MALE] Because the alternative is stopping.
 
-[NARRATOR] Celeste speaks with a quiet, measured softness:
+[NARRATOR] A soft knock breaks the quiet as Phil's secretary peeks her head through the large, heavy doors, her voice a hushed whisper in the expansive room.
 
-[MALE] How? Celeste knows you ain't gunna run. Celeste knows it ain't your nature.
+[FEMALE] Mr. Knight? Your 1pm...
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] Tell them just a moment. Mr. Vaccaro was just seeing himself out. And can you have security figure out why there's a cowboy skateboarding in our parking lot?
 
-[MALE] I have a plan. I have a letter.
+[FEMALE] Of course, sir.
 
-[NARRATOR] Celeste speaks with a quiet, measured softness:
+[NARRATOR] As Sonny begins to gather his things and move toward the exit, Phil offers one final, lingering thought into the fading light.
 
-[MALE] A letter? How'll yah mail da letter? Who yah trust to post it? A nigger that can read and write is a nigger that'll hang. There is a pause. Solomon can't answer this question. It is the glaring hole in his plan. Having finished eating:
+[MALE] You cannot travel the path until you become the path.
 
-[NARRATOR] 90. speaks with a quiet, measured softness:
+[MALE] Don't pull your Namaste bullshit on me, Phil.
 
-[MALE] 132 CONTINUED:  132
+[NARRATOR] With a final, weary motion, Sonny shoots the small plastic basketball toward the hoop. It misses completely, bouncing away into the quiet corner of the room. 
 
-[NARRATOR] Celeste speaks with a quiet, measured softness:
+[NARRATOR] Night falls completely over the Nike headquarters, draping the long hallway in a deep, hushed stillness. The mechanical whirring of a carpet cleaner echoes softly in the distance. Soap and cleaning solution spin in a rhythmic, hypnotic cycle while a uniformed janitor nods gently to the silent music in his headphones, moving like a shadow through the empty building.
 
-[MALE] Celeste will come again in de night. You will bring her 'mo food.
+[NARRATOR] Inside Sonny's office, the world is swallowed by towering mountains of VHS tapes stacked in haphazard columns from floor to ceiling. Each black cassette bears a strip of white masking tape with a player's name scrawled in thick black Sharpie. Sonny sits amidst this archive of motion, chewing thoughtfully on a piece of gum. He watches Stockton drive to the hoop, rewinds, and watches it again. He watches Bowie, watches Barkley, the old standard-definition highlights flickering in a hypnotic loop of blue light against the dark walls. 
 
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[NARRATOR] He replays Stockton's jump shot forward, then backward, the repetitive mechanical clicks of the VCR blending into the quiet hum of the night. A quiet yawn escapes him. He leans back in his worn leather chair and looks up toward the wall, where Nike's mission statement is neatly framed behind glass. Ten quiet rules. Ten commandments for a restless world. Rule number one: Our business is change. Rule number three: Perfect results count, not a perfect process. Break the rules; fight the law. 
 
-[MALE] I risk discovery to take more.
+[NARRATOR] Slowly, deliberately, Sonny gathers a small stack of tapes, tucks them securely into his canvas bag, and steps out into the tranquil night. 
 
-[NARRATOR] Celeste offers quietly, watching the shadows drift across the room:
+[NARRATOR] Minutes later, he wanders the pale, softly lit aisles of an empty grocery store. The air is cool and still, smelling faintly of polished floors and distant rain. A single red plastic shopping cart rolls beside him, its front wheel letting out a gentle, rhythmic squeak that echoes softly in the vast, quiet aisles.
 
-[MALE] You will bring Celeste 'mo food. And with that Celeste again moves back into the darkness.
+[NARRATOR] The pale, fluorescent illumination of the empty grocery store hums a low, comforting note overhead, casting a soft, milky glow across towering stacks of provisions. The air remains cool and still, touched by the faint, clean scent of newly polished linoleum and the distant, soothing promise of midnight rain. Rows upon rows of brightly colored packaging stretch into the quiet distance, including vibrant boxes of cereal shining in all of their neon, nostalgic glory. He pauses for a moment, his gaze drifting upward to a classic cereal box featuring Larry Bird frozen in time, holding a pair of simple Converse sneakers. A faint, rhythmic squeak breaks the silence as a grocery store employee approaches, pushing a heavy cart stacked high with cold gallons of milk, ready to be shelved in the quiet hours of the night.
 
-[NARRATOR] 134 Omit 134 adds in a relaxed, peaceful voice:
+[MALE] Sir...?
 
-[MALE] 135 EXT. TURNER PLANTATION - EVENING 135 Solomon is picking at the bark off a WHITE MAPLE. 136 EXT. TURNER PLANTATION - EVENING 136 In a tin cup, over a fire, Solomon boils the white maple bark in just a bit of water. 137 INT. JUDGE TURNER'S PLANTATION/SLAVES CABIN - NIGHT 137 As others sleep, by the light of dying coals, Solomon uses the quill to test the boiled bark. The liquid holds as a form of ink. It is no?t ideal, but it is legible on the page. Armed with this, Solomon writes his letter.
+[NARRATOR] Sonny turns around slowly, his shoulders dropping in the serene, unhurried expanse of the aisle.
 
-[NARRATOR] 138 138 speaks with a quiet, measured softness:
+[FEMALE] Can I help you?
 
-[MALE] EXT. TURNER PLANTATION - NIGHT Solomon sits with Celeste. He relates his news to her.
+[SONNY] No, sorry... just...
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[FEMALE] We're closing soon.
 
-[MALE] I have my letter.
+[SONNY] Got it. Thanks.
 
-[NARRATOR] Celeste murmurs with a warm, steady cadence:
+[NARRATOR] The employee offers a polite nod and continues rolling her cart down the quiet aisle, disappearing among the shadows of canned goods and baking supplies. Sonny watches her go, then calls out softly into the dimness.
 
-[MALE] Yah has your freedom then?
+[SONNY] Hey... do you know where Gonzaga is?
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[FEMALE] Excuse me?
 
-[MALE] All that remains is to contrive measures by which the letter can safely be deposited in the post office. When Celeste speaks she is quite melancholy.
+[SONNY] Gonzaga. Do you know where it is?
 
-[NARRATOR] 91. speaks with a quiet, measured softness:
+[FEMALE] ...Switzerland?
 
-[MALE] 138 CONTINUED: 138
+[SONNY] Never mind. Thanks.
 
-[NARRATOR] Celeste responds with gentle reassurance:
+[NARRATOR] As Sonny makes his way back down the central aisle, his weary footsteps pad softly against the floor. He glances to the side and catches his altered reflection in the slightly tinted glass of a commercial freezer. The glass mirrors what he feels deep within his bones—tired, heavy, and aged by the passing years. Leaving the gentle hum of the store behind, he steps out into the cool, slumberous night and settles into the quiet front seat of his car. The engine purrs to life, carrying him through sleeping suburban streets beneath a canopy of heavy, dark trees, until he pulls over gently to the side of the road. He takes a long, slow, grounding breath, reaching back into the backseat where the paper grocery bags rest in the dim shadows. His fingers brush against cardboard, pulling out a box of strawberry shortcake ice cream bars. With a soft rustle, he tears the box open and slides one out, peeling back the crinkling wrapper to reveal a technicolor pink treat, undeniably artificial yet radiating a childlike wonder. He eats it quickly, the sweet chill melting against his tongue as he chews rhythmically, racing against some invisible companion sitting quietly in the passenger seat. He swallows, and without pausing, reaches back into the box for another, repeating the simple, hypnotic routine until the cold sweetness is gone. He breathes out a frosty sigh, restarts the car, and drives slowly through the dark, winding neighborhood until he pulls into the familiar driveway of the Vaccaro household. Stepping out into the midnight air, he tears the strawberry shortcake box into dozens of unrecognizable fragments, burying the evidence deep in the trash can outside the garage alongside the remaining uneaten bars. Inside the slumbering house, Sonny retreats to his private office, sinking deeply into the embrace of his worn leather armchair. The only illumination in the room comes from the dual glow of two television screens, bathing his face in a tranquil, shifting blue light. On one screen, grainy game tape loops silently; on the other, ESPN plays a low, ambient murmur in the background. The rhythmic flickering dances across his features to the distant, muffled sound of a roaring crowd from a forgotten game. Then, something catches his eye on the second monitor—a tennis commercial featuring Arthur Ashe, holding a wooden racket with quiet grace. Sonny reaches out and turns up the volume, letting the smooth voice fill the quiet room.
 
-[MALE] I have resolved to return to my Massa. Solomon gives an unnerved look. This is not good news.
+[ARTHUR ASHE] This is the racket I won Wimbledon with. And you could've bought it. Really.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[NARRATOR] Sonny sits completely still, digesting the words as they hang in the quiet air of the room. He turns his gaze back to the glowing game tape on the first screen. His eyes narrow slightly, his inner thoughts turning like delicate gears in the middle of the night. He leans in closer, enveloped in the quiet solitude of the moment, touching upon that rare, otherworldly feeling of transcendence that arrives only a few times in a lifetime—the fleeting instant when every scattered piece of the universe seems to click together, if only for a second, in the deep silence of the night.
 
-[MALE] Is it more food you need?
+[NARRATOR] The room hums with a low, steady murmur, bathed in the soft, amber glow of a single brass desk lamp casting long, gentle shadows across the quiet walls. Outside, the world is draped in the deep, velvety hush of night, a cool, silent breeze brushing faintly against the glass. 
 
-[NARRATOR] Celeste adds in a relaxed, peaceful voice:
+[NARRATOR] In the dim, tranquil quiet of the office, the empty shell of a black plastic VHS case rests on the dark wood. The faint blue light of a television screen flickers rhythmically, casting a soft, hypnotic dance across the ceiling.
 
-[MALE] I live in fear.
+[MALE] It all makes sense. When you finally see what you've been missing this whole time.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[NARRATOR] On the screen, the grainy, warm tones of an old tape roll forward. The scene depicts an office bathed in daylight, filled with framed memories—photographs of athletes, of courtside moments, of a life spent in the quiet machinery of a massive corporation. 
 
-[MALE] None will come after you in the swamps.
+[NARRATOR] An executive sits in the comfortable leather chair, his posture easy, surrounded by the quiet hum of fluorescent lights and the faint rustle of papers.
 
-[NARRATOR] Celeste responds with gentle reassurance:
+[MALE] Unfortunately, our commitment will have to come down this year. Budgets and all. But that doesn't mean...
 
-[MALE] It ain't the patrollers I scared of... At all seasons the howling of wild animals can be heard at night along the border of the swamps. At first their calls were welcomin'. Dey too was free, 'n I thought dey greeted me like a sistah. Lately, dey cries have turned horrifyin'. They mean to kill Celeste.
+[NARRATOR] The heavy wooden door clicks open, breaking the steady rhythm of the afternoon. A figure pokes his head into the space, his presence an immediate shift in the quiet air.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] I'll be done in twenty.
 
-[MALE] The solitude plays tricks. It's your impression, nothing more. If you go back to your master you could face the same.
+[MALE] I need you done now.
 
-[NARRATOR] Celeste murmurs with a warm, steady cadence:
+[MALE] Sonny.
 
-[MALE] My freedom been nothin' but a daydream. So was Celeste's thoughts of slaves conjoinin' in the bayou.
+[MALE] No worries at all. I understand. It's the busiest time of year.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[MALE] Sorry about this. Thanks for coming, Rich. We'll follow up.
 
-[MALE] Better the loneliness. You have been free most of the summer. Return now and your master will make example of you.
+[MALE] Yeah, we'll follow up.
 
-[NARRATOR] Celeste offers quietly, watching the shadows drift across the room:
+[MALE] What the hell is--
 
-[MALE] It is lonely dwellin' waiting for others who won't never come.
+[MALE] I found the icon tree.
 
-[NARRATOR] 92. responds with gentle reassurance:
+[MALE] I don't care what you found, we have relationships to--
 
-[MALE] 138 CONTINUED:  138
+[MALE] It's in North Carolina.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[NARRATOR] Fingers press the plastic button of the VCR. The machine hums, gears turning softly inside, a gentle, mechanical sigh before the picture blooms on the screen. 
 
-[MALE] Go north. Make your way by night...
+[NARRATOR] It is the classic, immortal moment: the game-winning shot against Georgetown, bathed in the nostalgic warmth of old television analog.
 
-[NARRATOR] Celeste adds in a relaxed, peaceful voice:
+[MALE] It's Jordan.
 
-[MALE] It'll only be worse if'n Celeste don't go back of her own will.
+[MALE] He hits the shot. I've seen it. We've all seen it.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] No. Stop. Don't watch the shot. Don't watch Jordan.
 
-[MALE] You won't be caught. The dogs won't track you. You are...you are unique. Celeste...
+[MALE] You don't want me to watch Jordan.
 
-[NARRATOR] Celeste adds in a relaxed, peaceful voice:
+[MALE] Correct. In fact, watch everything except Jordan. Look at Dean in the huddle. Look at how he draws up the play. 
 
-[MALE] You got alternatives, Solomon.
+[NARRATOR] The tape rolls on, its quiet, muffled sounds filling the dim room like a distant lullaby. The pause button clicks, freezing the motion in place.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] That's James Worthy. First overall pick, as you know. Another player we had no chance at signing.
 
-[MALE] To return is to die!
+[MALE] Correct.
 
-[NARRATOR] Celeste responds with gentle reassurance:
+[MALE] So why isn't he taking the shot? Why is this skinny freshman from Wilmington, North Carolina taking the shot?
 
-[MALE] Celeste got no one to write a letter to. As if to punctuate her resolve, without a word more Celeste departs toward the swamp. Solomon starts on into the swamp after her.
+[MALE] Because he was open.
 
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[MALE] The play was drawn up that way. No one else was taking that shot. It's because they saw the same thing I'm seeing.
 
-[MALE] Celeste... Celeste! Solomon continues after Celeste, wading deeper into the dark night and murky waters.
+[NARRATOR] The tape resumes its gentle forward motion. The ball moves through the air in slow, graceful arcs. Seventeen seconds remain. Seventeen feet from the basket. The jumper rises, smooth and true, and falls through the net. 
 
-[NARRATOR] Solomon whispers gently into the still air:
+[NARRATOR] The screen freezes once again on a quiet, close-up frame of a young face, full of a singular, quiet certainty.
 
-[MALE] Celeste, I will guide you north! Wait, and I will take you. Celeste is too nimble. She outpaces Solomon, continues on and disappears into the night.
+[MALE] You can see it in his eyes.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] Sonny... There's no way we can...
 
-[MALE] Let me take you! Let me go with you! Solomon runs on, then splashes to a stop. He stumbles around disoriented, calling into the blackness:
+[MALE] If Nike wants to get serious about the basketball business then Nike needs to get serious about the basketball business.
 
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[MALE] I... don't know what that's supposed to mean.
 
-[MALE] Celeste... Nothing. No answer. Not a human one. There are sounds and echoes - some in the distance, some perhaps moving closer - which, moment by moment, become more and more frightening. Soon, Solomon realizes he is in quite literally over his head; the water first chest deep, then neck deep. With no way to orient himself, no means to guide him in the dark, Solomon's reserve begins to crumble. He thrashes in the water trying to find his way
+[MALE] I don't want to sign three players. I want to sign one.
 
-[NARRATOR] 93. responds with gentle reassurance:
+[MALE] What the fuck is wrong with you? Are you high?
 
-[MALE] 138 CONTINUED:  138 back to shore. No longer trying to save Celeste, Solomon calls to her - desperately - for assistance.
+[MALE] No. It all came to me last night. We can build a shoe line around him. Just him.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[NARRATOR] The heavy, quiet air of the office hung thick with the scent of old paper and cooling coffee. Outside the frosted glass windows, the afternoon light filtered down through the eternal, misty canopy of the Oregon pines, casting long, peaceful shadows across the carpet. 
 
-[MALE] Celeste! Come to me, Celeste! In that moment Solomon is quite certain he is nearly done; that he will not find land, nor aid and that this is his final moment. His panic should be that tangible. It is either force of will, or survival instinct...or maybe just pure luck that carries Solomon on until he reaches first muddy ground, then firm footing. Hauling himself onto the swamps edge, Solomon finally collapses in a drenched, worn heap. His life spared, but Celeste never to be seen again.
+[MALE] Think about it... the shoe deal has hardly changed since the beginning of time. Why are we beholden to this archaic model? We can tap into something deeper... the player's identity.
 
-[NARRATOR] 139 139 speaks with a quiet, measured softness:
+[NARRATOR] Strasser sat back, his expression entirely dumbfounded, blinking slowly as the stillness of the room seemed to deepen around them.
 
-[MALE] EXT. EPPS'S PLANTATION - DAY -MAY/JUNE, 1847- We come up now outside of Master Epps's plantation. Epps stands in the drive. He's in surprisingly good spirits as Solomon, Uncle Abram, Henry and Bob trudge their way wearily toward Epps and his other slaves who are gathered. The cotton field is in full bloom, the crop fully returned.
+[MALE] You're looking to personify... A shoe.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[NARRATOR] Sonny leaned forward, his eyes bright with a quiet, unshakeable fervor, the exhaustion of the sleepless night melting into pure, steady resolve.
 
-[MALE] A joyous day. A joyous day. Dark times is behind us. Clean livin' 'n prayer done lifted the plague. Indicating to the cotton:
+[MALE] Yes! Have you seen that Arthur Ashe commercial? "This is the racket I won Wimbledon with. And you could've bought it." What if we do that with a shoe?
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[NARRATOR] A soft breeze rustled the pine needles outside, a gentle, rhythmic whisper against the glass. Strasser rubbed his temples, letting out a long, weary sigh.
 
-[MALE] As thick 'n white as New England snow. 'N now my niggers is returned to me.
+[MALE] Even if Jordan wanted to come here, it would cost too much.
 
-[NARRATOR] Heard Judge Turner gave you favor.
+[MALE] That's not true. We have 250k. We can get him for 250k.
 
-[NARRATOR] Oh, did you beguile him, Platt,
+[MALE] And what's your genius pitch?
 
-[NARRATOR] with your slick nigger ways?
+[MALE] I told you, we can offer him something that no one else can.
 
-[NARRATOR] Well, yah won't stand idle, boy.
+[NARRATOR] Strasser pressed his hands deep into his face, his voice carrying the warm, heavy exhaustion of a long afternoon.
 
-[NARRATOR] Not on my land. Much work to do.
+[MALE] Which is...?
 
-[NARRATOR] Days of old long since, eh?
+[MALE] Nike doesn't have a strong basketball department.
 
-[NARRATOR] Joyous! Joyous indeed!
+[NARRATOR] Strasser let out a slow, incredulous breath, his hands sliding down to rest against his desk.
 
-[NARRATOR] Throughout Epps's welcome, Solomon's focus is on Patsey
+[MALE] Oh, good god.
 
-[NARRATOR] who is lined up with the other slaves. SHE IS NOW MORE
+[MALE] Think about it. It's what Converse won't do. They can't upset any of their players by elevating one above the other. We can. Converse has Magic, Bird, Dr. J. But the sneakers aren't theirs. Every player wears the same Converse Weapon... there's only one Jordan.
 
-[NARRATOR] HAGGARD THAN WHEN WE LAST SAW HER. Her face and arms
+[NARRATOR] The room grew cozier, the shadows lengthening as the daylight softened toward the evening. Strasser crossed his arms, staring thoughtfully at the grain of the wooden desk.
 
-[NARRATOR] display many new scars. It's clear that in the
+[MALE] Sonny, he wore converse in college. Adidas is the hot commodity. I mean, god, Spot-Bilt can probably offer him more money.
 
-[NARRATOR] intervening years she has quite literally been a whipping
+[MALE] That's not--
 
-[NARRATOR] boy for Epps and the Mistress.
+[MALE] He got cut from his High School team.
 
-[NARRATOR] 94. whispers gently into the still air:
+[MALE] Exactly - people missed on him before, and they're missing on him again.
 
-[MALE] 140 EXT. EPPS'S PLANTATION/COTTON FIELD - DAY 140 -JULY, 1847- The slaves are out working on the field. White hands appear, picking cotton: ARMSBY. He is wholly unskilled at picking cotton, and he puts little effort into the job. As we meet him he seems a decent sort if a little short on self-motivation. In anachronistic terminology, he'd be called a "slacker." He joins in with the slaves, singing a spiritual.
+[NARRATOR] Strasser paused, a flicker of genuine consideration softening the lines around his eyes before he let out a gentle sigh of surrender.
 
-[NARRATOR] 141 141 offers quietly, watching the shadows drift across the room:
+[MALE] That's an interesting perspective to take on it. Come on, we have to be realistic. What happened to Stockton?
 
-[MALE] INT. MASTER EPPS'S PLANTATION/GIN HOUSE - EVENING As Epps said, it is days of long since. The slaves are back to having their cotton weighed in the Gin House
+[MALE] No one knows where Gonzaga is.
 
-[NARRATOR] Epps whispers gently into the still air:
+[MALE] Enough. We're going to distribute it to three or four players. If Jordan wants 75k... maybe 100k. We can discuss. But...
 
-[MALE] Wiley...?
+[MALE] It's the only way. You want an icon... let's go get a fucking icon.
 
-[NARRATOR] Treach murmurs with a warm, steady cadence:
+[NARRATOR] Strasser shook his head, a quiet, helpless smile tugging at the corner of his mouth despite himself.
 
-[MALE] Two hundred sixty pounds.
+[MALE] Phil will never go for this.
 
-[NARRATOR] Epps speaks with a quiet, measured softness:
+[MALE] Let me handle that.
 
-[MALE] Bob?
+[NARRATOR] Strasser looked closely at his colleague, noticing the subtle shadows under his eyes, the quiet strain of a man running on pure, unwavering belief.
 
-[NARRATOR] Treach responds with gentle reassurance:
+[MALE] You really couldn't have brought this up yesterday? Have you slept?
 
-[MALE] Three hundred forty pounds for Bob.
+[MALE] Not really.
 
-[NARRATOR] Epps whispers gently into the still air:
+[MALE] Please don't take us on a wild goose chase, Sonny. This is too important... I mean have you even talked to--
 
-[MALE] Patsey?
+[NARRATOR] A sharp, sudden ringing of the telephone cut through the quiet air of the office, echoing softly off the wooden walls. Both men froze, the atmosphere instantly shifting to one of suspended, breathless anticipation.
 
-[NARRATOR] Treach murmurs with a warm, steady cadence:
+[MALE] Jordan's agent?
 
-[MALE] Five hundred twenty pounds.
+[MALE] Yes.
 
-[NARRATOR] Epps speaks with a quiet, measured softness:
+[MALE] Who's on?
 
-[MALE] Tha's a girl. Don't never let me down. Platt?
+[NARRATOR] Strasser shook his head, pressing his lips together to hide a smile as he gestured toward the open door. 
 
-[NARRATOR] Treach whispers gently into the still air:
+[MALE] David Falk.
 
-[MALE] One hundred sixty pounds. Before Treach is even done announcing the weight, Epps has pulled Solomon aside to where Uncle Abram already awaits his fate.
+[NARRATOR] Sonny didn't hesitate. He turned and sprinted toward his own office down the hall, a few disheveled papers fluttering gently from his desk as he rushed past, landing softly on the carpet like autumn leaves. He swept up the receiver, his breathing deep and steady, waiting for the voice on the other end of the line.
 
-[NARRATOR] Epps speaks with a quiet, measured softness:
+Miles away, in the polished, ultra-modern stillness of the ProServ Agency, David Falk sat in his high-rise office. Surrounded by pristine glass and the muted hum of the city below, the elite agent leaned back in his leather chair, a master of his craft who had practically been born negotiating.
 
-[MALE] Armsby?
+[MALE] Sonny, Sonny, Sonny. Here comes the Sonny.
 
-[NARRATOR] Treach offers quietly, watching the shadows drift across the room:
+[MALE] Good morning, Falk.
 
-[MALE] Sixty four pounds. Epps speaks to Armsby sternly, but nothing of the manner in which he would address the slaves.
+[MALE] It's afternoon for those of us in the real world. Regardless, I've been waiting to hear from my favorite Italian in Oregon. I hear Nike is getting out of the basketball business.
 
-[NARRATOR] 95. speaks with a quiet, measured softness:
+[NARRATOR] The office hummed with the quiet, rhythmic drone of fluorescent lights, casting long, soft shadows across the wooden desk. Outside the window, a gentle afternoon breeze rustled the green leaves of the trees, swaying them in a slow, hypnotic dance against the pale, hazy sky. The air inside was cool and still, carrying the faint, comforting scent of old paper and polished wood. Sonny held the heavy black telephone receiver to his ear, listening to the distance between them, feeling the heavy, slow tick of the afternoon stretching endlessly onward.
 
-[MALE] 141 CONTINUED: 141
+[MALE] Who told you that? 
 
-[NARRATOR] Epps responds with gentle reassurance:
+[MALE] You know I have clients in other sports. I just signed Boomer Esiason. 
 
-[MALE] A good days labor would average two hundred pounds.
+[MALE] You heard wrong. I'm calling about... 
 
-[NARRATOR] Armsby responds with gentle reassurance:
+[NARRATOR] Sonny paused, taking a deep, slow breath that filled his lungs and slowly released in a quiet sigh, steadying his heartbeat against the soft current of the room.
+
+[MALE] Jordan. 
+
+[NARRATOR] On the other end of the line, a light, dismissive laugh traveled through the wires, soft as rustling dry leaves.
+
+[MALE] I talked to Strasser about Michael in June. He's not signing with you. In fact, he's not taking a meeting with you. 
+
+[MALE] What do you mean? 
+
+[MALE] A meeting? A group of two, maybe four to five, executives in a room? They discuss business? Hear a pitch from a company? Does any of this sound familiar? Michael's not going to be doing that at Nike. 
+
+[MALE] Falk, don't fuck with me here. What are the bids looking like? 
+
+[MALE] It's not about the money. 
+
+[MALE] Of course it is. 
+
+[MALE] We've decided to stretch the envelope. It's not just about dollar value. We want to hear what each company can do to promote Michael. 
+
+[MALE] OK, we're thinking along the same lines then. All I'm asking for is a meeting. 
+
+[MALE] He's the #3 pick in the league, Sonny. #3 picks don't wear Nikes. 
+
+[MALE] Just get us in the room. What's one more flight? One more day? 
+
+[MALE] I have one directive from Michael: do whatever it takes to get me with Adidas. 
+
+[MALE] You're fucking with me. 
+
+[MALE] Frankly, Sonny, I'm too busy to fuck with you. Off the record - even though UNC's a Converse school, Michael wore Adidas during practice. He would put on Converse just before the game started. The second the final buzzer sounded? Adidas' back on. 
+
+[MALE] Bullshit. 
+
+[MALE] On my word. Ask Dean. 
+
+[MALE] I thought that was off the record. 
+
+[MALE] I didn't say you had to tell him where you heard it. And trust me, Converse isn't happy about it either. I've already seen a mockup of their presentation. It's something. Three words: state of the art. 
+
+[MALE] That's four words. But I get it. Falk counting. One. Two. Three. Fuck. 
+
+[MALE] Now, if you're interested in submitting an offer that I can use to drive up Adidas' price, by all means... go ahead. Makes my job easier. 
+
+[MALE] What are they offering? 
+
+[MALE] Offers aren't in yet. But we're anticipating anywhere between 200 and 250. 
+
+[NARRATOR] Sonny slowly pulled the receiver away, holding his hand over the mouthpiece as a deep, silent sigh drifted past his lips, his mouth forming the quiet shape of a word into the empty air.
+
+[MALE] Why? What's your budget? 
+
+[MALE] We can be... competitive. 
+
+[MALE] That's annually. Not total comp. 
+
+[MALE] I'm aware. 
+
+[NARRATOR] He took another long, deliberate breath, letting the weight of the afternoon settle gently over his shoulders like a warm, heavy blanket.
+
+[MALE] Come on, it's a shit show over at Adidas. Has been ever since Adolf croaked. 
+
+[MALE] Adi, Sonny. He went by Adi. 
+
+[MALE] His name was Adolf. That's not my fault. 
+
+[MALE] He was a good man. 
+
+[MALE] Well, he died all the same. Wife's running the show now? 
+
+[MALE] We're meeting with the whole family. 
+
+[MALE] She's rich, has five heirs, and probably isn't long for this earth. Do you think her
+
+[NARRATOR] The evening settles softly over the quiet expanses of the city, wrapping the darkened offices and empty corridors in a blanket of stillness. Inside a dimly lit room, the cool glow of a television screen hums a rhythmic, silent cadence. Shadows stretch lazily across the carpeted floor, as the weight of the hour coaxes the world into a deep, dreamlike slumber. 
+
+[MALE] What time is it?
+
+[MALE] 11:02.
+
+[MALE] Seventy-one hours and fifty-eight minutes from now.
+
+[MALE] OK. Let me get back to you.
+
+[NARRATOR] The phone receiver settles back into its cradle with a soft, muffled click. In the quiet gloom, a lone figure pauses, breathing slowly, the tension of the day dissolving into the tranquil night. He turns and moves softly through the muted shadows, slipping back into the sanctuary of the director's office where the blue light of old videotapes flickers against the wall, casting gentle, hypnotic waves across the ceiling.
+
+[MALE] What'd he say?
+
+[MALE] We have a great shot. He'd been waiting for my call for weeks.
+
+[MALE] How much?
+
+[MALE] I already told you. Our entire budget. Twenty-seven.
+
+[MALE] Jesus, Sonny. You're really going to take this to Phil?
+
+[MALE] Yes.
+
+[MALE] When?
+
+[MALE] After my lunch.
+
+[MALE] What lunch?
+
+[MALE] The one I'm going to.
+
+[MALE] With who?
+
+[MALE] The man who already passed on Jordan.
+
+[NARRATOR] Time drifts forward, carrying the quiet hours toward a dimly lit, upscale dining room in Portland. The restaurant is hushed and intimate, bathed in the warm amber glow of recessed lighting and heavy velvet drapery that dampens every sound from the outside world. Outside, a gentle mist rolls through the evergreen trees, brushing against the tall glass windows like a soft sigh. Inside, a waiter stands patiently by the table, dressed in crisp white and black, holding a small leather-bound pad as the quiet murmur of the room laps at the edges of the booth.
+
+[MALE] Two steaks. Medium rare?
+
+[MALE] No red meat.
+
+[MALE] You're off red meat?
+
+[MALE] Yeah, for my heart.
+
+[MALE] Bullshit. You don't have a heart.
+
+[MALE] Chopped salad please. With grilled chicken.
 
 [MALE] Yes, sir.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[MALE] Thanks for meeting last minute.
 
-[MALE] I'm sure in time y'll develope as a picker, but it takes effort, boy. Put some damn effort into it.
+[MALE] I hear Nike is getting out of the basketball business.
 
-[NARRATOR] Armsby offers quietly, watching the shadows drift across the room:
+[MALE] Why is everyo...
 
-[MALE] Yes, sir. To Treach, regarding Solomon and Abram:
+[NARRATOR] He stops himself, taking a slow, calming breath as the ambient hum of the restaurant washes over them, steady and soporific.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[MALE] Honestly, it makes sense. I never saw how you could compete with the big boys. Not enough capital.
 
-[MALE] Take 'em out. Get to whippin'. No force is needed. The slaves understand the situation. They follow Treach out of the Gin house.
+[MALE] We have capital.
 
-[NARRATOR] 142 142 murmurs with a warm, steady cadence:
+[MALE] Yes. Just not enough. Gossip aside, you strike me as a Stockton-guy.
 
-[MALE] EXT. EPPS'S PLANTATION/SLAVE SHACK - NIGHT We come in after the punishment has been dealt. Patsey tends to Uncle Abram's back as Armsby applies liniments to Solomon's. As he does, Armsby muses:
+[MALE] Why's that?
 
-[NARRATOR] Armsby responds with gentle reassurance:
+[MALE] Because Gonzaga is risky and you like rolling the dice.
 
-[MALE] It's a tragedy. How does such come to pass? Working a field and picking cotton like a lowly hand. I'm of a damn sight better station. And my desires never lacked for a grandiose component, though I will admit they have at times been short on ingenuity. But only at times. I've worked as an overseer, you know.
+[MALE] He's a hell of a player. I would have taken him ten picks sooner, for sure.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] But...?
 
-[MALE] I did not, sir.
+[MALE] But nothing. I like him.
 
-[NARRATOR] Armsby answers in a low, calming tone:
+[MALE] Who's on your mind?
 
-[MALE] Not "sir." Just Armsby. Not owed more than any other in the field. I worked plantations from Virginia, down into Alabama. I could manage easy a hundred slaves and have done so. But to toil in the field? Never thought that would come to pass. Never. But times are desperate. Where once I had said "no" to Epps and his merger offerings, I returned cap
+[MALE] Why'd you pass on Jordan?
 
-[NARRATOR] 96. speaks with a quiet, measured softness:
+[MALE] Oh, come on, Sonny. You're not signing Jordan.
 
-[MALE] 142 CONTINUED: 142
+[MALE] But what do you think of him? As a player?
 
-[NARRATOR] Armsby speaks with a quiet, measured softness:
+[MALE] I think he's a good player. Have you talked to Falk?
 
-[MALE] in hand. ...Look at what I've become.
+[MALE] Then why didn't you draft him?
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] My advice would be to leave it alone. The Bulls are a mess. He's not going to be in the playoffs for years.
 
-[MALE] How did you arrive at such a place, if I may ask?
+[MALE] A player can transcend his situation.
 
-[NARRATOR] Armsby adds in a relaxed, peaceful voice:
+[MALE] Sure, but this isn't a situation. It's a mess. And the playoffs are where the money is. You know that. You want to pay top dollar for a player that's going to be on national television once a year? Twice with the all-star game if you're lucky?
 
-[MALE] Ask. It's just conversation. From a pocket Armsby produces a flask.
+[MALE] I mean, you watched the tape?
 
-[NARRATOR] Armsby adds in a relaxed, peaceful voice:
+[MALE] Of course we...
 
-[MALE] I became a little too dependant on the whisky, a little too undependable on the job. Before you say I'm just a sorry drunkard, let me state my case: As reliable employment as overseeing is, it's no easy chore on the spirit. I say no man of conscious can take the lash to another human day in, and day out without shredding at his own self. Takes him to a place where he either makes excuses within his mind to be unaffected... Or finds some way to trample his guilty sensations. Well, I trampled. Armsby takes a drink.
+[NARRATOR] The conversation trails off into the quiet atmosphere of the room, blending with the gentle clinking of silverware and the slow, rhythmic ticking of a distant clock. The shadows grow longer and softer, inviting tired eyes to close, and letting the quiet night carry everything away into deep, unbroken rest.
 
-[NARRATOR] Armsby adds in a relaxed, peaceful voice:
+[NARRATOR] The afternoon sun casts long, golden bands of light across the quiet, wood-paneled walls of the office, settling like a heavy, comforting blanket over the room. Dust motes dance lazily in the warm air, rising and falling in an unhurried rhythm that mirrors the steady, deep breathing of the world outside. The air smells faintly of old paper, polished mahogany, and the faint, sweet scent of distant rain cooling the pavement. 
 
-[MALE] And with frequency.
+[MALE] We knew he'd be there at number two. We have Drexler and Paxson. We didn't need another guard—we needed a center. 
 
-[NARRATOR] Solomon whispers gently into the still air:
+[NARRATOR] The voice is low and raspy, drifting through the quiet room like dry leaves brushing across a peaceful lawn, before fading softly into the ambient hum of the building. Sonny shifts slightly in the warm light, his gaze steady and calm.
 
-[MALE] Where is your place of birth?
+[MALE] I don't think you can draft based on needs that high... you have to draft on talent. 
 
-[NARRATOR] Armsby offers quietly, watching the shadows drift across the room:
+[NARRATORS] A soft, weary sigh escapes the shadows of the room, as fingers tap gently against a polished wooden desk, the sound muffled and distant.
 
-[MALE] Maryland. Have you traveled there?
+[MALE] He's not going to be better than Drexler. What do you see in Jordan?
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[NARRATOR] The question hangs in the peaceful air, heavy with the weight of unhurried contemplation. Outside the window, a lone bird glides silently across the pale blue sky, untouched by the quiet debate below. Sonny pauses, his eyelids growing heavy, feeling the profound stillness of the afternoon.
 
-[MALE] ...I cannot say that I have.
+[MALE] It's in his eyes.
 
-[NARRATOR] Armsby murmurs with a warm, steady cadence:
+[NARRATOR] The other man leans back, the leather chair groaning ever so softly under the shift in weight, a warm, rhythmic creak that lulls the senses further into repose.
 
-[MALE] Fine country. More seasonal than the bayou. A deal less humid.
+[MALE] I see two brown eyes. Sixty percent of the world has brown eyes, Sonny. It's the most common eye color in the world.
 
-[NARRATOR] Solomon answers in a low, calming tone:
+[NARRATOR] Sonny breathes out a quiet, gentle laugh, a sound as light as a passing breeze rustling through autumn branches.
 
-[MALE] Why did you leave it?
+[MALE] It's not the color. It's something else.
 
-[NARRATOR] Armsby murmurs with a warm, steady cadence:
+[NARRATOR] The silence returns, deep and restorative, wrapping around the room like a thick, down quilt on a chilly evening. 
 
-[MALE] To make my fortune, of course. I gave in to tales of wealth and prosperity that were the lore of the southern states: all that's needed being a patch of land and a few good growing seasons. Cotton,
+[MALE] So you came all the way down here to tell me you didn't like our draft pick? What, you think I'm going to be remembered as the man who passed on Michael Jordan? Come on, Sonny. Players come and go. No one's remembered for just one player.
 
-[NARRATOR] 97. responds with gentle reassurance:
+[NARRATOR] Sonny says nothing more. His eyes tell a different story—one of quiet conviction, drifting away into the peaceful haze of the afternoon. 
 
-[MALE] 142 CONTINUED:  142
+The scene shifts softly, like a dream dissolving into another, moving down a quiet, carpeted hallway where footsteps fall soundlessly. The secretary sits by the polished oak door, her breathing slow and even in the dim, amber glow of a desk lamp. Sonny steps up quietly, his hand resting for a moment on the cool brass of the doorknob.
 
-[NARRATOR] Armsby speaks with a quiet, measured softness:
+[FEMALE] They're already in there.
 
-[MALE] or tobacco. And then locating a proper bank in which to store your riches. But such profitable outcomes are reserved for the plantation masters. It's the lot of the rest of us to serve. So I settled on being an overseer, and failed as well at that. In the meantime my dreams gave way to reality. Now, I want nothing more than to earn a decent wage.
+[NARRATOR] Sonny pauses, his brow furrowing softly as the quiet air surrounds him.
 
-[NARRATOR] And get myself home.
+[MALE] Who?
 
-[NARRATOR] Armsby takes another drink and leans back.
+[FEMALE] Phil said he had a meeting with you and Mr. Strasser?
 
-[NARRATOR] 143 143 speaks with a quiet, measured softness:
+[NARRATOR] With a gentle, unhurried motion, Sonny pushes the heavy door open, stepping into the warm, sunlit expanse of Phil Knight's office. Strasser sits quietly across the wide desk from Phil, leaving an empty chair beside him—waiting, patient, and still. Strasser turns his head, offering a sympathetic, fleeting expression, a silent wave of understanding that washes over the room like cool water. Sonny simply shakes his head, the movement slow and heavy with fatigue.
 
-[MALE] INT. MASTER EPPS'S PLANTATION/SLAVE SHACKS - MORNING -AUGUST, 1847- We again hear the sound of the HORN BLOWING signaling the start of the work day for the slave. 144 EXT. MASTER EPPS'S PLANTATION/FIELD - DAY 144 With the sun yet again high in the sky the slaves are working the field picking cotton. As before they sing a spiritual, the only thing that distracts them from the tedium at hand. But there is no distracting from the heat. We see Uncle Abram begin to falter and finally drop down to the ground. Treach calls to Edward:
+[MALE] I hear you had lunch plans.
 
-[NARRATOR] Treach answers in a low, calming tone:
+[NARRATOR] Phil’s voice is measured and calm, carrying the smooth, hypnotic cadence of distant ocean waves lapping against a quiet shore.
 
-[MALE] Get him water. Edward runs to fetch water which he carries to Abram and DUMPS ON HIM...BUT ABRAM DOES NOT RISE. DOES NOT MOVE. At this point, the sounds of the singing from the others tapers off as they realize Abram isn't getting up.
+[MALE] Hi, Phil.
 
-[NARRATOR] 145 145 answers in a low, calming tone:
+[NARRATOR] Sonny murmurs, his eyelids fluttering as the warmth of the room coaxes his body toward deep relaxation. 
 
-[MALE] EXT. MASTER EPPS'S PLANTATION/SLAVE CEMETERY - LATER We are beyond the main of the plantation, the cotton field in the background. We are at the slaves' cemetery, a mixture of crude crosses and unsettled ground. Solomon, Bob and Henry, now much visually older than when we first saw them, are digging a grave in the dirt. The uncovered body of Abram lays near. Having dug down an appropriate distance, the three men take the body and, very unceremoniously, place it into the ground. Holding
+[MALE] Before we get into things, let me just say this: no.
 
-[NARRATOR] 98. adds in a relaxed, peaceful voice:
+[NARRATOR] Sonny takes a slow, deep breath, filling his chest with the quiet, still air of the office, letting every tension melt away down to his fingertips.
 
-[MALE] 145 CONTINUED: 145 the shovel in his hands, and resting it by his feet, Bob tilts his head down and closes his eyes. The others do the same. Almost stutteringly, not really knowing what to
+[MALE] Let me explain.
 
-[NARRATOR] Bob whispers gently into the still air:
+[MALE] No.
 
-[MALE] I just want to say something about Uncle Abram. He was a good man and he always looked out for us since we were little. God Bless him. God love him. And God keep him. That done, they begin to cover it with dirt. It is all the more of a funeral that Abram will receive.
+[MALE] You told me something the day you hired me: We're not in the shoe business, we're in the entertainment business. This is entertainment. Michael Jordan is the guy we've been waiting for.
 
-[NARRATOR] 147 Omit 147 offers quietly, watching the shadows drift across the room:
+[NARRATOR] Phil leans forward, resting his chin on intertwined fingers, bathed in the soft, horizontal beams of late-day sunlight.
 
-[MALE] A148 EXT. MASTER EPPS'S PLANTATION/SLAVE CEMETERY - LATER A148 A female voice appears out of the blackness and begins to sing solo, "Went down to the river Jordan." A response of "Oh Yeah" quickly follows. Again the singer continues, "where John baptized three." The same faces we have seen on Epps' plantation, but now filled with rapture, appear. It's as if the voices have created a new form of awakening and presence. It seems to transcend and translate in a strange way, joy. A joy which has un-yet been seen on screen. A joy which has been hidden, but a joy which is undoubtedly there. It's captivating, infectious. This should be a moving part of the film, which stirs the audience and, for a moment, relieves them of the seemingly chastising environment. The singer continues, "Well some say John was a Baptist, some say John was a Jew, but I say John was a preacher, because the Bible says so too, preach on Johnny." And with that, the rest of the congregation chant "I believe. Oh, I believe."
+[MALE] You both said the exact same thing about Bobby Jones and Artis Gilmore.
 
-[NARRATOR] 148 148 adds in a relaxed, peaceful voice:
+[MALE] If perfection is the goal than we were doomed from the start. You can't expect us to be right every time.
 
-[MALE] INT. EPPS'S PLANTATION/WOODS - NIGHT Solomon goes to RETRIEVE THE SMALL PACKAGE FROM UNDER A ROCK AT THE BASE OF A TREE. Solomon returns the letter to hiding. He takes the money with him and cautiously moves from the area.
+[MALE] How about some of the time?
 
-[NARRATOR] 99. adds in a relaxed, peaceful voice:
+[MALE] That's part of gambling. You don't win every hand. It's time to change our strategy.
 
-[MALE] 150 INT. EPPS'S PLANTATION/ARMSBY'S SHACK - LATER 150 The door opens. Solomon enters. Armsby is surprised to see him. So much so, he isn't sure what greeting to give. Solomon gives a blunt introduction. Re: the COINS:
+[MALE] This is a business, Sonny, not a craps table. We don't have unlimited checks to write.
 
-[NARRATOR] Solomon answers in a low, calming tone:
+[MALE] I'm not asking for unlimited, I'm asking for 250.
 
-[MALE] The proceeds of my fiddling performances. A few picayunes, but all I have in the world. I promise them to you if you will do me the favor I require. But I beg you not to expose me if you cannot grant the request.
+[NARRATOR] The number drops into the quiet space between them, light and heavy all at once, hanging suspended in the amber air.
 
-[NARRATOR] Armsby murmurs with a warm, steady cadence:
+[MALE] You want to pay him $250,000?
 
-[MALE] What do you ask?
+[MALE] Yes. More if possible.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[MALE] A rookie. Who hasn't set foot on an NBA court yet?
 
-[MALE] First, your word, sir.
+[MALE] That's the literal definition of a rookie, yes.
 
-[NARRATOR] Armsby speaks with a quiet, measured softness:
+[MALE] A player who was cut from his High School team?
 
-[MALE] On my honor.
+[MALE] Yes.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] Magic Johnson doesn't even have a shoe line.
 
-[MALE] It is a simple enough request. I ask only that you deposit a letter in the Marksville post office. And that you keep the action an inviolable secret forever. The details of the letter are of no consequence. Even at that, there would be an imposition of much pain and suffering were it known I was the author. A patron is what I require, sir.
+[MALE] Exactly.
 
-[NARRATOR] Armsby speaks with a quiet, measured softness:
+[NARRATOR] Phil grows quiet, staring down at the polished wood of his desk where the light slowly, imperceptibly begins to deepen into the indigo shades of early evening. 
 
-[MALE] Where's the letter now?
+[MALE] No. I can't justify paying one player that much...
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] Phil, we're thinking this has a chance to—
 
-[MALE] ...It is not yet written. I will have it in a day. Two at most, my skill with composition as poor as it is. Armsby considers the request.
+[NARRATOR] Strasser's voice trails off, blending softly into the quiet hum of the fading day. Sonny takes one last, deep, restorative breath, letting the peaceful silence carry his words forward.
 
-[NARRATOR] Armsby adds in a relaxed, peaceful voice:
+[MALE] Let me put it like this: I'm willing to bet my career on Michael Jordan. If—
 
-[MALE] I will do it. And will accept whatever payment is offered. Solomon hesitates. In the moment, he's not so sure he can wholly give himself over to trust.
+[NARRATOR] The evening air settles over the room, heavy with the quiet gravity of a massive decision hanging in the balance. Sonny leans back slightly, his eyes steady, watching Phil Knight absorb the sheer weight of the wager. The ambient light of the office softens, casting long, gentle shadows across the desk as the last vestiges of daylight fade into a deep, peaceful dusk. A soft, soothing draft drifts in from the slightly ajar window, rustling the papers on the table like dry autumn leaves.
 
-[NARRATOR] 100. speaks with a quiet, measured softness:
+[MALE] If this doesn't work... I'm gone. No questions asked.
 
-[MALE] 150 CONTINUED: 150
+[NARRATOR] Phil Knight shifts in his leather chair, the leather creaking softly in the quiet room. He gazes at Sonny, unimpressed by the melodrama, his expression masked by the twilight.
 
-[NARRATOR] Armsby adds in a relaxed, peaceful voice:
+[MALE] This isn't the time for theatrics.
 
-[MALE] To assist you, I put my own self at risk. I will do so, but fair compensation is all I ask. Solomon hands over the money.
+[NARRATOR] Sonny holds his ground, his voice dropping an octave, steady and unyielding as he speaks from the very center of his soul.
 
-[NARRATOR] Armsby murmurs with a warm, steady cadence:
+[MALE] I'll put it in writing. No severance. Gone like I was never here at all.
 
-[MALE] Draw up your letter. We will meet again. In two days?
+[NARRATOR] Phil tilts his head, a quiet curiosity cutting through the fatigue of the long day. The hum of the city far below provides a distant, rhythmic white noise, lulling the room into a deep, meditative stillness.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[MALE] Why?
 
-[MALE] In two days. ...Thank you. Solomon exits.
+[NARRATOR] Sonny exhales slowly, his shoulders dropping as the tension in the room dissolves into the quiet atmosphere. 
 
-[NARRATOR] 151 151 whispers gently into the still air:
+[MALE] Because you asked me what I do here... and this is what I do here. I find players. And I feel it right now. I wish I could explain it better... I just know. We can't split the baby. Not this time. When you were slinging sneakers out of the trunk of your Plymouth Valiant under the name Blue Ribbon Sports... I know you envisioned more than this. You had grander dreams. Strasser's in the cafeteria booking meetings with people he doesn't even know... we can't afford to play it safe. Not this time. Not now.
 
-[MALE] EXT. EPPS'S PLANTATION/COTTON FIELD - DAY Solomon and the slaves pick cotton. Armsby is conspicuously NOT laboring in the field. As Solomon works he is watched by Epps. Watched more than he normally is. For a moment it seems it might just be a matter of perspective; Solomon's unease over his actions. But soon Epps is joined by Armsby. The two men stand and talk, their looks locked toward Solomon. Whatever it is that is occurring between them continues for a long, long moment. But Epps makes no move toward Solomon. Solomon continues with his work.
+[NARRATOR] Phil listens, the words washing over him like the gentle tide against a quiet shore. He looks away, his gaze drifting toward the window, softening as he yields to the truth of Sonny's conviction.
 
-[NARRATOR] 152 152 speaks with a quiet, measured softness:
+[MALE] (begrudgingly) What's the competition?
 
-[MALE] INT. EPPS'S PLANTATION/SLAVE SHACK - NIGHT The slaves are at rest. Gripping his whip Epps enters, without so much as a knock at the door. For a moment there's curiosity; is he there for a dance, for Patsey...? Looking right to Solomon:
+[NARRATOR] Sonny lets out a breath of pure, quiet certainty, the name falling softly from his lips into the quiet air.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[MALE] The Germans.
 
-[MALE] Get up. Solomon does. Epps heads back out into the dark. He says nothing, but his directive is clear: Follow me. 153 EXT. MASTER EPPS'S PLANTATION/SLAVE SHACK - CONTINUOUS 153 Solomon comes out into the dark. Nearly hidden in the shadows is a bitter Epps. Despite the lack of light, Epps's malevolence is quite clear. His whip attached to his hip. As he speaks, he stokes himself with swigs from a FLASK. Epps puts his arm around Solomon, as if consoling a friend, and guides him into the woods.
+[NARRATOR] The scene shifts, drifting across an ocean on a cushion of cool, rolling fog. We arrive outside the monolithic expanse of the Adidas headquarters. Even without a name, the massive structure looms like a sleeping giant, an almost cartoonish Soviet-style fortress rising into the misty gray sky. Atop the monolithic roof, a neon blue trefoil logo spins in slow, hypnotic circles, casting a gentle, rhythmic cerulean glow across the fine German glass. Below, the pristine glass reflects the dark, shimmering water of a quiet pond, undisturbed save for the occasional ripple of a gentle night breeze. 
 
-[NARRATOR] 100A. offers quietly, watching the shadows drift across the room:
+Inside the hallowed halls of the Adidas Museum, history rests in absolute tranquility. The air is still and cool, smelling faintly of old leather and polished wood. There rest the spiked shoes worn by Jesse Owens beneath the Berlin sun in 1936, the heavy boxing boots worn by Muhammad Ali through countless battles, the crisp white Stan Smiths, and the legendary soccer cleats that would come to be known as the Copa Mundial. Each artifact rests in a peaceful, timeless slumber.
 
-[MALE] 153 CONTINUED: 153
+Deeper within the labyrinthine headquarters, inside a grand conference room, the Adidas braintrust gathers around a magnificent, endless table. Each person sits before a neat stack of papers and a solitary folder, illuminated by the soft, diffused light filtering through heavy frosted windows. At the head of the table sits Kathe Dassler, the matriarch, fragile in health yet commanding the room with a quiet, unyielding grace. Beside her is her son, Horst Dassler, his round face anchored by a strong, square jaw, managing the unseen currents of the empire. Around them sit the four daughters, their features softly echoing one another like a gentle progression of seasons, cloned by time every three years. At the far end of the long mahogany table sits John O'Neil, the American head of operations, his hands resting quietly on the wood.
 
-[NARRATOR] Epps answers in a low, calming tone:
+All around them, the atmosphere is hushed and reverent. They turn their eyes toward a giant, looming portrait of Adolf "Adi" Dassler, the company's founder, who has recently passed into history. Yet his presence remains tangible, hanging over the room like a quiet winter fog. John O'Neil breaks the silence, his voice low and measured, blending seamlessly with the quiet hum of the ventilation.
 
-[MALE] Well, boy. I understand I've got a larned nigger that writes
+[MALE] I know the last thing we want to be discussing is business.
 
-[NARRATOR] 101. responds with gentle reassurance:
+[NARRATOR] Kathe Dassler nods slowly, her voice a delicate whisper that carries effortlessly across the silent room.
 
-[MALE] 153 CONTINUED:  153
+[FEMALE] As Adi would say... We must go on.
 
-[NARRATOR] Epps answers in a low, calming tone:
+[NARRATOR] John nods in agreement, a somber, respectful nod that ripples through the family.
 
-[MALE] letters and tries to get white fellows to mail 'em. Solomon, hardly missing a beat, plays this off.
+[MALE] Yes. We must. And we have an incredible opportunity in front of us.
 
-[NARRATOR] Epps responds with gentle reassurance:
+[NARRATOR] With a synchronized rustle of paper that sounds like dry leaves in a gentle breeze, everyone at the table flips to the very first page of their folders. There, printed in sharp, clear detail, is the face of Jordan. The room seems to hold its collective breath, bathed in the soft blue glow of the distant neon sign outside.
 
-[MALE] Well, Armsby tol' me today the devil was among my niggers. That I had one that needed close watchin' or he would run away. When I axed him why, he said you come over to him and waked him up in the middle of the night and wanted him to carry a letter to Marksville. What have yah got to say to that?
+[MALE] We believe we have a real chance.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[NARRATOR] Horst Dassler gives a slow, approving nod, his eyes fixed on the photograph.
 
-[MALE] All I have to say, master, is all that need be said. There is no truth in it.
+[MALE] Very good.
 
-[NARRATOR] Epps speaks with a quiet, measured softness:
+[NARRATOR] The voice of Phil Knight echoes faintly from across the Atlantic, drifting like a memory through the quiet air.
 
-[MALE] You say.
+[MALE] (V.O.) Anyone else?
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[NARRATOR] And Strasser's voice answers, soft and low, fading into the peaceful embrace of the evening.
 
-[MALE] How could I write a letter without ink or paper? There is nobody I want to write to 'cause I hain't got no friends living as I know of. That Armsby is a lying drunken fellow. You know this, just as you know that I am constant in truth. Now, master, I can see what that Armsby is after, plain enough. Didn't he want you to hire him for an overseer? A beat.
+[MALE] (V.O.) Well...
 
-[NARRATOR] Solomon whispers gently into the still air:
+[NARRATOR] The scene drifts once more, carried away on a soothing current of wind, traveling across the quiet New England landscape to North Reading, Massachusetts. There stands the Converse headquarters—a towering brick artifice, a beautifully refurbished factory steeped in industrial history. The iconic Star logo is deeply imprinted into the timeworn brick, and the bold letters of "CONVERSE ALL STAR" stretch across the facade, standing silent and proud beneath the darkening canopy of the night sky, resting peacefully until the dawn.
 
-[MALE] That's it. He wants to make you believe we're all going to run away and then he thinks you'll hire an overseer to watch us. He believes you are soft soap. He's given to such talk. I believe he's just made this story out of whole cloth, 'cause he wants to get a situation. It's all a lie, master, you may depend on't. It's all a lie. For a tense moment we are unsure which way Epps'll go. Increasingly it become apparent that, shallow minded and equally soused, Solomon has been able to fold Epps's thoughts. In a low curse that clearly states his ill intentions.
+[NARRATOR] The afternoon light outside the Converse headquarters in North Andover filtered softly through tall, dust-dappled windows, casting long, gentle shadows across the quiet expanse of the executive conference room. Within this hushed sanctuary of polished mahogany and heavy leather chairs, the air was still, carrying the faint, comforting scent of old paper and polished wood. John O'Neil, the chief executive, and Joe Dean, the vice president of basketball, sat in companionable silence before a massive whiteboard that stretched across the wall. It was a visual chronicle of the game’s future, a curated roster of basketball royalty. 
 
-[NARRATOR] 102. speaks with a quiet, measured softness:
+[NARRATOR] At the very top of the board, the name Olajuwon was already cleanly circled, the primary objective secured in ink. Further down, names of promising hopefuls drifted by, including that of Bowie, neatly crossed out with a single stroke of a marker, marking the shifting tides of athletic fortune. And then, lingering near the center, was a name that commanded absolute stillness in the room—a name that felt inevitable, like the approaching dusk. They looked at one another, two men who had signed legends like Bird and Magic, sharing a quiet, knowing nod as the quiet afternoon began to fade into twilight.
 
-[MALE] 153 CONTINUED:  153 Revealed is a pocket knife, which all through the conversation, unknown to us the audience, was pushed up against Solomon's stomach. As Epps speaks, he closes it and taps it on Solomon's shoulder.
+[NARRATOR] Miles away, within the sprawling, glass-enclosed architecture of the Nike campus, daylight surrendered to the deepening indigo of evening. Phil Knight’s office was a haven of quiet contemplation, illuminated only by the soft glow of a desk lamp casting a warm amber pool upon papers and blueprints. Rob Strasser stood near the window, gazing out at the darkening evergreens, while Sonny Vaccaro sat across from the desk, his presence as steady as the rhythmic ticking of a grandfather clock in the corner.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[MALE] So everyone's in.
 
-[MALE] I'm damned. I'll be god... Were he not free and white, Platt. Were he not free and white. Epps heads off. Solomon is left to exhale a deep breath.
+[NARRATOR] Sonny murmured, his voice low and rich, blending seamlessly with the gentle hum of the building's evening ventilation. Phil Knight leaned back in his ergonomic chair, lacing his fingers together over his chest, his gaze steady and measured.
 
-[NARRATOR] 154 154 offers quietly, watching the shadows drift across the room:
+[MALE] Yeah... everyone's in.
 
-[MALE] EXT. MASTER EPPS'S PLANTATION/WOODS - NIGHT Having found a lonely spot, Solomon has struck a SMALL FIRE. He has in his hand his letter. With no ceremony, he casts the letter upon the flames and watches it burn. And with it, at this time, seems all chance of him ever being free. He stands and looks at it as if forever, as ashes descend into the night sky. FADE TO BLACK.
+[MALE] Can we get a meeting?
 
-[NARRATOR] A155 A155 speaks with a quiet, measured softness:
+[MALE] You're signing off on this?
 
-[MALE] EXT. MASTER EPPS'S PLANTATION/GREAT HOUSE - DAY -MARCH, 1852- The slaves are now employed working on an extension to the Great House. The slaves work under the direction of MR. SAMUEL BASS, a between forty and fifty years old, of light complexion and light hair. He is cool and self- possessed, fond of argument, but always speaking with extreme deliberation as well as a Canadian accent.
+[MALE] I didn't say that. I said can we get a meeting?
 
-[NARRATOR] B155 B155 murmurs with a warm, steady cadence:
+[NARRATOR] The telephone connection crackled across miles of quiet nocturnal airspace, linking the Pacific Northwest to the bustling, restless energy of the East Coast. In the stillness of his private office, David Falk held the receiver, the late-night silence outside his window broken only by the distant hum of traffic fading into the midnight hour. In his own darkened office, Sonny clutched the receiver so tightly that the coiled telephone cord wrapped itself tightly around his clenched fist, a physical manifestation of a mind racing against the ticking clock.
 
-[MALE] EXT. MASTER EPPS'S PLANTATION/GREAT HOUSE - DAY As the slaves continue to work, there is a conversation going on between Epps and Bass. Bass much skilled in the art of sophistry, while Epps's arguments are fueled mostly by emotion alone. Though at first Epps does little more than joke his way around the facts. Solomon, working still, can't help but overhear as Epps offers Bass a drink, which Bass waves away.
+[MALE] Falk. Come on. 
 
-[NARRATOR] Epps answers in a low, calming tone:
+[NARRATOR] Sonny’s voice was a soft, persuasive purr, designed to soothe rather than pressure. 
 
-[MALE] Take it. You look unsettled.
+[MALE] Submit an offer and then we can talk meeting.
 
-[NARRATOR] Bass answers in a low, calming tone:
+[NARRATOR] Falk replied, his tone clipped and matter-of-fact, carrying across the miles through the static of the line.
 
-[MALE] I'm well.
+[MALE] I just had Phil give the exact opposite order.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[MALE] Chicken or the egg?
 
-[MALE] No shame in taking respite from the heat; drink, shade. It's ungodly for travelers. Hearty, or otherwise.
+[NARRATOR] Sonny paused, a soft, slow breath escaping his lips as he weighed the heavy silence hanging between them.
 
-[NARRATOR] 102A. murmurs with a warm, steady cadence:
+[MALE] The offer is 250k.
 
-[MALE] B155 CONTINUED: B155 Bass gives a laugh.
+[MALE] No shit.
 
-[NARRATOR] Epps whispers gently into the still air:
+[MALE] Shit.
 
-[MALE] I meant no joke.
+[MALE] Can you get me that in writing?
 
-[NARRATOR] 103. speaks with a quiet, measured softness:
+[MALE] Do you need it?
 
-[MALE] B155 CONTINUED:  B155
+[MALE] It's not an offer if it's not in writing. It's a long ass plane ride. Why can't you get a base on the east coast like a normal company?
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[MALE] They love it here.
 
-[MALE] Your humor is inadvertent. Sensing perhaps Bass's laughter might be at his expense, Epps presses.
+[MALE] Well, great, I'm glad they're happy. How're the parents?
 
-[NARRATOR] Epps answers in a low, calming tone:
+[MALE] Good family. No funny business. No clingers. Smart as hell. You're not going to pull any bullshit on them. They don't want to be sold to.
 
-[MALE] Then share what's funny. Or what ills you.
+[MALE] Are they home now? In Carolina?
 
-[NARRATOR] Bass answers in a low, calming tone:
+[MALE] Why?
 
-[MALE] I'm here to complete the work at hand. As requested, and as paid.
+[MALE] I'm just asking.
 
-[NARRATOR] Epps answers in a low, calming tone:
+[MALE] You don't need to call them. That'd be extremely unprofessional.
 
-[MALE] Something rubs you wrongly. Before I take further offense, I offer you the opportunity to speak on it.
+[MALE] So is outright refusing a meeting.
 
-[NARRATOR] Bass speaks with a quiet, measured softness:
+[MALE] That's just business.
 
-[MALE] You ask plainly, I will tell you plainly. What I find amusing: You worry about my well being in the heat but, quite frankly, the condition of your laborers--
+[MALE] Let me ask you something. Why does Michael want Adidas?
 
-[NARRATOR] Epps whispers gently into the still air:
+[MALE] Sonny.
 
-[MALE] "The condition of my..." What in the hell are you--
+[MALE] Why does Michael want Adidas?
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[MALE] Because he likes their tracksuits.
 
-[MALE] It is horrid. It's all wrong. All wrong, sir.
+[MALE] Come on.
 
-[NARRATOR] Epps responds with gentle reassurance:
+[MALE] I'm serious.
 
-[MALE] They ain't hired help. They're my slaves.
+[MALE] We will give him every tracksuit he's ever wanted.
 
-[NARRATOR] Bass whispers gently into the still air:
+[MALE] He's a kid. He's not thinking about what he will have, he's thinking about what he doesn't have right now.
 
-[MALE] You say that with pride.
+[MALE] How'd you sign him? He could have gone with anyone. Pro Serv? What'd you see in him?
 
-[NARRATOR] Epps responds with gentle reassurance:
+[NARRATOR] Sonny’s question drifted into the receiver like a gentle sigh, seeking wisdom in the quiet hours.
 
-[MALE] I say it as fact.
+[MALE] The exact same things you're seeing. Let me make some calls. I'll have an answer for you tomorrow at the latest.
 
-[NARRATOR] Bass responds with gentle reassurance:
+[NARRATOR] The line went dead with a soft click, leaving Sonny alone with the quiet hum of his desk lamp. He rose slowly from his chair, his footsteps muffled by the thick carpeting, and walked through the dim, deserted corridors of the Nike headquarters until he reached the conference room where Strasser sat waiting in the protective cocoon of the night. Strasser leaned back in his chair, his eyes closed for a brief moment of rest, taking a deep, restorative breath before looking up.
 
-[MALE] If the conversation concerns what is factual and what is not; there's no justice nor righteousness in slavery. I wouldn't own a slave if I was rich as Croesus, which I am not, as is perfectly well understood. More particularly among my creditors. There's another humbug: the credit system. Humbug, sir. No credit, no debt. Credit leads a man into temptation. Cash down is the only thing that will deliver him from
+[MALE] What's the word?
 
-[NARRATOR] 104. answers in a low, calming tone:
+[MALE] Holding pattern. But I think we have a shot.
 
-[MALE] B155 CONTINUED:  B155
+[MALE] Did he ask for an offer?
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[MALE] I'm thinking of reaching out to the parents.
 
-[MALE] evil. But this question of slavery; what right have you to your niggers when you come down to the point?
+[NARRATOR] Sonny began, his voice trailing off into the quiet shadows of the room as the night wrapped its heavy, peaceful blanket around the building, lulling the resting world into a deep, uninterrupted slumber.
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[NARRATOR] The stillness of the late hour settled heavily over the quiet office, where the ambient glow of the desk lamp cast long, amber shadows across the carpet. Outside, a gentle breeze rustled the dormant trees, whispering against the darkened windowpanes, urging the world outside into a deeper state of rest. Inside, the air was warm and still, carrying the soft, rhythmic hum of the building winding down for the night. Sonny shifted in his high-backed leather chair, the leather creaking softly in the quiet, a soft hesitation lingering in his voice as he spoke into the semi-darkness.
 
-[MALE] What right? I bought 'em. I paid for 'em.
+[MALE] I don't know if-- And 250k. That was the offer I gave him.
 
-[NARRATOR] Bass offers quietly, watching the shadows drift across the room:
+[NARRATOR] Strasser looked up from his papers, his expression shifting in the muted light, the ambient shadows softening the sharp lines of his face. 
 
-[MALE] Of course you did. The law says you have the right to hold a nigger, but begging the law's pardon...it lies. Is everything right because the law allows it? Suppose they'd pass a law taking away your liberty and making you a slave?
+[MALE] Jesus Christ, Sonny.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[NARRATOR] Sonny leaned forward slightly, his gaze fixed on the warm grain of the wooden desk.
 
-[MALE] Ha!
+[MALE] It will get them in the door.
 
-[NARRATOR] Bass whispers gently into the still air:
+[MALE] No shit. But it's not real.
 
-[MALE] Suppose.
+[MALE] Should I call the parents?
 
-[NARRATOR] Epps whispers gently into the still air:
+[NARRATOR] A sudden, soft sneeze broke the quiet of the room, quickly followed by a heavy cough that seemed to echo slightly in the spacious office. Strasser looked over, his eyes narrowing with a quiet, observant concern.
 
-[MALE] That ain't a supposable case.
+[MALE] You OK?
 
-[NARRATOR] Bass offers quietly, watching the shadows drift across the room:
+[MALE] Just got a cold.
 
-[MALE] Because the law states that your liberties are undeniable? Because society deems it so? Laws change. Social systems crumble. Universal truths are constant. It is a fact, it is a plain fact that what is true and right is true and right for all. White and black alike.
+[MALE] Sounds like a nasty one.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[MALE] Thank you, Doctor. Any recommendations? 
 
-[MALE] Whoa, whoa, whoa. Yah compare me to a nigger, Bass? Yah might as well ask what the difference is between a white man and a baboon. Now, I seen one of them critters in Orleans that knowed just as much as any nigger I got. Yah'd call them fellers citizens, I s'pose?
+[NARRATOR] Strasser leaned back, crossing his arms as the soft glow of the desk lamp illuminated the steady rise and fall of his shoulders.
 
-[NARRATOR] Bass responds with gentle reassurance:
+[MALE] More sleep.
 
-[MALE] Look here; you can't laugh me down in that way. These niggers are human beings. If they are allowed to scale no higher than brute animals, you and men like you will have to answer for it. There's an
+[MALE] Something realistic.
 
-[NARRATOR] 105. offers quietly, watching the shadows drift across the room:
+[MALE] Any sleep.
 
-[MALE] B155 CONTINUED:  B155
+[NARRATOR] Sonny rubbed the back of his neck, feeling the heavy fatigue pulling at his eyelids, though his restless mind kept turning. The silence between them felt thick, blanketed by the lateness of the hour.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[MALE] Why does Michael want Adidas?
 
-[MALE] Ahhh!
+[MALE] They have cache. They have style. They're cool.
 
-[NARRATOR] Bass murmurs with a warm, steady cadence:
+[MALE] It's the track suits. That's what Falk told me. How do we fight against track suits?
 
-[MALE] A fearful ill, resting on this
+[MALE] It's not the track suits. Track suits aren't just track suits.
 
-[NARRATOR] Epps responds with gentle reassurance:
+[MALE] There has to be something. I feel like if I could just talk to them...
 
-[MALE] You betray yourself a foreigner!
+[MALE] Don't chase the rabbit, Sonny. It's not worth it.
 
-[NARRATOR] Bass whispers gently into the still air:
+[MALE] This isn't a fucking rabbit, Strass.
 
-[MALE] That will not go unpunished forever. There will be a reckoning yet.
+[MALE] How do you know? You're halfway down the fucking rabbit hole telling me we're not chasing rabbits.
 
-[NARRATOR] Epps responds with gentle reassurance:
+[MALE] You run at all?
 
-[MALE] You like to hear yourself talk, Bass, better than any man I know of. Yah'd argue that black was white, or white black if anybody would contradict you. A fine supposition if yah lived among Yankees in New England. But yah don't.
+[NARRATOR] Strasser blinked, caught off guard by the sudden shift in the quiet conversation, his voice dropping an octave in disbelief.
 
-[NARRATOR] You most assuredly do not.
+[MALE] Run? God no. Why?
 
-[NARRATOR] 155 155 murmurs with a warm, steady cadence:
+[MALE] Phil asked me if I did. 
 
-[MALE] EXT. MASTER EPPS'S PLANTATION - DAY It's the Sabbath. The slaves are left to themselves to do their own chores. At the moment the female slaves are washing their clothes in large cauldrons, slapping their clothes against washing boards and hanging them up to dry near to their living quarters behind the plantation. It is a sight of ritual. Missing from the field of labor is Patsey, for whom Epps hollers.
+[MALE] Phil asked you if you run?
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[MALE] Yeah.
 
-[MALE] Patsey... Patsey! A drunk Epps asks of the slaves:
+[MALE] So what? Everything between you and him is a fucking game of code.
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[MALE] So I'm asking you the same thing.
 
-[MALE] Where is she? Where is Patsey? No one answers.
+[MALE] No. No, I don't run.
 
-[NARRATOR] Epps responds with gentle reassurance:
+[MALE] Why?
 
-[MALE] Talk, Damn you!
+[MALE] Look at me.
 
-[NARRATOR] Phebe whispers gently into the still air:
+[NARRATOR] Sonny offered a faint, tired nod, letting out a slow breath that ruffled the papers on the desk.
 
-[MALE] We know nothin' of her, Massa.
+[MALE] That was my answer. But you don't think it's funny? We work at a running company and we don't run.
 
-[NARRATOR] Epps speaks with a quiet, measured softness:
+[NARRATOR] Strasser exhaled a quiet, weary sigh, his shoulders dropping as he leaned his head back against the wall, listening to the distant, soothing hum of the night air conditioning.
 
-[MALE] The hell you don't! You know where she is! She run off, ain't she? She's escaped, and you miserable black dogs stand like
+[MALE] Doctors are the people most likely to smoke. Cops break the laws. Therapists have the highest rates of divorce. No, I don't think it's weird. You know my birthday's in two days? What should I ask for?
 
-[NARRATOR] 106. adds in a relaxed, peaceful voice:
+[MALE] The fuck do I care? A blowjob.
 
-[MALE] 155 CONTINUED: 155
+[NARRATOR] A low, rumbling chuckle escaped Strasser, warming the cool air of the office.
 
-[NARRATOR] Epps whispers gently into the still air:
+[MALE] What about a boat?
 
-[MALE] the deef and dumb. Speak! Speak! Not a word spoken.
+[MALE] A boat? What the fuck are you going to do with a boat?
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[MALE] I don't know. Fuck it, maybe I'll just go for a run. 
 
-[MALE] My best cotton picking nigger! My best. A beat.
+[NARRATOR] Strasser pushed himself up from his chair, the fabric of his jacket rustling softly in the quiet room. He stood for a moment, stretching his arms, the shadows dancing gently across the ceiling.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[MALE] Alright, I gotta get outta here. You coming?
 
-[MALE] I'd give yah all up for her. Where she gone? The slaves say nothing. There is nothing for them to say. They don't know where she is. Eventually Epps drops into true sorrow.
+[MALE] No, gonna stick around for a little bit longer. Work on some strategy.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[MALE] Got some sleep you crazy mother fucker. And Sonny? Whatever you do, don't call the parents.
 
-[MALE] She gone... My Pats gone.
+[NARRATOR] The heavy wooden door swung shut with a gentle, muffled click, leaving behind an even deeper, more profound silence. The office grew cooler as the night outside deepened into the early hours of the morning. Sonny sat alone in the pool of amber light, reaching out slowly to lift the heavy receiver of the desk telephone. 
 
-[NARRATOR] 156 156 speaks with a quiet, measured softness:
+The dial tone hummed in his ear, a steady, rhythmic note that seemed to grow louder in the quiet emptiness of the room. He stared at the numbers, his thumb hovering, before he slowly placed the receiver back down into its cradle. He leaned back in his leather chair, the springs groaning softly, and closed his eyes for a long, quiet moment. 
 
-[MALE] EXT. EPPS'S PLANTATION - LATER Epps sits on the piazza looking quite forlorn. He looks up only to see PATSEY RETURNING TO THE PLANTATION. Epps steps up to greet her, with anger rather than relief. As they hear his angry voice, the slaves step around from where they are hanging their laundry to dry. Treach is near as well.
+Then, moving with slow deliberation, he picked up the receiver once more and pressed the buttons of the numbers he knew by heart. The operator's voice came through, soft and distant over the wire.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[FEMALE] Operator, how can I connect you?
 
-[MALE] Run off. Run off, did you?
+[MALE] Wilmington, North Carolina. Jordan residence... James Jordan?
 
-[NARRATOR] Epps whispers gently into the still air:
+[FEMALE] One moment sir. I'm putting you through now.
 
-[MALE] You miserable wench! Where you been?
+[MALE] Thanks.
 
-[NARRATOR] Patsey responds with gentle reassurance:
+[NARRATOR] A long, stretching beat of silence filled the air, heavy and potent. Every second ticked by like a slow heartbeat in the quiet room, waiting for the first sharp ring to break the spell. But before the bell could sound, Sonny's hand tightened slightly. He gently lowered the phone back onto its base, cutting the connection before the world could answer. 
 
-[MALE] I been nowhere.
+He turned his head away from the desk, looking out the large window into the dark, empty parking lot below. The moon shone bright and silver, casting a pale, calming light over the solitary car resting down below—his own. The night breathed softly around him, wrapping the building in an impenetrable peace, inviting sleep, stillness, and the quiet passage of time.
 
-[NARRATOR] Epps responds with gentle reassurance:
+[NARRATOR] Hours slipped away in the velvety quiet of the night, cradling the world in a deep, restorative stillness. Slowly, the velvet dark began to dilute, softening at the edges as a pale, pearlescent dawn crept over the horizon. The sun rose steadily, washing the silent parking lot in a warm, golden light, chasing away the long shadows and bringing with it the gentle promise of a brand-new day. Inside the expansive, slumbering corridors of the Nike headquarters, the morning air was crisp and undisturbed. The door to Sonny’s office swung open on whisper-quiet hinges. Rob Strasser poked his head into the empty room, his brow furrowing in mild confusion. The office was dark, the desk neat, the chair pulled back as if waiting for someone who had not yet arrived. Strasser turned his gaze back toward the secretary’s desk, seeking answers in the quiet morning routine.
 
-[MALE] Lies to your misdeeds!
+[STRASSER] Where is he?
 
-[NARRATOR] Patsey speaks with a quiet, measured softness:
+[NARRATOR] The secretary looked up from her papers, her expression serene and unbothered by the early hour.
 
-[MALE] The Sabbath day, Massa. I took me a walk to commune wit da Lord.
+[SECRETARY] He hasn't been in this morning.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[STRASSER] Is he home? He was feeling sick last night.
 
-[MALE] Bring the Lord into yer deceptions? Yah Godless... Shaw's. Comin' from Shaw's plantation weren't yah?
+[SECRETARY] I haven't heard from him.
 
-[NARRATOR] 106A. answers in a low, calming tone:
+[NARRATOR] Frowning, Strasser stepped toward the window, pulling back the blinds to look out over the sun-drenched grounds below. 
 
-[MALE] 156 CONTINUED: 156
+[STRASSER] What the hell... his car is in the parking lot.
 
-[NARRATOR] Patsey answers in a low, calming tone:
+[NARRATOR] Before he could ponder the mystery further, a sharp, insistent ring echoed down the quiet hallway, cutting through the morning calm. Strasser turned on his heel, hurrying back toward his own office, his hurried footsteps echoing softly against the carpeted floor. He reached his desk just as the phone shrieked out its final ring, scooping the receiver from its cradle right in the nick of time.
 
-[MALE] ...No...
+[STRASSER] Hello?
 
-[NARRATOR] 107. speaks with a quiet, measured softness:
+[SONNY] Strass.
 
-[MALE] 156 CONTINUED:  156
+[STRASSER] Where the hell are you?
 
-[NARRATOR] Epps responds with gentle reassurance:
+[NARRATOR] Sonny stood inside a dimly lit, quiet alcove, pressed close to the metallic housing of an indoor payphone, the ambient hum of the terminal surrounding him like a distant, rushing tide.
 
-[MALE] Yah took yerself ta pleasure Shaw. Yah gave baser passion to that unblushin' libertine! Solomon tries to intervene:
+[SONNY] Listen, I don't have much time.
 
-[NARRATOR] Epps whispers gently into the still air:
+[STRASSER] Sonny, what the hell is going on?
 
-[MALE] Now yah speak? Now that yah want to add to 'er lies yah find yer tongue. Epps goes to strike Solomon, but Patsey pulls his arm back.
+[SONNY] I need you to hold Phil off. Just for another day. I... I made up my mind.
 
-[NARRATOR] Patsey offers quietly, watching the shadows drift across the room:
+[STRASSER] What? On what?
 
-[MALE] Do not strike him. I went to Massa Shaw's plantation!
+[SONNY] I'm going.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[STRASSER] Going where??
 
-[MALE] Yah admit it.
+[SONNY] To Carolina.
 
-[NARRATOR] Patsey offers quietly, watching the shadows drift across the room:
+[NARRATOR] The vast, bustling expanse of the Portland International Airport terminal surrounded Sonny, a sea of travelers moving in slow, rhythmic motion beneath the towering glass ceilings. 
 
-[MALE] Freely. And you know why. Patsey takes soap from the pocket of her dress.
+[STRASSER] Sonny, no... this is... What happened to a phone call?
 
-[NARRATOR] Patsey answers in a low, calming tone:
+[SONNY] You were right. Calling out of the blue would have been unprofessional.
 
-[MALE] I got this from Mistress Shaw. Mistress Epps won't even grant me no soap ta clean with. Stink so much I make myself gag. Five hundred pounds 'a cotton day in, day out. More than any man here. And 'fo that I will be clean; that all I ax. Dis here what I went to Shaw's 'fo.
+[STRASSER] So you're going to show up at their door??
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[SONNY] I gotta run. I'm about to miss boarding.
 
-[MALE] You lie...
+[STRASSER] Good!
 
-[NARRATOR] Patsey answers in a low, calming tone:
+[SONNY] If anyone asks I'm sick.
 
-[MALE] The Lord knows that's all.
+[STRASSER] You are sick.
 
-[NARRATOR] Epps responds with gentle reassurance:
+[SONNY] I'll be back for your birthday, don't worry.
 
-[MALE] You lie!
+[NARRATOR] With a sharp click, the line went dead, leaving Strasser staring down at the receiver in stunned disbelief, as if he had just seen a ghost. A low, rhythmic engine roar swelled, filling the space before dissolving into the heavy, humid air of Wilmington, North Carolina. Sonny stepped through the sliding glass doors of the regional airport, blinking against the bright, subtropical glare. It was a completely different world—a thick, muggy August afternoon wrapped in the long, lazy warmth of an Indian Summer. He walked slowly across the sun-baked asphalt of the rental car lot, the heavy air clinging to his skin like a warm blanket, trailed closely by a young employee.
 
-[NARRATOR] Patsey whispers gently into the still air:
+[RENTAL CAR EMPLOYEE] Sorry, sir! We don't usually get walkups.
 
-[MALE] And you blind wit yer own covetousness. I don't lie, Massa. If you kill me, I'll stick ta that.
+[NARRATOR] The employee, a college graduate with a slicked-back hairstyle and an overpowering cloud of inexpensive cologne, spoke with a rich, drawling Southern accent that seemed to melt into the slow-moving afternoon. They stopped side by side, gazing out at the solitary vehicle awaiting them. It was a 1984 Toyota van, resembling an awkward hybrid of a suburban family transport and an oversized taxi, painted in a faded, unassuming shade that defied any notion of style. 
 
-[NARRATOR] Epps responds with gentle reassurance:
+[RENTAL CAR EMPLOYEE] I kind of like it. My step-dad drives one.
 
-[MALE] I'll learn you to go to Shaw's. Treach, go get some line.
+[NARRATOR] Moments later, the peculiar minivan was gliding smoothly down the quiet, sun-dappled ribbons of U.S. Highway 117. Tall, majestic pine trees lined the asphalt, their needles whispering in a gentle, unseen breeze, while the faint, hazy outline of the Blue Ridge Mountains rested softly along the distant horizon. Inside the cabin, the rhythmic hum of the tires on the pavement provided a soothing, hypnotic soundtrack to the journey, and Sonny unfolded a large, crinkling paper map across his lap, tracing the quiet roads ahead.
 
-[NARRATOR] 108. speaks with a quiet, measured softness:
+[NARRATOR] The amber light of the late afternoon sun cast a warm, hazy glow across the dashboard, reflecting off the glass in long, gentle arcs. Outside, the world slipped past in a blur of muted greens and soft earth tones as the highway stretched endlessly into the quiet distance. Inside the quiet stillness of the car, the paper map rustled softly under gentle fingers, its folded creases opening to reveal a labyrinth of roads and forgotten paths. 
 
-[MALE] 156 CONTINUED:  156 Treach runs quickly to the tool shed. In short order he returns with the rope in hand.
+[MALE] Where in the hell...
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[NARRATOR] The car rolled onward, its tires whispering against the pavement, guided by an invisible current through the sleepy countryside. Soon, the rhythmic hum of the motor eased into a gentle deceleration, turning onto a shaded gravel drive. A symphony of cicadas filled the thick, warm air with a low, drowsy hum that seemed to vibrate right through the earth. 
 
-[MALE] Strip her. Strike her bare 'n lash her to the post. Mistress Epps has now come from the Great House. She gazes on the scene with an air of heartless satisfaction. Now tied to the post, Epps stands behind Patsey with his whip.
+Before him stood a peaceful, middle-class split-level house, nestled comfortably amidst a sea of towering, protective woods. Dappled patches of shade danced lazily across the lawn, offering a cool, quiet respite from the golden heat of the summer afternoon. Resting quietly on the front grass was an old sedan, its hood propped open to the sky. 
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+Beside the engine stood a man, wrench in hand, his brow furrowed in quiet concentration as he adjusted a hidden bolt within the metallic machinery. Hearing the gentle crunch of footsteps upon the gravel drive, he paused, looking up from his work with a calm, weathered expression.
 
-[MALE] Yah done this to yerself, Pats! Epps hoists the whip to strike, holds it high...but no matter his rage, Epps cannot bring himself to deliver the blow. He looks to Mistress Epps who now stands gloating and spurring him on.
+[MALE] Hell of a ride you got there. Can I help you?
 
-[NARRATOR] Mistress Epps murmurs with a warm, steady cadence:
+[MALE] Sorry to bother you... I'm looking for the Jordans.
 
-[MALE] Do it! Strike the life from her. Epps again hoists the whip. It trembles in his hand ahead of the act... But he does not have it in him to deliver such a beating. Turning to Solomon, thrusting the whip at him:
+[MALE] Well, you're in the right place.
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[MALE] You must be James. Sonny Vaccaro. I'm with Nike.
 
-[MALE] Beat her. Solomon doesn't move. Epps shoves the whip into his hand.
+[MALE] Oh, here we go.
 
-[NARRATOR] Epps whispers gently into the still air:
+[FEMALE] Who is it?
 
-[MALE] Give her the whip. Give it all to her! Patsey, begging to Solomon:
+[NARRATOR] A soft breeze rustled through the canopy overhead as a woman stepped into the warm sunlight, her intelligent eyes taking in the unexpected visitor with a quiet, steady gaze.
 
-[NARRATOR] Patsey responds with gentle reassurance:
+[FEMALE] Mr. Vaccaro. My name's Sonny Vaccaro. I'm here with Nike.
 
-[MALE] I'd rather it you, Platt.
+[FEMALE] I believe that Mr. Falk made it clear that we weren't interested.
 
-[NARRATOR] Epps murmurs with a warm, steady cadence:
+[MALE] Yes, I was told not to call.
 
-[MALE] Strike her, or yah'll get the same!
+[FEMALE] Do you typically make a habit of showing up at people's front doors if they don't answer the phone?
 
-[NARRATOR] 109. whispers gently into the still air:
+[MALE] Only if I feel I have no other choice.
 
-[MALE] 156 CONTINUED:  156 Solomon takes a step back. He unfurls the whip... He begins to whip Patsey. Lash after lash, Patsey squirms before it. Epps eyes fill with tears, he is nearly too distraught to watch. But the Mistress... She is not satisfied with Solomon's half-hearted effort.
+[FEMALE] We do have an answering machine.
 
-[NARRATOR] Mistress Epps whispers gently into the still air:
+[MALE] It may be the worst of all my faults, and, trust me, there are many, but... I don't like to take no for an answer. And I believe Michael should be endorsed by someone with that same mindset.
 
-[MALE] He pantomimes. There ain't barely a welt on her. That's what your niggers make of yah; a fool fer the takin'. Epps's grief is replaced by fury. EPPS GRABS THE PISTOL FROM TREACH'S HOLSTER and draws down on the slaves.
+[NARRATOR] A long, tranquil silence stretched between them, filled only by the distant murmur of the breeze through the trees and the steady drone of the summer insects. The stillness held the heavy warmth of the afternoon, undisturbed and patient.
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[FEMALE] Well, come back and take a seat, Mr. Vaccaro. Yes.
 
-[MALE] Yah will strike her. Yah will strike her until her flesh is rent and meat and blood flow equal, or I will kill every nigger in my sight! Solomon can't strike a blow, even if it means his life. But from the ground, from Patsey:
+[MALE] Please... call me Sonny.
 
-[NARRATOR] Patsey adds in a relaxed, peaceful voice:
+[NARRATOR] Minutes drifted by like falling leaves. Sonny sat alone at a wooden table in the shaded backyard, surrounded by the towering cathedral of the deep forest. His gaze drifted into the thick woods, watching the shadows lengthen across the mossy earth. Footsteps sounded softly behind him on the wooden steps, and he turned to see the quiet approach of Deloris, her eyes following his gaze into the ancient trees.
 
-[MALE] Do it, Platt. Don't stop until I am dead. What else can he do? Solomon begins to whip, to truly whip Patsey. Her back welts, then tears... Patsey screams in agony. Solomon strikes again and again... After a full thirty lashes Solomon looks to Epps, who is not satisfied.
+[FEMALE] Five generations of Jordan have lived and died in this forest by the highway. Been here since the Civil War. Some of these cypress-tupelos trees are 800-years-old.
 
-[NARRATOR] Epps whispers gently into the still air:
+[MALE] This place, it seems... personal.
 
-[MALE] Until I say no more! I ain't said nothing! Solomon strikes another ten to fifteen times. By now, as promised, Patsey's back has been reduced to LITTLE MORE
+[FEMALE] Well, every history is deeply personal, Mr. Vaccaro. It's quite presumptuous of you to show up at our door. But I believe that saying you want something is fine and well, a good start, but doing something about it is what really counts.
 
-[NARRATOR] Finally, Solomon holds low the whip. He can and will do
+[MALE] Is he... here?
 
-[NARRATOR] no more.
+[FEMALE]
 
-[NARRATOR] Epps adds in a relaxed, peaceful voice:
+[NARRATOR] The afternoon sun casts long, golden shadows across the quiet porch, filtering softly through the leaves of the old oak trees. A gentle, cooling breeze carries the rustle of distant grass, whispering through the open air like a deep, resting sigh. Deloris Jordan stands still, her gaze steady and warm, holding a quiet space in the dimming light. She looks toward the dark, inviting interior of the house, where a lingering presence hangs like a quiet mist. 
 
-[MALE] Strike her! Strike her! Solomon will not. Epps takes up the whip and whips Patsey with "ten fold" greater force than he had. The painfully loud and angry curses of Epps load the air. Patsey by now is terribly lacerated, literally flayed. The lash wet with blood which flowed down her sides and dropped upon the ground. At length Patsey ceases struggling. Her head sinks listlessly on the ground.
+[FEMALE] He is. But you don't need to see him.
 
-[NARRATOR] 110. murmurs with a warm, steady cadence:
+[NARRATOR] Sonny follows her gaze toward the heavy wooden doorway, feeling the invisible weight of the house. Inside, shielded by the quiet walls, a young man rests, unseen yet profoundly felt, like a quiet spirit wandering through the halls of memory. Deloris shifts her weight, her voice dropping into a register as smooth and rhythmic as a lullaby.
 
-[MALE] 156 CONTINUED:  156 Her screams and supplications gradually decrease and die away into a low moan. It would seem that she was dying. Solomon, screaming at Epps:
+[FEMALE] How'd you get that name? Sonny.
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[NARRATOR] Sonny’s shoulders relax, the tension of the long journey melting away into the heavy, peaceful stillness of the afternoon. He looks down at his hands, letting his mind drift back across the vast expanse of the years.
 
-[MALE] Thou devil! Sooner or later, somewhere in the course of eternal justice thou shalt answer for this sin! Though Epps fronts rage, there should be underlying anguish for what he has done to his beloved Pats.
+[MALE] My mother had trouble bearing children. Went through two miscarriages. Bad ones. And when it finally happened... I wasn't easy either. Delivery took almost twenty-four hours. She said all she saw looking up into that hot bright light in the hospital room was the sun. She said it was the first thing that came to mind when she saw my face. The sun. Sonny.
 
-[NARRATOR] Epps speaks with a quiet, measured softness:
+[NARRATOR] Deloris listens with a serene, unhurried grace, her eyes reflecting the gentle warmth of his words. The shadows lengthen further across the porch, painting the floorboards in deep, velvety shades of violet and gray.
 
-[MALE] No sin! There is no sin! A man does how he pleases with his property. At the moment, Platt, I am of great pleasure. You be goddamn careful I don't come to wantin' to lightenin' my mood no further. By contrast to this horror, the field of cotton smiles in the warm sunlight. The birds chirp merrily amidst the foliage of the tress. Peace and happiness seems to reign everywhere. Everywhere else. Epps leaves Patsey to herself. He says not a word to the Mistress as he passes. The Mistress herself heads back into the house. Solomon unties Patsey, lifts her and takes her to the cabin.
+[FEMALE] And is she still with us?
 
-[NARRATOR] 157 157 responds with gentle reassurance:
+[MALE] She's not.
 
-[MALE] INT. CABIN - LATER Patsey is laid on some boards where she remains for a long time with eyes closed and groaning in agony. Phebe applies melted tallow to her wounds, and all try to assist and console her. In time Patsey opens her eyes. She looks to Solomon. She does not say a word. She just looks at him...and then her eyes close again.
+[FEMALE] I'm sorry to hear that.
 
-[NARRATOR] 111. murmurs with a warm, steady cadence:
+[MALE] It's OK. It was... a long time ago.
 
-[MALE] 160 INT. MASTER EPPS'S PLANTATION/GREAT HOUSE/ADDITION - 160
+[FEMALE] And your father?
 
-[NARRATOR] Evening speaks with a quiet, measured softness:
+[NARRATOR] A soft breath escapes Sonny, carrying with it the quiet ghosts of an earlier era, the rhythmic churning of heavy machinery and the steady, unyielding beat of a simpler time.
 
-[MALE] -APRIL, 1852- Solomon and Bass are working together alone on the extension. From the amount of work that's been done on it, it should be obvious that days have now passed. Solomon makes a cautious approach to Bass. As casually as he can he inquires:
+[MALE] Worked in the steel mills. Long days. Long nights sometimes. Hard life. But he raised us the best he could.
 
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[FEMALE] I find it honorable. To give your life for your family's. You give and you give until you have nothing left to give. Then you give some more. But it's worth it.
 
-[MALE] Master Bass, I want to ask you what part of the country you came from?
+[NARRATOR] A quiet smile touches Sonny's lips, softening the lines around his eyes as the evening air grows heavier and sweeter with the scent of pine and damp earth.
 
-[NARRATOR] Bass answers in a low, calming tone:
+[MALE] You're good at this. Somehow we're talking about my parents instead of you.
 
-[MALE] No part of this land. I was born in Canada. Now guess where that is.
+[FEMALE] Well, I've had practice. There's no doubt about that. You do understand, Mr. Vaccaro, that Michael's intention is to sign with Adidas. With Converse as a second option.
 
-[NARRATOR] Solomon offers quietly, watching the shadows drift across the room:
+[MALE] I do. And, respectfully, I think that would be a mistake. Listen... here's what I want to tell you: take the Converse and Adidas meetings. I'll tell you exactly what they're going to say to you. What they're going to sell you. And if I'm wrong... then don't take the Nike meeting. But, if I'm right... you and Michael come.
 
-[MALE] Oh, I know where Canada is. I have been there myself.
+[NARRATOR] Deloris offers a slow, knowing smile, the kind of smile that holds secrets and wisdom without needing to speak them aloud. The breeze dies down to a barely perceptible whisper, wrapping the porch in a cocoon of utter tranquility. 
 
-[NARRATOR] Bass offers quietly, watching the shadows drift across the room:
+[MALE] Mrs. Jordan, it's a pleasure to meet you. This is Converse by the way. He'll have his hair gelled up like an asshole, excuse my French. I'm guessing a red tie, for the Bulls. Rolex for sure. We sure do appreciate you making the long trip out here. You look beautiful today, Mrs. Jordan. I've seen a lot of basketball, and the feeling I get when I see Michael play... there are only a few other players that gave me that feeling. And those players are here at Converse... they're the best of the best. It's that simple. Magic Johnson. Larry Bird. Michael Jordan. Those names all belong in the same sentence. And they belong at Converse. Now, here's the important part. I want you to ask them a question. Will you do that for me?
 
-[MALE] Have you?
+[FEMALE] It depends on what the question is, Mr. Vaccaro.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] How will Michael stand out when he's next to the best players in the world? How will he be different?
 
-[MALE] Montreal and Kingston and Queenston and a great many places. And I have been in York state, too. Buffalo and Rochester and Albany, and can tell you the names of the villages on the Erie canal and the Champlain canal. Bass gives Solomon a long and curious stare.
+[FEMALE] And...
 
-[NARRATOR] Bass speaks with a quiet, measured softness:
+[NARRATOR] The heavy, humid air of North Carolina hummed with the slow, drowsy drone of unseen insects, a steady, hypnotic white noise that washed over the quiet yard. A soft, evening breeze rustled through the lush, emerald canopy of the surrounding trees, carrying with it the rich, damp scent of fertile earth and twilight approaching. The ambient light softened into a deep, hazy amber, painting long, lazy shadows across the driveway where Sonny and Deloris stood talking in hushed, thoughtful tones. 
 
-[MALE] Well traveled for a slave. How came you here?
+[MALE] What will they say? That he'll be amongst hall of famers and that's enough. 
 
-[NARRATOR] Solomon whispers gently into the still air:
+[NARRATOR] Deloris paused, letting the heavy quiet settle around them like a warm blanket. A cicada clicked rhythmically in the distance, a slow and steady heartbeat to the evening. 
 
-[MALE] Master Bass, if justice had been done I never would have been here.
+[FEMALE] And is it? 
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[NARRATOR] Sonny shifted slightly, his weight moving from one foot to the other on the warm pavement, the distant sounds of the neighborhood fading into a peaceful blur. 
 
-[MALE] How's this? Tell me all about it.
+[MALE] You tell me what you think your son is capable of. 
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[FEMALE] And what about the Adidas meeting? Michael's top choice is Adidas. 
 
-[MALE] I am afraid to tell you, though I don't believe you would tell Master Epps if I should.
+[NARRATOR] Sonny exhaled slowly, the breath leaving him in a quiet sigh as he momentarily adopted the crisp, practiced tone of a different world, before letting it slip away into the warm night air. 
 
-[NARRATOR] Bass responds with gentle reassurance:
+[MALE] Mrs. Jordan, welcome to... 
 
-[MALE] Every word you speak is a profound secret.
+[FEMALE] You can just tell me. 
 
-[NARRATOR] 112-115. responds with gentle reassurance:
+[NARRATOR] A thin, fleeting smile touched Sonny’s face, softened by the gentle, enveloping shadows of the dusk. 
 
-[MALE] 160 CONTINUED: 160 Solomon holds a moment. Hasn't he heard the same promise before? Prior to Solomon stating his case, WE FADE TO: 161 INT. MASTER EPPS'S PLANTATION / ADDITION - DAY 161 Hours have passed. Bass reflects on the story that Epps has told in the intervening.
+[MALE] Here's what they'll tell you: we have the best shoes. Plain and simple. You're not going to see another style like this. All leather. Converse isn't cool. Michael, you're the next generation. You don't want to be grouped in with Magic and Bird. They're on the way out. You want to stand apart. 
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[NARRATOR] He paused, taking a long, deep breath of the pine-scented evening breeze, his shoulders dropping as the tension of the day began to melt into the cooling atmosphere. 
 
-[MALE] How many years all told?
+[MALE] Just to clarify - this is now me talking not Adidas. They're not wrong. I get why Michael is interested in them. But... 
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[FEMALE] And what should I ask them? 
 
-[MALE] Just nearly...just passed eleven.
+[MALE] Ask them who's in charge of the company. Who has the final say? 
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[FEMALE] And what will they say? 
 
-[MALE] Your story is...it is amazing, and in no good way.
+[NARRATOR] The crickets began their nocturnal chorus, a gentle, layered symphony that seemed to lull the world into stillness. 
 
-[NARRATOR] Solomon whispers gently into the still air:
+[MALE] Well, I think four different people in that room will give you four different answers. 
 
-[MALE] Do you believe, sir, in justice as you have said?
+[FEMALE] Very well. 
 
-[NARRATOR] Bass answers in a low, calming tone:
+[NARRATOR] She lifted her glass, taking a slow, quiet sip as the ice cubes clinked softly against the crystal, a delicate, crystalline sound that vanished instantly into the warm air. 
 
-[MALE] I do.
+[FEMALE] And, finally... the most important question. What should I ask you? 
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[NARRATOR] Sonny stood completely still, looking into her steady, calm eyes as the evening sky turned a deep, velvety indigo above them. 
 
-[MALE] That slavery is an evil that should befall none?
+[MALE] Ask me why I'm in Wilmington, North Carolina. 
 
-[NARRATOR] Bass offers quietly, watching the shadows drift across the room:
+[FEMALE] Why are you in Wilmington, North Carolina? 
 
-[MALE] I believe so.
+[MALE] Because I believe in greatness. I'd travel anywhere for it. New York, Beaverton, the moon... or Wilmington, North Carolina. 
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[NARRATOR] Deloris offered no immediate sign, her expression as serene and untroubled as the glassy surface of a pond at dusk. 
 
-[MALE] If you truly do, I would ask...I would beg that you write my friends in the north, acquainting them with my situation and beseeching them to forward free papers, or take such steps as they might consider proper to secure my release. Bass looks at Solomon, holding his gaze for more than a prolonged beat.
+[FEMALE] Well, Mr. Vaccaro, thank you for coming. It was very kind of you to make the trip all the way out here. 
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] Of course. 
 
-[MALE] My daughter Margaret is possibly now 19 and my son Alonzo, 16. I miss them so. It would be an unspeakable happiness to clasp my wife and my family again. Bass hands Solomon an end of a long plank of wood and looks over his shoulder, as if to camouflage the conversation by work. They both lift it toward the floorboards. Finally Bass speaks.
+[NARRATOR] Together, they turned and walked slowly back up the long, winding driveway toward the edge of the property. In the distance, James Jordan stood by the hood of the car, securing it gently into place before sliding behind the wheel. He turned the key, and the engine purred to life with a smooth, reassuring hum. Sonny raised a hand, brushing lazily at the heavy, warm air where a stray wasp hovered before drifting away into the shadows. 
 
-[NARRATOR] 116. answers in a low, calming tone:
+[FEMALE] They're everywhere here. Michael and his brother shot up a nest just over there when they were young. Hundreds of these wasps flew out - stingers at the ready. The boys had so many welts. Everywhere. It took weeks to heal. Thought they might miss some of the season. 
 
-[MALE] 161 CONTINUED: 161
+[MALE] But they healed. 
 
-[NARRATOR] Bass answers in a low, calming tone:
+[FEMALE] That's the truth. I believe that, you know... life is all about what we do with our pain. Goodbye, Mr. Vaccaro. And good luck. 
 
-[MALE] I have always forgone relationships and family. I did once have a sweetheart who I loved deeply. Bass points to a measuring tool, which Solomon immediately hands over.
+[NARRATOR] Sonny wiped a thin layer of perspiration from his forehead, nodding slowly as the cool night wind finally began to sweep across the yard. He climbed into the front seat of his van, the worn leather creaking softly beneath him. He inserted the key into the ignition and turned it. The engine sputtered, coughed once, and fell silent. 
 
-[NARRATOR] Bass offers quietly, watching the shadows drift across the room:
+[MALE] Shit. 
 
-[MALE] But that was a long, long time ago. I've been traveling this country for the best part of twenty years. My freedom is everything. The fact that I can walk out of here tomorrow gives me most pleasure. I see the aching in your eyes, the pain of not being attached to your loved ones. My life doesn't mean much to anyone, but it seems your life means a lot to a lot of people. What you have just said to me scares me, and I must say, sir, I am afraid. Not just for you, but for me. They continue working, fixing the floorboards in unison. Solomon, slightly confused.
+[NARRATOR] He exhaled a long, quiet breath, letting his head rest back against the seat as the peaceful, humming darkness of the North Carolina night wrapped entirely around him.
 
-[NARRATOR] Bass responds with gentle reassurance:
+[NARRATOR] The stillness of the Carolina morning settled softly over the asphalt, holding the lingering cool of the night in the shadows of the pine trees. [NARRATOR] Deloris and James lingered nearby, their silhouettes framed by the gentle, hazy light of dawn, offering a quiet reassurance as the key turned once more within the slumbering ignition. [NARRATOR] With a weary sputter, the engine caught, breathing to life with a low, rhythmic vibration that slowly coaxed the vehicle forward, melting away into the quiet expanse of the highway. [NARRATOR] Hours drifted by in a blur of warm, golden sunlight and gentle motion, carrying Sonny along the meandering stretches of Route 117. [NARRATOR] Outside the dust-speckled window, the landscape blurred into a slow, hypnotic painting of quiet cemeteries, sprawling industrial parks, and ancient oaks draped in heavy, swaying blankets of Spanish moss. [NARRATOR] The afternoon sun hung high and benevolent in the pale blue sky, beginning its long, lazy descent toward the horizon, casting long, peaceful shadows across the landscape. [NARRATOR] Steering the car off the highway, Sonny glided into the quiet, sun-drenched avenues of a suburban neighborhood, the neat, unassuming homes standing like silent sentinels under the vast southern sky. [NARRATOR] He eased the car to a gentle stop against the curb, the engine sighing into complete silence, leaving only the sound of distant wind rustling through the canopy of leaves. [NARRATOR] Before him stood the low-slung, welcoming brick facade of Emsley A. Laney High School, home of the Buccaneers. [NARRATOR] A large blue sign greeted visitors in the afternoon haze, adorned with crookedly spaced letters that proudly declared, Congrats Seniors '84 – Go Bucs. [NARRATOR] Stepping inside, Sonny was greeted by the cool, hushed sanctuary of the school hallways. [NARRATOR] The air smelled faintly of polished linoleum, old paper, and the quiet ghost of youthful chatter. [NARRATOR] He drifted past rows of weathered metal lockers, vibrant student art projects pinned to corkboards, and glass trophy cases reflecting the hazy sunlight. [NARRATOR] As he glided past the painted blue and yellow classroom doors, a familiar, distant rhythm caught his attention—a rhythmic, hollow thud echoing through the quiet halls. [NARRATOR] It was the steady, hypnotic sound of a basketball bouncing against a worn wooden gym floor, a heartbeat in the emptiness of the afternoon. [NARRATOR] Following the sound, he pushed gently through the heavy wooden doors at the end of the hall and stepped into the gymnasium. [NARRATOR] It was a timeless space, carrying the distinct, comforting aroma of aging wooden bleachers, freshly laundered uniforms, and the faint scent of polished floor wax. [NARRATOR] Down on the court, the junior varsity basketball squad moved in a flurry of youthful energy, their lanky, uncoordinated frames stretching and leaping in the warm, diffused light pouring through the high windows. [NARRATOR] Standing at the center of the court was Coach Pop Herring, tall and slender, his thin black mustache catching the light as he watched his players with the keen, practiced eye of a field general. [NARRATOR] The whistle hung from his neck like a pendant of authority as he directed the boys with a gravelly, affectionate patience. 
 
-[MALE] I will write your letter sir, for if I could bring freedom to you, it will be more than a pleasure. It will be a duty. Now, would you be so kind as to pass me those nails, sir. We pull back to reveal the two men dwarfed by the unfinished structure. They continue to work, as if the conversation had never occurred.
+[MALE] Pass the ball, Stevens! Man, if I was half as good as you think you are then I'd be in the god damn league. 
 
-[NARRATOR] A165 Ext. Swamp Tbd A165 adds in a relaxed, peaceful voice:
+[NARRATOR] Sonny smiled softly from the shadows of the lower bleachers, watching the effortless flow of the drill. [NARRATOR] This was basketball in its most pristine, uncomplicated form, untouched by the heavy burdens of commerce, contracts, or ambition. [NARRATOR] It was simply the game—an orange sphere tracing an arc through the air toward a net. [NARRATOR] With a sharp, piercing trill, Pop blew his whistle, signaling the end of the session, and his dark eyes drifted upward to find the stranger sitting quietly in the stands. [NARRATOR] His gaze was casual, entirely accustomed to the wandering footsteps of strangers drifting into his gymnasium. 
 
-[MALE] Solomon walks a path he has walked a thousand times or more on his way back from Bartholomew's - sack familiarly slung over his right shoulder. Drearily he walks. His eyes acknowledge something we yet cannot see to his left. Almost simultaneously, his eyes retract back to the path
+[MALE] Alright, fellas. That's good for today. We got two-a-days tomorrow. 8am. 
 
-[NARRATOR] 116A. answers in a low, calming tone:
+[NARRATOR] Sonny stood up from the wooden bench, his footsteps echoing softly in the cavernous, cooling room as he approached the edge of the court. 
 
-[MALE] A165 CONTINUED: A165 towards Epps'. As he passes out of shot, the evidence of what he was looking at is revealed. FEET hang at the top right hand corner of the frame. A woman, who has been lynched.
+[MALE] Coach Herring? 
 
-[NARRATOR] 165 165 offers quietly, watching the shadows drift across the room:
+[MALE] Can I help you? 
 
-[MALE] EXT. MASTER EPPS'S PLANTATION/ADDITION - DAY -SEPTEMBER, 1852-
+[MALE] Yes, I think you can. I wanted to talk to you about... 
 
-[NARRATOR] Slow Dissolve answers in a low, calming tone:
+[NARRATOR] Pop exhaled a slow, heavy sigh, rolling his eyes as a familiar weariness settled over his features, having fielded the exact same inquiry a hundred times before. 
 
-[MALE] To a now virtually complete, half-painted white gazebo. Slaves continue to work on it. As they do so, Bass peels away from the structure to have an overview. He beckons Solomon toward him, out of earshot from the slaves who are continuing to work on the gazebo. As Solomon approaches, Bass shouts-
+[MALE] I already told them I'm not doing any interviews about Michael. No journalists. 
 
-[NARRATOR] Bass whispers gently into the still air:
+[MALE] Well, I'm not a journalist. My name's Sonny Vaccaro. I'm with Nike. 
 
-[MALE] And bring those markers! Solomon gathers a clutch of markers in his hands and approaches Bass.
+[MALE] Nike? You come with some free shoes? 
 
-[NARRATOR] Bass responds with gentle reassurance:
+[MALE] No, but I'm sure we could arrange that. 
 
-[MALE] No letter yet.
+[MALE] You came all the way out here and didn't bring free shoes? 
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] It was a last-minute trip. 
 
-[MALE] You are certain? Bass takes a marker from Solomon and slides it into the earth.
+[MALE] Michael's favorite shoes are his Adidas. You know that already? 
 
-[NARRATOR] Bass speaks with a quiet, measured softness:
+[MALE] I do. 
 
-[MALE] I have inquired thoroughly. More than is safe for either of us. Bass takes another and pokes it into the ground, improvising a pathway towards the gazebo.
+[MALE] You got five
 
-[NARRATOR] Bass answers in a low, calming tone:
+[NARRATOR] The heavy, sun-warmed air of the high school office hummed with a quiet, timeless stillness. Outside the windows, the late afternoon light filtered softly through rustling Carolina leaves, casting long, lazy shadows across the wooden floor. Pop Herring sat behind a massive oak desk, a surface cluttered with the gentle accumulation of a lifetime—framed photographs fading gently at the edges, shelves bearing the quiet dust of old victories and forgotten trophies. It was a place where time seemed to slow down, holding the weight of decades in its quiet corners. Pop looked across the desk, his eyes wise and steady, bearing the soft patience of a man who had seen seasons change and generations pass.
 
-[MALE] Solomon...I have a job or two on hand which will be completed shortly... The work here has grown sparse.
+[MALE] I know why you're here.
 
-[NARRATOR] 117. adds in a relaxed, peaceful voice:
+[NARRATOR] Sonny shifted slightly in his chair, the leather creaking softly in the quiet room. 
 
-[MALE] 165 CONTINUED: 165 Bass doesn't need to spell things out for Solomon. Solomon's understanding of the finality of the situation should be very clear.
+[MALE] You didn't even know who I was. 
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[NARRATOR] Pop offered a slow, knowing smile that crinkled the corners of his eyes, untroubled by the observation.
 
-[MALE] You must know, wherever I am I will press your cause.
+[MALE] I don't need to know who you are to know what you're doing here. You want to know why I cut Michael Jordan.
 
-[NARRATOR] Solomon answers in a low, calming tone:
+[NARRATOR] Pop paused, letting the silence settle like a gentle dust over the room, before leaning back into the worn contours of his chair.
 
-[MALE] Five months. On top of these years. No cause remains.
+[MALE] I think that's simplifying the matter, but...
 
-[NARRATOR] Bass answers in a low, calming tone:
+[MALE] Good. Because I'm all about simple. We complicate simple things all too often for no damn reason. People like the narrative... Michael Jordan cut from his high school basketball team. But you're a smart guy. You're an ad man. You know why people like that story. Because it means Michael Jordan is a human, just like them. They like the story because they can see themselves in it. If Michael Jordan got cut and made it... then I can fail and still make it. But that's just a story to sell shoes. The truth is... Michael was always going to be great. He was already great. You could tell. And that was the problem. He knew he was good. Nah... we saw his talent. But he was too young. So we put him on JV so he could grow... so he could play more. Thought it might light a fire. Which it did. When people tell that story... the story that Michael Jordan was cut from his high school basketball team... what they fail to mention is he was back on Varsity eight months later.
 
-[MALE] If there is any chance...
+[NARRATOR] The afternoon light shifted just an inch across the floorboards, painting the room in deepening shades of amber and gold. Sonny listened, letting the rhythm of Pop’s voice wash over him like a distant, calming tide.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] What did Michael say when you cut him?
 
-[MALE] Mr. Bass...
+[NARRATOR] Pop chuckled, a low, warm sound that echoed gently against the trophy shelves.
 
-[NARRATOR] Bass adds in a relaxed, peaceful voice:
+[MALE] What do you think? He said he was quitting basketball. But that's how he is - takes everything personally. But it makes him work harder. That's what makes him great. So, listen. I just told you why you were here... But let me phrase the question this way... what are you looking for here? What are you trying to find?
 
-[MALE] I will continue to write your
+[NARRATOR] Sonny hesitated, gazing down at the grain of the wooden desk as if the answer might be carved into the timber.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] I don't know.
 
-[MALE] Go home knowing you have tried. The weight of defeat should hang very heavily with both men. Nothing more to do, nothing more to say BASS TAKES SOLOMON'S HAND, GRIPS IT FIRMLY, BUT LOW AND SURREPTITIOUSLY knowing full well he cannot be seen making contact with a slave. But in the strength of their collective grip, in the emotion in which they hold each other's eyes, we should be able to easily see how greatly Bass wanted to be able to help Solomon. Equally, we can see the depth of regard Solomon has for Bass. The moment is made all the more powerful by the fact neither man can openly speak his regret or thanks. A moment longer, and then Bass releases his grip and makes his way marching toward the gazebo, pointing instructions. Solomon is left, markers in hand, alone.
+[MALE] Confirmation?
 
-[NARRATOR] 118. whispers gently into the still air:
+[MALE] Could be.
 
-[MALE] A168 EXT. ROAD BY EPPS' PLANTATION - EVENING A168 Solomon sits on a secluded part of the road, fiddle in hand. He stares across the expanse. His eyes fixed on something that is a million miles away. Slowly Solomon tunes his fiddle, turning the tuning peg tighter and tighter. As the strings are taut, the sound is almost unbearable as Solomon tightens bit by bit, as if bones are being cracked one by one. Just beyond the breaking point of sound, there is a snap. He then repeats the action. Solomon holds the neck of the violin. Sliding his thumb and forefinger down the neck, he methodically cracks it at the base. He carefully snaps the neck and removes it from the body, then snaps it in two, placing it on the ground. He then starts on the body. Heaving it on the ground, it falls apart. Methodically he breaks the violin into small bits - silencing the instrument with a hushed display of violence, rather than aggressive. Seems almost to be, in an odd way, respectful.
+[MALE] Your five minutes were up two minutes ago. But let me just say this: confirmation's a dangerous thing to go searching for. You already know Michael's good. That he's special. You don't need me to tell you that. You don't need anyone to tell you that. So what are you here for? Just so the man who cut Michael Jordan could look you in the eye and tell you that what you're doing is right?
 
-[NARRATOR] 168 168 speaks with a quiet, measured softness:
+[NARRATOR] Sonny let out a soft breath, the tension of a long journey slowly melting away from his shoulders in the quiet sanctuary of the office.
 
-[MALE] EXT. MASTER EPPS'S PLANTATION/FIELD - DAY -FEBRUARY, 1853- The Slaves are sewing the heavily plowed field, making their way in the trying soil. Solomon, too focused to note the arrival of two men by carriage: Parker and the
+[MALE] I guess so.
 
-[NARRATOR] Sheriff. whispers gently into the still air:
+[MALE] Then here you go: I'm the man who cut Michael Jordan. And what you're doing is right.
 
-[MALE] While the Sheriff makes his way to the field, Parker remains with the carriage. The Sheriff calls:
+[NARRATOR] Sonny nodded slowly, absorbing the words, letting them anchor him in the fading twilight. A profound, shared silence settled over the room, heavy and comforting, unbroken save for the very faint whisper of the evening wind outside.
 
-[NARRATOR] Sheriff answers in a low, calming tone:
+[MALE] Free shoes really wouldn't have hurt though.
 
-[MALE] Platt...? Where is the boy called Platt?
+[NARRATOR] Moments later, the heavy door clicked shut, and the scene drifted away into the cool, gathering dusk. Outside, the rental car waited beneath the sprawling branches of ancient trees, its metal body cooling in the evening air. Sonny opened the door and slipped inside, sinking into the driver's seat as the vehicle eased smoothly away from the curb, its tires humming a soft, rhythmic lullaby against the darkening asphalt.
 
-[NARRATOR] Solomon answers in a low, calming tone:
+[NARRATOR] The rental car glided down the quiet highway, its tires whispering against the damp asphalt as it drifted back toward the sprawling lights of the airport. Outside the window, the ancient trees of the South stood sentinel, their sprawling branches framing a night that was slowly coming alive. A low, disembodied drone of insect life hummed a steady, hypnotic lullaby, while a thin, gossamer layer of mist drifted in slow, graceful loops through the dark trunks. In these deep woods, time seemed to move differently, stretching and softening into a peaceful, heavy stillness.
 
-[MALE] ...Sir... The Sheriff crosses to him.
+[NARRATOR] The van turned gently into the rental car parking lot, where the familiar employee waited in the dim amber glow of the overhead lamps. With a quiet nod, the keys were handed over, and the long journey reached its gentle pause. Inside the cabin of the night flight, the hum of the jet engines created a steady, white-noise vibration, lulling the passengers into a drowsy quiet. A flight attendant rolled her beverage cart softly down the narrow aisle, her footsteps muffled by the carpet. She paused beside the window seat, looking down with a warm, tired smile.
 
-[NARRATOR] Sheriff offers quietly, watching the shadows drift across the room:
+[FEMALE] Peanuts?
 
-[MALE] Your name is Platt, is it?
+[NARRATOR] Sonny shook his head slightly, his gaze fixed on the darkness outside.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[MALE] No thanks.
 
-[MALE] Yes, sir. Pointing off to the distance.
+[FEMALE] Drink?
 
-[NARRATOR] Sheriff answers in a low, calming tone:
+[MALE] Ginger ale please. No ice.
 
-[MALE] Do you know that man?
+[FEMALE] Here you go...
 
-[NARRATOR] 118A. offers quietly, watching the shadows drift across the room:
+[NARRATOR] She began to move the cart forward, but paused as a sudden, quiet thought crossed the passenger's mind.
 
-[MALE] 168 CONTINUED: 168 Solomon looks toward the carriage. He has to shield his eyes from the sun. Recognition is slow coming to him. But when it does, it hits him as a rush.
+[MALE] You know what? I'll take the peanuts. Changed my mind.
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[FEMALE] No problem.
 
-[MALE] Mr. Parker...?
+[NARRATOR] With a soft rustle of plastic, she reached back into the cart and handed him the small foil package. Attached to the corner was a tiny pair of bright plastic captain's wings, catching the faint cabin light. Sonny took them off gently, turning the smooth gold plastic over and over in his palms. There was a quiet, comforting nostalgia in the simple toy. With a slow, deliberate movement, he slipped them into the front pocket of his shirt, leaned his head back against the cushioned rest, and looked out the oval window. Outside, towering rolling clouds drifted through a vast purple twilight, looking soft and weightless, like a distant, peaceful dream of heaven.
 
-[NARRATOR] 119. answers in a low, calming tone:
+[NARRATOR] Hours later, the quiet light of dawn began to creep over the horizon, painting the sky in pale shades of amber and rose. Inside the corporate headquarters, the hallways were still and empty. Sonny sat at his desk, bathed in the cool morning glow, the car still resting quietly in the parking lot below. He hadn't gone home. His eyes remained wide and watchful, the silence of the early hour punctuated only by the soft, rhythmic tapping of his fingers against the polished wood. Waiting by the telephone, wrapped in the stillness of the dawn. Suddenly, the quiet was broken by the sharp, echoing ring of the phone. Without hesitation, the receiver was lifted to his ear.
 
-[MALE] 168 CONTINUED:  168 Solomon starts for Parker, but he is pulled back by the Sheriff who is keen to determine Solomon's true identity.
+[DAVID FALK] You have a lot of balls, you know that? What the fuck is wrong with you? You show up at the house?
 
-[NARRATOR] Sheriff answers in a low, calming tone:
+[MALE] Well, you said it would be unprofessional to call.
 
-[MALE] Say again?
+[DAVID FALK] What the hell did you say to her?
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[MALE] That she should find Michael a new agent.
 
-[MALE] Mr. Parker? As he does, Epps makes his way over.
+[DAVID FALK] How's Tuesday?
 
-[NARRATOR] Sheriff answers in a low, calming tone:
+[MALE] For?
 
-[MALE] That man received a letter compiling many accusations. You look me in the eye and on your life answer me truthfully: have you any other name than Platt?
+[DAVID FALK] They're coming to Beaverton. Don't make me ask twice.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[NARRATOR] A wave of quiet triumph washed over the room. Sonny covered the receiver with his palm for a brief, breathless second, pumping his fist in the dim light of the empty office.
 
-[MALE] Solomon Northup is my name.
+[DAVID FALK] And don't get ahead of yourself. Michael's not going to be excited to be there. I get the sense that Mom's making him go.
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[MALE] I get it.
 
-[MALE] Sheriff...
+[DAVID FALK] I hope you're ready, Sonny.
 
-[NARRATOR] Sheriff speaks with a quiet, measured softness:
+[NARRATOR] The line went dead with a soft click. Sonny lowered the phone and looked out the tall glass window, gazing across the vast, misty expanse of the towering Oregon woods. Was he ready? The emerald trees swayed gently in the morning breeze, offering no answers, only a deep, enduring calm. There was no time to ponder; the current of the morning was already sweeping forward. 
 
-[MALE] Have you a family?
+[NARRATOR] Down the long, carpeted hallways of the Nike headquarters, footsteps echoed as Strasser arrived for the new day. He walked past the quiet rows of offices, glancing casually into Sonny's doorway. It was empty. Strasser shook his head with a quiet sigh, continuing his stride down the corridor toward his own private sanctuary. He reached for the brass handle, turned it, and pushed the door open to find a most unexpected sight. Sonny was already seated comfortably behind his desk, waiting in the morning quiet. Strasser stopped dead in his tracks, blinking against the surprise.
 
-[NARRATOR] Epps answers in a low, calming tone:
+[STRASSER] Jesus fucking christ.
 
-[MALE] What's all this?
+[MALE] Pack some pajamas tomorrow. We're not leaving the office.
 
-[NARRATOR] Sheriff adds in a relaxed, peaceful voice:
+[STRASSER] Tomorrow's Saturday.
 
-[MALE] It's official business.
+[MALE] Michael Jordan's coming to Beaverton.
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[STRASSER] Holy shit. Also, we need to get some shoes to Pop Herring.
 
-[MALE] My nigger, my business.
+[STRASSER] To who? Sonny, Phil hasn't approved anything.
 
-[NARRATOR] Sheriff speaks with a quiet, measured softness:
+[MALE] Let me worry about that. Now that it's official... I thought we could go see Pete.
 
-[MALE] Your business waits.
+[NARRATOR] Strasser shook his head, a slow, disbelieving smile touching his lips as the morning light settled peacefully over the waking building.
 
-[NARRATOR] Tell me of your family.
+[NARRATOR] The morning air drifted softly through the sprawling campus in Beaverton, carrying the quiet promise of a new day. Strasser shook his head, a slow, gentle smile touching his lips as the gentle light settled over the waking building. The game was on, moving forward into the quiet hum of anticipation. 
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[NARRATOR] They walked together toward the center of the building, stepping into the waiting elevator. The doors slid shut, enclosing them in a warm, softly lit space. Sonny reached out and pressed the button marked 'B', resting just below the ground floor. The machinery churned to life with a low, rhythmic vibration, carrying them downward. Down and down, descending into the peaceful depths of the building, until with a soft, melodic chime, the doors drifted open.
 
-[MALE] I have a wife and two children.
+[NARRATOR] They stepped out into the Nike shoe lab, a sanctuary tucked away from the world above. Soft, amber illumination cast long, gentle shadows across rows of glowing computer monitors and humming equipment, state of the art for nineteen-eighty-four. Sonny and Strasser wound their way quietly through the labyrinth of desks until they reached the workspace of Peter Moore, the lead designer. Peter, twenty-nine years old and brilliant, sat surrounded by sketches and prototypes. He turned slowly in his comfortable swivel chair, looking up with a calm, curious expression.
 
-[NARRATOR] Sheriff offers quietly, watching the shadows drift across the room:
+[PETER MOORE] Suits? Down in the cave? To what do I owe the honor?
 
-[MALE] What were your children's names?
+[SONNY] We need a shoe.
 
-[NARRATOR] Solomon answers in a low, calming tone:
+[PETER MOORE] I would assume as much.
 
-[MALE] Margaret and Alonzo.
+[SONNY] Ideally the most beautiful shoes you've ever seen.
 
-[NARRATOR] Sheriff speaks with a quiet, measured softness:
+[PETER MOORE] OK, easy enough.
 
-[MALE] And your wife's name before her marriage?
+[SONNY] We're going up against Converse and Adidas.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[PETER MOORE] Even easier. Gentlemen... step into my office.
 
-[MALE] Anne Hampton. I am who I say. Solomon pushes past the sheriff. As Solomon moves toward Parker, his pace quickens with each step until his
+[NARRATOR] They trailed behind Peter as he led them toward the back of the laboratory, entering a long, quiet design room. Sketches of sneakers and bold color concepts were pinned carefully all across the warm wooden walls, illuminated by soft overhead lamps. 
 
-[NARRATOR] 119A. adds in a relaxed, peaceful voice:
+[SONNY] It has to be individual. Think of it like this - Converse are plain shoes, right? Nothing much to them. Every player wears the same shoe. The only thing that changes is the color. The difference with this one is that instead of having the athlete wear one of our shoes, we're going to create the shoe around the athlete.
 
-[MALE] 168 CONTINUED:  168 personal velocity has him nearly at a dead run. The two old friends make contact with each other, wrap each other in a long and emotional embrace. It if finally broken by Epps, who has moved over with the Sheriff.
+[PETER MOORE] OK, I see where you're going. The shoe has to speak to an individual. Yet it needs to be marketable to a mass audience. Tinker will have some ideas. In fact, he should be in by now...
 
-[NARRATOR] 120. adds in a relaxed, peaceful voice:
+[SONNY] Who?
 
-[MALE] 168 CONTINUED:  168
+[PETER MOORE] Tinker.
 
-[NARRATOR] Epps answers in a low, calming tone:
+[SONNY] Who the fuck is Tinker?
 
-[MALE] Nah... You will unhand 'em. Platt is my nigger!
+[NARRATOR] As the words drifted into the quiet air of the lab, a faint, rhythmic sound echoed from the hallway outside—the gentle roll of a skateboard gliding smoothly across the concrete floor.
 
-[NARRATOR] Parker murmurs with a warm, steady cadence:
+[TINKER HATFIELD] Am I late?
 
-[MALE] He is Solomon Northup.
+[NARRATOR] It was the cowboy from the parking lot, wearing the same designer jacket, though now topped with a different hat. It was Tinker Hatfield.
 
-[NARRATOR] Epps speaks with a quiet, measured softness:
+[PETER MOORE] You haven't met?
 
-[MALE] You say...
+[TINKER HATFIELD] No, sir. The pleasure is mine.
 
-[NARRATOR] Parker offers quietly, watching the shadows drift across the room:
+[NARRATOR] Tinker extended his hand in a warm, easy greeting. 
 
-[MALE] He belongs to no man.
+[SONNY] Tinker?
 
-[NARRATOR] Epps answers in a low, calming tone:
+[PETER MOORE] Started two weeks ago. He's a wizard.
 
-[MALE] You say! You come here, unfamiliar to me, and make claims.
+[TINKER HATFIELD] You're too kind, Mr. Moore.
 
-[NARRATOR] Sheriff answers in a low, calming tone:
+[SONNY] You're from the parking lot.
 
-[MALE] Not claims. I have no doubts. This is Solomon Northup, a resident of Saratoga Springs, NY.
+[TINKER HATFIELD] Well, I do have a home.
 
-[NARRATOR] Epps answers in a low, calming tone:
+[SONNY] Phil sent security to get you.
 
-[MALE] To hell with that! My nigger, and I'll fight you for 'em!
+[TINKER HATFIELD] Yeah, I talked them out of it.
 
-[NARRATOR] Parker murmurs with a warm, steady cadence:
+[NARRATOR] Sonny shook his head, a quiet, amused wonder passing over him as he looked at the relaxed newcomer.
 
-[MALE] As is your right. As it will be my pleasure to bankrupt you in the courts. Your decision. By this time, the slaves in the plantation have overcome their fear of penalty, and left their work and gathered in the yard as witnesses. They stand behind the cabin, out of sight of Epps. Mistress Epps also bears witness, standing on the veranda next to her house slave. Her face is of a strange mixed emotion. Epps looks to Solomon. Solomon icily, stoically holds his ground. He makes it quite clear in his countenance that nobody owns him. Sheriff, hand on his gun, is there to back Solomon up. Epps, with no other recourse than to BACK DOWN:
+[SONNY] Well, I was just telling Pete that we need to create the most beautiful sneakers on the planet.
 
-[NARRATOR] Epps offers quietly, watching the shadows drift across the room:
+[TINKER HATFIELD] OK. Easy enough. Form or function?
 
-[MALE] You think this is the last you'll see of me, boy? It ain't.
+[SONNY] Uh...
 
-[NARRATOR] Whatever paper you hold about his
+[TINKER HATFIELD] Something can be beautiful or it can be pragmatic. Rarely both. And even then, the balance is never perfect.
 
-[NARRATOR] freedom, it don't mean naught. He
+[SONNY] Let's go for form then. At least to start.
 
-[NARRATOR] is my nigger - and I will have my
+[TINKER HATFIELD] Beauty over brains. You know what they say.
 
-[NARRATOR] day in court, sir. As God as my
+[NARRATOR] The afternoon sun casts long, golden shadows across the quiet workshop, bathing the tables in a warm, amber glow. Outside, a gentle breeze rustles the pine trees, carrying the soft, earthy scent of damp wood and distant rain. Within this sanctuary of creation, the cadence of voices slows, drifting like dust motes in the lazy light.
 
-[NARRATOR] witness, I will have my day in
+[TINKER HATFIELD] Poetry only makes the world bearable, it's engineering that gets us to the moon.
 
-[NARRATOR] court. Take 'em!
+[NARRATOR] A sudden, sharp trill breaks the quiet serenity. Sonny’s beeper begins to sound, its rhythmic pulse cutting through the peaceful air. Sonny checks the small device, his eyes widening slightly as the numbers register in his mind.
 
-[NARRATOR] Epps calls to Bob-
+[SONNY] Fuck, I'm late. Take the day to start. We'll check in tomorrow.
 
-[NARRATOR] 120A. whispers gently into the still air:
+[PETER MOORE] Tomorrow's Saturday...
 
-[MALE] 168 CONTINUED:  168
+[NARRATOR] Sonny is already moving, his strides carrying him toward the exit, the heavy door swinging open to the cool, evening-bound corridor.
 
-[NARRATOR] Epps whispers gently into the still air:
+[SONNY] And the day after is Sunday.
 
-[MALE] Saddle my horse! And bring her up here. Epps walks back into the plantation. The trio starts for the carriage. Solomon is pulled back by the call of Patsey's voice:
+[PETER MOORE] Sonny.
 
-[NARRATOR] Patsey murmurs with a warm, steady cadence:
+[NARRATOR] Sonny pauses, turning back for a brief moment as the shadows lengthen around him.
 
-[MALE] Platt... Disregarding Parker, Solomon crosses over to Patsey. Under the circumstances, neither really knows how to engage. Finally, suddenly, Patsey throws her arms around Solomon and they embrace. Epps, now mounted on his horse, witness the encounter. Kicking the stirrups hard into the sides of the horse, he rides off furiously. Calling from the carriage, mindful of Epps:
+[PETER MOORE] Who's the player? For the shoe?
 
-[NARRATOR] Parker answers in a low, calming tone:
+[SONNY] Michael Jordan.
 
-[MALE] Solomon...if we know what's wise, we should depart. A moment longer Solomon and Patsey hold each other. They separate, Solomon heading back to the carriage. He and Parker alight. The Sheriff chides the horses and they
+[PETER MOORE] Jesus Christ.
 
-[NARRATOR] 121. offers quietly, watching the shadows drift across the room:
+[NARRATOR] Pete’s jaw hangs open in utter astonishment, the silence stretching between them as the sleek elevator doors slide shut with a soft, pneumatic sigh, separating Sonny from the stunned quiet of the room. 
 
-[MALE] 168 CONTINUED:  168 start up. As they move on, Patsey sinks down to the ground, where she remains in a weary and half-reclining state, the other slaves around her. WE STAY WITH Solomon as he travels further and further from the slaves - who are diminished by distance. Solomon waves a hand to them, but the carriage rounds a bend and a thicket of trees hides them from his eyes forever more.
+Moments later, in the hushed, sunlit sanctuary of Phil Knight’s office, the air is thick with the scent of polished oak and old paper. Dust motes dance in the amber rays filtering through the tall glass windows. Sonny sits quietly across from Phil. With a slow, deliberate movement, Phil reaches out toward the small plastic basketball resting on his desk, gently lifting it and setting it aside upon the wide windowsill behind him, out of reach.
 
-[NARRATOR] A169 A169 responds with gentle reassurance:
+[PHIL KNIGHT] So, I hear we have a meeting on Tuesday.
 
-[MALE] EXT. NORTHUP HOUSE - DAY -MARCH, 1853- We now see Solomon in front of a door. A door we have seen before at the very beginning of our story. Solomon, aged significantly since then, stands nervously, swallowing, and adjusting his attire. He breaths in and holds his breath. He blows out and closes his eyes. A tear falls from his cheek, but this is not the way he wants his family to see him. He gathers himself, and looks to his right. There stands Mr. Parker. He places his hand on Solomon's shoulder. He says gently-
+[SONNY] We need a firm offer.
 
-[NARRATOR] Parker answers in a low, calming tone:
+[PHIL KNIGHT] And your suggestion is...
 
-[MALE] Are you ready? Solomon swallows and nods.
+[SONNY] Our entire budget. 250 this year. 1.5 million over five years.
 
-[NARRATOR] 169 169 murmurs with a warm, steady cadence:
+[PHIL KNIGHT] Sonny, that's just irresponsible.
 
-[MALE] INT. NORTHUP HOUSE - LATER THE DOOR TO THE ROOM OPENS. Mr. Parker enters, Solomon behind. We first see Anne, in her finest attire; the Northup children: Alonzo, who is now seventeen and Margaret who is now twenty - SHE CARRIES WITH HER A BUNDLE. Also present is MARGARET'S HUSBAND. The family waits patiently, dutifully...but anxiously. Anne rises to greet him, but holds back. All around, the body language of the family is stiff and awkward. They are, after all - after twelve years - little more than familiar strangers.
+[SONNY] It's not. Converse will offer 100 at least. The Germans could match 250 easily.
 
-[NARRATOR] Solomon responds with gentle reassurance:
+[PHIL KNIGHT] You really think we can buy him?
 
-[MALE] I apologize for my appearance. I have had a difficult time of things these past many years. Solomon looks among his family; trying to recall them as much as they look to see familiarity within him. To his CHILDREN:
+[SONNY] No. We need to do more. But it starts with the money. It always does. The right amount of money can get you in good with many people. But the special ones? The special ones are the ones that you can't buy. I want to give him a percentage of revenue.
 
-[NARRATOR] Solomon adds in a relaxed, peaceful voice:
+[PHIL KNIGHT] No. What are you talking about? No player has that deal.
 
-[MALE] Alonzo... Margaret, yes? You do not recognize me, do you? Do
+[SONNY] Exactly.
 
-[NARRATOR] 122. murmurs with a warm, steady cadence:
+[PHIL KNIGHT] Sonny, why him? Magic Johnson, Larry Bird... they don't have that.
 
-[MALE] 169 CONTINUED: 169
+[SONNY] The game is changing. That's their agents' fault. We can get out ahead of this.
 
-[NARRATOR] Solomon speaks with a quiet, measured softness:
+[PHIL KNIGHT] You told me the same thing when convincing me to give away shoes to colleges.
 
-[MALE] you...do you even remember the last time we saw each other? I put you on a carriage with your mother... Margaret, tearing, hugs her father. Solomon almost breaks, but he keeps himself together. Looking to the UNKNOWN MAN:
+[SONNY] The principle still stands: we can't pay college players, we can't pay to endorse them, so we give the shoes directly to the school because the media is well worth the cost of a few dozen shoes.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[PHIL KNIGHT] We're paying to do so.
 
-[MALE] And who is this?
+[SONNY] It's working!
 
-[NARRATOR] Margaret adds in a relaxed, peaceful voice:
+[PHIL KNIGHT] Theoretical value that can't actually be measured.
 
-[MALE] He is my husband.
+[SONNY] What was my first idea? A high school all-star game. Pretty soon, every shoe company in the world is holding their own branded all-star game. You think the Adidas Classic just appeared out of thin air? That was my idea and I have zero equity in it. I'm giving away my ideas for free. This place used to value ideas. It's been a while since that was true.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[PHIL KNIGHT] Stop seeking attention for yourself. Self is the enemy. The self does not exist. Self is a mirage, a fever dream. To truly know the self is to forget the self.
 
-[MALE] Husband?
+[SONNY] Again, if I wanted a meditation retreat, I'd go sign the Dalai Lama. Half these kids, probably more, don't pan out. There are a thousand reasons why. Don't have the work ethic.
 
-[NARRATOR] Margaret'S Husband responds with gentle reassurance:
+[NARRATOR] The room settles into a deep, heavy stillness, the kind that follows a passionate storm when the wind finally yields to the night. Outside the large glass windows, the evening shadows stretch long and slow across the quiet, manicured lawns of the campus, the fading light bleeding into a soft, velvety dusk. A gentle, cooling breeze slips through an open pane, carrying the faint, earthy scent of damp grass and distant pine, whispering softly against the drawn blinds.
 
-[MALE] It is very good to meet you, sir.
+[MALE] Don't have the confidence. The mental fortitude. Their priorities are in other places. There's no math formula. That's the point. There's no science to life. Some people succeed, others fail. All I can fucking do is give you my recommendation. And this is the strongest one I've ever had.
 
-[NARRATOR] Solomon whispers gently into the still air:
+[NARRATOR] Sonny’s voice drops from a heated swell into a low, rumbling cadence, his breath slowing as the ambient hum of the building returns—the quiet whir of an old ventilation system, the distant ticking of a brass wall clock. Phil Knight sits motionless in his oversized leather armchair, bathed in the amber glow of a single desk lamp, the light casting soft, comforting shadows across the wooden paneling of the office.
 
-[MALE] We have much acquainting to do. Margaret rises, she presents her bundle to her father.
+[MALE] Why are you pressing this? What are you trying to prove?
 
-[NARRATOR] Margaret answers in a low, calming tone:
+[MALE] That I'm right! That I'm right, god dammit! And that I care. That's the only reason I do what I do. And I'm not going to fucking apologize that I care more than the rest of you. And, by the way, people have been trying to do exactly what you're doing to me for the last twenty-two years.
 
-[MALE] And this is your grandson. Solomon Northup Staunton.
+[NARRATOR] The quiet deepens, heavy and restorative, punctuated only by the rhythmic rise and fall of their breathing. The dust motes drift lazily in the amber cone of light, rising and falling in the tranquil air like tiny, sleeping stars.
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[MALE] Which is what?
 
-[MALE] ...Solomon... The fact his grandson carries his name, is overwhelming. Solomon breaks down. Emotionally, physically... But ANNE IS THERE TO CATCH HIM. As she holds him, Solomon says to Anne with all his heart:
+[MALE] Telling me that they don't know what the fuck it is I do. How much of life is being in the right place at the right time? The thing about that moment? You don't get to choose when and where it happens. All you can do is recognize it when it's here. You don't choose the time... the time chooses you. So here it is: we're in the right place and it's the right time. Now it's just a question of what the fuck we're going to do with that opportunity.
 
-[NARRATOR] Solomon murmurs with a warm, steady cadence:
+[NARRATOR] Phil looks up, his gaze drifting away from Sonny, wandering past the rim of the lamplight toward the shadows of the room, where an old, vintage waffle iron hangs quietly upon the wood-paneled wall, a relic of quiet beginnings. The air is warm, thick with the comforting patina of old paper and leather, inviting a profound sense of rest.
 
-[MALE] Forgive me.
+[MALE] You know they teach that linear thinking is nothing but a delusion, one of the many that keep us unhappy. Reality is nonlinear. No future. No past. All is now.
 
-[NARRATOR] Anne murmurs with a warm, steady cadence:
+[MALE] Which is why we need to act... now. Do you want to be the guy that was great at selling shoes he found in Japan or do you want to be someone who changes the world? You can be a household name in the apparel industry or you can be a household name full stop.
 
-[MALE] There is nothing to forgive. The pair, joined now by the whole family, hold on to each other for life...and one would think for all the rest of their lives. FADE TO:
+[NARRATOR] Phil lets out a long, quiet sigh, the tension in his shoulders slowly melting away into the plush upholstery of the chair.
 
-[NARRATOR] Black murmurs with a warm, steady cadence:
+[MALE] Sonny, enough.
 
-[MALE] CARD: Upon gaining his freedom, Solomon Northup located and attempted to seek legal justice against the men who kidnapped him. The case was tried in Washington, DC where blacks were prohibited by law from testifying
+[MALE] I, mean, hey, it will be great speaking at sales seminars the rest of your life. It's a good living, who could fault you? But you want more. I know you want more because I want more. And if I want more for a company I didn't even fucking start then I sure as hell know that you want more. Tell me if I'm wrong.
 
-[NARRATOR] 123. answers in a low, calming tone:
+[NARRATOR] The silence that follows is vast and soothing, wrapping around the two men like a heavy, quilted blanket on a cold winter's night. The world outside has gone completely still, the nocturnal quiet pressing gently against the glass.
 
-[MALE] 169 CONTINUED:  169 against whites. The charges against the kidnappers were eventually dismissed. Northup spent the rest of his life working as an abolitionist, and with the Underground Railroad. Solomon Northup most likely died between 1863 and 1875. The exact date, place, and circumstances of his death remain unknown.
+[MALE] I'm trying to have faith.
 
-[NARRATOR] The narrative softly draws to a close, and the world outside settles into pure, uninterrupted quiet. The shadows lengthen across the room, wrapping you in a cocoon of warmth, safety, and deep peace. Every breath you take now is slower, softer, and deeper. There is nothing more to do, nowhere else to be. Surrender completely to the gentle pull of sleep. Drifting... floating... sleeping deeply and peacefully through the night.
+[MALE] And what are you doubting?
+
+[MALE] The opposite of faith is not doubt but certainty. And you're too certain.
+
+[MALE] There are hills I'm willing to die on.
+
+[NARRATOR] A faint, weary smile touches the corners of Phil's mouth, the lines of concentration softening into peace as he leans back, surrendering to the quiet gravity of the hour.
+
+[MALE] Give me the weekend. We can always cancel on Monday. You don't need a firm offer to prep the rest of the meeting.
+
+[MALE] It wouldn't hurt.
+
+[MALE] You know the first time I met you I thought you were in the mob.
+
+[MALE] Phil, I have connections with men who wear tacky suits, but they're basketball coaches.
+
+[NARRATOR] A low, rumbling chuckle fills the dim room, dissolving the last remnants of daytime anxiety into the soft, sleepy stillness of the night.
+
+[NARRATOR] Outside, the midday sun casts a warm, heavy, golden glow across the quiet avenues, baking the asphalt into a sleepy, shimmering haze. A long, sleek limousine glides silently to a stop right before the towering glass doors of the Converse headquarters. The air is still and heavy with the promise of afternoon rest. David Falk steps out first, his polished shoes touching the pavement with a soft tap. He looks up at the grand, sweeping logo, a faint, contented smile touching his lips as the gentle breeze rustles the nearby leaves.
+
+[NARRATOR] The rest of the Jordan family emerges from the cool interior of the car. Deloris steps out gracefully, followed by James, their movements unhurried and calm. Together, they turn, waiting patiently as Michael unfolds his long, athletic frame, stepping out into the bright, diffused light. Waiting to greet them beneath the grand awning is John O'Neil, his hair neatly styled, wearing a bright red tie that catches the light, and Joe Dean, the vice president of marketing, standing shoulder to shoulder in the quiet afternoon.
+
+[MALE] Mrs. Jordan, it's a pleasure to meet you. We sure do appreciate you making the long trip out here.
+
+[NARRATOR] Inside, the atmosphere shifts to a cool, velvety twilight. The shades are drawn in the expansive conference room, bathing the long wooden table in a soothing, shadowed amber glow. Everyone sits in hushed anticipation, the air quiet and still. On a glowing television screen at the front of the room, a familiar commercial plays out its final, rhythmic beats, the sound wrapping around the room like a lullaby.
+
+[NARRATOR] As the screen fades to black, the warm overhead lights lift slowly, blooming into a soft, inviting brightness. Joe Dean leans forward, resting his forearms gently on the polished table, his voice a steady, rhythmic murmur.
+
+[MALE] I've seen a lot of basketball, and the feeling I get when I see Michael play... there are only a few other players that gave me that feeling. And those players are here at Converse... they're the best of the best. It's that simple. Magic Johnson. Larry Bird. Michael Jordan. Those names all belong in the same sentence. And they belong at Converse.
+
+[NARRATOR] John O'Neil nods, his expression earnest as he directs his calm gaze toward the quiet center of the room.
+
+[MALE] Michael, we're going to treat you like our superstars. Before you even step onto an NBA court.
+
+[NARRATOR] David Falk shifts slightly in his chair, his voice cutting through the quiet room with effortless ease, breaking the surface like a pebble in a pond.
+
+[MALE] We're looking for a shoe that holds appeal beyond the basketball court.
+
+[NARRATOR] John O'Neil replies smoothly, leaning back into the soft cushions of his chair.
+
+[MALE] What could hold more appeal than the shoe worn by the best players in the game? Every kid wants to wear what the stars wear.
+
+[NARRATOR] Heads nod slowly around the table, the rhythmic motion falling into a slow, soporific cadence. James Jordan leans forward, his voice deep and measured, breaking the quiet pause.
+
+[MALE] What's coming down the pipeline? What's the new shoe for Michael going to be?
+
+[NARRATOR] John O'Neil smiles, gesturing slightly with an open palm, confident in the traditions of the past.
+
+[MALE] If I may... tradition and history are paramount at Converse. How does the saying go? Don't fix something that's not broken.
+
+[NARRATOR] Deloris Jordan sits back, her presence calm and grounding in the dim room. She looks slowly around the table, meeting every pair of eyes with a serene, unshakeable poise before she speaks, her voice soft yet carrying the weight of absolute clarity.
+
+[FEMALE] You have an impressive roster. The best three players in the league in Magic Johnson, Larry Bird, and Julius Erving. But the other way to look at that is... the best Michael will be with you is number four. No matter what he does. How do we know that you're going to put Michael above them? Above them?
+
+[NARRATOR] A quiet stillness settles over the room like a falling blanket of snow. John O'Neil blinks, momentarily caught off guard by the profound weight of her words, the smooth assurance faltering just a fraction.
+
+[MALE] Well... frankly, ma'am... we're talking about Magic Johnson and Larry Bird here.
+
+[NARRATOR] James Jordan leans in just an inch further, his voice rumbling like distant, peaceful thunder, ready to anchor the room into a deep, dreamless slumber.
+
+[MALE] Right, so
+

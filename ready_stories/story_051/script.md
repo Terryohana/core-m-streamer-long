@@ -1,4251 +1,2118 @@
-[NARRATOR] Welcome to tonight's peaceful sanctuary of deep, restorative slumber. Take this moment to settle into your bed, softening your posture, letting your head sink gently into the pillow, and releasing all the residual tension of the day. Inhale slowly and deeply... feeling the cool, tranquil air fill your lungs... and gently exhale, letting go of all effort. Tonight, we journey through an expansive, atmospheric sleep story inspired by the world of The Neon Echoes of Midnight Avenues. Allow the calming rhythm of the narrative to carry you effortlessly into stillness and deep rest.
+[NARRATOR] The night outside is heavy and warm, wrapped in the velvety humidity of Miami. The streets of Overtown breathe a quiet, slumberous sigh under the cover of darkness. In the distance, a low rhythm pulses, a steady heartbeat vibrating through the pavement, in sync with the quiet footfalls of a solitary runner. 
 
-[NARRATOR] 15 Minutes
+[NARRATOR] A slip of amber light cuts through the shadows. A hooded sweatshirt conceals a face, eyes staring intently, moving smoothly in and out of the velvety dark. 
 
-[NARRATOR] FADE IN
+[NARRATOR] Inside the warm, intimate confines of the Hampton House Club, a soft lavender light bathes an empty stage. A man steps forward, grabbing the sleek metal of a microphone. This is Sam Cooke. He slips out of his jacket, his presence warm and hypnotic, calling out to the night with a throaty, soothing mixture of soul and gentle invitation.
 
-[NARRATOR] on the words CZECH AIRLINE.  We are panning across the words
+[MALE] Let me hear it!
 
-[NARRATOR] on the side of the plane.
+[NARRATOR] Across the city, the runner’s boots—heavy construction boots—pound rhythmically against the quiet asphalt. This is Cassius Clay. He runs along the dark road in the dead of night, passing vacant lots and faded buildings, his breath matching a calm, internal tempo. 
 
-[NARRATOR] The atmosphere shifts into quiet stillness. inside, within airplane, the ambient light settles with a soft, peaceful glow over the surroundings.
+[NARRATOR] Back in the dim, velvety glow of the club, Sam Cooke's voice rises, wrapping around the listeners like a warm blanket.
 
-[NARRATOR] Angle Down responds with gentle reassurance:
+[MALE] Yeah!
 
-[MALE] on a tray table.  Crumpled Czech bills and coins are on it. Hands are counting the money.  The airline hostess announces the arrival at JFK - in CZECH.  A hand reaches into a breast pocket - pulling out two passports.  One is opened.  Belongs to EMIL SLOVAK.  The next passport belongs to OLEG RAZGUL. The hand passes the Oleg Razgul passport to the man next to him.  We notice several empty airline bottles of vodka and a small disposable camera on Oleg's tray table.  The passport is set down.  Oleg picks it up.  We hear Emil's voice in CZECH.  The scene is subtitled in ENGLISH.
+[NARRATOR] The women in the crowd answer back, a soft ripple of sound in the night.
 
-[NARRATOR] Emil whispers gently into the still air:
+[FEMALE] Oh, yeah!
 
-[MALE] Just do what I do.  Say the same thing I say.  Don't open your mouth.
+[NARRATOR] Cassius continues his midnight journey, crossing the quiet streets diagonally, his mind far away, adrift in a quiet sea of concentration. 
 
-[NARRATOR] Oleg whispers gently into the still air:
+[MALE] Don't fight it! We gonna feel it!
 
-[MALE] Okay. INT. PASSPORT CONTROL - KENNEDY AIRPORT - DAY CAMERA DOLLIES down a long line of passengers.  They are split into two lines - one for Americans, the other for visitors.  CAMERA finally arrives at EMIL SLOVAK.  An unshaven Czech in his mid-30's.  Tall, scraggly beard. Piercing blue eyes.  He's dressed in an outdated suit.  His eyes are alert, cunning and smart. OLEG RAZGUL, stands in line behind Emil.  Oleg is big.  Not tall - but wide.  A wrestler's body.  Emil looks at Oleg.
+[FEMALE] Gotta feel it!
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] The scene shifts to the MacArthur Causeway, where the dark, mirror-like waters of Biscayne Bay stretch out beneath leaden clouds in a vast, black sky. Sam Cooke's voice floats over the water, smooth and golden.
 
-[MALE] Don't fool around.
+[MALE] ...because you make me wanna mooove...!
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[NARRATOR] Yet Cassius's eyes remain entirely focused, concentrated elsewhere, looking toward a destination known only to him. Suddenly, a bright, intrusive white light washes over him from behind. He turns to see a Metro-Dade police car slowing beside him, clocking the running man in the quiet night. The driver begins to pull over, but a crackle from the radio arrests their attention. The passenger taps the driver's shoulder, and with a laugh, the patrol car accelerates away, its red taillights fading into the distance. 
 
-[MALE] Okay. Oleg holds up his disposable camera - at arms length - to take a picture of himself.
+[NARRATOR] Cassius watches them go, feeling neither relief nor anger, only a profound and dismissive calm. His gaze drifts, and the warm Miami night dissolves into the quiet, wood-paneled stillness of a Louisville boardroom by day. 
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[NARRATOR] Six patrician white business-people sit around a table covered in green baize, bathed in soft, filtered daylight. At the foot of the table sits Cassius Clay, Senior, wearing a dapper suit and a tie with a bright, cheerful pattern. His hands are folded deferentially before him, resting beside a heavy stack of legal contracts. One of the board members reads aloud, the words gentle and formal in the quiet room.
 
-[MALE] Did you hear what I said?
+[MALE] ...the successor trustee shall be fully authorized to pay or...
 
-[NARRATOR] Oleg offers quietly, watching the shadows drift across the room:
+[NARRATOR] The heavy stack of legal contracts rests quietly upon the polished mahogany table, catching the soft, amber glow of the afternoon lamps. Outside the high-rise windows, the afternoon light of Louisville begins to lengthen and soften, casting long, peaceful shadows across the room. The board member’s voice continues, carrying the gentle, measured cadence of a lullaby, reading from the document with infinite care.
 
-[MALE] I want to document my trip to America.
+[MALE] ...disperse such sums from the income or principal as may be required. Do you understand so far, Mr. Clay?
 
-[NARRATOR] Immigration Officer whispers gently into the still air:
+[NARRATOR] Cassius Clay, Senior, folds his hands deferentially before him, his tie bearing a bright, cheerful pattern that catches the subdued light. He nods slowly, offering the polite conformity expected of him in this quiet, wood-paneled sanctuary.
 
-[MALE] Next.  Could I see your documents, please?
+[MALE] Uh, yes, I do.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[NARRATOR] Beyond him, seated against the wall in a neat sport jacket and tie, sits young Cassius, Junior. His eyes drift slowly to the left, then to the right. The entire wall behind him is covered with framed photographs of thoroughbred horses and proud studs owned by the Louisville Sponsoring Group. He sits quietly among them, feeling the weight of being measured and possessed by the room. He looks past the gleaming wood and the legal papers at the back of his father’s head, listening to the murmurs of the board.
 
-[MALE] Yes sir. He hands the passport to the officer who runs it through an image swipe.  Emil glances furtively back to Oleg.
+[MALE] Are you sure, sir?
 
-[NARRATOR] Immigration Officer responds with gentle reassurance:
+[NARRATOR] Cassius Clay, Senior, shifts slightly in his chair, his voice steady and low.
 
-[MALE] What is your intended purpose of your visit to the United States?
+[MALE] Yeah. I follow you.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[NARRATOR] The board member smiles, a reassuring gesture in the quiet room.
 
-[MALE] Two weeks holiday.
+[MALE] Okay. 'Cause I'd be happy to explain any of these terms.
 
-[NARRATOR] Immigration Officer offers quietly, watching the shadows drift across the room:
+[NARRATOR] Cassius Senior shakes his head gently, his posture remaining respectful and still.
 
-[MALE] How much money are you carrying with you?
+[MALE] No, thank you.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] The board member nods, closing the heavy folder with a soft, muffled thud.
 
-[MALE] I have five-hundred dollars.
+[MALE] Thank you, sir.
 
-[NARRATOR] Immigration Officer answers in a low, calming tone:
+[NARRATOR] The scene dissolves into the velvety velvet blackness of night. We are crossing the MacArthur Causeway, suspended between the dark, starlit sky and the obsidian waters below, moving with a slow, hypnotic drift. The gentle rhythm of distant music floats on the breeze, the smooth, soulful voice of Sam Cooke wrapping around the midnight air like a warm blanket. 
 
-[MALE] Can you show me?  Sir, no cameras in the FIS area! Oleg was about to take a picture of Emil and the Immigration Officer.  Oleg puts the camera away.  Smiles sheepishly.
+[NARRATOR] The rhythm carries us onward, shifting softly into the cool, pre-dawn shadows of the Fifth Street Gym in Miami. The air is still and cool before the sunrise. Cassius stands before the leather speed bag, his fists moving in a steady, hypnotic blur, but it is his eyes that hold the stillness—focused, deeply concentrated, watching the world with quiet intensity. 
 
-[NARRATOR] Immigration Officer offers quietly, watching the shadows drift across the room:
+[NARRATOR] The motion slows, blurring through the quiet haze of memory and shadow. The brown leather of the speed bag stretches and transforms, becoming the heavy brown boxing glove of Sonny Liston, driving forward in a slow, hypnotic arc like a steady piston. The glove strikes with the weight of the street, and the memory shifts to the canvas of the ring under the bright, artificial lights. A boxer falls, the referee moves in, and the distant, muffled roar of a crowd echoes softly, fading away into the quiet corridors of the night.
 
-[MALE] Is he with you?  Are you travelling together?
+[NARRATOR] The memory drifts further back, crossing the quiet thresholds of time, into the dim interior of a church in Louisville. There, the back of his father’s head is visible as he works in the quiet solitude, painting a mural upon the wall. The brush strokes are gentle and deliberate, bringing to life the face of a white Jesus with blue eyes and blonde hair. 
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[NARRATOR] Twelve-year-old Cassius, Junior watches from the shadows, his young eyes wide and observant, taking in every stroke of the brush as it ascends the wall of the Negro Baptist Church. The painted eyes of the mural softly dissolve back into the present moment, returning to the cool, quiet dawn of the Fifth Street Gym, where the steady, rhythmic breathing of the fighter fills the peaceful silence of the morning.
 
-[MALE] Yes.
+[NARRATOR] The morning light filters softly through the hazy windows of a slow-moving city bus, casting long, drowsy shadows across the worn linoleum floor. The air inside is warm and still, carrying the gentle hum of the engine and the rhythmic sway of the vehicle as it navigates the quiet streets. A young boy sits quietly, his small hand resting safely within the comforting warmth of his mother’s palm. He watches the reflection of the world glide past the glass, lulled by the hypnotic motion. Passengers drift by in a blur of muted colors—school sweaters and friendly faces—before the bus gently transitions toward the rear, where hardworking men and women stand shoulder to shoulder, weary and resting after long days, swaying softly with the vehicle's gentle rhythm.
 
-[NARRATOR] Immigration Officer responds with gentle reassurance:
+[NARRATOR] A newspaper rustles quietly in the dim light, its pages refolding with a soft, papery sigh. For a brief moment, the headline catches the boy's wide, innocent eyes—a fleeting glimpse of a distant, sorrowful world before a kind stranger rises to offer his mother a seat, restoring the quiet peace of the journey. 
 
-[MALE] Please join us.  Come on forward.
+[NARRATOR] Suddenly, the memory dissolves like mist under the morning sun, replaced by the cool, echoing vastness of the Fifth Street Gym. The heavy air is thick with the scent of old leather and polished wood. 
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[MALE] TIME!
 
-[MALE] Is there a problem?
+[NARRATOR] A short man in a crisp white shirt enters the sanctuary of the gym, a folded newspaper tucked securely beneath his arm, his footsteps echoing softly against the floor. Across the room, caught in a daydream of memory and motion, a fist strikes the leather speed bag with a sharp, rhythmic *thwack*. The sound reverberates, fading into the quiet afternoon heat of the Masjid Al Ansar mosque in Miami, where ceiling fans turn in slow, hypnotic circles above.
 
-[NARRATOR] Immigration Officer offers quietly, watching the shadows drift across the room:
+[NARRATOR] The atmosphere here is deep and reverent, heavy with the scent of polished wood and quiet contemplation. Malcolm X stands at the distant podium, his voice a steady, rhythmic cadence that washes over the room like a warm, evening tide.
 
-[MALE] No, you're travelling together.  I want to talk to you together.  Hi, how are you?  Can I take a look at your documents?  Are you related?
+[MALE] ...and those of you who think you came here to hear us tell you, like these Negro leaders do, that times will get better and we shall overcome someday, I tell you: you came to the wrong place.
 
-[NARRATOR] Oleg whispers gently into the still air:
+[NARRATOR] The slow blades of the ceiling fans slice the warm air overhead, creating a soothing, hypnotic drone that lulls the senses. 
 
-[MALE] Yes...he's my friend.
+[MALE] 'Cause your times will never get better until you make them better. And any of you who think you came here to hear us tell you to turn the other cheek to the brutality of the white man and the established system of injustice in this country, to beg for your place at their lunch counter, I say again! You came to the wrong place.
 
-[NARRATOR] Immigration Officer whispers gently into the still air:
+[NARRATOR] In the shadows near the rear, leaning quietly against the cool wall in dark glasses, the young fighter listens, breathing as slow and even as the tide against the shore. Malcolm’s eyes find him in the quiet dimness, offering a subtle, knowing nod that speaks of a quiet, enduring bond.
 
-[MALE] Okay.  You're a Czech national and you're a Russian national.  How do you know one another? Oleg starts to speak, but Emil cuts him off.
+[MALE] 'Cause we don't teach you to turn the other cheek. We don't teach you to turn the other cheek in the South. We don't teach you to turn the other cheek in the North. The Honorable Elijah Muhammad teaches you, instead, to obey the law. To carry yourselves in a respectable way. And a proud Afro-American way. But at the same time...we teach you...that anyone who puts his hand on you? Do your BEST...to see he doesn't PUT HIS HAND on any...body...else...AGAIN.
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[NARRATOR] The words drift upward, dissolving gently into the rafters of the quiet mosque, mingling with the hum of the fans and the deep, peaceful stillness of the afternoon. The room settles back into a profound, restorative slumber, wrapped in the comforting embrace of shadows and rest.
 
-[MALE] We are both from Prague.
+[NARRATOR] The morning unfolds with a soft, rhythmic whisper, the sound of a jump rope cutting through the still, dusty air of the Fifth Street Gym. Whop, whop, whop, whop. The rope spins effortlessly in a continuous blur, creating a gentle breeze that stirs the quiet atmosphere. It is that magical, timeless hour of the early morning—the fighter's hour, hovering delicately between the deep shadows of the night and the gentle promise of the light. Golden rays stream through two tall, weathered windows, illuminating tiny dust motes that dance slowly in the beams. Painted upon the glass are the fading words of a storied past, while heavy boxing gloves hang silently in the corners. 
 
-[NARRATOR] Immigration Officer whispers gently into the still air:
+[NARRATOR] Nearby, Angelo Dundee tends to a quiet ritual, setting a pot of coffee to brew. He washes his hands in a well-worn sink, the sound of the water soft and soothing, before thoroughly and methodically drying them. Alert, clean, and carrying the graceful wisdom of the old school, he walks back to the edge of the boxing ring, unfolding a newspaper and letting the quiet moments settle around him. Outside, passing leisurely across the white-paned windows, Drew "Bundini" Brown appears. He settles onto a wooden bench, pulls a ripe orange from his pocket, and sits in absolute silence, slowly and methodically peeling the fruit. Inside the ring, Cassius continues his rhythmic dance, walking the rope as he jumps up and back, his movements light and unhurried. 
 
-[MALE] How long are you planning to stay?
+[MALE] Yeah. Like that, Daddy. Don't jump in one place. Bad for the heart. That's the most important thing. 
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] Angelo speaks without lowering his newspaper, his voice a warm, familiar rumble in the quiet gym. 
 
-[MALE] Two weeks.
+[MALE] TIME! 
 
-[NARRATOR] Immigration Officer answers in a low, calming tone:
+[NARRATOR] Cassius lets the rope drop softly where he stands, stepping away just as the smooth, velvet sounds of Sam Cooke drift into the space, mingling with the heavy, sweet air of the Hampton House Club. Women in the front row reach out toward the stage, caught in the hypnotic, palpable heat of the performance. The room sways gently to the music. Back inside the Fifth Street Gym, Cassius settles into the frame, his skin glistening with a sheen of gentle perspiration, guided through quiet, rhythmic calisthenics by the steady hands of Luis Sarria. 
 
-[MALE] I'd like to speak for himself, okay?
+[MALE] TIME!!! 
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] Angelo’s voice echoes softly through the rafters. Across town at the Hampton House Club, the room rocks gently to the high, rhythmic cadence of Sam Cooke’s sweating, passionate performance. Inside the ring at the Fifth Street Gym, the focus narrows to the living, breathing gaze of Cassius as he spars in slow, deliberate grace. He never throws a punch; instead, he jerks back, sliding away by a mere inch, mastering the art of absence. He circles in a motion that begins off-balance, then softens into a fluid, shifting rhythm, effortlessly anticipating where he will not be. A sparring partner throws a jab, then a hook, both missing their mark by a breath as Cassius slips past them with tranquil ease. 
 
-[MALE] He doesn't speak English.
+[NARRATOR] Entering the heavy doors of the gym come the gregarious Dr. Ferdie Pacheco and a young Howard Bingham, his camera instantly raised, capturing the quiet poetry of the moment. Luis Sarria glances toward them, but not a single soul in this legendary corner breaks their deep, meditative concentration. They are entirely in their zone, floating in a trance-like stillness. Cassius circles with his hands held low, slipping through space in a completely unpredictable, soothing pattern. 
 
-[NARRATOR] Oleg speaks with a quiet, measured softness:
+[NARRATOR] The scene shifts, drifting smoothly into the plush interior of a grand limousine gliding through the sun-drenched streets of Miami. Cassius sits in extreme calm, zenned out in slow motion, dressed in a sharp suit and tie. The pastel-colored buildings and drifting faces of the city float past the windows like a dream, the heavy vehicle cradled by its soft suspension. Outside, the warm Miami heat shimmers gently. Inside the Hampton House Club, Sam Cooke drives his melody toward a grand, soulful climax, a vibrant contrast to the profound, floating serenity of the limousine's journey. As the medley softly fades away, the atmosphere shifts again to the cool, echoing hallways of the Miami Convention Center. Cassius, wrapped in a plush terry-cloth robe, walks faster and faster down the corridor. Dundee and Bundini, Bingham with his clicking cameras, and Pacheco and Rudy all race to keep pace with his steady, forward momentum, until Cassius finally reaches a heavy door and gently, powerfully, slams it open to enter the large room beyond.
 
-[MALE] I speak English.
+[NARRATOR] The heavy metal door swings open wide, letting in the cool, conditioned air of the Miami Convention Center weigh-in room. Outside, the world is bright and humid, but here under the heavy, low-hanging hum of fluorescent lights, the air thickens with the dense, expectant breath of five hundred reporters, promoters, and boxing men. The light casts long, gentle shadows against the walls as the commotion of footsteps fills the expansive hall. Cassius steps into the center of the room, his white cloth robe swaying softly, his energy vibrating against the quiet murmurs of the crowd.
 
-[NARRATOR] Immigration Officer adds in a relaxed, peaceful voice:
+[MALE] Float like a butterfly! Sting like a bee! Rumble, young man, rumble. Aaaaaaargh!
 
-[MALE] Then answer my questions.  Where were you planning to stay during the two weeks that you're here?
+[NARRATOR] The shouts echo off the concrete floor, a rhythmic chant that ripples through the tense air like a sudden, rushing breeze. Cassius stands tall, his eyes bright and focused, looking out over the sea of staring faces. 
 
-[NARRATOR] Oleg offers quietly, watching the shadows drift across the room:
+[MALE] Sonny Liston: you ain't no champ! You a chump! You want to lose your money, bet on Sonny. He know I'm great. He will go in eight!
 
-[MALE] New York.
+[NARRATOR] A collective intake of breath ripples through the five hundred gathered journalists. Cassius narrows his gaze, scanning the crowd until his eyes lock onto a massive, immovable figure sitting across the room.
 
-[NARRATOR] Immigration Officer whispers gently into the still air:
+[MALE] What you lookin' at, you ugly bear?!
 
-[MALE] Yes, we're in New York now.  But where are you planning to stay in New York?
+[NARRATOR] Sonny Liston sits like a carved tree trunk in boxing shorts, his massive shoulders still, his dark eyes radiating an unremitting, heavy stare. He is a mountain of quiet menace, waiting with slow, coiled patience to pull the young challenger apart. But Cassius only steps forward, light and unbothered.
 
-[NARRATOR] Oleg speaks with a quiet, measured softness:
+[MALE] C'mon, bum. I whup you right here!
 
-[MALE] A cheap hotel.
+[NARRATOR] With a sudden surge of kinetic grace, Cassius pushes past the nearest reporters, leaping forward as if to close the distance and settle the match right now, in the quiet dimness of the room. A flurry of movement breaks out as Bundini, Rudy, Dundee, and Liston's handlers rush in, their arms wrapping around Cassius to gently and firmly steer him away, guiding him upward onto the heavy brass scale. 
 
-[NARRATOR] Immigration Officer speaks with a quiet, measured softness:
+The room holds its breath as the official looks down at the balancing beam, the soft clink of the metal weight echoing in the vast space.
 
-[MALE] What are you coming here to do?
+[MALE] ...210... Cassius Clay weighs 210 pounds.
 
-[NARRATOR] Oleg speaks with a quiet, measured softness:
+[NARRATOR] Cassius blinks, looking down at the platform beneath his bare feet.
 
-[MALE] I'm here for movies.
+[MALE] You sure you got that right...?
 
-[NARRATOR] Immigration Officer responds with gentle reassurance:
+[NARRATOR] The man nods slowly. Cassius steps off the scale, his movements fluid and easy, while Liston rises with heavy, deliberate steps to take his place, fixing Cassius with that eternal, heavy gaze of ice.
 
-[MALE] Movies...to be in the movies or to see movies?
+[MALE] 218. Sonny Liston...the heavyweight champion of the world weighs 218 pounds...
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[MALE] Pounds of what?!
 
-[MALE] Yes.  No.  Both.  When I was a boy, I see movie at school called "It's a Wonderful Life" directed by Frank Capra. Ever since I want to come to America. Land of the free.  Home of the brave.  A land where anyone can be anything. As long as they are white.
+[NARRATOR] Cassius bounces on the balls of his feet, his voice ringing out with lighthearted amusement.
 
-[NARRATOR] Immigration Officer whispers gently into the still air:
+[MALE] Pounds of ugly! He so ugly, sweat run backwards off his forehead to get away from his face! C'mon, bear! I turn you into a rug!! Rumble right now, man!
 
-[MALE] Excuse me?
+[NARRATOR] Angelo Dundee and Bundini catch his arms, pulling him back with gentle, practiced hands, laughing softly to soothe the rising heat. Across the room, Liston leans in, his voice a low, dark rumble beneath the ambient murmur of the press.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] Keep talkin', punk-ass faggot! I'll fuck you up like I's your daddy...
 
-[MALE] He made joke, bad joke.  First time on airplane... The SUPERVISOR comes over to see what the problem is:
+[NARRATOR] Handlers quickly step between them, breaking the tension and hustling Liston toward the exit, their footsteps heavy against the concrete. Cassius watches them go, chin raised, a soft, confident smile playing on his lips.
 
-[NARRATOR] Immigration Officer answers in a low, calming tone:
+[MALE] You whup me, I'll crawl out of the ring on my knees and catch the next jet plane out of the country.
 
-[MALE] Well, they've got valid visas, but they don't have much money.  Uh... and I'm not...uh, I think there's a possibility they may be coming to live and reside.
+[MALE] That a promise?
 
-[NARRATOR] Supervisor adds in a relaxed, peaceful voice:
+[NARRATOR] Laughter ripples through the older reporters, a warm, rolling sound in the quiet hall. Cassius turns his gaze toward Jimmy Cannon, his eyes gleaming.
 
-[MALE] Look how long the line is.  We gotta move 'em out.  I'll take them down to secondary. Emil looks at Oleg, pissed. INT. P.B. HERMAN'S RESTAURANT - DAY The place is empty except for one table at the end of the bar.  EDDIE FLEMMING, Manhattan's most famous detective, and his savvy, black partner, LEON JACKSON are having cocktails. Eddie is smoothly handsome, tough, smart and tired.  Not only is he the best homicide detective Manhattan has ever seen, he's continually mentioned in New York columns and has been the subject of several magazine articles.  There's even been a TV movie about one of his biggest cases.  Leon has been with Eddie a long time and was also featured in the TV movie. Sitting with Eddie and Leon is ROBERT HAWKINS, host and star reporter for the tabloid show, "Top Story."  Hawkins is also the best in the business and has dealt with them all: Joey Buttafuco and Amy Fisher, Lorena Bobbit and OJ. Wait staff bustles in the b.g. doing the morning set up. Hawkins listens as Eddie, cigar in hand, finishes a "war story" and a vodka tonic at the same time.
+[MALE] ...you be the first eatin' his words!
 
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
+[NARRATOR] Suddenly, a doctor steps forward, gently wrapping a canvas cuff around Cassius's bare arm to check his pulse and blood pressure under the warm overhead glare. The doctor's eyes widen, and he leans over to murmur in alarm to Pacheco.
 
-[MALE] So we're waitin' to hit this warrant - we got Emergency Service with the heavy weapons standin' by - ready to go.  I say, lemme get a cigar outta the car.  I go to get the cigar and BOOM!  All the sudden I turn around and a kid with a shotgun let one go.  Right where I was standin'.  That coulda been it.  I coulda had my head blown off and for what?  Some stupid kid got panicky, takes the safety off and it's over.  If I hadn't gone back for that cigar - for a bad habit - I would've had my head blown off.
+[MALE] 210 over 110?! I can't let him in the ring in this condition!
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[NARRATOR] Reporters lean forward, their voices overlapping in a steady hum of questions, flashing bulbs creating brief, silent bursts of stark white light against the shadows.
 
-[MALE] Jesus Christ. PAULIE, the owner, walks up.
+[MALE] Liston says he'll talk with his fists. "Lip from Louisville." Odds are 7-1 against you. Big bet's whether he'll knock you out in the first round or third round or kill you altogether. You scared of him?
 
-[NARRATOR] Paulie whispers gently into the still air:
+[NARRATOR] Cassius lets out a calm, reassuring breath, his posture completely relaxed, untouched by the storm of doubt around him.
 
-[MALE] Speakin' of bad habits, everybody okay?
+[MALE] I'm scared of no man. I give Sonny Liston talking lessons, boxing lessons and falling down lessons.
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[MALE] Yeah, sure. Are you a Black Muslim? Pat Putnam in the Miami Herald said...
 
-[MALE] Another martini.
+[MALE] "Black Muslim"'s a press word...
 
-[NARRATOR] Leon speaks with a quiet, measured softness:
+[NARRATOR] Angelo Dundee steps in swiftly, his voice protective and firm, cutting through the murmurs like a cool breeze.
 
-[MALE] Coffee for me, I gotta slow down.
+[MALE] Man's religion's his own business. What kinda question's that?
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] The reporters press on, their questions blending together in a hypnotic drone, asking about Malcolm X, about hatred, about the heavy tension hanging in the Miami air. Angelo's eyes catch a familiar, tall figure approaching through the crowd, carrying the heavy weight of a tape recorder.
 
-[MALE] Vodka tonic.
+[MALE] Howard!
 
-[NARRATOR] Leon responds with gentle reassurance:
+[NARRATOR] Howard Cosell steps closer, balding, measured, his expression coolly observant as he surveys the young fighter.
 
-[MALE] Maybe you could just put in a shot of Martell? Paulie takes the drinks off the table and an empty bottle of vodka.
+[MALE] ...cannot stand you, Cassius. He really wants to kill you...
 
-[NARRATOR] Leon murmurs with a warm, steady cadence:
+[NARRATOR] Cassius looks right at him, a wide, bright grin breaking across his face, melting away the lingering shadows in the room.
 
-[MALE] It was freaky, I'll tell you.  Stupid kid.
+[MALE] Howard Cosell, you are an instigator! How you get that way? When I'm done with Liston, I'm comin' for you!
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[NARRATOR] Cosell smiles quietly, and Angelo Dundee seizes the moment, using the lighthearted exchange to gently bring the press conference to a close, letting the noise of the room slowly fade into a peaceful, quiet hum.
 
-[MALE] What's the kid gonna say - sorry? Meanwhile I'm not here anymore. Like last week - we were at the morgue and this guy was all chopped up - spleen here - liver there - his heart in a pan. Six hours ago this guy was walkin' his dog or buyin' a quart of milk.  Who knows?  But some kid's robbed him for $3 or some shit and shot him and now you can't tell if he's a piece of beef or a human being and I'm thinkin' that's me. Sooner or later.  That's me.
+[NARRATOR] The heavy, humid warmth of the Miami afternoon presses softly against the windows of the rental house, a thick blanket of humid air that invites stillness and deep, dreamlike repose. 
 
-[NARRATOR] Hawkins whispers gently into the still air:
+[DOCTOR] It doesn't come down, I cancel this fight. You call me in an hour with his blood pressure.
 
-[MALE] Sooner or later that's everybody.
+[NARRATOR] The doctor's voice trails off into the heavy air, swallowed by the gentle rustling of palm fronds outside. Inside the cool, dim sanctuary of the living room, the television hums with a soft, hypnotic blue light, casting dancing shadows across the ceiling. Cassius rests on the sofa, his gaze fixed on the flickering screen where a movie plays, its quiet, strange beams of light washing over the room. The hours drift by like drifting clouds, slow and heavy with the promise of rest. Outside, beneath the warm Florida sun in the quiet backyard, a long white lounge chair sits upon the emerald grass, connected to the house by a long, trailing black extension cord that powers a small television resting on a crate. Cassius lies back in the chair, his eyes fluttering closed as the afternoon breeze carries the distant, muffled sound of traffic. The world grows very quiet. The warm sun warms his limbs, and sleep pulls him down into its soft, velvety depths. Then, a soft footstep rustles the grass. Cassius's eyes drift open, heavy with slumber, looking up to see a stranger standing at the edge of the shade.
 
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
+[BUNDINI] I'm called Bundini, rhymes with Houdini. He was a Jew, too...some other people call me Fastblack...or Daddy Mac...
 
-[MALE] Not chopped up.  Not chopped up like that.  I mean, what do I got left? Coupla articles.  A medal or two. Plaque here and there and in a coupla years no one remembers me anymore.
+[NARRATOR] Drew Bundini Brown stands hesitantly in the warm sunlight, holding his hat in his hands, his eyes glistening with a quiet, restless energy that matches the gentle swaying of the trees. Cassius merely blinks, his flat, sleepy gaze returning to the glowing television screen before him, entirely untroubled by the interruption. 
 
-[NARRATOR] Hawkins answers in a low, calming tone:
+[BUNDINI] Shorty sent me to Sugar Ray Robinson. I gave my power to Sugar Ray for seven years, gave him my voodoo, my magic. Now Shorty sent me to you.
 
-[MALE] I think you're getting a little moody there, Eddie.
+[NARRATOR] A soft breeze whispers through the yard, rustling the leaves overhead. Cassius barely moves a muscle, his voice a low, lazy rumble born of deep relaxation.
 
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
+[MALE] Who Shorty?
 
-[MALE] I'm not moody. Hawkins and Leon share a look.
+[BUNDINI] I call him Shorty 'cause he like 'em circumcised. Original people. Like Moses. And I was a babe in a basket, too. I was born on a doorstep with a note 'cross my chest that read, "Do the best you can for him, world." I had to suck the first nipple come along. I didn't run away from home...I been runnin' to home.
 
-[NARRATOR] Hawkins responds with gentle reassurance:
+[NARRATOR] The afternoon light lengthens, casting long, peaceful shadows across the lawn. Bundini lingers, his foot resting near the edge of the patio, seeking a place in this quiet world.
 
-[MALE] Isn't he a little moody?
+[BUNDINI] Now, I gotta ask you. You fixin' them fights? Else no way you could tell great Archie Moore what round you droppin' him in...all of them predictions you make, comin' true. Never heard of nobody predictin' the round like you. You either a phony or Shorty's in your corner. Tell me the truth, young man...
 
-[NARRATOR] Leon offers quietly, watching the shadows drift across the room:
+[NARRATOR] Cassius stretches out further in the lounge chair, completely at ease, his eyes half-closed as he murmurs into the tranquil air without even turning his head.
 
-[MALE] Of course he's moody.  He thinks he's in love.
+[MALE] ...I study every fight. 'Til I got a plan. Wear him down two through four. Drop him in the fifth round. So the p'diction ain't a p'diction. It's a plan. And 'cause of all the poppin' off I do, I know I gotta win! That's the truth. And why I'm tellin' you?
 
-[NARRATOR] Hawkins adds in a relaxed, peaceful voice:
+[BUNDINI] 'Cause I'm gonna be your Inspiration. Your motivator. In your corner. Can I be in your corner, young man?
 
-[MALE] In love?  With who? Paulie delivers the drinks and sets some cigars on the table. Takes a seat next to Eddie.  Eddie asks Hawkins.
+[NARRATOR] Cassius pauses, letting the warm air settle around them, considering the quiet stillness of the moment before he speaks.
 
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
+[MALE] Yeah...
 
-[MALE] How old are your kids?
+[BUNDINI] Ain't spent much time in Miami. Where the water?
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[NARRATOR] But Cassius does not answer. His eyes have already drifted closed once more, lulled by the soothing hum of the television and the heavy, comforting warmth of the afternoon. He slips back into the quiet, dark harbor of sleep, his breathing deep and steady, as the warm Miami sun slowly dips toward the horizon, wrapping the world in an endless, peaceful rest.
 
-[MALE] My kids?  Let's see...Susan's 15. Aundrea's 9.  Don't tell me you're thinking about having a kid!  How old are you?  Never mind. Let me just tell you this: Every stupid cliche you hear about kids - they change your life, they make you a better person, they make you whole...  It's all true!  Before I had kids when friends talked about their kids, I wanted to vomit.  Now -- I get it.  Am I right, Leon?
+[NARRATOR] The afternoon light outside melted into a soft, velvety dusk, casting long, lazy shadows across the quiet room. Inside, the air was still and warm, filled with the gentle, rhythmic hum of the city beginning to wind down for the evening. 
 
-[NARRATOR] Leon answers in a low, calming tone:
+[NARRATOR] Dr. Pacheco stood quietly beside the bed, holding the cold brass of the stethoscope, gently checking the slow, steady rhythm of the pulse. 
 
-[MALE] Absomotherfuckin'lutely.  You can have all three of my ex-wives.  But somebody so much as looks sideways at my four girls -- I'd kill 'em.  You haven't seen my youngest have you? As he hands pictures to Hawkins his cell phone rings.
+[PACHECO] One-twenty over eighty. You should be asleep. The weigh-in episode was an act. We take a different measure of this man.
 
-[NARRATOR] Leon offers quietly, watching the shadows drift across the room:
+[NARRATOR] With a quiet sigh, Pacheco lowered himself onto the edge of the mattress, reaching into a nearby bag to quietly share a handful of crisp, salty potato chips, the soft crunch echoing gently in the hushed, shadowed room. 
 
-[MALE] Yeah?
+[NARRATOR] Moments later, the scene shifted softly into the warm, yellow glow of a dressing room inside the Miami Convention Center as the early evening settled over the coast. The room smelled faintly of leather, liniment, and anticipation. Cassius sat bare-chested on a wooden bench, his muscles loose and relaxed, while Angelo Dundee stood before him, performing the familiar, hypnotic ritual of wrapping his hands. 
 
-[NARRATOR] Hawkins answers in a low, calming tone:
+[NARRATOR] Long white strips of gauze wound round and round, a comforting, secure cocoon. In the quiet background, a small circle of familiar faces watched in reverent silence—Bundini, Pacheco, Bingham, Rudy, and a state boxing inspector holding a clipboard. 
 
-[MALE] Paulie, you've got kids, right?
+[NARRATOR] Suddenly, the heavy door clicked open, and Malcolm X stepped into the warm light, wearing a dark suit and a thin, quiet tie. Cassius’ face brightened instantly with a welcoming, easy smile. Dundee made the final tuck in the gauze, and the inspector leaned in to sign his initials across the crisp white tape. Then, moving with practiced ease, Dundee pulled the soft leather gloves over the wrapped hands, beginning to lace them securely. 
 
-[NARRATOR] Paulie speaks with a quiet, measured softness:
+[CASSIUS] When you get back?
 
-[MALE] My kids don't talk to me anymore but they were great when they were young.
+[MALCOLM X] Just now. I'm front row, seat 7.
 
-[NARRATOR] Leon responds with gentle reassurance:
+[RUDY] I'm gonna find Mom and Dad. Thirteen.
 
-[MALE] Sure it's him?  Great!  Unique's home. They all rise from the table.
+[CASSIUS] You could have stayed. Nobody gotta hide when they with me.
 
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
+[MALCOLM X] Nothing wrong with being cool, my brother. You been working toward this moment for four years.
 
-[MALE] Paulie, I need the cure.
+[ANGELO DUNDEE] He's right.
 
-[NARRATOR] Paulie speaks with a quiet, measured softness:
+[NARRATOR] Dundee turned away for a brief moment to tear two fresh strips of adhesive tape, leaving Cassius and Malcolm to turn inward, facing the corner of the quiet room. Sarria gently draped a soft white towel over Cassius’ bare shoulders. With arms bent and head bowed downward in deep, serene contemplation, he stood in silent prayer, turning his face toward the east alongside Malcolm. 
 
-[MALE] Step into my office. Leon and Hawkins sit back down as Eddie and Paulie leave.
+[NARRATOR] Around them, the faint rustle of Dundee packing away his cut gear on the wooden table was the only sound, like leaves brushing across a quiet pavement. 
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[MALCOLM X] It's a crusade in modern times. And television is beaming it off Telstar to the whole world. So Allah has brought this about for a reason... Salaam alaikum, my brother...
 
-[MALE] So you got your kids listening to Opera? You still singing in the church on the weekends? INT. SECONDARY IMMIGRATION OFFICE - DAY Now other officers are questioning Emil and Oleg.  They've been there a while.  The SECONDARY OFFICER is looking Oleg.
+[NARRATOR] With those quiet words of parting, Malcolm stepped back out into the hall. Cassius turned slowly back to Dundee, who finished lacing the heavy leather gloves and pressed a final strip of white tape securely over the knotted cords. The inspector stepped forward once more, signing his name across the final seal of preparation.
 
-[NARRATOR] Secondary Officer adds in a relaxed, peaceful voice:
+[NARRATOR] Outside, the corridor was dim and cool, shadows stretching long against the cinderblock walls. A heavy door suddenly slammed open, and Cassius emerged into the hallway, his entourage falling into step around him like a protective tide. Three large, middle-aged officials walked quietly beside them. Cassius’ face was entirely set, calm and still as stone, while thick white towels draped over his head and fell softly down his broad shoulders. 
 
-[MALE] Okay.  You work in a vodka factory.  I understand that.  And what kind of work do you do?
+[NARRATOR] Bundini murmured a low, rhythmic stream of encouragement close to his ear, while Dundee trailed behind like a humble artisan, carrying the simple tools of his trade—a galvanized bucket, clean cotton swabs, and a jar of soothing Vaseline. The noise of the world seemed far away, muffled and distant to Cassius in his deepening focus. 
 
-[NARRATOR] Emil answers in a low, calming tone:
+[NARRATOR] They reached the far end of the corridor, where a group of older men leaned against the wall, smoking cigars that glowed like embers in the twilight. Ahead of them hung a heavy velvet curtain, and beyond it, the muffled, rolling sounds of the great arena drifted into the hallway—a low, restless ocean of human voices. 
 
-[MALE] I am butcher.
+[NARRATOR] Suddenly, Cassius began to move. He bounced lightly onto his toes, beginning to dance—a slow, floating motion, as if weightless. Pulled forward by an unseen current, his entourage drifted along with him, carried effortlessly in his wake as they approached the threshold of the Miami Convention Center. 
 
-[NARRATOR] Secondary Officer responds with gentle reassurance:
+[NARRATOR] The heavy doors parted, and the vast hall opened before them. Waves of sound washed over the space—shouts, scattered applause, and low ripples of booing that rose and fell like distant thunder. It was a symphony of expectations, ridicule, and restless energy. Yet, standing amidst the sea of faces, the flashing lights, and the press of the crowd, a profound stillness settled over Cassius. His gaze fixed on something far beyond the noise, drawing him into a quiet, protective solitude where the rest of the world simply faded away.
 
-[MALE] You're a butcher?  What do you use pig intestines for?
+[NARRATOR] The arena hums with a deep, low vibration, a vast ocean of distant sound that washes over the canvas like the rhythm of a gentle tide. Beneath the blinding, milky cascade of overhead lights, the twenty-by-twenty-foot square of the ring stands illuminated, a quiet island of focus in a sea of midnight shadow. The air here is thick with the scent of leather, liniment, and the cool breath of anticipation. Cassius stands within the ropes, bathed in the brilliant white glare, completely at peace. The noise of the crowd, the flashing cameras, the restless murmur of the thousands pressing in from the dark—all of it drifts away into a soft, meaningless hum. He moves with a slow, hypnotic grace, shifting his weight from one foot to the other, dancing on the balls of his feet, warming his muscles in the quiet sanctuary of the ring. There is no anxiety here, only a deep, anchoring stillness. He can hear the distant, heavy approach of Liston, a massive, brooding presence entering the arena like a slow-rolling thunder, stirring the shadows somewhere across the expanse. And then, Cassius turns. He looks across the canvas at the man who wishes him harm, the anger radiating from the heavy figure in the opposite corner. The elaborate theatricality, the loud boasting, the dazzling showmanship—all of it has vanished, leaving only a profound, enigmatic quiet. Cassius rocks gently from left to right, patient as a nocturnal breeze rustling through leaves, his dark gaze steady and unblinking. The referee’s voice is a faint, indistinguishable murmur, like the call of a distant bird flying high above the storm. The feet float, light and untethered, waiting in the corner. Then, the bell rings, carrying a long, resonant tone that vibrates softly through the floorboards, marking the quiet beginning of Round One. The vast arena seems to hold its breath. Liston surges forward like a dark wave, launching a heavy left that cuts through the empty air and misses entirely, following with a flurry of strikes that Cassius evades with extreme, cautious grace. He moves like smoke, slipping away from the heavy blows of the monster whose true power remains an unknown shadow. His task is quiet and methodical: to measure the range, to test the speed in the cool night air. Then, a sudden, heavy body shot catches him just above the heart, a blunt reminder of Liston's devastating strength, a force that could stop the rhythm of the world itself. But Cassius absorbs it, endures it, and survives. He extends his long left jab, a precise, measured touch that keeps the giant at bay, establishing a safe, quiet boundary. Finding the range, he dances backward, his feet barely brushing the canvas, light as falling snow. Midway through the round, his focused eyes find an opening in the heavy defense. He unleashes a quick, crisp combination, a few sharp strikes that snap Liston’s head backward in sudden, genuine surprise. Easily, effortlessly, Cassius slips away from the furious, looping misses of the larger man, stepping aside as heavy punches slice harmlessly through the air. He tags Liston again with the long left, a quiet provocation that draws even wilder, more frustrated lunges from the shadow across the ring. Every swing of Liston’s arms carries the danger of the night, but Cassius is already gone, sliding away, circling into the quiet spaces, clinching for a brief, breathless moment before dissolving back into motion. As the round draws near its sleepy, heavy-lidded close, Cassius launches a second, fluid combination, landing two solid lefts that rock Liston’s head backward once more. The giant, burning with fury, surges forward in a reckless charge, but Cassius simply ducks and strikes in one continuous, flowing movement, a dance of evasion so smooth it defies the violence around it. The bell rings three times, a slow, echoing chime that finally brings the flurry to a rest. In the corner, the air is thick and warm. Cassius breathes deeply, his chest rising and falling to the steady rhythm of the night. Angelo Dundee works quickly over him, wiping the sweat from his skin with cool towels, speaking in a hurried, affectionate murmur. Cassius leans in, his voice a quiet, confidential whisper carried only on the gentle draft of the corner.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] He was supposed to kill me. Well, I'm still alive.
 
-[MALE] You stuff sausage in it.
+[NARRATOR] Dundee talks a mile a minute, tending to his fighter with frantic devotion, while Cassius opens his mouth wide in a playful, exaggerated expression toward the press row below, silently ridiculing the whispers that he was all talk. In the soft glow of the corner, it is undeniably clear to everyone watching that he has effortlessly controlled the first round. The bell sounds again, a single, deep note echoing across the canvas. In the second round, the scene stretches out under the heavy lights. Rows of reporters sit at long tables, their fingers moving steadily over clattering typewriters, ribbons spinning, while microphones and note pads capture the historic weight of the night, and massive television cameras hang suspended like silent mechanical birds from platforms over the corners.
 
-[NARRATOR] Secondary Officer whispers gently into the still air:
+[NARRATOR] Under the great, hazy glow of the arena lights, the air hangs thick and heavy with the scent of leather, liniment, and anticipation. The rhythmic clatter of typewriters from the press row has softened into a distant, hypnotic hum, like the gentle rustle of leaves outside a quiet bedroom window. Round follows round in a measured, dreamlike cadence. In the center of the canvas, the fighters circle one another through a warm haze of cigarette smoke and suspended dust motes. A low murmur ripples through the shadowed tiers of the audience, rising and falling like the tide against a tranquil shore. 
 
-[MALE] And what do you do with the bones?
+[NARRATOR] The third round begins with the slow, deliberate motion of a pendulum. Liston surges forward, his left arm swinging like a heavy iron freight train through the humid air. But Cassius merely leans back, weightless and unhurried, bending away as effortlessly as a willow branch in a gentle breeze. He drifts in a wide, graceful circle, his white-shoed feet whispering across the canvas. Then, with sudden precision, he snaps off a flurry of light, blinding jabs, opening a tiny, crimson crescent beneath Liston’s left eye. 
 
-[NARRATOR] Emil whispers gently into the still air:
+[ANNOUNCER] He's opened a cut on Liston. Liston's never been cut!
 
-[MALE] Dog food. Emil looks at Oleg.  Blaming his stupid responses at Passport Control for their detainment.
+[NARRATOR] The arena seems to hold its collective breath. Cassius moves with the quiet authority of someone who owns the very air he breathes. It is a symphony of classical footwork, a dance of flicked jabs and sudden, concussive combinations that surprise even the most immovable giant. At two hundred and ten pounds, the young fighter carries a heavy, startling power. Frustrated and suddenly panicked by the shifting tides of the fight, Liston lunges forward, swinging wildly into the empty air just as the deep, resonant tone of the bell echoes across the arena, signaling the end of the round.
 
-[NARRATOR] Secondary Officer whispers gently into the still air:
+[NARRATOR] The crowd’s collective sigh rises softly toward the high rafters. In the corner, young Cassius stands for a long, still moment before taking his seat. The chest of the twenty-two-year-old rises and falls in a deep, steady rhythm. He ignores the frantic chatter of his trainers, his gaze drifting out over the sea of shadowed faces in the vast amphitheater, savoring the absolute stillness of being at the very pinnacle of the world. He looks down at his corner team with a calm, transcendent certainty.
 
-[MALE] Are you married?
+[CASSIUS] He's nothin' to me... And he knows it...
 
-[NARRATOR] Emil responds with gentle reassurance:
+[NARRATOR] Across the canvas, in the opposite corner, a cornerman slips a small glass vial from his pocket, massaging a soothing, pale ointment into Liston’s weary, broad shoulder under the amber glow of the ring lights. 
 
-[MALE] No.  Are you proposing?
+[NARRATOR] The warning buzzer sounds, and the fourth round begins its unhurried progression. Clay peppers the champion with light, dancing jabs, their shadows stretching long across the mat. They feint, they circle, the rhythm lulling the vast arena into a drowsy trance. Then, Liston extends his left, a short, deliberate poke that brushes Cassius’ face. 
 
-[NARRATOR] Angle Up adds in a relaxed, peaceful voice:
+[NARRATOR] Suddenly, a quiet disturbance ripples through the young fighter’s composure. Cassius blinks rapidly, trying to clear his vision. At first, it is fleeting, a passing shadow, but then it returns, sharper and more insistent. The comfortable world he was just dominating begins to blur at the edges. They clinch, they break apart, and this time, Cassius violently shuts his eyes against a sudden, knife-like burning sensation. The light of the arena fractures into blinding, disorienting pain. He cannot see. For a few anxious moments, he stumbles through the haze, caught in a disquieting fog, until the saving grace of the bell rings out, releasing him into the shadows.
 
-[MALE] through a thousand ICE CUBES.  A face plunges towards us... INT. MENS ROOM Eddie has his back to us as he dunks his face into a sink full of ice.  He dries his face, looks into his bloodshot eyes.  Presents a small black ring box to the mirror.
+[NARRATOR] He stumbles back to his corner, his gloved hands grasping blindly at the cool, welcoming air.
 
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
+[CASSIUS] My eyes! I can't see... somethin' in my eyes!
 
-[MALE] Will you marry me?  Wanna get married? What are you doin' Saturday? Leon enters.  Eddie turns.
+[NARRATOR] Angelo Dundee moves with frantic, soothing urgency, pouring cool water over the young man's face, washing away the sting, wiping the heat from his brow. 
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] Outside the ropes, the warning buzzer sounds for the fifth round. The air grows cool against Cassius' damp skin as he stands up in the gloom, his hands raised in quiet surrender.
 
-[MALE] I'm gonna propose.
+[CASSIUS] Cut 'em off! Cut 'em! I'm blind.
 
-[NARRATOR] Leon whispers gently into the still air:
+[NARRATOR] The bell strikes again, its tone vibrating deep through the wooden floorboards. Dundee refuses to let go of the gloves, leaning in close with a voice like a steady anchor in a storm.
 
-[MALE] When?
+[FEMALE] No. You quit, it's over! Get out there. Be a yardstick. This is the big one, daddy. Get out there and run!
 
-[NARRATOR] Eddie whispers gently into the still air:
+[NARRATOR] With a firm, reassuring shove, Dundee sends the young fighter stepping forward out of the shadows and back into the blinding glare of the ring, where Liston waits, rushing forward through the mist to seize the moment, while Cassius reaches out blindly to find his footing in the dark.
 
-[MALE] Tomorrow.  At lunch.
+[NARRATOR] The heavy canvas of the ring absorbs the rhythmic, heavy thud of leather, the dense air swirling with the heat of the arena and the soft, drifting haze of overhead lights. Liston surges forward like a gathering tide, his powerful arms pulling the young fighter upward by the back of the neck, unleashing a relentless sequence of left and right hooks that echo through the quiet, suspended tension of the auditorium. WHAM, WHAM, WHAM, WHAM, WHAM. Five massive strikes land with the weight of desperation, the champion striving to end the bout while the mists still cloud his opponent's vision. Haymaker follows haymaker, some striking true, others glancing off defensive forearms, knocking the dancing figure sideways, yet the young challenger retreats with a graceful, instinctive rhythm, keeping his balance in the dark. 
 
-[NARRATOR] Leon whispers gently into the still air:
+[NARRATOR] Within the dim sanctuary of the ring, beneath the amber glare, the stinging veil over Cassius’s eyes begins to lift as the final minute of the round ticks softly away. Liston surges again, shoving him into the corner, throwing everything into a final effort to extinguish the light, but the defense holds firm, steady as a monolith. Slowly, inevitably, Liston’s formidable energy deflates, draining away as he realizes the task is impossible, until at last, the brassy chime of the bell rings out, long and resonant, dissolving into the warm, still air. 
 
-[MALE] You ready? Eddie leans back and drops some Visine in his eyes.  Turns.
+[NARRATOR] In the quiet sanctuary of the corner, surrounded by the cool, damp touch of sponges and the gentle murmur of attendants, sixty seconds pass like a quiet tide. The sting fades entirely from the young fighter’s eyes, clearing away the shadows, and deep wells of strength replenish themselves in the tranquil stillness. The bell sounds once more, and Round Six begins. 
 
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
+[NARRATOR] With an eager shuffle, the challenger steps back out into the light, circling with the fluid grace of a midnight breeze before unleashing a cascade of swift combinations. The fierce anger that once fueled Liston has long since evaporated, leaving his original strategy abandoned and his confidence entirely spent, reduced to nothing against the rising tide of youth and determination. Psychologically and physically, the champion is enveloped by the inevitable, his heavy shoulders sagging as the bell marks the end of the round, leaving him to contemplate the quiet weight of nine more endless rounds in the dimming light.
 
-[MALE] The thrill of the hunt.  I love it. EXT. TIMES SQUARE - DAY Oleg and Emil stare at the bright lights - all the nonstop action.  Each stands with an old suitcase.
+[NARRATOR] Sitting quietly in the corner, waiting for the seventh-round bell to break the silence, the air hums with the familiar, droning voice of Howard Cosell broadcasting over the radio waves, blending into the gentle murmur of the arena.
 
-[NARRATOR] Oleg adds in a relaxed, peaceful voice:
+[NARRATOR] Clay, a round ago, looked like he'd about had it, but in round six...
 
-[MALE] Look.  Times Square.  Just like in the movies!
+[NARRATOR] Then, knowing the truth before any other soul in the vast, hushed stadium, Cassius rises suddenly as if lifted upon invisible wings, both arms raised high toward the rafters, drawing a massive, rolling wave of sound from the crowd below.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] Sonny Liston is not coming out! Wait a minute! Wait a minute! Sonny Liston is not coming out! And we can see Liston still sitting on his stool in his corner, spitting out his mouthpiece. The winner...and the new heavyweight champion of the world is Cassius Clay!
 
-[MALE] Don't speak Russian!
+[NARRATOR] In a burst of vibrant motion, Cassius leaps upward onto the ropes of the corner, his silhouette framed against the bright lights as he calls out to the ecstatic sea of faces below.
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[FEMALE] I upset the world! I am the greatest! I am the greatest!
 
-[MALE] Why?  Why do I always have to speak to you in Czech?
+[NARRATOR] The arena erupts into a celebratory tempest of sound and motion, a tide of humanity rushing forward as the champion leans down toward the press.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[FEMALE] Eat your words! Eat your words!
 
-[MALE] Because I don't like your ugly language. I heard enough of it in school!  Now speak Czech or English.  And don't fool around anymore.  You almost got us thrown out! Emil pulls out an envelope with Milos' address on it.  This is who they came to see.  Emil hails a CAB.  Oleg is staring inside a camera store - at himself on a monitor.  A videocamera's pointed out in the street.
+[NARRATOR] Howard Cosell, the very first to clamber over the canvas and into the ring, presses close through the swirling commotion.
 
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
+[NARRATOR] What made him so easy for you?
 
-[MALE] Look.  New videocameras.  Color viewfinder.  Image stabilization. Solarization.  Night vision.
+[FEMALE] I told you. Didn't I tell you?
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[NARRATOR] Bundini steps gently forward, pressing a small comb into the champion's hand, and Cassius pauses to smooth his hair in the soft, glowing lights of the ring.
 
-[MALE] We have no money.  Come on. Oleg stares at the videocamera - dying to have one like this. Emil slides into the cab.
+[NARRATOR] Was there any single point you knew you had him?
 
-[NARRATOR] Cabbie murmurs with a warm, steady cadence:
+[NARRATOR] Amidst the swirling celebration, a familiar face catches his eye; Malcolm stands quietly near the departing rows, offering a deep, radiant smile that bridges the distance between them. 
 
-[MALE] Where you wanna go, buddy? Emil pulls out the post-marked envelope.  Points to the return address on it and passes it through the slot to the Cabbie.
+[FEMALE] I had him in the first round. 'Cause I'm the greatest! Sam... Hey, Sam! Let him up.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] Sam Cooke climbs smoothly through the ropes, stepping into the bright center of the ring where the warm amber lights catch the gleam of their shared laughter.
 
-[MALE] Here. Emil looks out the window - no sign of Oleg.  Then, Oleg hurries out the camera store, gripping something inside his coat.  He flings both suitcases in the trunk, SLAMS it shut and jumps in the back seat.  He opens his jacket - pulling out the VIDEOCAMERA he just stole.
+[FEMALE] I am the greatest! And he the greatest rock 'n' roll singer. Sam Cooke! I want everybody to bear witness. I shook up the world! Don't have a mark on me! I was burning. I was blind. I'm the prettiest thing that ever lived. I shook up the world! I shook up the world!
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[NARRATOR] As Sam steps forward to embrace his friend, the distant hum of the crowd softens into a gentle, rhythmic lullaby, carrying the tranquil silence of the night over the resting arena.
 
-[MALE] Go! Oleg smiles sheepishly at Emil. EXT. SPANISH HARLEM - DAY Eddie's car pulls up.  Eddie, Leon and Hawkins get out.
+[NARRATOR] Far from the glowing lights of the arena, deep within the quiet sanctuary of a nocturnal living room, the world outside feels distant and hushed. The air is warm and still, carrying the gentle scent of polished wood and quiet reflection. Elijah Muhammad, a man of serene and delicate features, sits in the soft, amber glow of a single lamp, resting upon furniture draped in protective, smooth plastic that crinkles ever so softly with the slightest shift. Beside him stands Joseph 13X, a sentinel of absolute calm, clad in a tailored dark suit, his expression a mask of unwavering tranquility. Together, they contemplate the monumental shift of the night, their minds drifting on the quiet currents of thought, untouched by the chaotic celebrations echoing far across the sleeping land.
 
-[NARRATOR] Hawkins responds with gentle reassurance:
+[NARRATOR] In the bustling heart of Miami, beneath the flickering neon of a pay phone booth, Gordon Davidson's voice cuts through the ambient murmurs of the night, urgent yet softening against the late hour. 
 
-[MALE] So what's unique?
+[MALE] I don't care what should have been ordered! We need a victory party right now. I got national press, the family, the champ, all kinds of folks... 250 to 300. Yes.
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] He hangs up, the receiver clicking into its cradle, and the night absorbs the sound, leaving only the distant, lazy hum of traffic winding down for sleep. 
 
-[MALE] Not what.  Who. Eddie passes Hawkins a Polaroid - of a woman on a bed - covered in blood.
+[NARRATOR] Not far away, the warm night air is filled with the soulful, rolling melodies of Sam Cooke singing "Feel It," echoing out from the packed sanctuary of the Sir John Nightclub and spilling into the moonlit streets. The celebrations outside drift by in a blurred montage of soft car horns and distant laughter, gradually fading into the steady, rhythmic pulse of the Floridian night. Sam moves through the vibrant crowd, stepping past the cigarette girl to take a quiet breath of the balmy air by the glittering hotel pool. Women in elegant cocktail dresses and handsome men sit at tables, talking in low, melodious tones. The doors to the rooms stand wide open, letting out the soft glow of bedside lamps and the cozy murmur of radios playing slow, comforting tunes into the darkness.
 
-[NARRATOR] Eddie whispers gently into the still air:
+[NARRATOR] Inside the ballroom of the Roney Plaza Hotel, a different kind of waiting hangs heavy in the air. A predominantly white crowd of sportswriters, sponsors, and onlookers—including Jimmy Cannon, Red Smith, and a young, twenty-one-year-old Robert Lipsyte of the New York Times—stand around drinking complimentary beverages. Cassius, Sr. stands quietly among them, patient and serene. The minutes tick by in a gentle, unhurried rhythm, with people murmuring among themselves, asking, "Where's your boy?" Yet, the champion is nowhere to be found, for he has already drifted away toward a quieter, truer destination.
 
-[MALE] He's from Antigua.  His girlfriend was taking too long to put her make-up on. they were late for a party.  Stabbed her with a beer bottle.
+[NARRATOR] Inside a quiet, softly lit room at the Hampton House, the door closes gently, shutting out the noise of the world. Malcolm X sits in a crisp white shirt, collar open, while Cassius sits nearby in a pool of golden television light, happily eating a bowl of cold ice cream. Betty Shabazz moves quietly out of the kitchenette, her presence adding a comforting warmth to the room. Suddenly, a little girl scuttles out from the bathroom and climbs straight into Cassius's lap with absolute familiarity, resting against him as though he were the safest harbor in the entire world. They watch the flickering black-and-white television screen together, bathed in a cozy, domestic glow. On the screen, a classic monster movie plays out its slow, harmless chills.
 
-[NARRATOR] Hawkins speaks with a quiet, measured softness:
+[FEMALE] Why's he so scared?
 
-[MALE] That's unique.
+[MALE] Man, look at that guy run!
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] Cassius dips his spoon into the cream, feeding a sweet bite to the little girl with a tender, playful smile.
 
-[MALE] Yeah.  And he still went to the party. Leon moves to a LOOKOUT - gives him a twenty.
+[MALE] The mummy! "I can't get away from the mummy!" Yeah, but that mummy too slow to catch anybody.
 
-[NARRATOR] Lookout offers quietly, watching the shadows drift across the room:
+[NARRATOR] Sam Cooke steps further into the room, his voice a smooth, melodic cushion of sound.
 
-[MALE] Top floor.  Back room.
+[MALE] Hey! The mummy always gets his man...
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[MALE] No, he don't! Now, don't believe that stuff on television...
 
-[MALE] Yeah.  I make big cases, they make the news and I look good.  But the problem with becoming a star is downtown.  They shoot at stars.  Now be quiet.  Shhh. As they reach the doorway - Eddie surprises two crackheads. Waves them off.  They hurry away.
+[NARRATOR] A ripple of light laughter echoes from the open window, carried in by a gentle breeze from the outside world. Cassius pauses, turning his head slightly toward the sound, though his spirit remains anchored right here in the quiet room, untempted by the loud partying waiting out in the dark. Malcolm raises his Contax camera, the soft *click* of the shutter capturing the serene, timeless stillness of the moment. And as the door opens once more to welcome Jim Brown into the peaceful fold, the night deepens, wrapping its heavy, velvet blankets of sleep tighter around the world.
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[NARRATOR] The night deepens inside the quiet sanctuary of the Hampton House hotel room, wrapped in near-total darkness and the gentle, rhythmic hum of the sleeping city outside. Soft murmurs drift up from the pavement below, a distant, fading laugh, and the faint, sweet snatch of a midnight melody carried away on a cooling breeze. 
 
-[MALE] I hope this prick doesn't run.  My knees are killing me.  Stay behind me.
+[NARRATOR] In the corner, Malcolm’s children are deeply asleep, their breathing soft and even upon a narrow cot, cradled in the heavy, comforting velvet of the late hour. Across the room, Cassius rests peacefully, the new heavyweight champion of the world lying fast asleep upon the sofa, a crisp white bedsheet draped gently over him like a cloud, sheltering him from the passing of time. 
 
-[NARRATOR] Hawkins adds in a relaxed, peaceful voice:
+[NARRATOR] At the small wooden table in the kitchenette, Malcolm and Betty sit close together in the pool of a single, amber lamp, sharing quiet, intimate whispers and the occasional, tender laugh between trusted partners. Here, in the quietest hours, the world outside slows to a crawl, allowing the heavy lids of the earth to grow very, very heavy. 
 
-[MALE] You're worried for my safety.  I'm touched. Eddie flattens against the building - watches Unique descend the fire escape.
+[NARRATOR] Then, with the slow turning of a dream, the morning sun rises high and golden over the bustling pavement of 125th Street and Seventh Avenue in Harlem. The streets are suddenly alive, jammed with a vibrant, surging crush of humanity that hums with the electric energy of a new day. Coming down the sidewalk, the undisputed owners of this bright morning, stride Cassius Clay in a sleek black leather jacket, looking every bit like a rock-and-roll star, and Malcolm X beside him in a quiet overcoat and hat. 
 
-[NARRATOR] Hawkins responds with gentle reassurance:
+[NARRATOR] They pass before the shadowed, welcoming windows of the Michaux Book Shop as a sea of people engulfs them, pressing close to their heroes with open hearts and outstretched hands. People laugh, share jokes, and a young girl dashes forward to briefly hug the champion before vanishing back into the joyful crowd, while on the periphery, Joseph 13X watches quietly, flanked by a cluster of eager black and white reporters and photographers. 
 
-[MALE] Ready?
+[MALE] The people look to you. Do you plan on being a people's champ, like Joe Louis?
 
-[NARRATOR] Eddie whispers gently into the still air:
+[NARRATOR] Cassius pauses, looking out over the sea of familiar faces, his voice tentative yet carrying clearly in the morning air.
 
-[MALE] Keep them out of my way.
+[MALE] Yeah. I going to be a people's champ... But not like Joe Louis, exactly...
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[MALE] Mr. Clay...?
 
-[MALE] Okay.  You ready?
+[NARRATOR] Cassius steps forward, his gaze steady, dropping words that send a ripple of profound stillness through the gathered press.
 
-[NARRATOR] Eddie speaks with a quiet, measured softness:
+[MALE] And I'm not Clay. Clay's the name of the people who owned my ancestors. I don't want to be called after that slave name no more. So I'm "X." Cassius X. And I'm a member of the Nation of Islam. The Honorable Elijah Muhammad is my spiritual guide. Malcolm X is my mentor.
 
-[MALE] Yeah, yeah.  Jesus. Eddie closes in.
+[NARRATOR] The reporters surge forward all at once, their voices overlapping in a sudden flurry of questions.
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[MALE] You a card-carrying member? Aren't Black Muslims a hate group?
 
-[MALE] COME ON!  COME ON!  YOU FUCKING GUYS, LET'S MOVE IT! Unique is climbing down the fire escape - before he gets to the bottom, Leon bursts through a door behind him and kicks the fire escape, sending Unique flying into the alley.  Where he lands dropping his gun. Eddie pulls him off the ground as Leon scoops the gun up.
+[NARRATOR] Cassius offers a droll, easy smile, unfazed by the sudden storm of inquiry under the warm sun.
 
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
+[MALE] "Card-carrying"...? Don't need no "card." You got a Christian card? 750 million people believe in Islam. I'm one of them.
 
-[MALE] What's your rush?  Going to a party?
+[MALE] Minister Malcolm...what about the reports of a split between you and Elijah Muhammad?
 
-[NARRATOR] Unique answers in a low, calming tone:
+[NARRATOR] Joseph 13X’s face remains unreadable as he listens intently, while Malcolm steps forward calmly, his voice a soothing balm that quiets the noise.
 
-[MALE] Why you chasin' me, man?
+[MALE] This is the champ's time. And I'm here as a friend to celebrate his victory. So I got nothing you want...
 
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
+[MALE] I'm going to be a people's champion. But I don't have to be the way you want me to be. I'm gonna be what I want. And I'm free to think any way I want...
 
-[MALE] I don't know.  You always come outta your house that way?
+[NARRATOR] The crowd listens, wrapped in the warm, secure knowledge that neither Cassius nor Malcolm will ever turn their backs on them. And as daylight fades into the cool, indigo shadows of evening, Malcolm steps out into the quiet street before the Hotel Theresa, accompanied by his bodyguard, pausing to look upward into the peaceful, starlit night sky.
 
-[NARRATOR] Unique speaks with a quiet, measured softness:
+[NARRATOR] High above the slumbering avenues of Harlem, the deep indigo of the pre-dawn sky begins to soften at the very edges, yielding slowly to the quiet approach of a new morning. Inside the Hotel Theresa, the vast hallways are wrapped in a profound and heavy stillness, save for a single, warm square of illumination spilling from a top-floor window. It is four o'clock in the morning, a fragile, suspended hour when the rest of the world rests in deep, dreamless slumber. 
 
-[MALE] It's not my house, man.  I don't live here.
+[NARRATOR] Within the quiet sanctuary of his room, the television flickers softly against the walls, casting a gentle, rhythmic blue glow that dances across the ceiling. Cassius lies deep in sleep upon the bed, lulled by the low, murmurous hum of the late-night broadcast. Suddenly, a soft, deliberate knock echoes gently against the heavy wooden door. Stirring slowly from the deep tides of rest, barely awake, Cassius pushes himself up from the pillows, blinking against the quiet shadows of the room, and shuffles sleepily across the floor to answer. 
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] He pulls the door open to find Malcolm standing quietly in the dim hallway, still clad in his familiar, dignified overcoat and the brimmed hat that shadows his thoughtful eyes. The weight of the passing hours rests upon him, for he has not slept at all through the long, quiet night.
 
-[MALE] Well, sounds like burglary to me. Leon cuffs Unique who recognizes Eddie.
+[MALE] I was leaving, saw the light on...how come you're up?
 
-[NARRATOR] Unique adds in a relaxed, peaceful voice:
+[NARRATOR] Cassius mumbles softly, his voice thick and heavy with sleep, rubbing his eyes as he turns back toward the comfort of the mattress.
 
-[MALE] I know you man. An unmarked van comes tearing into the scene.  Disgorges a mini-cam team that starts filming but they missed the bust.
+[MALE] ...watchin' a show on termites...they knockin' down this house, here.
 
-[NARRATOR] Hawkins answers in a low, calming tone:
+[NARRATOR] He lets himself sink gratefully back down upon the bed, drifting once more toward the edge of slumber. Malcolm steps quietly into the room, his footsteps muffled against the carpet, and pauses by the tall window. He looks out into the quiet night, watching the streetlamps cast long, shimmering reflections upon the wet, dew-kissed asphalt below.
 
-[MALE] Any chance we can do that again?
+[MALE] I been invited to speak at Ibadan University in Nigeria. C'mon with me?
 
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
+[NARRATOR] Cassius stirs slightly against the pillows, half-opening one eye, his mind floating somewhere between wakefulness and a distant dream.
 
-[MALE] Again?  I didn't wanna do it the first time. EXT. EAST SIDE - LATE DAY The cab is in front of an old five-story brownstone.  Oleg gets the bags out of the trunk as Emil tucks the envelope into his jacket, then steps up to the old building.  He looks back at Oleg - who's VIDEOTAPING him.
+[MALE] Six million in your house and you don't know it. Where?
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[MALE] Africa. You been there?
 
-[MALE] Turn that off!  Get the bags.
+[MALE] Africa? No. Only Rome. Yeah, man, let's go!
 
-[NARRATOR] Oleg speaks with a quiet, measured softness:
+[MALE] Nkrumah stayed with me when he was a student in New York, so we'll stop in Ghana...
 
-[MALE] Why should I carry your bag?  I am not a dog.
+[MALE] When we leaving?
 
-[NARRATOR] Emil whispers gently into the still air:
+[MALE] Next Thursday.
 
-[MALE] For five years I paid for your stupidness - you'll carry my bag for the rest of my life if I say so.  Unless you refuse, Oleg. Oleg looks at Emil.  Even though Oleg is stronger than Emil, he fears him.  He picks up both bags.  Emil searches the occupant list over the buzzers to the apartment building.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] There.  5RW. Emil pushes ten of the buzzers except 5RW.  A BUZZER clicks and Emil pushes it open. INT. MILOS' APARTMENT BUILDING - STAIRWELL - DAY The brownstone has no elevator so Emil and Oleg climb the stairs... Oleg cradling his camera.  Emil notices a crack pipe on the floor and picks it up.  Smells the bowl.
-
-[NARRATOR] Oleg answers in a low, calming tone:
-
-[MALE] What?
-
-[NARRATOR] Emil speaks with a quiet, measured softness:
-
-[MALE] Smell like chemicals...for smoking drugs. Emil pockets the pipe and climbs to the top floor, moving down the dirty hallway to a corner door. INT. MILOS' APARTMENT BUILDING - HALLWAY - DAY He KNOCKS...FOOTSTEPS approach.  The door is opened by MILOS - a 40-year-old Czech, dressed in stained plumbers overalls. He  is surprised to see Emil and Oleg in his doorway.  Oleg films him...
-
-[NARRATOR] Milos answers in a low, calming tone:
-
-[MALE] Emil???!
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] Surprise!  Surprise! Milos shoots a look across the tiny kitchen to TAMINA, his comely wife. INT. MILOS' APARTMENT - CONTINUOUS Emil pushes his way inside.  Oleg follows.  Milos wears plumbers overalls but Emil notices sports a Rolex.  Tamina has on a faded dress but despite their cheaply furnished apartment she wears an expensive brushed gold necklace, bracelet and big pearl earrings.  The room is furnished with kitsch from Disney World and Las Vegas.  The only anomaly is a HUGE SONY TRINITRON HOME ENTERTAINMENT CENTER.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Your sister said she didn't know where you were so you shouldn't write to her with return address if you're hiding.
-
-[NARRATOR] Milos answers in a low, calming tone:
-
-[MALE] Did you hurt her?
-
-[NARRATOR] Emil responds with gentle reassurance:
-
-[MALE] You know me...I never hurt anybody. Where's the money?
-
-[NARRATOR] Oleg answers in a low, calming tone:
-
-[MALE] Hello, Tamina. Oleg is looking Tamina over.  Milos - though scared - barks at Oleg.
-
-[NARRATOR] Milos adds in a relaxed, peaceful voice:
-
-[MALE] Take your eyes off her, Oleg!  Look.  It wasn't my fault you two were caught.  It's his fault.  Trying to get the bank clerk's phone number?!  I wasn't going to wait!!!
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Milos.  Get my money! Oleg videotapes the scene.
-
-[NARRATOR] Close On An Ajar Door offers quietly, watching the shadows drift across the room:
-
-[MALE] All we see behind it is a WOMAN'S FACE and her wet hair - she obviously came from the shower and we see the towel wrapped around her.
-
-[NARRATOR] Milos whispers gently into the still air:
-
-[MALE] We spent it!
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Ha. Ha.
-
-[NARRATOR] Milos murmurs with a warm, steady cadence:
-
-[MALE] Look at the way we live.  I'm a plumber. You think I'd be working if I had money?! Emil, pissed, moves to a wood block and pulls out a KITCHEN KNIFE.  He grabs Tamina roughly, putting the blade to her throat.
-
-[NARRATOR] Milos responds with gentle reassurance:
-
-[MALE] Emil.  Put down the knife. Milos looks at his wife - who is terrified.
-
-[NARRATOR] Milos answers in a low, calming tone:
-
-[MALE] Emil.  I'll help you. Milos closes the gap between him and Emil - trying to calm him by talking softly.
-
-[NARRATOR] Milos adds in a relaxed, peaceful voice:
-
-[MALE] I can get you a job.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] A job?
-
-[NARRATOR] Milos whispers gently into the still air:
-
-[MALE] Yes, the money is good.
-
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
-
-[MALE] As a plumber?!
-
-[NARRATOR] Milos answers in a low, calming tone:
-
-[MALE] It's easy to learn.
-
-[NARRATOR] Emil murmurs with a warm, steady cadence:
-
-[MALE] A job??  As a plumber???  You think I come to America to work!
-
-[NARRATOR] Milos offers quietly, watching the shadows drift across the room:
-
-[MALE] We started over, you can too.
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] You spent all the money while I was in prison?  Now you tell me to get a job fixing toilets?!? Emil pulls the knife away from Tamina - then angrily PLUNGES it toward Milos' chest! Oleg videotapes it.  Then lowers the camera - shocked that Emil killed Milos. Blood sprays Tamina's face.  She tries to run but Oleg grabs her, not noticing her brushed gold bracelet falls to the floor.  He covers her mouth as he points the videocamera at Emil who STABS Tamina - absolutely enraged!
-
-[NARRATOR] flees...Emil hears NOISE in the bedroom - a window opening.
-
-[NARRATOR] Emil kicks the bedroom door open.  Sees the window leading to
-
-[NARRATOR] the fire escape.  He dashes to it.  Sees four flights down -
-
-[NARRATOR] the WOMAN, wearing a summer dress.  Barefoot.  Her hair still
-
-[NARRATOR] wet.
-
-[NARRATOR] She looks up.  She is beautiful and terrified.  She runs
-
-[NARRATOR] down the alley.
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] She saw! Emil hurries toward the bathroom.  She just got out of the shower.  Her underwear and purse are draped over a chair. Emil grabs the purse.  Finds a CZECHOSLOVAKIAN PASSPORT.  He opens the cover, stares at her photo and name.
-
-[NARRATOR] Emil murmurs with a warm, steady cadence:
-
-[MALE] Daphne Hanlova. There's one stamp in the passport - from the U.S. when she arrived - June 16, 1998.  Underneath is written - 6 MONTH STAY.  Emil flips through the rest of the passport - all blank pages.
-
-[NARRATOR] Emil whispers gently into the still air:
-
-[MALE] Six month visa.  Still here two years later.  They'll deport her if she goes to Police. Emil pockets Daphne's passport and wallet, scoops up her shoes and jacket - enters the kitchen and dumps them on the floor.  He tears through the kitchen cabinets, throwing cans and bottles aside.
-
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
-
-[MALE] What are you looking for? Emil finds nail polish remover - looks at the bodies.
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] I'm going to make a bohemian barbecue. Emil draws the kitchen curtains plunging the room into darkness. EXT. CENTRAL PARK - NIGHT A face comes from the darkness.  It's an athletically handsome man, jogging out of a tunnel towards us.  He's in a tie and jacket in Central Park at NIGHT. He is JORDAN  WARSAW.  A sensitive man of rugged honesty.  He runs down the hill in a hurry.  A MUGGER steps in his path.
-
-[NARRATOR] Mugger responds with gentle reassurance:
-
-[MALE] Got any spare change?  How 'bout a spare twenty?
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Look, I don't have time for you, get out of my way!!
-
-[NARRATOR] Mugger adds in a relaxed, peaceful voice:
-
-[MALE] Alright, how 'bout all your fuckin' money? The Mugger pulls a knife - and in a whirl of movement, Jordy grabs his wrist and disarms him in a deadly, professional manner - hurling him down to the pavement, twisting his arm behind his back.  With his other hand, Jordy whips out a BROWNING 9MM from his shoulder holster and places it behind the mugger's head.  Jordy displays his shield.
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] Okay, you're under arrest!  Now you happy?
-
-[NARRATOR] Mugger adds in a relaxed, peaceful voice:
-
-[MALE] Fire Department?  Firemen don't carry guns.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh yeah?  Guess again. Jordy handcuffs the Mugger and searches the Mugger's coat pockets - pulling out a handful of driver's licenses and credit cards.
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] Nice - how many people you ripped off tonight?!  Get up! As Jordy yanks the Mugger to his feet, his BEEPER goes off.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] You couldn't listen to me, could you? Jordy drags the Mugger to a tree.  Cuffs him so his face is pressed up against the bark.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] I'll send a cop back for you.
-
-[NARRATOR] Mugger whispers gently into the still air:
-
-[MALE] Hey.  C'mon, you can't leave me like this.  Some freak'll come by and stab me! Jordy jogs off across the park.
-
-[NARRATOR] Mugger murmurs with a warm, steady cadence:
-
-[MALE] Wait!  Come back!! EXT. MILOS' APARTMENT - NIGHT FIRE TRUCKS from three battalions.  Radios CRACKLE.  There's a crowd growing.  Jordy pushes his way through.  The top floor of the brownstone where Milos and Tamina lived has been reduced to smoking ruins.  The trees are covered in debris and soot.  Jordy moves to LOUIE - Battalion Chief.
-
-[NARRATOR] Louie offers quietly, watching the shadows drift across the room:
-
-[MALE] Lieutenant - take up your line and relieve Ladder Company 60 on the top floor.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Hey, Louie, were you first due?
-
-[NARRATOR] Louie speaks with a quiet, measured softness:
-
-[MALE] Yeah, I radioed you guys right away 'cause you got two roasts on the top floor but you don't hafta investigate cause homicide is up there.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] Homicide?  Who let them up?  I didn't make it a crime scene yet.
-
-[NARRATOR] Louie answers in a low, calming tone:
-
-[MALE] Hey, it's Eddie Flemming.
-
-[NARRATOR] Korfin adds in a relaxed, peaceful voice:
-
-[MALE] Yo, Jordy! BOBBY KORFIN - an overweight arson investigator with a quick with and good sense of humor - comes over, pulling on a turnout coat.
-
-[NARRATOR] Korfin responds with gentle reassurance:
-
-[MALE] Where you been, man?  We got a celebrity!
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] I heard.  Who the hell let them up there?
-
-[NARRATOR] Korfin responds with gentle reassurance:
-
-[MALE] I don't know, you think Eddie will give me his autograph?
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] You see anything in the crowd?  Anybody suspicious?
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] Naw - I'm sure the suspect's not here.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh yeah, why?
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] 'Cause Eddie woulda locked him up by now! INT. MILOS' APARTMENT - NIGHT The roof is gone.  The sky is exposed.  It's charred ruins, smoked beams and watery muck.  Eddie and Leon are standing by what's left of the mattress, looking at Milos and Tamina's charred bodies.  Eddie grips a half-smoked Cuban cigar, listening to Leon.
-
-[NARRATOR] Leon speaks with a quiet, measured softness:
-
-[MALE] So, it looks to me - from the sixty-nine position - that they were doin' each other but were so whacked out of their heads they set the pipe on the mattress, lit it up, and they got fried.  What do you think, Eddie? Jordy enters - with Korfin who's carrying a paint can.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] I don't know.  We got the experts here. Show them what you found - I hope you don't mind, we came over to see if we could help. Korfin makes a beeline for Eddie - wanting to meet the celebrity.
-
-[NARRATOR] Korfin responds with gentle reassurance:
-
-[MALE] Nah, not at all.  Detective Flemming - Bobby Korfin.  My Uncle Tony worked with you at 2-1 back when you were a rookie.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] Could you put out the cigar?  Part of the job is picking up scents.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] Oh, sure. Eddie puts his cigar out.  Carefully slides it into a cigar holder and pockets it to finish later.
-
-[NARRATOR] Leon responds with gentle reassurance:
-
-[MALE] Well, I found - check it out - crack pipe.  Looks like they got careless. Leon displays the pipe Emil found on the stairs.  Korfin shines the flashlight on Leon to look at the pipe.
-
-[NARRATOR] Leon offers quietly, watching the shadows drift across the room:
-
-[MALE] Mind not shining that light in my eyes?
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] Sorry, bro.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] Hey, that's great you guys got it all wrapped up, but you don't mind if we go through the routine?  It gives us somethin' to do.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] No, we don't mind.  You mind Leon?
-
-[NARRATOR] Leon responds with gentle reassurance:
-
-[MALE] No.  Go ahead.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Thanks.  Appreciate it. Jordy throws a look at Korfin.  Homicide detectives have no respect for fire marshals' investigative skills.  Eddie rummages through the apartment - moving into the kitchen and living room... Leon watches as Korfin sticks a pencil in a charred beam, measuring how deep in it goes.
-
-[NARRATOR] Korfin speaks with a quiet, measured softness:
-
-[MALE] Okay, Jordy - it was a fast fire, we got good patterns - about thirty minutes old. Jordy moves to one of the corpses.  He pulls on a white rubber glove.  Inserts his finger in the corpses mouth.  The glove comes out white.
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] Mouth's clean, too.
-
-[NARRATOR] Korfin whispers gently into the still air:
-
-[MALE] Clean?
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Don't blow your nose! Jordy's looking at Leon, who was just about to blow his nose.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] The smoke'll permeate your nostrils - burn 'em out.  Let it run.
-
-[NARRATOR] Korfin responds with gentle reassurance:
-
-[MALE] But you knew that, right? Leon looks at Jordy, then lowers the handkerchief.  Jordy turns back to the corpses on the bed.  Eddie - in the other room - has found Tamina's brushed gold bracelet on the floor.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] So the way you see it, two crack heads burned themselves up?
-
-[NARRATOR] Leon adds in a relaxed, peaceful voice:
-
-[MALE] That's what it looks like to me.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] And while they're burning up, they're still goin' down on each other?  You got to hand it to them.
-
-[NARRATOR] Leon answers in a low, calming tone:
-
-[MALE] Yeah, well, some people got their priorities straight. Leon watches Jordy, quietly.  With a pair of tweezers, Jordy pulls a small unburned piece of cloth from behind one of the heads.  Korfin supplies the paint can.  Jordy drops the cloth inside.
-
-[NARRATOR] Leon responds with gentle reassurance:
-
-[MALE] What was that?
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Evidence.  Of a homicide. That got Eddie's attention and he comes back to the bedroom.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] You know what that is, right?
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] No, what is it?
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Why don't you explain it, Bobby.  Hey Camello!  You mind punching a hole in the floor?
-
-[NARRATOR] Camello adds in a relaxed, peaceful voice:
-
-[MALE] No problem.  Excuse me, gentlemen.  You might wanna back up a little more.  Don't wanna get your pants wet. Leon and Eddie move to higher ground - on top of a burnt TV set.  Eddie hands the brushed bracelet to Leon.  As Camello hacks at the floor with an ax, Jordy continues to examine the bodies and Korfin explains:
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] They have not soot in their mouths, which means they weren't breathin' before the fire and that usually means they were deceased - and this piece of cloth that my partner found means they were wrapped up in something, probably doused with a flammable liquid and positioned like this on the bed.  To the untrained eye, it looks like an accident. Jordy kicks around the draining floor, reaches down for something.
-
-[NARRATOR] Leon responds with gentle reassurance:
-
-[MALE] What's he looking for?
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] A timer. Jordy finds some wires attached to an outlet, pulls them up - on the other end is a timer.  Korfin takes the timer from Jordy and moves to Eddie.
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] Here you go.  A big double homicide. EXT. MILOS' APARTMENT BUILDING - NIGHT As Jordy and Korfin exit the brownstone, a CAMERA CREW is arriving.  Jumps out. Korfin and Jordy cross toward Korfin's car.  They open the trunk.  Take off their muddy boots throwing them in.
-
-[NARRATOR] Korfin responds with gentle reassurance:
-
-[MALE] You see Eddie's face when I gave him the timer?  Wish I had a picture of it.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] He knew all along.
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] What??
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] That's why he was so quiet.  He was testing us. Eddie and Leon exit - Eddie carrying a baggie with a timer inside.  NICOLETTE KARAS, young and attractive, pushes her microphone at Eddie.  She's smart, aggressive and respected by her peers.
-
-[NARRATOR] Nicolette answers in a low, calming tone:
-
-[MALE] Detective, does it look like a murder?
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] We don't know that yet.  It's much too early.  There's a lot to be done.
-
-[NARRATOR] Nicolette speaks with a quiet, measured softness:
-
-[MALE] How many victims are up there?
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] There are two bodies found at this point.
-
-[NARRATOR] Nicolette answers in a low, calming tone:
-
-[MALE] Can we go up to the crime scene?
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] You know you can't do that.  C'mon.
-
-[NARRATOR] Nicolette offers quietly, watching the shadows drift across the room:
-
-[MALE] Is it drug related?
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] We don't know.  When I have more I'll let you know. Nicolette signals for her camera man, MIKE, to zoom in on Eddie's hand.  She barrels on...
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] Detective...what's that you're holding in your hand?  Evidence? Mike pans up to Eddie's face.  Other reporters arrive, hurling questions which Eddie easily answers.  Cameras flash as we PAN BACK TO Korfin and Jordy.  Jordy is about to get in the car as he notices, back behind some construction - DAPHNE HANDLOVA.  She's still wearing the crumpled summer dress. She tentatively steps out to signal Jordy.  He only catches a glimpse of her.  He starts toward her -- knifes through the crowd - but Daphne is gone.
-
-[NARRATOR] Korfin responds with gentle reassurance:
-
-[MALE] What?
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] There was a woman - I think she wanted to talk to us.  She looked scared.  Oh shit!  Oh no! EXT. CENTRAL PARK - LATER Korfin's car SCREECHES to a stop.  Jordy leaps out. Suddenly, Jordy stops...the Mugger handcuffed to the tree is now NAKED!
-
-[NARRATOR] Mugger offers quietly, watching the shadows drift across the room:
-
-[MALE] You motherfuckin' bastard!  She stripped me!  It was a bag lady!  She touched me all over, it was disgusting. Jordy unlocks the handcuffs.
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] I'm sorry.  I'm really sorry. Korfin delivers a blanket.  Jordy covers him.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] You okay?
-
-[NARRATOR] Mugger offers quietly, watching the shadows drift across the room:
-
-[MALE] A dog pissed on me!!  I'm gonna sue you for this!  You violated my civil rights!
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Your civil rights?!  You tried to rob me!  I could arrest you right now! You're lucky you're walking away from this.  Now get outta here. Jordy gives him a push.  The Mugger wraps the blanket around himself cursing - hurrying away. EXT. 8TH AVENUE - NIGHT Exhausted HOOKERS who have worked all night loiter outside a sleazy hotel.  CAMERA PANS up to a blinking hotel sign. INT. KING EDWARD HOTEL ROOM - NIGHT The light is blinking an eerie green and yellow light into the room.  Emil is at the window pulling the blind down trying to shut out the blinking light.  He pulls it down twice and it pops back up both times.  The third time he angrily pulls it so hard, it comes off the window completely. He sits down in a chair in frustration - adjusting a pillow behind his back.  THE ROSEANNE SHOW is on TV.  Roseanne has been talking to a FATHER.
-
-[NARRATOR] Roseanne responds with gentle reassurance:
-
-[MALE] So you slept with your son's wife! What's that all about?
-
-[NARRATOR] Father offers quietly, watching the shadows drift across the room:
-
-[MALE] I take full responsibility for sleepin' with my daughter in law.  I had low self esteem, I thought I had to compete with him. Emil reaches for his dictionary.
-
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
-
-[MALE] Self-esteem?  Self-esteem?? He flips through his dictionary to find the meaning of self esteem.
-
-[NARRATOR] Father adds in a relaxed, peaceful voice:
-
-[MALE] Losin' my job and everything, caused my behavioral disorder.  Forgive me, Kirk.  Let me hug you? The audience boos.  Roseanne mediates... Oleg - fresh from the shower with wet hair - sits on the bed in his skivvies - staring into the videocamera's LCD screen - rewinding Milos' murder.  We see it now for the first time - as he rewinds it.  Oleg watches - a bottle of cheap vodka between his legs.  Emil, looks up from his dictionary.  He's wearing Milos' Rolex. Tamina's jewelry - her brushed gold necklace and pearl earrings - are in front of him with Daphne's wallet.  Emil looks up - Oleg is holding his videocamera.
-
-[NARRATOR] Emil whispers gently into the still air:
-
-[MALE] Turn that fucking thing off!
-
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
-
-[MALE] I'm not filming.  I'm watching Milos die.  It's just like a move but realer. Emil grabs the videocamera.  Don't break it!  Don't break it!
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Speak English!
-
-[NARRATOR] Oleg responds with gentle reassurance:
-
-[MALE] You said speak Czech!
-
-[NARRATOR] Emil whispers gently into the still air:
-
-[MALE] How you erase this?
-
-[NARRATOR] Oleg answers in a low, calming tone:
-
-[MALE] I'll do it.  Don't hurt my camera! Emil tosses the camera back to Oleg who drops his vodka bottle in order to catch the camera.  Oleg, holding the camera like it's gold, goes to the dresser and puts it away. Emil starts to go through Daphne's wallet.
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] Stupid, Milos.  I didn't want to kill him.  What's this? Emil found the last card in the wallet.  It's pink with a picture of a busty globe.  Printed in the middle is - WORLDLY ESCORTS - and a number.
-
-[NARRATOR] Emil murmurs with a warm, steady cadence:
-
-[MALE] Worldly escorts? Emil picks up his dictionary and begins to flip the pages - finding the meaning of worldly.  He gets up and dials the number.  A soft, SEXY VOICE answers.  Soft music in the background.
-
-[NARRATOR] Sexy Voice whispers gently into the still air:
-
-[MALE] Hi?
-
-[NARRATOR] Emil responds with gentle reassurance:
-
-[MALE] Hello?
-
-[NARRATOR] Sexy Voice adds in a relaxed, peaceful voice:
-
-[MALE] Are you looking for companionship? Oleg, who's listening, moves to Emil.
-
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
-
-[MALE] Whore?
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] I'm homesick.  You have Eastern European girl?  A Czech girl?
-
-[NARRATOR] Sexy Voice answers in a low, calming tone:
-
-[MALE] Matter of fact, I have a lovely Czech girl.
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] I take her.  Send her! EXT. FIRE STATION 91 - NIGHT Korfin's car pulls up to the station - as a fire engine is returning.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Now that you know him, maybe you can get extra work in the next movie they make about him.
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] Yeah?
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] Maybe you can be his stand-in. INT. FIRE STATION 91 - NIGHT The men are pulling off their equipment - coming down from the high of fighting a fire.  Korfin and Jordy walk toward the TV room.  The TV is on in the background.  We can see Nicolette interviewing Eddie.  He holds up the paint can.
-
-[NARRATOR] Chief Duffy speaks with a quiet, measured softness:
-
-[MALE] What the hell is that??  You gave Eddie Flemming the evidence?! They turn.  DEPUTY CHIEF FIRE MARSHAL DECLAN DUFFY - the head of the arson squad - comes over.  Duffy's tough, Irish and very political.
-
-[NARRATOR] Duffy speaks with a quiet, measured softness:
-
-[MALE] Who did cause and origin?
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Who do you think, Chief?!
-
-[NARRATOR] Duffy murmurs with a warm, steady cadence:
-
-[MALE] Then why didn't you talk to the reporter?
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] 'Cause we got more important things to do, like finding out who did it. They walk to the back of the station and start up the stairs.
-
-[NARRATOR] Duffy answers in a low, calming tone:
-
-[MALE] Don't you guys understand?  It's all about image.  The better we look the more money I get to pay you guys overtime.
-
-[NARRATOR] Korfin adds in a relaxed, peaceful voice:
-
-[MALE] Yeah, right.
-
-[NARRATOR] Duffy adds in a relaxed, peaceful voice:
-
-[MALE] What was that, Korfin?
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] I said, yeah, you're right, Chief.  As soon as we get somethin' we'll let you alert the media.
-
-[NARRATOR] Duffy responds with gentle reassurance:
-
-[MALE] You do that, wiseguy.  Now let's solve this thing before Eddie Flemming does. They all head upstairs. INT. ARSON SQUAD ROOM - DAY The Chief, Jordy and Korfin enter.  There are posters of pyros, arsonists and terrorists on the walls.  GARCIA - a Puerto Rican investigator - looks up from his desk.
-
-[NARRATOR] Garcia murmurs with a warm, steady cadence:
-
-[MALE] Hey guys, I got your torch.  He just gave a full confession. A scruffy, unshaven white man sitting across from Garcia, turns.  He is MAX, a pyromaniac in his 40's with a freshly scratched cross etched in his forehead.  He craves attention.
-
-[NARRATOR] Max adds in a relaxed, peaceful voice:
-
-[MALE] It's my fire!  Screw homicide.  I'll tell you guys everything! Jordy moves to his desk with Korfin.  They sit across from each other.  Duffy keeps going to his office, not even bothering to stop.
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] What's that on your forehead, Max? That's a nice attention getter.
-
-[NARRATOR] Max answers in a low, calming tone:
-
-[MALE] Yeah, I'm religious.  I'm not an Atheist like you!  Now, are you guys gonna arrest me, or not?
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] How did you start the fire this time?
-
-[NARRATOR] Max adds in a relaxed, peaceful voice:
-
-[MALE] I used an accelerant.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] Yeah?  What kind?
-
-[NARRATOR] Max adds in a relaxed, peaceful voice:
-
-[MALE] Hey, by the way, I'm really sorry about your wife leavin' you.
-
-[NARRATOR] Korfin adds in a relaxed, peaceful voice:
-
-[MALE] Max.
-
-[NARRATOR] Max answers in a low, calming tone:
-
-[MALE] ...Yeah, and with your old man dying last year you - what's it?  Just you and the dog now?
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] Max!
-
-[NARRATOR] Max whispers gently into the still air:
-
-[MALE] Does it feel bad - I mean the new guy your ex-wife's seeing - I hear he's a big shot downtown. Jordy pops out of his seat.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] That's it!  You're outta here. Jordy pulls Max by the collar - pushes him down the aisle.
-
-[NARRATOR] Max speaks with a quiet, measured softness:
-
-[MALE] That's it.  I'm suing.
-
-[NARRATOR] Korfin adds in a relaxed, peaceful voice:
-
-[MALE] Get in line. Korfin takes over - throwing him out.  Jordy turns to Garcia who is laughing.
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] What's so funny.  How does he know so much about me?  Who tells him my life story?
-
-[NARRATOR] Garcia whispers gently into the still air:
-
-[MALE] He hangs around downstairs.  The guys talk to him.  He's a joke...
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] He's no joke!  One day he's gonna graduate from trash can fires and do something big.
-
-[NARRATOR] Garcia murmurs with a warm, steady cadence:
-
-[MALE] Okay.  Okay.  We'll ban him from the station. INT. KING EDWARD HOTEL ROOM - TV SET - NIGHT As the "Top Story" logo is splashed across the screen, accompanied by a catchy TV THEME, Robert Hawkins introduces America's highest rated 'news magazine' show.
-
-[NARRATOR] Robert Hawkins whispers gently into the still air:
-
-[MALE] Good evening, I'm Robert Hawkins and this is Top Story.  Tonight we bring you an exclusive interview with Stephen Geller - who horrified the nation two years ago when he went berserk and murdered three clerks in a Manhattan shoe store.  But now, Mr. Geller's claim, spoken softly and articulately, is that he is the victim.  According to Mr. Geller, the events of that fateful day were not his fault but were the fault of his psychiatrist.  Hard to believe...watch.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Louder. VIDEOCAMERA SLOWLY ZOOMS OUT and PANS over to Emil, sitting on the hotel bed watching the TV.  He looks at us.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Louder. Oleg's hand reaches in front of the lens - turning up the volume.  The scene cuts back to Stephen Geller being interviewed by Robert Hawkins and his camera crew.  He's sitting on the front lawn of a mental institution in a paint stained shirt.  A showing of his artwork is displayed in the background.  Patients peruse the paintings of weird dysfunctional faces that avoid eye contact.  One of the paintings depicts Eddie Flemming and Leon Jackson.
-
-[NARRATOR] Stephen Geller answers in a low, calming tone:
-
-[MALE] This had nothing to do with shoes that didn't fit or my relationship with my father who, as you know, made a fortune selling penny loafers in the fifties. These people died because of the criminal actions of my doctor.
-
-[NARRATOR] Robert Hawkins answers in a low, calming tone:
-
-[MALE] Your doctor?
-
-[NARRATOR] Stephen Geller responds with gentle reassurance:
-
-[MALE] Yes.  My psychiatrist didn't insist that I stay on my medication.
-
-[NARRATOR] Robert Hawkins murmurs with a warm, steady cadence:
-
-[MALE] ...so you feel absolutely no responsibility for killing these people?
-
-[NARRATOR] Stephen Geller offers quietly, watching the shadows drift across the room:
-
-[MALE] It was my finger that pulled the trigger, but I'm not morally responsible.  My psychiatrist knew what I was capable of.  How could I know. I'm not a doctor.
-
-[NARRATOR] Robert Hawkins responds with gentle reassurance:
-
-[MALE] You seem very savvy for a man who's been found mentally incompetent to stand trial.
-
-[NARRATOR] Stephen Geller offers quietly, watching the shadows drift across the room:
-
-[MALE] Look, I'm a victim here, too.  I was a year away from getting my masters in Art, now I'll never graduate.  My life has been permanently disrupted.
-
-[NARRATOR] Robert Hawkins answers in a low, calming tone:
-
-[MALE] Permanently disrupted?  Aren't you selling paintings now for quite a lot of money?  Hasn't this 'incident' as you call it, jump started your career as an artist?
-
-[NARRATOR] Stephen Geller whispers gently into the still air:
-
-[MALE] Look, I'm in here.  You call this a career move?
-
-[NARRATOR] Robert Hawkins adds in a relaxed, peaceful voice:
-
-[MALE] And isn't there a movie in the works about you?
-
-[NARRATOR] Stephen Geller speaks with a quiet, measured softness:
-
-[MALE] We're in negotiations, that's correct.
-
-[NARRATOR] Robert Hawkins adds in a relaxed, peaceful voice:
-
-[MALE] But doesn't the Son of Sam Law prevent criminals from profiting from their crimes?
-
-[NARRATOR] Stephen Geller murmurs with a warm, steady cadence:
-
-[MALE] That doesn't apply to me because I'm not a criminal.  I'm not a criminal!  I wasn't convicted. Emil leans forward - listening.  Fascinated.
-
-[NARRATOR] Emil murmurs with a warm, steady cadence:
-
-[MALE] I love America.  No one is responsible for what they do. There's a KNOCK on the door.  Our VIDEOCAMERA POV swings over to it.  Then WHIPS back to Emil.  Emil looks at us.
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] Get in the bathroom!
-
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
-
-[MALE] Whatever we do - we fuck her, right?
-
-[NARRATOR] Emil speaks with a quiet, measured softness:
-
-[MALE] Oleg, get in bathroom, stay there and shut up! Emil turns off the TV.  Our POV backs into the bathroom, closing the door but leaving it open a crack.  Emil looks down at his shoe.  The POV PANS down to the kitchen knife sticking out of Emil's BOOT.  Emil's hands pull his pants cuff over it.  POV PANS up to Emil as he moves to the door and opens it.  It's not Daphne and she's not world class.
-
-[NARRATOR] Honey murmurs with a warm, steady cadence:
-
-[MALE] Hi, I'm Honey.
-
-[NARRATOR] Emil whispers gently into the still air:
-
-[MALE] Where's Czech girl?
-
-[NARRATOR] Honey whispers gently into the still air:
-
-[MALE] Baby, I'm anybody you want me to be. I'm a little schoolgirl, I'm mommy, I'm a Czech girl. She enters.  Closes the door behind her.
-
-[NARRATOR] Honey murmurs with a warm, steady cadence:
-
-[MALE] Now I like to get business out of the way before we get down to pleasure.  Why don'tchya put my money on the dresser.
-
-[NARRATOR] Emil speaks with a quiet, measured softness:
-
-[MALE] I ordered a Czech girl.  Daphne, you know her? Oleg ZOOMS in for a CLOSE UP of Honey.  During the rest of the scene Oleg films her.  Honey begins to undress.
-
-[NARRATOR] Honey adds in a relaxed, peaceful voice:
-
-[MALE] It's an outcall service run out of an apartment.  I don't meet the other girls.  Aren't you gonna get undressed?
-
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
-
-[MALE] Where is escort service?
-
-[NARRATOR] Honey speaks with a quiet, measured softness:
-
-[MALE] That's confidential.  Could you put the money on the dresser?
-
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
-
-[MALE] I like to talk to the person who runs the service.  Can you give me address?
-
-[NARRATOR] Honey murmurs with a warm, steady cadence:
-
-[MALE] Look.  Do we have a problem here? There's no reason to have a problem. I'm gonna make you feel real good.  You wanna Czech girl? After I'm done with you, you won't miss her.  Now why don't you pay me? She starts to unfasten Emil's belt.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Listen to me.  I don't want sex.  Just give me the address and then you go.
-
-[NARRATOR] Honey answers in a low, calming tone:
-
-[MALE] Look, man, I don't give a shit if you want sex or not, but you're payin' for my time. Emil pulls the knife out of his boot and SHOVES her against the door, PUSHING the blade against her throat - suddenly furious like he was before killing Milos and Tamina.
-
-[NARRATOR] Emil responds with gentle reassurance:
-
-[MALE] Give me the address!!
-
-[NARRATOR] Honey murmurs with a warm, steady cadence:
-
-[MALE] Alright, alright - don't hurt me! Please, it's in my book, in my purse! Emil backs off as she reaches for her purse, and comes out with a can of mace, SPRAYING Emil's face! Emil stumbles backwards - Oleg holding him in the frame.  He WHIP PANS back to Honey as she grabs her clothes, unlocking the door but Emil's HAND SLAMS it shut!  Emil turns blindly, rubbing his burning eyes - guarding the door.  Honey darts toward the bathroom - she pushes open the door and runs into Oleg who is VIDEOTAPING HER.  Horrified, she turns around as Emil SMASHES her in the face so hard she topples backwards, tripping into the bathtub, pulling the shower curtain down on her!  Like a panther out for the kill, Emil POUNCES.  Oleg films as Emil lifts his hand, gripping...
-
-[NARRATOR] The Kitchen Knife offers quietly, watching the shadows drift across the room:
-
-[MALE] As Emil's hand comes FLYING DOWN - then RISES UP, BLOODIED. Her screams are muffled by the shower curtain wrapped around her face.  Oleg films the scene as the knife plunges DOWN INTO: INT. FIRE STATION 91 - ARSON SQUAD ROOM - NIGHT DAPHNE, a sketch of her face.
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Her lips are fuller than that.  You can see 'em a mile away.
-
-[NARRATOR] Wider murmurs with a warm, steady cadence:
-
-[MALE] Food containers are scattered all over the place.  The female COMPOSITE ARTIST looks at Jordy.  Stacks of failed sketches sit beside her.
-
-[NARRATOR] Composite Artist speaks with a quiet, measured softness:
-
-[MALE] What about her cheek bones?
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Her cheek bones are prominent and her eyes were huge.  Big, blue eyes and when I saw her, she looked scared.  Like she was looking to get away.  But she was absolutely beautiful. The composite artist looks at Jordy.
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] I gotta good look at her. Korfin has his chair turned around from his desk and is watching the sketch evolve as he speaks on the phone to the landlord of the 7th Street brownstone.  Garcia is also on the phone.  The other investigators are gone.  Working late into the night.  Everybody's exhausted.  It's almost dawn.
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] -- From Czechoslovakia?  And how long have they been livin' in your building?  Alright, I'll be in touch when we know somethin'.  Milos and Tamina Karlova.  They were quiet and kept to themselves.  Landlord don't know who your girl is.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] How long they been livin' here?
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] You hear that question, Garcia?
-
-[NARRATOR] Garcia speaks with a quiet, measured softness:
-
-[MALE] Yeah, I got Immigration on the phone - they've been here illegally.
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] Well, they're definitely permanent residents now.
-
-[NARRATOR] Garcia answers in a low, calming tone:
-
-[MALE] I got the owner of the plumbing company Milos worked for.
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] Why don't we get some sleep and we'll go see him in the morning.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] You go home.  I'm takin' your car and goin' back to the crime scene.
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] Aren't you tired?
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] If I go home I won't be able to fall asleep anyway. Jordy takes the sketch of Daphne which isn't a bad likeness and heads for the door.  Korfin falls in behind him.  As they pass Garcia he hands Jordy the address.
-
-[NARRATOR] Korfin speaks with a quiet, measured softness:
-
-[MALE] She keepin' you up?  Like to meet her, huh?  She'd make you forget your ex wife.  Cure your insomnia. INT. MILOS' APARTMENT - DAWN CAMERA DESCENDS FROM THE SKY picking up Jordy as he enters what is left of Milos and Tamina's apartment.  The roof has been burned off. He moves into the next room, trying to see through the darkness - looking through the muck and char.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Okay to smoke? Jordy turns, surprised.  Eddie sits on a singed chair.  He pours from a half-pint bottle of vodka into his 'won ton soup' container, smoking a cigar.  On the arm of the armchair is a brown legal folder and stacks of photographs of the crime scene and the burned bodies.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] It's your crime scene now.  You can do what you want.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Watch the news?
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] Nah, I musta missed it.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Well, just so you know.  I gave you guys the credit.
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Well, just so you know, I don't care about that stuff.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Nah, why should you?
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] I don't even watch TV.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Good.  Good.  Commendable. Eddie knocks his 'won ton soup' back.
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Did you get a report from the M.E.?
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] Sure.  But I would like to ask you something.  You got a problem with me?
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] If you found me steppin' on your crime scene - it might piss you off, too.  What about the report?
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] You were right, they were both dead before the fire.  The male was stabbed so hard the killer broke off the tip of the knife in his spine.  That's usually an indicator of something personal. Jordy pulls out a sketch of Daphne.  Hands it to Eddie.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] The Super said he'd seen her before but she didn't live here.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Pretty.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] Hmmmm.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Maybe you don't care about that either.  Prettiest suspect I've had in awhile.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Who says she's a suspect? Jordy tries to take the sketch back.  Eddie holds on.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] What would you call her?
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Look, I'm not even sure she has anything to do with this.  I saw her outside after the fire - thought it was a lead. Maybe she saw something.  Maybe she was visiting somebody here.  Who knows? Eddie walks up to the burnt mattress - where the bodies were.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Obviously they weren't having sex.  As you pointed out.  So why go through all the trouble of putting 'em like that? Eddie passes a crime scene photo of the bodies to Jordy.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Maybe it's a ritual thing or someone trying to send a message.  Burial rites are taken very seriously in Eastern Europe.  It could be to humiliate them. Just burning them up, no proper funeral, it's like condemning them to hell.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] Eastern Europe.  Like what?  Romania? Hungary?
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Or Czechoslovakia.  The Slavs have been fighting the Germans and the Russians for a thousand years.  These are very intense people and they take things personally. Eddie's cellular rings - he grabs it.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Yeah?  Where?  You sure it was a knife? Uh-huh.  Really?  Okay.  We've got another murder - in a hotel on Eighth Avenue.  A stabbing.  Clerk said the room was rented by a Russian... Eddie's moving with Daphne's sketch.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] I'll come with you.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] There wasn't a fire.  There'll be nothing for you to do.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] I can watch you, Eddie.  Maybe I'll learn something.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] This isn't homicide school.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] My parents are from Poland.  I can help with the Eastern European angle.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] You're Polish?
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] My folks are.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Stay here. EXT. TIMES SQUARE - NEWS STAND - DAY Video POV of the news stand as a hand reaches into frame and picks up a copy of THE NEW YORK POST.  Eddie's photo is on the front page - holding the kitchen timer by the wires. Underneath his picture the caption reads, "DOUBLE HOMICIDE... FLEMMING'S ON IT."  The videocamera widens out revealing Emil standing in front of a Times Square news stand, reading the front page.  The videocamera turns around - until focusing on Oleg himself.
-
-[NARRATOR] Oleg adds in a relaxed, peaceful voice:
-
-[MALE] This is second day in America.  First day was very exciting.  Full of thrills and chills.  Over there, is co-star of my new movie, Emil! He turns the camera around - FILMING EMIL.
-
-[NARRATOR] Emil responds with gentle reassurance:
-
-[MALE] Who is he?
-
-[NARRATOR] Vendor offers quietly, watching the shadows drift across the room:
-
-[MALE] New York's finest.  This is his case. The VENDOR - picks up People.  Stephen Geller is on the cover.
-
-[NARRATOR] Vendor responds with gentle reassurance:
-
-[MALE] This all you want?
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Do you know how much killer gets for movie rights?
-
-[NARRATOR] Vendor murmurs with a warm, steady cadence:
-
-[MALE] In here, says he wants a million.
-
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
-
-[MALE] Million?!  The killer gets one million dollars for a television interview?
-
-[NARRATOR] Vendor responds with gentle reassurance:
-
-[MALE] Hey, tabloids paid Ted Bundy - famous serial killer - half a million for his interview.  And how much you think Monica got for writing book about the President coming on to her?  It pays to be a killer or a whore in this country. Look, you want magazine or not?
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] Yes.  Both.
-
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
-
-[MALE] And these. Oleg picks up FILM COMMENT, MOVIELINE and PREMIERE magazine. Emil pays for everything.
-
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
-
-[MALE] Get a taxi. Oleg tucks the magazines in his coat, picks up the suitcases and hails a taxi.  As Emil collects his change he sees an old BLIND WOMAN waiting at the crosswalk.  The light's blinking
-
-[NARRATOR] Emil responds with gentle reassurance:
-
-[MALE] Let me help. Emil gently takes her arm and crosses her to the other side.
-
-[NARRATOR] Blind Woman murmurs with a warm, steady cadence:
-
-[FEMALE] Thank you, son. Emil watches her walk on. INT. KING EDWARD HOTEL ROOM - DAY The hotel room is a hive of activity.  GIL is dusting the dresser for prints.  Another officer is stripping the bed and putting the bedding into a big, clear plastic bag.  As Eddie enters the crime scene, a POLICE PHOTOGRAPHER is standing in the doorway taking pictures.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] Where is she?
-
-[NARRATOR] Leon answers in a low, calming tone:
-
-[MALE] Takin' a bath.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Any I.D.?
-
-[NARRATOR] Leon answers in a low, calming tone:
-
-[MALE] Still unknown but we're running prints. Kid over there caught the case. Jordy enters.  Leon steps in his way.
-
-[NARRATOR] Leon whispers gently into the still air:
-
-[MALE] Sorry...PD only.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] It's okay. Eddie walks over to a young detective.  TOMMY CULLEN, only 26, is excited to meet Eddie.
-
-[NARRATOR] Tommy responds with gentle reassurance:
-
-[MALE] Tommy Cullen.  Heard a lot about you. Nice to meet you.  Here's what we got. A girl in there, figure her to be a prostitute, looks like she was fighting for her life.  She's got defense wounds on her hands.  Right this way - in the bathroom.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] After you. Eddie follows Tommy into the bathroom.  There's blood splattered all over the walls and the floor.  Honey's topless body lies in the tub tangled in the bloody shower curtain. MURPHY, an Irish medical examiner , is examining the body.
-
-[NARRATOR] Tommy murmurs with a warm, steady cadence:
-
-[MALE] Room was registered to a Francis Capra.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] Capra?  That's not Czech or Russian. Who said he sounded Russian?
-
-[NARRATOR] Tommy adds in a relaxed, peaceful voice:
-
-[MALE] The clerk?
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Check the switchboard, see what phone calls were made from this room.
-
-[NARRATOR] Tommy answers in a low, calming tone:
-
-[MALE] I'll do it. Tommy heads out.  Eddie takes out his cigar holder.  Slides out what's left of his cigar.  Re-lights it.  Looks down at Honey's body in the bathtub.  Gil's dusting the tub for prints.
-
-[NARRATOR] Murphy murmurs with a warm, steady cadence:
-
-[MALE] Clothes were off in the other room.  Tub is dry except for the blood.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Any of you guys take a piss lately? Gil looks confused.  Eddie points to the toilet.  Seat is up.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Do the seat for me. Gil crosses to the toilet and starts to dust it.  Eddie stands in the bathroom - studying the scene.  Holding the unlit cigar.  Looking around at the blood splattered walls.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Only one guys checked in?
-
-[NARRATOR] Leon adds in a relaxed, peaceful voice:
-
-[MALE] Yeah.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] C'mere.  You wanna go to homicide school?  Here - make yourself useful. Eddie positions Jordy behind the tub next to the wall.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Our killer...our killer's standing here slashing at her.  She's fightin' him. The blood is splattering this way.  It's on this wall...  And there's some specks over here.  There's nothing here because someone was standing right here.  Someone big.  And he's got blood on him.  Lots of blood. He wouldn't walk out of here like that.  Murphy, what kind of knife you think we're talking about here? Murphy pulls out a clear plastic ruler and walks over to the blood-splattered wall.
-
-[NARRATOR] Murphy offers quietly, watching the shadows drift across the room:
-
-[MALE] If you look here where he missed and hit the wall you see that the marks aren't deep but they're kinda wide... not your everyday kitchen or pocket knife.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] What if the tip was broken off?
-
-[NARRATOR] Murphy murmurs with a warm, steady cadence:
-
-[MALE] Could be.  Then we should find it here somewhere.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] I think we've already found it. Eddie exchanges a look with Jordy as Tommy, the young detective, returns.
-
-[NARRATOR] Tommy whispers gently into the still air:
-
-[MALE] There was only one call from this room last night.  I dialed it.  It's an escort service.
-
-[NARRATOR] Leon adds in a relaxed, peaceful voice:
-
-[MALE] Did you identify yourself?
-
-[NARRATOR] Tommy answers in a low, calming tone:
-
-[MALE] Hey, I'm new but I'm not stupid.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Call communications and get an address on that number. Tommy holds up a slip of paper with the outcall service address on it.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Good work. INT. KING EDWARD HOTEL ROOM - STAIRS - DAY Jordy hurries out - catches up with Eddie.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] You goin' to the escort service?
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] You got any better ideas?
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Mind if I ride along with you?
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] This has nothing to do with your fire.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] But what if it does?  You might need my help. As Eddie exits the hotel, a MAN approaches.
-
-[NARRATOR] Man murmurs with a warm, steady cadence:
-
-[MALE] Hey, Eddie, can I get your autograph for my son? EXT. KING EDWARD HOTEL - DAY Jordy catches up.  Eddie finishes signing the autograph using the man's back.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] I'll let you know what happens.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] This is ridiculous.  I'm not gonna be in your way - we can talk the case over.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Tell you what - I'll flip you a coin. If you win you can come with me.  If you don't win, you don't come.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] I'll call it... tails. Eddie pulls out a coin and hands it to Jordy.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Okay.  I'll call it.  Heads. Jordy flips the coin and it's heads.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] Heads.  See, you lost twice.  Okay.  Get in. Jordy goes for the passenger side of the car.  Before Jordy can get in, Eddie starts to pull away.  Jordy stands on the sidewalk - dejected.  Eddie stops the car again and this time lets Jordy get in. WHIP PAN TO: INT. UPPER EASTSIDE HALLWAY - DAY Eddie and Jordy arrive in front of Rose's door.  Eddie knocks and flips a coin to Jordy.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Oh here.  A souvenir. Jordy takes the quarter.  Not understanding what Eddie means. He looks at the quarter.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] Two heads.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Better than one. Eddie suckered him with the coin toss.  Jordy reacts.  Eddie laughs - squirts Binaca in his mouth.  Knocks again.  We hear
-
-[NARRATOR] Rose whispers gently into the still air:
-
-[MALE] Who's there?
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Police.  We'd like to ask you a few questions.
-
-[NARRATOR] Rose whispers gently into the still air:
-
-[MALE] I have nothin' to say.  If you wanna contact my attorney...
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Homicide, Miss Hearn.  It's Detective Eddie Flemming.  Open up. Rose reacts.  Immediately UNLOCKS, UNCHAINS and opens the door!
-
-[NARRATOR] Rose whispers gently into the still air:
-
-[MALE] You!  I've seen you on TV! Eddie glances self-consciously at Jordy.
-
-[NARRATOR] Rose answers in a low, calming tone:
-
-[MALE] C'mon in.  C'mon in! INT. ROSE'S APARTMENT - DAY They enter.
-
-[NARRATOR] Rose answers in a low, calming tone:
-
-[MALE] Just a minute.  Shit.  And I don't have a camera.  Hold on a second. Rose moves back to the phone - finishes up her conversation in Afrikaner.  We hold on Eddie and Jordy at the door.  Eddie looks around - taking in the place.  FOUR GIRLS are on phones.  Two girls take orders for customers.  The other two work the phone sex lines.  Rose hangs up the phone - turns to Eddie and Jordy:
-
-[NARRATOR] Rose whispers gently into the still air:
-
-[MALE] What's wrong?
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] We don't have her I.D. yet, but one of your girls was killed last night at the King Edward Hotel.
-
-[NARRATOR] Rose answers in a low, calming tone:
-
-[MALE] Oh my G-d.  Honey!  Honey's dead?
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] Do you remember the man who called? Though Rose answers Jordy, she directs her response to Eddie.
-
-[NARRATOR] Rose offers quietly, watching the shadows drift across the room:
-
-[MALE] Yeah.  He wanted a girl from Czechoslovakia, but I sent him Honey 'cause once they get there, you know, it doesn't really matter - Honey was killed...?  Poor girl...
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Do you have any Czech girls working for you?
-
-[NARRATOR] Rose murmurs with a warm, steady cadence:
-
-[MALE] No.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Did you tell him you did? A BUTCH GIRL enters.  Rose speaks to her in Afrikaner.
-
-[NARRATOR] Rose answers in a low, calming tone:
-
-[MALE] Boy, she's so popular all the sudden.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] What are you saying?
-
-[NARRATOR] Rose speaks with a quiet, measured softness:
-
-[MALE] Daphne.  Another guy came in asking me about her, too. Jordy pulls out the sketch, unfolds it.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] This her?
-
-[NARRATOR] Rose speaks with a quiet, measured softness:
-
-[MALE] Yeah.  Sort of.  I tried to recruit her, gave her my card.  She said she'd think about it but I never heard from her.
-
-[NARRATOR] Butch Girl offers quietly, watching the shadows drift across the room:
-
-[FEMALE] Beautiful eyes.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Who came by looking for her?
-
-[NARRATOR] Rose murmurs with a warm, steady cadence:
-
-[MALE] He said he was her cousin.  I told him where she works.  They were just here.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Describe him.
-
-[NARRATOR] Rose answers in a low, calming tone:
-
-[MALE] Tall, short-haired, scary eyes.  Second guy with him was...shorter, with a wrestler's build.  And he wouldn't turn his videocamera off me.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] He had a videocamera?  Where is she? Quickly!
-
-[NARRATOR] Rose speaks with a quiet, measured softness:
-
-[MALE] She washes hair up at Ludwig's - a salon on 63rd and Madison. EXT. EDDIE'S CAR - DAY As Eddie speeds through the street, SIREN BLARING. INT. EDDIE'S CAR - DAY Jordy holds on as Eddie darts in and out of cars with astonishing dexterity.  This man can drive.  Eddie picks up his phone - dials.  Jordy is on his cell phone as well.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Leon - meet us at 63rd and Madison. Hair salon.  Ludwig's.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] I'm on my way with Eddie.  Ludwig's. 63rd and Madison.  The suspects might be there already. Eddie looks over as Jordy disconnects.  Eddie picks up a beer he was holding between his legs - finishes it.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] You thirsty?
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] I'm on duty.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] So am I.  Alright, I'll go inside and you cover the back.
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Of course.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Hey!  I always wanted to be a cop when I was a kid.  I dreamed of running up to a door, kicking it in, pulling my gun and yelling 'Freeze!' at the bad guy! What'd you dream about?
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] I wanted to run up to a building on fire, kick in the door, rush into the smoke and save a kid.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Then I guess we're doin' this the right way, aren't we?  If we pull up to a burning building I'll gladly let you go first. Jordy looks at Eddie - can't deny he's right. INT. LUDWIG'S SALON - DAY We're in a moving video POV of Ludwig's, the hair salon - it's big and spacious.  The lens finds THE RECEPTIONIST.
-
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
-
-[MALE] Daphne Handlova?
-
-[NARRATOR] Receptionist responds with gentle reassurance:
-
-[MALE] Daphne?  In the back.  Probably shampooing a customer's hair. Oleg approaches Daphne who is mixing hair dye.  LUDWIG, the owner, is with her.
-
-[NARRATOR] Ludwig adds in a relaxed, peaceful voice:
-
-[MALE] Why are you messing with your hair color again?  You're going to kill your hair. You won't look good with black hair.
-
-[NARRATOR] Daphne murmurs with a warm, steady cadence:
-
-[MALE] I want to do it, alright?
-
-[NARRATOR] Ludwig offers quietly, watching the shadows drift across the room:
-
-[MALE] Well, then do it after work.  A customer's waiting. He leaves, a customer approaches.  She smiles at him - turns on the water in the sink then sees - Oleg filming her.  She backs up...suddenly moves to the emergency door!
-
-[NARRATOR] To The Backyard whispers gently into the still air:
-
-[MALE] There's a garden out there.  Daphne runs toward the alley. Oleg follows her - still videotaping.  As she rounds the corner she bumps into...Emil!  He pulls out his kitchen knife, shoving her against the wall, pushing the blade with the broken tip against her throat.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] I...I have a temper. She looks at him, not understanding.  Oleg films the scene.
-
-[NARRATOR] Emil speaks with a quiet, measured softness:
-
-[MALE] When I lose it, I lose control.  I didn't intend to kill Milos but he stole from me.  Cheated me!  When I went to prison, they beat me.  I still didn't tell he was my partner.  I loved Milos like a brother... The tone in Emil's voice - there's an uncharacteristic softness to it.  He wants to reconcile his behavior to her.
-
-[NARRATOR] Emil whispers gently into the still air:
-
-[MALE] I'm not a killer. The back door opens.  He shoves the knife in his pocket as Ludwig peers around the alleyway.  What he sees is Emil leaning close to Daphne, kissing her.
-
-[NARRATOR] Ludwig offers quietly, watching the shadows drift across the room:
-
-[MALE] Daphne, will you be coming back to work?
-
-[NARRATOR] Daphne whispers gently into the still air:
-
-[MALE] In a minute, Ludwig. Ludwig leaves.
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] Smart girl.  I'm glad you're not a whore.  But washing hair?  This is no job for a woman as beautiful as you. They should be washing your hair. Emil reaches into his pocket and pulls out SOMETHING, sticks it in the palm of her hand, closing her fingers around it.
-
-[NARRATOR] Emil speaks with a quiet, measured softness:
-
-[MALE] I don't want to kill you.  But if you talk, I will.  I thought you'd want these. He taps her hand...he turns and goes out the rear exit.  Oleg follows.  Jordy arrives.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] ...Daphne? She says nothing.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] I'm a fire marshal.  You remember me from the other night?  You are Daphne, right? She says nothing.  Eddie arrives.  Daphne turns.  Recognizing Eddie.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] You don't have to be afraid.  We're here to protect you.  Come with me.  We want to talk to you.  You speak English alright? Eddie looks at Jordy.  Takes Daphne by the arm. EXT. LUDWIG'S SALON - CONTINUOUS As they come out, Eddie notices Daphne clutching something in her hand.  He reaches for her hand.  Opens it.  It's a brushed gold necklace.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Did he give you these?  Was he just here? Eddie searches the streets.  Notices Oleg and Emil on the far corner.  Oleg is videotaping him.  Leon and Tommy pull up. Korfin behind.  They all pop out.  Eddie grabs Leon - squeezes his arm - quietly.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] The other side of the street.  The guy with the videocamera.  Don't look - put her in the car.  Stay this side.
-
-[NARRATOR] Leon answers in a low, calming tone:
-
-[MALE] Stay with her. They start heading down the curb - trying not to attract the attention of Oleg and Emil.
-
-[NARRATOR] A Video Close-Up murmurs with a warm, steady cadence:
-
-[MALE] of the scene from across the corner.
-
-[NARRATOR] Emil whispers gently into the still air:
-
-[MALE] Put the fuckin' camera down!  Let's go! Emil starts to flee. EXT. NYC STREETS - CONTINUOUS What follows next is an incredible foot chase with Eddie, Jordy, Korfin and Leon running through traffic - chasing Emil.  Eddie tries to stay in the lead but is running out of breath.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Split up! Jordy runs down one side of Madison - Eddie, the other. Korfin continues down 62nd and Leon covers the other side. They search for Emil, grabbing people, turning them around, missing him.  Emil seems to have disappeared. Leon, gun raised, approaches the cafe.  As he rounds the corner, Emil darts out, cracking Leon across the face!  Leon crashes into a table, dropping his gun.  Emil scoops up the gun and PISTOL-WHIPS Leon.  BEATING the detective to a pulp. People are running from the scene.  Emil takes Leon's wallet. He is distracted by LAUGHTER.  Oleg is VIDEOTAPING the scene.
-
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
-
-[MALE] Emil, look! Oleg swivels with the videocamera.  Korfin is running toward them - pushing through the crowd.  Emil FIRES!  Korfin is blown backwards.
-
-[NARRATOR] Oleg answers in a low, calming tone:
-
-[MALE] Perfect!  Cut.  Print! Eddie arrives.  Bends down to Leon, whose face is red with blood.  Jordy runs to Korfin, who's laying in the street, shot in the side.  Jordy cradles his partner.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Are you hit?
-
-[NARRATOR] Leon offers quietly, watching the shadows drift across the room:
-
-[MALE] No.  I'm okay.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Bobby, Bobby!  Where're you hit?!
-
-[NARRATOR] Korfin responds with gentle reassurance:
-
-[MALE] It hurts.  Aw, Jesus!
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] Lay down.  Stay down, Bobby. Jordy looks up as Eddie steps into the center of the street. Cars screech out of the way!  Eddie crouches, taking aim at Emil, who is almost two blocks away.  It's an impossible shot, out of range. But Eddie closes an eye, aims and squeezes off one SHOT.  Two blocks away, Emil topples.  Korfin and Jordy look at Eddie, astonished he made the shot.  Emil scrambles to his feet. Runs.  Eddie holsters his weapon.  Pulls out a handkerchief. Dabs Leon's wounds.
-
-[NARRATOR] Leon whispers gently into the still air:
-
-[MALE] He got my gun!  Motherfucker was filming the whole time!
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] I know.  Relax.  Take it easy.  Don't worry, we'll get those fuckers. DISSOLVE TO:
-
-[NARRATOR] Ems Vehicle responds with gentle reassurance:
-
-[MALE] Eddie and Jordy watch as Korfin on a stretcher, is loaded in an EMS VEHICLE and in b.g., an EMS DOCTOR attends to Leon's bloody face.  Eddie and Jordy turn to go back into the restaurant, now cleared out - as Nicolette Karas arrives with her cameraman.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Detective - can you tell us what happened here?
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] I can't talk right now.  We have some things to take care of. Jordy moves off, he doesn't want to get pulled in front of Nicolette. Daphne can be seen waiting in the back of the restaurant, maybe twenty feet away.  Tommy stands next to her.  This is where Eddie and Jordy are headed.
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] I understand, but I noticed that the Fire Marshall is here with you.  Is this somehow related to the fire department?
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] I really can't give out any information right now at this point.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Okay.  But I do understand that your partner, Leon Jackson's been injured. Is that correct?
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] He was hurt, but not seriously.  He'll be fine.
-
-[NARRATOR] Nicolette adds in a relaxed, peaceful voice:
-
-[MALE] Do you have the suspect in custody?
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Um...now is not a good time, okay. Detective Jackson's hurt.  He's fine. I've got a Fire Marshall shot, Detective Jackson is hurt but not seriously.
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] Alright, cut, cut, cut. Mike the cameraman cuts the cameraman - lowers it from his shoulder.
-
-[NARRATOR] Nicolette answers in a low, calming tone:
-
-[MALE] Eddie, are you okay?
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Yeah.  Now's not a good time.
-
-[NARRATOR] Nicolette whispers gently into the still air:
-
-[MALE] Alright.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Alright?
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Alright.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Alright.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Okay. Eddie walks into the restaurant.  Throws a look back at her, then enters. INT. ARMAND RESTAURANT - DAY Jordy talks to Daphne.
-
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
-
-[MALE] I told your partner, I can't help.  I didn't see anything.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] C'mon, start at the beginning.  You know these people?
-
-[NARRATOR] Daphne answers in a low, calming tone:
-
-[MALE] Tamina was a friend of mine.  My shower was broken, she let me use theirs.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Go on. She says nothing.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Whether you tell us or not, we'll find out.  Better if it comes from you.
-
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
-
-[MALE] If I tell you, will you arrest me?
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Arrest you for what?  Why would we arrest you? She still hesitates.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] What are you hiding?  Why are you afraid
-
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
-
-[MALE] She just saw two of her friends killed! They probably threatened her.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Is that all there is? She looks at Eddie.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Are you here illegally?  Don't worry about that.  We'll talk to Immigration. They won't deport you.
-
-[NARRATOR] Daphne whispers gently into the still air:
-
-[MALE] No, no, don't talk to Immigration! She clams up.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] Why not?
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Something back home? Jordy leads Daphne to a table - she sits.  Eddie sits across from her.  Jordy crouches down next to her.
-
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
-
-[MALE] ...my little sister and I shared a flat - I came home one night and a man was raping her.  His gun was on the chair... He came at me and I shot him.
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Alright.  That's a justifiable homicide.
-
-[NARRATOR] Daphne answers in a low, calming tone:
-
-[MALE] Yes, but he was a cop.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] A cop?
-
-[NARRATOR] Daphne responds with gentle reassurance:
-
-[MALE] I'm from a small town in Slovakia.  Like the South here.  The Police is right, a civilian is wrong.  So I fled.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Look, we can help you but right now we have to deal with what's happening here. Tell us the truth...is that the truth?
-
-[NARRATOR] Daphne speaks with a quiet, measured softness:
-
-[MALE] You're a cop - you'll never believe me.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Can I talk to you? Eddie steps away with Jordy.  Keeping his eyes on Daphne. She tries to listen.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] She's fucked.  Even if that story is true.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Raw deal. Eddie tilts his head.  Measures Jordy.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] Look - let me talk to her.  Any leads I get, they're all yours.  Just let me have a first crack at her.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] You wanna talk to her alone?
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] Yeah.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] What would your girlfriend think of that?
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] I don't have a girlfriend.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] My point exactly.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] I'm serious here.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] So am I.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] C'mon.  You intimidate her 'cause you're a celebrity.  She sees me differently.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] You're her Savior?  Is she the kid you're gonna save from the burning building?
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] You know what I'm saying here. Eddie looks at his watch.  Thinks it over.  Measures Jordy.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Okay, tell you what, I'll give you a head start.  You take her to the station house.  Don't let her out of your sight. She's the only warm body we got left.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] Hey.  I'm a professional.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Women like that have a way of turning professionals into amateurs. He gives Jordy a look and heads for the door. INT. A SEEDY BATHROOM - DAY Emil pulls off his sock and shoe, lifts his foot into a stained sink and washes the blood away, exposing the chunk of pink flesh taken out of his ankle.  Emil grabs some toilet paper, plugs the wound, then cuts the towel off the dispenser with his kitchen knife and wraps his ankle.  He grits teeth in pain.  The lights go out.  Then Oleg adjusts the fluorescent light above the sink.
-
-[NARRATOR] Oleg speaks with a quiet, measured softness:
-
-[MALE] Gotta light the scene better.  Now it's more moody... like a scene from THE
-
-[NARRATOR] Emil answers in a low, calming tone:
-
-[MALE] Shut up.
-
-[NARRATOR] Oleg adds in a relaxed, peaceful voice:
-
-[MALE] Does it hurt? Emil lifts his foot out of the sink.
-
-[NARRATOR] Emil speaks with a quiet, measured softness:
-
-[MALE] This is nothing. Emil lifts his shirt, exposing his back.
-
-[NARRATOR] Oleg speaks with a quiet, measured softness:
-
-[MALE] Oh, shit.  I hate looking at that!
-
-[NARRATOR] Emil whispers gently into the still air:
-
-[MALE] Don't want to film this? We don't see what Oleg sees - not yet - but from his expression, it's horrible. INT. JORDY'S CAR - DAY Daphne rides in the backseat.  Jordy's watching her in the rearview.
-
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
-
-[MALE] Now I become custody of police department?
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] If you cooperate with the DA - maybe they'll help you with your situation.
-
-[NARRATOR] Daphne whispers gently into the still air:
-
-[MALE] I will if they don't send me back.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] They won't until this is over. She looks away.  Out the window.  Jordy sees emotion filling her eyes.  She looks back at him - her eyes have teared up.
-
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
-
-[MALE] Are you married?
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Divorced.
-
-[NARRATOR] Daphne speaks with a quiet, measured softness:
-
-[MALE] Do you live alone?  I've been in these clothes since...the killings.  Could we stop at your place? I could take a shower...before I go into custody? Jordy looks at her.  Can't quite tell if she's trying to manipulate him or really just wants to get cleaned up before all the shit starts.
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] I can't take you to my place.
-
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
-
-[MALE] Somewhere else? Jordy looks at her...
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Staring right at us.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] I want to talk to you about something serious. He holds up the diamond engagement ring.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] I want to live the rest of my life with you...I don't know you've been married before and I've never been married, but I do love you, and... Eddie is standing in front of a mirror - rehearsing the proposal.  He notices a small dab of blood on his shirtcuff. Leon's blood.  Paulie enters carrying a towel and a vodka tonic.
-
-[NARRATOR] Paulie speaks with a quiet, measured softness:
-
-[MALE] She's here. Paulie sets down the drink and begins their silent ritual. He hands Eddie the towel.  Eddie wipes off his face and hands, then hands the towel back to Paulie.  Paulie helps Eddie on with his coat.  Eddie takes some Visine out of his coat pocket.  Drops a few in each eye.  HE straightens himself and looks in the mirror, taking a big gulp of the drink.  Eddie sets the glass down and starts out.  Paulie hands him a Binaca.  Eddie gives himself a squirt as he exits.  Paulie follows. INT. P.B. HERMAN'S RESTAURANT - DAY It's lunchtime...it's crowded.  Eddie takes a seat at a table.  He takes the ring out of his pocket - holds it under the table.  Nicolette Karas walks up to Eddie from behind. Gives him a kiss on the cheek.
-
-[NARRATOR] Nicolette offers quietly, watching the shadows drift across the room:
-
-[MALE] Hey, honey.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] Hey. She orders a drink in Greek from the Greek waiter, then sits down across the table.  There's a long pause - they just look at each other.
-
-[NARRATOR] Nicolette whispers gently into the still air:
-
-[MALE] What is your problem?  Why'd you snap at me?  I just wanted a statement.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] I can't...I can't answer you just because you want me to answer you!
-
-[NARRATOR] Nicolette whispers gently into the still air:
-
-[MALE] You didn't have to embarrass me in front of my colleagues.  You could give me something.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Oh, I'm sorry.  Did I embarrass you, sweetheart?  Oh...
-
-[NARRATOR] Nicolette whispers gently into the still air:
-
-[MALE] Stop it.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Maybe I should just, ya know...turn to the cameras and say, do you mind if we just work something out?
-
-[NARRATOR] Nicolette speaks with a quiet, measured softness:
-
-[MALE] Alright, alright, Eddie.  Don't patronize me.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] I'm not.
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] Yes you are.  I'm not just some reporter.  I don't just stick a microphone in your face.  You could give me something.
-
-[NARRATOR] Eddie whispers gently into the still air:
-
-[MALE] Yeah, well you took the camera and put it right down on the evidence.  That was...
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] That was good.  You were holding the evidence.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] You were merciless.  You didn't give a shit if you got me or not.
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] Well, who was it that taught me how to do that?  Huh?
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] You're ruthless.
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] You're not so bad yourself. They look at each other.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] C'mere. They kiss.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Look at this.  You have blood on your shirt.  Whose is it?
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Could be Leon's.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Jesus.  And last week you came over with blood on your shoes.  What am I going to do with you? Eddie takes her hand.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] You know, I been thinkin'...these shoes might look nice with another pair of shoes next to them in the closet. She looks at him.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] You know, Nicky, I've been married twice before.  My first wife was a professional woman, didn't have time for children.  My second wife...I never wanted to go home to her. Nicolette's phone rings.  Eddie stops - looks at the ringing phone.
-
-[NARRATOR] Nicolette adds in a relaxed, peaceful voice:
-
-[MALE] What are you doing?  What are you saying? Nicolette's phone keeps ringing.  Eddie stares at it.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Eddie? Nicolette's phone keeps ringing.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Don't worry about the damn phone.  I won't answer it.
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Answer the phone.
-
-[NARRATOR] Nicolette offers quietly, watching the shadows drift across the room:
-
-[MALE] No.  Tell me what you want to say.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Answer it.
-
-[NARRATOR] Nicolette answers in a low, calming tone:
-
-[MALE] Okay.  Okay.  Hold that thought just for a second.  They only call me when it's an emergency.  Just hold that thought.  Can you call back?
-
-[NARRATOR] Phone Voice adds in a relaxed, peaceful voice:
-
-[MALE] We need you here in twenty minutes.  Get in a cab.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] What're you talking about?
-
-[NARRATOR] Phone Voice murmurs with a warm, steady cadence:
-
-[MALE] Katie.  We don't know where she is.  We can't find her.  You gotta anchor the 5:00.  This is your shot.  Come now.
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] What?  Oh.  Okay.  Yeah. The line disconnects.  She collapses the phone.  Turns to Eddie.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Oh my G-d, they want me to anchor.  They want me to anchor tonight!
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] That's good.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Yeah.
-
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
-
-[MALE] Well, that's great.
-
-[NARRATOR] Nicolette whispers gently into the still air:
-
-[MALE] Okay.  That is great.  But I can't go now, we're in the middle of something here.
-
-[NARRATOR] Eddie responds with gentle reassurance:
-
-[MALE] No.  Go ahead.  You're gonna be great.
-
-[NARRATOR] Nicolette speaks with a quiet, measured softness:
-
-[MALE] No.  No, listen to me here.  I want to know what you're talking about.  You know, the shoe thing and the marriages and...
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] I'll tell you tonight.  Let's do it tonight.  As soon as you get back we'll talk.  We'll talk.
-
-[NARRATOR] Nicolette offers quietly, watching the shadows drift across the room:
-
-[MALE] Promise?
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] I promise.  We'll talk.  You'll be great.  You'll be fine.  Go ahead, just imagine that, uh... Just look into the lens and imagine you're talking to me.
-
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
-
-[MALE] Yeah.  I'll do that.  As long as you're not patronizing me.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Patronizing you... Nay, I love you.
-
-[NARRATOR] Nicolette answers in a low, calming tone:
-
-[MALE] I love you. They kiss.
-
-[NARRATOR] Nicolette speaks with a quiet, measured softness:
-
-[MALE] Okay, til tonight.
-
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
-
-[MALE] Tonight.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] You promise?
-
-[NARRATOR] Eddie answers in a low, calming tone:
-
-[MALE] Yeah.  I promise.
-
-[NARRATOR] Nicolette whispers gently into the still air:
-
-[MALE] Okay.  And you know what, I'll swing by my place, grab a couple pairs of shoes and maybe just test them out next to yours...How's that... Would that be a good thing.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] Yeah, yeah.  Good thing.
-
-[NARRATOR] Nicolette whispers gently into the still air:
-
-[MALE] Okay.
-
-[NARRATOR] Eddie adds in a relaxed, peaceful voice:
-
-[MALE] See you later.  Good luck.
-
-[NARRATOR] Nicolette responds with gentle reassurance:
-
-[MALE] Thank you.
-
-[NARRATOR] Eddie speaks with a quiet, measured softness:
-
-[MALE] Don't be late. She walks out. INT. FIRE STATION 91 - DAY Jordy unlocks the door.  Enters with Daphne.  The fire station is empty.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] The men are out of quarters - practicing putting out fires.
-
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
-
-[MALE] So...the station is empty?
-
-[NARRATOR] Jordy answers in a low, calming tone:
-
-[MALE] Yeah.  This way. He gestures toward the stairs. INT. FIRE STATION LOCKER ROOM - CONTINUOUS Jordy and Daphne walk through the locker room.  Her eyes never leaving Jordy's.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] You considered becoming a prostitute?
-
-[NARRATOR] Daphne whispers gently into the still air:
-
-[MALE] Yes, I considered it.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] Did you ever turn tricks before?
-
-[NARRATOR] Daphne responds with gentle reassurance:
-
-[MALE] No.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] What about back home?
-
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
-
-[MALE] No. Daphne stops.  Looks at him.  Stands very close.
-
-[NARRATOR] Daphne speaks with a quiet, measured softness:
-
-[MALE] I came here.  I had no money.  I knew no one.  I couldn't get a job because you have to have a green card to get work. They approached me - I could've made a lot of money.  I considered it, but... it's not who I am.  They pay me below the table at Ludwig's.
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] So you were never a prostitute?
-
-[NARRATOR] Daphne whispers gently into the still air:
-
-[MALE] What are you asking me?
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] I'm just trying to find out who you are. She looks up into his eyes.  Searching.  Thinking he's hinting.
-
-[NARRATOR] Daphne murmurs with a warm, steady cadence:
-
-[MALE] Can you let me go? She leans in close to him - giving him the opportunity to kiss her.  Jordy is tempted but...remembers Eddie's warning and backs up slightly.
-
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
-
-[MALE] Showers are this way. Desperate now, willing to do anything, Daphne moves in even closer.
-
-[NARRATOR] Daphne responds with gentle reassurance:
-
-[MALE] You could shower with me. Jordy is locked in her eyes.  Almost giving in.  Then breaks away.  Gestures towards the showers. Daphne looks away form him - crestfallen.  She heads to the showers.  Jordy follows her into the bathroom.  The walls are lined with shower stalls.
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] I'll uh, I'll get you a towel. He leaves her there.  Alone.  She quickly moves to the window.  Opens it.  Looks down.  It's a two-story drop to the street.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] gets a towel from the locker room.  His beeper goes off.  He checks the number but decides not to return the call.  We follow him back into the bathroom.  The shower is on but he notices the window.  It's open.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Shit! He rushes over.  He looks out.  No sign of her.  He turns - looks back at the shower.  It's on but he can't see through the curtain.  Can't tell if she's there.  He walks over - quickly - fearing that she's left.  He pulls the curtain aside.  She's crouched in the corner shower stall.  Holding herself.  She looks up at him - her eyes filled with tears.
-
-[NARRATOR] Jordy speaks with a quiet, measured softness:
-
-[MALE] Are you alright? Jordy sits on the bench next to the shower.
-
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
-
-[MALE] I'm not a whore.  I'm not a whore.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] I know.
-
-[NARRATOR] Daphne whispers gently into the still air:
-
-[MALE] You don't know.  I'm sorry.  I was desperate.  That's not me.  I shot a cop.  Can you imagine what they'll do to me when I got to prison?
-
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
-
-[MALE] They're not gonna send you right back.
-
-[NARRATOR] Daphne whispers gently into the still air:
-
-[MALE] I'm sorry.  I didn't mean to...I'm glad. Actually I'm glad it's over.  All this time.  Hiding.  Never being able to look anyone in the eyes. Always afraid that someone would find out who I was.  Never trusting anyone... He covers her with the towel, pulling her up.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] You can trust me. She embraces him.  Trusting him.  He stands there for a moment.  Then awkwardly holds her.  Comforting her. INT. NYC RESTAURANT - DAY
-
-[NARRATOR] Close Up speaks with a quiet, measured softness:
-
-[MALE] on a steak.  Male hands cut a piece.  Another male hand sets down a huge bottle of Extra Strength Excedrin.  The hands abandon the steak and rip open the bottle.  The CAMERA pulls back to include the LCD screen of Oleg's videocamera.  He is taping Emil as he rips open the safety plastic with his teeth.  Emil is sweating with fever and his eyes are glazed over in pain.  He 'drinks' pills from the bottle and chews them up.  Wincing in pain.  Emil washes them down with a beer. Emil looks down and the camera follows his gaze to the "People" magazine article he's reading on Stephen Geller. Emil laughs.  Shaking his head at the article as the videocamera tilts back up to his face.
-
-[NARRATOR] Oleg answers in a low, calming tone:
+[NARRATOR] A quiet falls over the room. Malcolm grows distracted, his fingers brushing thoughtfully against the frame of his glasses, holding them for a moment as the distant sounds of the waking city begin to whisper far below. Cassius notices the quiet shadow passing over his friend's face.
 
 [MALE] What is it?
 
-[NARRATOR] Emil whispers gently into the still air:
+[MALE] You ever been so angry...have you ever been so angry that you'd explode?
 
-[MALE] The video of Milos and Tamina - I told you to erase it.
+[NARRATOR] Cassius lets out a slow, quiet breath, the heavy stillness of the room seeming to deepen as he looks back across the years, touching a memory long buried.
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[MALE] Tore out a picture of Emmett Till when I was little. Couldn't take my eyes to it...couldn't look at it. Barb-wire around his neck to a 75- pound cotton-gin fan. Took out his eye. The cruelty to it...I couldn't look at it...couldn't throw it away.
 
-[MALE] I did.
+[MALE] What else?
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[MALE] I thought, "What I do wrong to be so low that people could do that to people like me?" It made me feel ashamed. And that makes no sense. But that's what it was.
 
-[MALE] And the whore's murder?  You didn't erase that either, did you?  Don't lie, I won't be angry.
+[NARRATOR] Malcolm stands completely still by the window, the faint blue light of the television washing over his coat, his voice dropping to a low, resonant murmur that carries the weight of a profound sorrow.
 
-[NARRATOR] Oleg offers quietly, watching the shadows drift across the room:
+[MALE] ...when I heard about the four girls bombed in the 16th Street Church in Birmingham? The prohibitions of the Honorable Elijah Muhammad prevented me from speaking my voice in action. Because Birmingham was part of the civil rights movement, begging for a place at the white man's table... But dead children...are dead children. So the anger I felt, I had to contain. I locked that down! So tight my muscles seized. I lost control over the right side of my body. Leg didn't work...right arm didn't work. "I'm having a stroke," I thought. I had to hold it in 'cause I wanted, all I wanted was to BREAK SOMETHING! Break a part...any part of this system. Because you are so provoked as a human being. In your spirit. In your heart... At the death of children. But I COULD DO...nothing.
 
-[MALE] Why not?
+[NARRATOR] Cassius remains entirely quiet, listening in the gentle hush of the room as the flickering television projects its silent patterns against the walls. Slowly, deliberately, Malcolm slides his glasses back onto his face, adjusting them with a steady hand.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[MALE] Everyone knows... Now I'm advocating more direct political action involvement with the international struggle... So Elijah Muhammad has suspended me as a Minister in the Nation of Islam for 90 days.
 
-[MALE] Put the camera down, Oleg. Oleg closes the LCD screen and puts the camera down.  Emil removes a small address book -- from Leon's wallet - he looks up Eddie Flemming's name.
+[MALE] You can fix that...
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[MALE] I don't know. I will try when we get back. Until then I will live each day as if I am already dead.
 
-[MALE] What is that?
+[NARRATOR] The room grows wonderfully still once more. Outside the window, the very first wash of pale, silvery gray begins to touch the eastern sky, promising the gentle arrival of dawn. The television hums its quiet song, and the deep, soothing peace of the morning settles softly over them both, wrapping the quiet hotel room in a profound and undisturbed tranquility.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] The morning light in Harlem shifts from silvery gray to a warm, encompassing amber, washing over the city streets in a quiet, undisturbed calm. Inside the hotel room, Malcolm stands by the tall window, watching the breath of dawn awaken the avenue below, his silence deep and contemplative. 
 
-[MALE] What does it look like?  It's an address book! Oleg jumps up with the camera to tape the book.
+[NARRATOR] The atmosphere shifts, drifting gently backward in time across the vast expanse of the map, coming to rest in the tranquil, sunlit interior of Elijah Muhammad's house in Chicago, the year nineteen hundred and sixty-four. The afternoon air is thick with the scent of polished wood and quiet reverence. Joseph 13X, impeccably dressed in a sharp suit and tie, approaches with soft, measured footsteps, beckoning toward the sunlit living room where the Messenger sits upon a pristine, plastic-covered white sofa. 
 
-[NARRATOR] Oleg offers quietly, watching the shadows drift across the room:
+[NARRATOR] The room is hushed, wrapped in a profound and soporific stillness. Cassius enters with a posture of deep deference, his usual boundless energy quieted by the sheer weight of the moment, awed to be in the presence of such understated power. Elijah Muhammad's stature is slight and delicate-featured, yet an immense, gravitational authority radiates from him. With a slow, graceful gesture, he motions for Cassius to take a seat beside him. Across the room, Joseph 13X sits quietly alongside two other men, their presence casting a long, peaceful shadow across the carpet. 
 
-[MALE] Let me get a shot of it.
+[ELIJAH MUHAMMAD] Only after long service and high merit in the spiritual and physical rebirth of Afro-American people...is one granted an original name. But you are special. A world champion. So there is a gift I wish to give you. From this day forward you will be known as Muhammad Ali...which means "one worthy of praise," and Ali means "most high."
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[NARRATOR] A soft, suspended pause lingers in the warm air as the syllables settle over the room like falling snow. 
 
-[MALE] Sit down!
+[CASSIUS] Muhammad Ali... "Worthy of praise..." Thank you!
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[NARRATOR] The young champion speaks the words slowly, tasting their resonance, genuinely and deeply moved. Elijah extends his small hands, placing them gently within the palms of Muhammad Ali, bestowing a solemn and enduring blessing upon him. 
 
-[MALE] This way.  Hold it this way.  Good. Oleg gets a shot and quickly sits back down.
+[ELIJAH MUHAMMAD] Be very careful what you say...your words reflect on the nation of Islam, now.
 
-[NARRATOR] Oleg offers quietly, watching the shadows drift across the room:
+[CASSIUS] Yes, sir.
 
-[MALE] Why won't you be angry at me for keeping my movie? Emil takes a gulp of beer - drops cash on the table and limps away.  Oleg follows. INT. PRECINCT - DAY It's quiet - Chief Duffy paces in front of the Sergeant's desk.  Looking at his watch.  Growing more and more aggravated as every second ticks by.  Jordy enters escorting Daphne.  Sees Duffy and tires to go past him.  Duffy turns and sees Jordy and Daphne.
+[NARRATOR] A quiet beat passes, filled only with the faint, distant rustle of a passing breeze outside the window. 
 
-[NARRATOR] Duffy answers in a low, calming tone:
+[ELIJAH MUHAMMAD] Up until now, I have entrusted your spiritual development to Brother Malcolm. I do not feel this is a wise course anymore.
 
-[MALE] Hey.  Warsaw. Jordy stops and comes back.  Sitting Daphne down on a bench.
+[NARRATOR] A wave of heavy, unexpected emotion rolls through the room. Tears well in the eyes of the Messenger, a profound sadness for Malcolm that startles Cassius, leaving him momentarily speechless. Joseph 13X watches silently from the background as the older man gathers his breath. 
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[ELIJAH MUHAMMAD] Malcolm has gone off into the secular world and does not measure his words. I have decided to give you, as your guide, my very own son, Herbert Muhammad.
 
-[MALE] Hey, Chief, what are you doing here?
+[NARRATOR] Elijah looks across the sunlit room toward a roly-poly man wearing a neatly tied bow tie. Herbert Muhammad sits quietly, his fingers occasionally brushing against his shirt in a nervous habit of smoothing the fabric. He is a mild, unassuming figure on the surface, moving with a subtle, quiet grace.
 
-[NARRATOR] Duffy speaks with a quiet, measured softness:
+[ELIJAH MUHAMMAD] Herbert will supervise all of your spiritual and material needs.
 
-[MALE] I came to see how the investigation was going.  I called and you're not here.  I wait up at the station and you don't even show up!!!  I beep you - you don't return my call.  Where the hell have you been?! Jordy takes a few steps away from Daphne.
+[CASSIUS] This is a great honor, Messenger...
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[NARRATOR] With a single, subtle glance from Elijah, Herbert retreats softly to where he sat beside Joseph 13X, blending back into the quiet tranquility of the room. 
 
-[MALE] Ladder 20 was on the Rock for training. We stopped there... so she could get cleaned up.
+[NARRATOR] The scenery shifts once more, carrying us onward to the early evening hours outside the Clay house in Louisville, nineteen hundred and sixty-four. The evening air is cooling down, painted in dusky shades of twilight purple and deep indigo. Cassius Clay, Senior, stands near the porch, flamboyant and naturally restless, his posture radiating impatience. 
 
-[NARRATOR] Duffy murmurs with a warm, steady cadence:
+[NEIGHBOR (V.O.)] Could we get a picture with you? You mind, Mr. Clay?
 
-[MALE] What do you mean, 'cleaned up?'
+[NARRATOR] A neighboring family drifts onto the lawn, eager to stand beside the young champion. With a dismissive sigh, Cassius, Senior, steps aside to let them gather. Inside the warmly lit house, the faint murmur of voices can be heard as Odessa Clay and her other son, Rudy, converse in soothing, low tones. 
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[CASSIUS CLAY, SR.] Why you want to change? What's wrong with the lawyers and managers you got?
 
-[MALE] I let her take a shower.
+[NEIGHBOR] One more. 
 
-[NARRATOR] Duffy murmurs with a warm, steady cadence:
+[NARRATOR] A camera flash briefly illuminates the twilight. 
 
-[MALE] A shower!?  Did you take one, too?
+[NEIGHBOR] Thank you.
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[CASSIUS CLAY, SR.] Yeah, yeah...
 
-[MALE] No!  Nothing happened.
+[NARRATOR] The neighbors turn and wander back down the walk, their footsteps fading into the growing stillness of the evening. Cassius, Senior, turns back toward his son, his voice laced with the familiar frustration of an older generation trying to understand the new. 
 
-[NARRATOR] Duffy answers in a low, calming tone:
+[CASSIUS CLAY, SR.] You got...I got you the best white men I could find. Right here in...
 
-[MALE] Oh really.  That's nice.  You took a homicide witness to take a shower after your partner was shot?  Are you out of your fucking mind??  Are you having that much trouble gettin' dates?!
+[NARRATOR] The evening settles over the quiet neighborhood, wrapping the porch in a blanket of deep indigo shadows and the gentle hum of crickets. A warm, yellow porch light flickers to life overhead, casting a soft, golden glow upon the wooden boards and the weary faces of father and son. The air is still, smelling faintly of damp earth and late-summer blooming jasmine. Cassius Senior stands beneath the amber light, his brow furrowed with the heavy weight of a lifetime of compromises, looking at the young man who towers before him.
 
-[NARRATOR] Eddie whispers gently into the still air:
+[MALE] You got... I got you the best white men I could find. Right here in Louisville.
 
-[MALE] I told him to take her there. Jordy and Duffy turn.  Eddie walks out.  Eddie turns - Tommy - the young detective who caught the case in the King Edward Hotel - is coming out of the back office.
+[NARRATOR] The younger man, standing tall and unyielding in the cooling breeze, shakes his head slowly, his gaze fixed on the horizon where the last trace of twilight fades into velvet black.
 
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
+[FEMALE] When the contract run out. I want black lawyers and managers. Chauncey Eskridge on North La Salle Street...
 
-[MALE] Tommy, get her outta here. Tommy takes Daphne into the precinct.
+[NARRATOR] Cassius Senior steps closer, his voice rising, edged with the raw, protective frustration of a man who has known a harsher world and only wants his son to survive it.
 
-[NARRATOR] Tommy offers quietly, watching the shadows drift across the room:
+[MALE] They saved you from the gangsters, from the jackals and the hyenas of boxing. Never cheated you. Protected you with a trust fund...
 
-[MALE] This way, ma'am.
+[NARRATOR] With a calm, rhythmic steadiness, like the steady rolling of a distant tide, the young man answers, his voice unwavering in the quiet night.
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[FEMALE] I don't need no "protectin'" from myself. Why I need protecting from myself by them...?
 
-[MALE] There was too much press hangin' around there.  I didn't want her face on the news.  So I told him to take her to a quiet area until things settled down.
+[NARRATOR] The father lets out a heavy breath, the sound rustling through the evening leaves like a dry autumn wind.
 
-[NARRATOR] Duffy speaks with a quiet, measured softness:
+[MALE] And now I got to go tell them, "Piss off. Cassius don't want you around no more."
 
-[MALE] Oh.
+[NARRATOR] The young man straightens his shoulders, the porch light catching the fierce, unyielding pride in his eyes. He is done with old expectations.
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[FEMALE] I ain't one of their thoroughbreds! Or their charity things. "Let's do somethin' for that well-behaved colored boy, Cassius." I ain't well-behaved nothing! I am a man.
 
-[MALE] It was my decision, not his.
+[NARRATOR] The darkness deepens around them, swallowing the edges of the yard, leaving only the pool of amber light. The young man speaks again, softly, carrying a name that feels heavy with destiny.
 
-[NARRATOR] Duffy answers in a low, calming tone:
+[FEMALE] And I am not Cassius. I changed my name. I am Muhammad Ali, now.
 
-[MALE] Well, I'm the Deputy Chief Fire Marshall and every now and then I'd like to be included in decisions.
+[NARRATOR] Cassius Senior recoils slightly, as if struck by an invisible, chilling gust of wind. 
 
-[NARRATOR] Eddie speaks with a quiet, measured softness:
+[MALE] You what?
 
-[MALE] Look, after Jordy briefs me, you can do the press conference.  How about that? The case is all yours.
+[FEMALE] That's right.
 
-[NARRATOR] Duffy whispers gently into the still air:
+[MALE] What? What's wrong with... our name, my name...? We're... we made you. We...
 
-[MALE] Oh yeah...?  Alright.
+[FEMALE] No one "made me"...
 
-[NARRATOR] Eddie whispers gently into the still air:
+[MALE] No bow-tie-wearin', Arab-talkin' nigger gonna change that...
 
-[MALE] I'm ready to be briefed.  Excuse us.
+[FEMALE] I made me. No one's in that ring but me!
 
-[NARRATOR] Duffy whispers gently into the still air:
+[MALE] You don't know who you are...
 
-[MALE] Yeah, sure.  Beep me when you're ready for the press conference.
+[FEMALE] I know who I'm not... I'm not drinkin'! Goin' back on my wife! I am not prayin' to no blue-eyed, blonde-haired Jesus. I ain't...
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[MALE] Paintin' blue-eyed, blonde-haired Jesuses and signs on cars is what put steak and vegetables in you, clothes on you...
 
-[MALE] Will do, Chief. Eddie leads the way, walking past the Sergeant's desk - toward the back and to his office.
+[FEMALE] Dinner!
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[NARRATOR] The shadows have grown too long and deep; the faces of the porch are now obscured by the encroaching night. Cassius Senior speaks the final, chilling word into the cooling air.
 
-[MALE] Eddie, I... Eddie holds up his hand - silencing Jordy.
+[MALE] Go ahead.
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] A profound, bitter silence stretches between them, broken only by the faint chirping of crickets.
 
-[MALE] Wait. INT. POLICE PRECINCT - DETECTIVE ROOM'S SQUAD - DAY A handful of detectives talk about work over burned coffee. Eddie enters with Jordy.
+[MALE] Go ahead.
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] Cassius Senior turns away, walking off into the darkness, his back arched with a fragile, breaking pride. Odessa Clay watches him go, then turns her gentle, knowing eyes to her son, her voice as soft as a falling leaf.
 
-[MALE] Guys...give me a few minutes? They empty out.
+[FEMALE] You didn't get it from me... your words, your sense of humor, what makes you angry, what makes you a fighter. You got that from your daddy...
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[FEMALE] You saying I'm just like him?
 
-[MALE] Look, Eddie, I'm tellin' you - I didn't touch her.
+[FEMALE] I'm saying, if he was your age today, he'd do the same as you. And he knows that.
 
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
+[NARRATOR] Odessa turns and steps back inside, letting the screen door click softly shut. Miles away, in the quiet, shadowed kitchen of a modest Queens home, a small table is cluttered with papers and a telephone in the stillness of 1964. The ring cuts sharply through the quiet. One of the children answers in a whisper.
 
-[MALE] Well, you shoulda because nobody's gonna believe you didn't...including me.
+[FEMALE] Daddy... For you...
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[NARRATOR] Malcolm takes the receiver, the cord stretching slightly in the dim, lamp-lit room.
 
-[MALE] I took her there for a shower and that's it.
+[MALE] What is it, Joseph?
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[MALE] Brother Malcolm... The Honorable Elijah Muhammad has given the Muslim name, Muhammad Ali, to Cassius X. Herbert Muhammad's been placed in charge of his training, instead of you. Muhammad Ali will not be traveling with you to Africa.
 
-[MALE] Just a shower? Eddie gives Jordy a questioning look.
+[NARRATOR] Malcolm sits completely still, the weight of the words settling over him like a heavy, cold fog. He has been co-opted, set aside in the quiet dark.
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[MALE] The Honorable Elijah Muhammad has asked me to inform you your suspension has been extended indefinitely.
 
-[MALE] Yeah, just her in the shower.  Nothing happened.  Look, I'm sure you probably think I'm a fool and I fucked up, but...
+[NARRATOR] The line goes dead with a faint click. Malcolm quietly closes the kitchen door, the shadows lengthening around him. He dials a number in the dark. Ring after ring, there is only silence. No answer. Betty steps softly into the kitchen, her eyes filled with gentle, quiet concern for her husband.
 
-[NARRATOR] Eddie murmurs with a warm, steady cadence:
+[FEMALE] Malcolm?
 
-[MALE] No, I don't think you were a fool, I just think you were stupid about it.  I mean, to say the least, you outta know better.  You don't know her well enough. She's got the potential to fucking hang you even if she suggests that you made a pass at her, it's fuckin' over.  You can deny it all you want, but it will not make one fucking bit of difference. You're dead.
+[NARRATOR] Malcolm waits a long, slow beat, his voice dropping into a disconsolate whisper that fades into the quiet night.
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] Cassius won't...
 
-[MALE] I told you, you know, I thought I was doing the right thing, you know, I think she's innocent.
+[NARRATOR] The kitchen air is thick with the soft, slow hush of midnight, holding the weight of unspoken things. Betty lets her hand come to rest, a warm and tender weight, upon Malcolm’s shoulder, offering a silent anchor in the sea of his troubled thoughts. 
 
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
+[FEMALE] Go anyway. Don't put it off. It's not safe here.
 
-[MALE] Well, it's not up to you to decide whether she's innocent or not.  Don't you understand, that's why you're a professional.
+[NARRATOR] From down the dim, quiet hallway, the sweet, sleepy voice of a child drifts through the shadows, breaking the stillness like a pebble dropped in a still pond.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[NARRATOR] Mommy...the bath's ready...
 
-[MALE] But, I mean, didn't you ever go out on a limb for somebody?  I mean, you shoulda heard her there.  Tellin' her whole story...I believed her.
+[NARRATOR] High above the sleeping world, inside the steady hum of a Ghana Airlines DC-8 cruising through the velvet expanse of night, the cabin is bathed in the soft, amber glow of reading lights. Herbert Muhammad paces the aisle, his nerves humming with the quiet restlessness of a flyer who finds no comfort in the clouds. Up ahead, near the cockpit, the door drifts open to reveal a quiet, profound surprise—the pilot and copilot are both black men, gliding effortlessly through the dark skies. Ali leans back, a soft, easy amusement playing at the corners of his mouth as he looks up from his seat.
 
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
+[MALE] Hey, man, where they put the real pilot? What you doin' up here?
 
-[MALE] How you go out on a limb for somebody is by giving her a number of an Immigration lawyer.  Here, here's a number of an Immigration lawyer.  That's how you help her. But you can't get involved in her like that.  You're gonna jeopardize your career, your life and you're gonna jeopardize my case.  And lemme give you another piece of advice.  Maybe you don't watch TV but I'll let you in on a little secret - the whole fuckin' world watches television.  And when you get out there, they know your face.  And the little fame, the little fuckin' itty bitty fame that I get in this city makes it a lot easier for my job.  And I get more done because of it. Jordy studies Eddie for a quiet beat.
+[NARRATOR] The pilot turns with a gentle, dignified smile, his voice carrying the calm, measured cadence of a British accent.
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[MALE] I am...the pilot. He's the copilot... Here, Mr. Clay, sit down...
 
-[MALE] Why'd you help me back there with the Chief?  Why'd you stand up for me like that?
+[NARRATOR] Ali shakes his head slowly, a deep, nostalgic wonder washing over him as he gazes out the reinforced window into the infinite black.
 
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
+[MALE] No, man, I meant...in L'ville, when I growed up, they barely let black folks drive buses.
 
-[MALE] You know, I don't know.  I like you. You remind me of a puppy I used to have. He pissed on the rug all the time, but I still kept him. Eddie picks up his cigar that's going out.  He sticks it in his mouth.  A match is lit.  He looks up.  Jordy holds the match.  Eddie dips the end of the cigar and puffs.  The homicide detective and the fire marshal hold a look. INT. EDDIE'S APARTMENT - NIGHT Eddie walks in - carrying flowers.  He closes and locks the door behind him.  He grabs the phone.  Dials.
+[NARRATOR] Hours drift by in a slow, hypnotic blur of motion and quiet conversation, until at last, a thin, silver ribbon of dawn begins to paint the edge of the horizon. The pilot points downward through the glass, toward the awakening coastline below.
 
-[NARRATOR] Eddie speaks with a quiet, measured softness:
+[MALE] Here we are. Cote d'Ivoire...Africa.
 
-[MALE] It's Flemming...anything turn up?  Did they check the hospitals?  Airports? Yeah, I hit him!  I fuckin' hit him!  We should be all over everywhere - with dogs, choppers, everything!  These guys are from fuckin' Czechoslovakia... He looks at the flowers.  Decides to put the case behind him for a moment.
+[NARRATOR] Far away, under the warm, dusty sun of Cairo, thick black cables snake out from the window of a sun-drenched building, carrying the faint, distant echoes of an overseas call. In the quiet warmth of an empty apartment, the voice of Betty Shabazz drifts softly from a portable tape recorder, riding the gentle waves of the afternoon breeze.
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[FEMALE] We should think of a name, Malcolm...
 
-[MALE] I'll call you later. He HANGS up.  Arranges the flowers in a vase.  So they look perfect.  Sets them on the coffee table.  Fills out a card, writes, "Nicky, I love you. Will you marry me?"  He sticks the card in the flowers - turns the lights down low.  Puts a romantic Sinatra song on the stereo.  Moves to the liquor cabinet.  Pours himself a drink.  He sets the ringbox on the coffee table - next to the flowers.  There's a knock at the door.
+[NARRATOR] And in the soft, measured cadence of his own thoughts, Malcolm’s voice replies, carrying a quiet, affectionate weight.
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[MALE] How about Gamilah or Khalilah?
 
-[MALE] Coming! Eddie smooths his hair, unlocks the door.  But the hallway is empty.
+[NARRATOR] In the sunlit balcony nearby, the tape recorder spins silently, spooling the gentle whispers across continents, while down below in the bustling warmth of Accra, Ghana, a sleek Mercedes convertible glides through Independence Square. The city is alive with the golden light of 1964, pulsing with a vibrant, triumphant optimism. Thousands line the sun-drenched streets, a joyful sea of stockbrokers, street cleaners, and secretaries cheering for the heavyweight champion as his three-car caravan passes beneath the grand triumphal arch, crowned by its gleaming black star. For Ali, the faces in the crowd are a soothing balm—a wonderful, living contrast to the heavy divides of his past—as the afternoon shadows lengthen toward the grand, welcoming gates of the Ambassador Hotel.
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[NARRATOR] The afternoon sun casts long, golden shadows across the courtyard of the modern hotel, where a gentle breeze rustles the nearby palms. The air is warm and heavy with the scent of blooming jasmine and sun-warmed stone. Ali’s caravan glides smoothly to a halt, the hum of the engines fading into the soft murmur of the arriving crowd. Nearby, a different group prepares to depart in sleek limousines, their polished surfaces reflecting the amber light of the waning day. One man among them—tall, draped in a richly patterned dashiki, wearing dark sunglasses and leaning upon a polished walking stick—pauses. He turns his head slowly, his gaze locking onto Ali. Beside him, a distinguished woman watches as well, her gentle eyes holding the quiet grace of a poet.
 
-[MALE] Nicky!?!? No answer.  Eddie steps out in the hallway with the drink in his hand.  Walks toward the elevator.  Doesn't notice the shadow that passes behind him - entering his apartment. Eddie turns.  No sign of anyone.
+[MALCOLM X] Brother Muhammad...
 
-[NARRATOR] Eddie offers quietly, watching the shadows drift across the room:
+[NARRATOR] With a deliberate, unhurried motion, he removes his dark glasses, revealing his face and the neat, thoughtful lines of his goatee. Ali turns, his eyes widening in total, unexpected surprise. For a moment, the bustling sounds of the hotel entrance seem to fade entirely into a soft, distant hum.
 
-[MALE] Nicky?! He walks back toward his apartment.  Turns and locks the door.  A BLUR jumps out of the shadows SLAMMING him on the head with a gun.  Eddie tumbles to the floor!  OUT COLD!
+[ALI] Hey, man!
 
-[NARRATOR] A Blurred Video Image offers quietly, watching the shadows drift across the room:
+[NARRATOR] Ali steps forward, and they embrace with the deep, easy warmth of old friends who have weathered many storms together. Maya Angelou and the Chinese diplomat wait a few quiet steps removed, bathed in the tranquil afternoon glow, letting the reunion unfold in its own peaceful time.
 
-[MALE] as it's focused - on Eddie - handcuffed and upper body taped to a chair - 20 minutes later - sobered up.  Emil is sitting in front of him.  On the coffee table alongside him are the flowers in a vase.  They've ransacked the place.  Emil has Eddie's watch, his gold shield and his money.  He's smoking one of Eddie's cigars and in Emil's hand...is the diamond engagement ring and card.  Oleg, 60 MINUTES-style, is positioned behind Emil videotaping Eddie.  He moves to the corner of the room - bringing a light back over to illuminate Eddie's face.
+[ALI] How you doin'? What's up, brother? I knew you were here... didn't think you were still here...
 
-[NARRATOR] Emil whispers gently into the still air:
+[MALCOLM X] And I heard you were coming.
 
-[MALE] So...who's Nicky?
+[NARRATOR] Ali smiles broadly, the words rushing out of him like a gentle, bubbling stream catching the light.
 
-[NARRATOR] Eddie whispers gently into the still air:
+[ALI] We just got here now... And, maaan, the brothers were flyin' a DC 8. Flippin' switches, navigatin', filing flight plans, talkin' French...
 
-[MALE] What do you want?
+[NARRATOR] In the soft, hazy warmth of the afternoon, the two men rest easy in each other's company, a quiet reminder of shared paths and deep understanding.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[ALI] Where you goin'?
 
-[MALE] Your opinion.  You see, they going to make a movie about me, too, Eddie.  And write books.
+[MALCOLM X] When... uh, Liberia. When you fighting Liston?
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[ALI] November.
 
-[MALE] What's your accomplishment.
+[MALCOLM X] This is Maya Angelou and Ambassador Huang Ha. Amando Gonzalez is from Cuba. Taher Kaid is the Ambassador from Algeria.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[NARRATOR] Ali offers a friendly wave to the gathering, who keep a respectful, quiet distance in the fading sunlight.
 
-[MALE] I kill someone famous.
+[ALI] Man, where should I go? We're planning on Egypt.
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[MALCOLM X] Algeria. See Ben Bella... Go to Mecca, Medina. I just came back. Made my seven circuits around the Kaaba, prayed at sunrise... There were two million people... pilgrims from all over. Dressed all the same, high and low, the same. Blonde-haired, blue-eyed Muslims. Arabs. Blacks. Yeah. All of them, Muslims praying together.
 
-[MALE] Then do it, asshole.
+[NARRATOR] Far away from the sunlit hotel, inside the quiet shadows of an upper-floor room, the ambient hum of the city presses against the glass. Marlin Thomas, who has watched from the sidelines in Cairo, lifts the heavy receiver of a telephone. Near the window, an African man and an American gaze through binoculars, their breath fogging the cool glass slightly as they watch the street below.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[NARRATOR] Miles across the vast, slumbering expanse of the continent, inside a quiet, empty classroom in Leopoldville, a telephone rings against the silence. Bradley, an American with a wide mouth and a balding head, sits at the wooden teacher's desk. The afternoon light streams dusty and gold through the tall windows, illuminating the motes dancing in the heavy air. Beside him stand a heavyset American and two local guards clutching M-1 carbines. A uniformed military aide smiles, shaking Bradley’s hand in a warm, lingering farewell.
 
-[MALE] Good - be tough to the end.  Actor who plays you will want to die like hero. Eddie looks at the videocamera.  Emil answers Eddie's look.
+[MOBUTU'S MILITARY AIDE] Le Ministère de Défense vous remercie.
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[NARRATOR] The aide's voice is a low, soothing murmur in the quiet room.
 
-[MALE] So tabloids don't have to do re enactments.  They going to have real movie this time.
+[MOBUTU'S MILITARY AIDE] The Defense Minister thanks you.
 
-[NARRATOR] Eddie responds with gentle reassurance:
+[NARRATOR] Bradley nods slowly, his expression smooth and unreadable in the dimming light, and offers a quiet gesture to the heavyset American, who leads the visitor away down the hall. 
 
-[MALE] If you kill me and film it you're putting a noose around your neck. Emil turns to Oleg.
+[BRADLEY] Il n'y a pas de quoi. Cela m'a fait grand plaisir. Faites-lui mes compliments.
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[NARRATOR] The words drift softly into the empty corners of the room.
 
-[MALE] Turn it off. Oleg obeys.  Emil turns to Eddie.
+[BRADLEY] It's nothing. Give him my compliments.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] Down the echoing corridor, footsteps pad softly against the cool concrete. The military aide follows Bradley’s associate toward the open-air sports court, where eight uniformed soldiers stand in silent repose beneath the deepening twilight sky, the world settling slowly into a profound and heavy rest.
 
-[MALE] No.  We are insane.  Who else but crazy men would film their murders?  So we kill someone famous and if we are caught, we are sent to mental hospital. But what good is money there?  Because once in hospital I say I not crazy. Just pretended to be acquitted.  We see psychiatrists.  They must certify we are sane and because of your - what is law called?  Oh - I got it.  Because of your Double Jeopardy law, we can't be tried for same crime twice.  We come out free, rich and famous!
+[NARRATOR] The evening settles over the quiet concrete court, casting long, peaceful shadows beneath the vast, darkening sky. The gentle evening breeze stirs the air softly, carrying the distant, hushed sounds of a world winding down into rest. In the open-air enclosure, hands bound gently behind them, six figures stand in quiet repose, wearing rumpled business clothes that whisper of a long day finally ended. One is a woman, breathing slowly, her silhouette blending into the gathering dusk. Bradley’s guards stand sentinel, their forms still and unmoving, until Mobutu’s military aide steps forward, taking quiet custody of the prisoners. The aide lifts a walkie-talkie to his lips, murmuring a low, muffled report into the night air.
 
-[NARRATOR] Oleg speaks with a quiet, measured softness:
+[NARRATOR] Far away, under the glow of soft interior lights, General Joseph Mobutu stands in his crisp uniform, listening to the static-laced voice through his own walkie-talkie. His eyes hold a distant, dreamy quality, heavy with the quiet fatigue of the hour. Turning away, he walks slowly up a wide staircase, rounding a corner into the cool, quiet halls of the Leopoldville school. Inside the second classroom, other uniformed officers sit at wooden students' desks. As he enters, they stand in a slow, respectful ovation, honoring the quiet shift of an empire, a moment destined to dissolve into the deep currents of history.
 
-[MALE] Good idea!
+[NARRATOR] Across the ocean, bathed in the warm, drowsy light of a hotel room in Ghana, the afternoon sun filters lazily through lace curtains. Marlin Thomas sits in a deep, comfortable armchair, his voice a low murmur in the quiet room.
 
-[NARRATOR] Eddie answers in a low, calming tone:
+[MARLIN THOMAS] Malcolm bumped into Cassius Clay. Muhammad Ali... whatever he calls himself...
 
-[MALE] You really think you'll be able to fool a jury with this bullshit?  How fuckin' stupid are you?
+[BRADLEY] I thought that was all over. Is Clay going to support Malcolm's U.N. resolution?
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[MARLIN THOMAS] I don't know.
 
-[MALE] Smarter than Americans.  You're fed cry baby talk shows all day long.  Not only will Americans believe me, they'll cry for me.  So...Detective Eddie Flemming, would you like to say goodbye to your Nicolette? Maybe you can propose to her now? Eddie says nothing.  Just stares at Emil.  Emil puffs on Eddie's cigar.
+[BRADLEY] Find out. We'll pick up on Malcolm in Liberia ourselves.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] Outside the Ambassador Hotel, the sun warms the paved walkway where Muhammad Ali and Malcolm X walk side by side in the lazy afternoon. The atmosphere is thick with a drowsy, contemplative peace.
 
-[MALE] Okay.  He has nothing to say.  Start the camera!
+[MALCOLM X] Drank from the well of Zem-Zem... And you should visit Cairo. I have friends there in...
 
-[NARRATOR] Oleg adds in a relaxed, peaceful voice:
+[NARRATOR] Ali walks beside him, his thoughts drifting inward like clouds across a sleepy summer sky. A quiet internal voice echoes softly in his mind.
 
-[MALE] Cut! Emil looks at Oleg.
+[ALI] ...shouldn't have quarreled with the Honorable Elijah...
 
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
+[NARRATOR] The easy rapport between them frays, gently unraveling in the warm afternoon air. Ali's attention pulls away, retreating inward as he closes down against the world. He murmurs almost below his breath.
 
-[MALE] This is my project.  I say 'action.'  I am the director!  You are the talent. You wait for me to say 'action!' Emil looks at Eddie as if to say, "See what I have to put up with."  Oleg gestures from behind the videocamera.
+[ALI] You shouldn't have... quarreled with the honorable Elijah Muhammad...
 
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
+[MALCOLM X] What?
 
-[MALE] And...action! Oleg FILMS as Emil raises Eddie's service revolver.  Eddie suddenly KICKS at Emil's hand, but Emil pulls it away, backing out of Eddie's reach.
+[ALI] You shouldn't have quarreled with Elijah Muhammad.
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] Ali separates from him, turning his steps away under the gentle rustle of palm leaves. Malcolm calls out softly after him, his voice echoing in the quiet street.
 
-[MALE] Bad last moment - I cut that out. Emil raises the pistol again - pointing the gun at Eddie's left temple.  Emil cocks the hammer, but Eddie avoids the gun, ducking his head to the side of Emil's arm.  Standing and following his head up Emil's arm and pushing him over into the desk.  Eddie then knocks Emil with the chair and Emil falls off the desk and onto the floor. Oleg still grips the videocamera.  Eddie continues around with the chair and drives Oleg back across the room - pinning him to the wall. Eddie comes back from Oleg to the gun at the same time as Emil is limping for it.  Eddie knocks Emil out of the way with the chair and then stabs him with the legs of the chair repeatedly. Eddie comes up and around again at Oleg who is coming at him from the wall.  Eddie knocks Oleg over the coffee table and onto the sofa.  Falling on top of him, rolling over and leaving Oleg on the sofa. Eddie manages to get up from the sofa and position the chair in such a way that he can fall over backward and grab the gun.  Emil limps toward the gun at the same time and it is not clear in the darkness who has the gun. Oleg gets up from the sofa and goes over to get the videocamera.  Eddie has managed to get the gun and comes up as Oleg is moving in with the camera and starts shooting toward Oleg - managing to shoot one of the blinds off the window and one of the lampshades off the lamp. Oleg crouches down with the camera and Eddie starts to turn toward Emil who comes at him with the knife and stabs him in the stomach. Emil steps back, revealing the knife is BURIED IN EDDIE'S
+[MALCOLM X] Brother Muhammad...
 
-[NARRATOR] Stomach. whispers gently into the still air:
+[NARRATOR] Ali does not turn back from his quiet conviction. He gives a slow, gentle shake of his head, walking off into the lengthening shadows.
 
-[MALE] Eddie stumbles backward, falling over but still attached to the chair - holding the gun.  Eddie can't believe he got stabbed.  Blood swells around his stomach.  He can't be dying.  This can't be happening.  He looks at Emil.  The pain is terrible.  Oleg has knelt down next to Eddie - getting a close up. Emil looks at Eddie.
+[MALCOLM X] Brother Muhammad...!
 
-[NARRATOR] Emil responds with gentle reassurance:
+[NARRATOR] The scene dissolves, shifting far away to the dim, velvet-draped interior of the Tiger Lounge in Chicago. Night has fallen, wrapping the city in a blanket of cool darkness and neon glow. A sultry voice drifts through the warm, shadowed room, singing a soulful rendition of "For Your Precious Love." The smooth, hypnotic melody washes over the room, lulling the senses. 
 
-[MALE] Die.  Die. Emil looks around.  Grabs a black pillow and finishes Eddie off, suffocating him.
+[NARRATOR] In the center of the dimly lit dance floor, Ali moves with effortless rhythm, holding Sonji Roi close. She is radiant, with a captivating smile and eyes that flash like starlight in the gloom. The patrons of the lounge keep their distance, leaving the couple in their own quiet orbit, watched over discreetly by a lone, semi-conspicuous bodyguard from the Fruit of Islam. Over in a cozy leather booth, Herbert sits with a date, another guard, and a quiet businessman, all bathed in the amber glow of wall sconces. Sonji dances close, her laughter bubbling up like a soft, sweet brook. After a few slow bars of the song, Ali looks down at her with a warm, easy smile.
 
-[NARRATOR] Blackness murmurs with a warm, steady cadence:
+[ALI] Sonji... Sonji Roi...
 
-[MALE] We are moving through a tunnel - pitch black, so dark all you feel is the motion.  We are travelling very fast.  Finally, in the distance, a speck of light which fills the frame. We slowly pull back from the white light to discover it is a tiny pixel on a TV screen.
+[SONJI] What you keep sayin' my name for?
 
-[NARRATOR] Widening speaks with a quiet, measured softness:
+[ALI] 'Cause I love it, girl. How long you been workin' for Herbert?
 
-[MALE] further out we see Eddie's funeral on the evening news.  It's an enormous gathering - a sea of blue uniforms and dignitaries.  In the upper right hand corner, superimposed over the funeral, is a picture of Eddie from his ID and in his NYPD uniform.  We see Oleg's reflection on the set with the videocamera.  He is filming the TV.  We hear the audio from Eddie's funeral.
+[SONJI] 'Bout a year. I sell "Muhammad Speaks" over the phone...
 
-[NARRATOR] Newscaster answers in a low, calming tone:
+[ALI] What kind of name is that?
 
-[MALE] ..Detective Flemming was one of the most decorated NYPD detectives in the history of New York.  He made several thousand arrests during his career, including the famed Stephen Geller case.  Beloved by the community in which he served.  His partner eulogized him... Leon is at the mic.
+[SONJI] My father named me after Sonja Henie.
 
-[NARRATOR] Leon whispers gently into the still air:
+[ALI] What's your father do?
 
-[MALE] ...Eddie was my mentor, my best friend and my partner...he taught me the meaning of the word 'cop.'  He was a man in every sense of the word.  I'll miss him...  Sleep well, brother. Leon begins to sing "Amazing Grace."  Oleg PANS from the TV and focuses it on a lightbulb.  Hands enter the frame - carefully pouring clear liquid into an ashtray.  A long hypodermic needle slides into the ashtray - the plunger is pulled back and the needle quickly fills with liquid. Gingerly, the needle is inserted into the lightbulb.  Again, the plunger moves and the lightbulb is filled and placed on a table...next to a CAN OF GASOLINE.  VIDEOCAMERA ZOOMS OUT revealing...Emil sitting at a hotel desk doing this. INT. P.B. HERMAN'S RESTAURANT - DAY It's packed with COPS drinking.  Prosecutors...lawyers...many who were at the funeral, including Leon.  All wear the black ribbon on their badges.  There's a quality of an Irish wake - boisterous, guys cursing...many cops in uniform.  A buffet has been laid out. Hawkins enters in a black suit, wearing a black ribbon.  He greets people, shaking hands, embracing Leon.
+[SONJI] He was shot in a poker game when I was two. He don't do nothin'. Sonja, on the other hand, was an ice skater, and my mother died when I was eleven.
 
-[NARRATOR] Hawkins responds with gentle reassurance:
+[ALI] So who raised you?
 
-[MALE] Awful...what an awful day.  He was New York City. Hawkins notices a young man by the window.  Teary-eyed.  It's Tommy.  Hawkins nods to him.
+[SONJI] Godparents, but I been on my own, doing my own thing...
 
-[NARRATOR] Tommy murmurs with a warm, steady cadence:
+[ALI] Whatcha doin' tomorrow? Go ridin' with me.
 
-[MALE] I never got to tell him how much I admired him.
+[SONJI] No. I gotta work, you know.
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[ALI] I square it with Herbert. I got a record player in my car.
 
-[MALE] I know, son, I know.  We all loved him. Hawkins moves on...greeting others.  He notices at the end of the bar - sitting alone on a stool - is Nicolette.  He moves to her.  Pulls up a stool alongside her.  She turns, looks at him.  Just stares at him for a long beat.  She is bombed. Definitely drunk.  She's had many.  She turns to Hawkins.
+[SONJI] A record player? C'mon. How come it don't skip?
 
-[NARRATOR] Nicolette speaks with a quiet, measured softness:
+[ALI] Got springs and stuff.
 
-[MALE] You know...you know he was gonna propose to me.  The crime guys found a card he'd written out to me.  And a ring box...these fuckers that killed him - have my ring.  They have my diamond engagement ring... Hawkins touches her shoulder with compassion.
+[SONJI] Herbert...
 
-[NARRATOR] Hawkins adds in a relaxed, peaceful voice:
+[NARRATOR] The evening breeze drifted gently through the city, carrying the faint, sweet melody of a distant song. Inside the warm, dimly lit room, the shadows danced softly along the walls, painted by the amber glow of a low-burning lamp. The air was thick with the scent of soft musk and quiet contentment, a tranquil oasis untouched by the rushing world outside. They sat together close, wrapped in the comforting stillness of the late hour.
 
-[MALE] I know.
+[MALE] Said you met The Beatles. Yeah. Only one of 'em's smart... the one with the glasses.
 
-[NARRATOR] Nicolette offers quietly, watching the shadows drift across the room:
+[FEMALE] ...he's my favorite.
 
-[MALE] What do you mean you know?  He told you he was gonna propose to me?
+[MALE] People all screaming and fainting. I asked him, "This the way they act when you get big?"
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[FEMALE] What he say?
 
-[MALE] Well, he...
+[MALE] He said, "Champ. The more real you get, the more unreal it gonna get."
 
-[NARRATOR] Nicolette whispers gently into the still air:
+[FEMALE] Wow...
 
-[MALE] I want to hear everything he said.
+[NARRATOR] The music swelled softly from a nearby corner, the singer's voice floating like a ribbon of silk through the quiet apartment. The outside world melted away, leaving only the rhythmic pulse of the night.
 
-[NARRATOR] Hawkins responds with gentle reassurance:
+[MALE] Let's go...
 
-[MALE] I'm trying to tell you.
+[FEMALE] Yeah...
 
-[NARRATOR] Nicolette speaks with a quiet, measured softness:
+[MALE] Where you live?
 
-[MALE] Alright.  Go ahead.
+[FEMALE] I'm takin' you there...
 
-[NARRATOR] Hawkins answers in a low, calming tone:
+[NARRATOR] Farther and farther the camera of the mind drifted, rising up and away from the bustling streets of Chicago in the quiet heart of winter. Down below, the city lights twinkled like fallen stars scattered upon a blanket of velvet snow. The wind whispered a low, soothing lullaby against the glass, drawing a soft boundary between the cold night outside and the warmth held deep within. 
 
-[MALE] That morning.  He was talking to me and Leon about marriage.
+[NARRATOR] In the gentle shadows of the room, time seemed to slow, stretching out into long, amber moments of peace. The soft murmur of voices blended with the cadence of breathing, settling into a rhythm as old and steady as the tides.
 
-[NARRATOR] Nicolette speaks with a quiet, measured softness:
+[MALE] I think I gonna keep you around forever, girl.
 
-[MALE] Oh my G-d.  We were having lunch here. He started making overtures - talking about little shoes next to his in his closet but I got a call to anchor - and I walked out on him.  I walked out on him when he was trying to ask me to marry him!! Nicolette is crying now.  She angrily wipes away a tear.
+[FEMALE] Well, I'm not too busy right now, so... I'll think on it.
 
-[NARRATOR] Nicolette adds in a relaxed, peaceful voice:
+[MALE] Herbert said you weren't a Muslim.
 
-[MALE] I'd never had a great relationship before.  I'd never made great choices with men.  And he wasn't easy to get to know.  He was older, my parents told me I was nuts to get involved with him. But he was so great to me.  Always encouraging, telling me I could do anything...  He was the one.  You know, I'd give up everything - everything - for just a little more time.  I would've spent fifteen minutes with him if that's all I knew I had. She's lost it.  Hawkins consoles her.  Nicolette shrugs him off - turns back to her drink.  Downs the rest of it.  A woman arrives, MAGGIE, Hawkins' producer - assistant in tow.
+[FEMALE] Cover my hair? No make-up? Long dresses? Honey, please. Were you a virgin?
 
-[NARRATOR] Maggie murmurs with a warm, steady cadence:
+[MALE] Why?
 
-[MALE] Robert...?
+[FEMALE] 'Cause you so "gone" off a little good time.
 
-[NARRATOR] Hawkins responds with gentle reassurance:
+[MALE] I'm no virgin... but I may as well be. I ain't jokin'! I always know when I know. See this face? I mean, you got a pretty face for a girl's face, but you ever seen somethin' as pretty as me? Now, you about five-foot-three... that's too small. But I overlook that, too, 'cause...
 
-[MALE] What are you doing here?
+[FEMALE] Thank you so much.
 
-[NARRATOR] Maggie speaks with a quiet, measured softness:
+[MALE] ...'cause of your spirit!
 
-[MALE] You've got a call.
+[FEMALE] My "spirit"...?
 
-[NARRATOR] Hawkins answers in a low, calming tone:
+[MALE] Yeah. 'Cause you too much fun!
 
-[MALE] I can't talk to anybody right now, can't you see I'm busy!  I can't talk business.  Hang up.  Have a drink.  Get her a whiskey.
+[FEMALE] You serious?
 
-[NARRATOR] Maggie adds in a relaxed, peaceful voice:
+[NARRATOR] She raised his head gently next to hers, her eyes searching his with a soft, affectionate amusement in the dim, resting light.
 
-[MALE] Trust me, you'll want to take this call. Robert steps off the stool.  Takes the phone.
+[MALE] But you gotta be a Muslim.
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[FEMALE] Huh? How you do that? Step over a broom... shazaam... you a Muslim?
 
-[MALE] Hello?  Who is this?  How do I know this is you? Hawkins gives Nicolette a comforting squeeze on her shoulder. Backs away from the bar.  Now out of hearing distance, he looks back at Nicolette and lowers his voice.
+[NARRATOR] She laughed, a light, melodic sound that brushed away the last edges of tension in the room. He rested his head softly upon her stomach, surrendering to the profound, soothing comfort of her presence.
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[MALE] Maaan, I ain't never been with a girl like you.
 
-[MALE] Where? We INTERCUT Emil on a public phone in the lobby of a movie theater.  Oleg videotapes Emil on the phone, as he throws glances into the theater.
+[FEMALE] Baby, maybe you ain't ever gonna be with any other.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[NARRATOR] The dawn arrived slowly, painting the windows in pale shades of morning blue and slate grey. Sunlight filtered through the quiet coffee shop of the motel, casting long, lazy shadows across the table where dust motes drifted lazily in the beams of light. The atmosphere was heavy with the rich, comforting aroma of roasted coffee and the muted murmurs of an early day.
 
-[MALE] Come to 45 Broadway.  Don't bring the Police.  Come alone or you'll be in my next film.
+[HERBERT] What?
 
-[NARRATOR] Hawkins adds in a relaxed, peaceful voice:
+[MALE] That's right. I wanna marry her.
 
-[MALE] Look asshole.  I've been threatened by better than you.
+[HERBERT] You can't marry that girl! She was a date! Have some fun! She's not your wife! You don't marry this girl. Sign there. Management papers. My father will kill me.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[BUNDINI] True love!
 
-[MALE] No.  I'm the best that's ever threatened you.
+[NARRATOR] Bundini chuckled low, a rumbling sound that rippled through the quiet air. Without a second glance, the pen moved smoothly across the paper, scratching the silence with decisive strokes.
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[BINGHAM] Watch what you signing, Ali.
 
-[MALE] I'll meet you on one condition - I get exclusivity and you surrender to me.
+[HERBERT] Nothing to do with you.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[BINGHAM] You talkin' to me, or someone walk inna room, fat boy? Anything's do to with me I think's to d-d-do with me... I'm st-st-still a Christian.
 
-[MALE] We'll talk about that.  Four o'clock gives you time to go to bank.  Three hundred thousand dollars.
+[MALE] And get me a kosher cook... lady who cooks at Malcolm's temple. Put my brother on the payroll. 50g a year for drivin' and jivin'.
 
-[NARRATOR] Hawkins responds with gentle reassurance:
-
-[MALE] What?  It doesn't work that way.
-
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
-
-[MALE] If you don't want my film - I'll call another show.  And they will show it.
-
-[NARRATOR] Hawkins adds in a relaxed, peaceful voice:
-
-[MALE] Wait a minute.  Wait a minute.
-
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
-
-[MALE] Come alone.  Bring cash.  And we'll talk about surrendering. CLICK.  The line goes dead.  Hawkins disconnects.  Hands the phone back to Maggie.  She's looking at him.  Excited. Hawkins looks at Nicolette.  His mind whirls. INT. FIRE STATION 91 - KITCHEN - DAY Daphne and Korfin are sitting at a table.  Korfin's arm is in a sling, his side bandaged.  Duffy and Jordy enter in their dress uniforms.  Korfin walks over to them.
-
-[NARRATOR] Korfin speaks with a quiet, measured softness:
-
-[MALE] How was it?
-
-[NARRATOR] Jordy whispers gently into the still air:
-
-[MALE] Not good. Jordy's quiet.  Dazed.  Nobody can believe Eddie's gone.
-
-[NARRATOR] Duffy offers quietly, watching the shadows drift across the room:
-
-[MALE] Did the D.A. videotape her deposition?
-
-[NARRATOR] Korfin murmurs with a warm, steady cadence:
-
-[MALE] Yeah.  He finished awhile ago.
-
-[NARRATOR] Duffy offers quietly, watching the shadows drift across the room:
-
-[MALE] Alright.  Swing by her apartment.  Let her pick up her clothes and take her straight to Hoover Street.  You got that?
-
-[NARRATOR] Korfin answers in a low, calming tone:
-
-[MALE] Yeah. Jordy looks at her.  Duffy sees them hold each other's look.
-
-[NARRATOR] Jordy responds with gentle reassurance:
-
-[MALE] Chief - mind if I take her?
-
-[NARRATOR] Duffy murmurs with a warm, steady cadence:
-
-[MALE] Okay.  But not water sports. Duffy walks out.  Jordy leads Daphne out of the station. Korfin follows.  A MAN IN A CHEAP SUIT is talking to Camello who points as Jordy walks by.  The man chases after Jordy.
-
-[NARRATOR] Man whispers gently into the still air:
-
-[MALE] Excuse me - Jordan Warsaw?
-
-[NARRATOR] Jordy answers in a low, calming tone:
+[HERBERT] Lana Shabazz...
 
 [MALE] Yeah.
 
-[NARRATOR] Man murmurs with a warm, steady cadence:
+[NARRATOR] The evening settles softly over the city, wrapping the streets in a deep, velvet dusk. Streetlights flicker on one by one, casting long, gentle shadows across the pavement, their warm golden glows melting into the cool, twilight air. Inside a quiet, softly lit room, the heavy tension of the day dissolves into the comforting rhythm of easy laughter.
 
-[MALE] Consider yourself served. Jordy opens the papers.  Korfin puts Daphne in the car. Walks back over to Jordy and reads over his shoulder.
+[MALE] Yeah. How 'bout it, Howard. You be my official full-time photographer.
 
-[NARRATOR] Korfin offers quietly, watching the shadows drift across the room:
+[NARRATOR] Howard Bingham shakes his head, a comfortable smile playing at the corners of his lips as he leans back into the quiet shadows of the room.
 
-[MALE] Zwangendaba??? Is suing you, the department and the city of New York for 10 million?  Who is Zwangendaba? Jordy remembers...and gets more depressed.
+[MALE] I ain't goin' on your payroll. I like it freelance. Emphasis on "free."
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[NARRATOR] The sound of a pen scratching softly against thick paper fills the quiet room, the final stroke of a signature sealing a moment of profound change. Yet, in the background, a murmur of gentle caution arises. Herbert’s voice cuts through the stillness like a cool evening breeze rustling through autumn leaves.
 
-[MALE] The mugger. EXT. DAPHNE'S APARTMENT BUILDING - NIGHT It's an old brownstone - in poor condition.  Jordy pulls up. Opens the door for Daphne - takes her by the elbow - steering her to the door.  He is edgy.  Jumpy.  Looking around.
+[MALE] Muhammad. She's not...for you. When I met her, she was working at a cocktail lounge with a bunny tail on her backside.
 
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
+[NARRATOR] Bundini chuckles, a low, rumbling sound that rolls effortlessly through the warm room, lightening the heavy air.
 
-[MALE] Are you alright?
+[MALE] What were you doin' down at a cocktail lounge, Herbert? Sellin' "Muhammad Peeks"?
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[NARRATOR] Laughter ripples lightly between them, bright and fleeting, before Herbert sighs, shaking his head with affectionate exasperation.
 
-[MALE] I still can't believe Eddie's gone.
+[MALE] Sober up and say something to this man, Bundini. You supposed to be his "inspiration."
 
-[NARRATOR] Daphne murmurs with a warm, steady cadence:
+[NARRATOR] Bundini looks across the room, his gaze turning steady and soft as he considers the champion resting before him.
 
-[MALE] I'm sorry. He looks at her.  Nods.  They walk up to the stairs as the front door opens.  A NEIGHBOR exits, shocked.  Jordy pulls Daphne out of the way.
+[MALE] I got to know about Sonji, Muhammad. She got a sister?
 
-[NARRATOR] Daphne responds with gentle reassurance:
+[NARRATOR] The room fills with the sound of warm, cascading laughter. But Howard Bingham leans forward again, his tone turning reflective, weighing the heavy anchor of devotion against the swift currents of youth.
 
-[MALE] Hello.  How are you? INT. DAPHNE'S APARTMENT BUILDING - HALLWAY - CONTINUOUS Jordy and Daphne make their way up the stairs.  A bouquet of flowers are outside Daphne's apartment.
+[MALE] You been s-s-saving it up, training, Champ. You can't unleash it on this girl all sudden. You may kill her! Maybe you should spread it around more before you tie it down.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[NARRATOR] There is no hesitation in the champion's voice, only a quiet, absolute certainty that cuts through the noise of the world.
 
-[MALE] What's this? She takes the card.  Jordy looks over her shoulder.  Daphne reads: "Good luck with all your troubles.  I'm here if you need me...Ludwig."
+[MALE] No. Marriage is the cornerstone of Muslim life.
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[NARRATOR] Herbert raises an eyebrow, skeptical, searching for the logic in the sudden tide.
 
-[MALE] Is he your boyfriend?
+[MALE] Sonji Roi is not a Muslim!
 
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
+[NARRATOR] The champion smiles, a bright flash of absolute conviction lighting up his features as he looks toward the horizon of his new life.
 
-[MALE] Ludwig?  He's gay - are you jealous?
+[MALE] She gonna be a Muslim, now! So fix it up, Herbert.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[NARRATOR] The scene drifts away, melting into the rhythmic, steady hum of the Fifth Street Gym. The air here is thick with the scent of aged leather, polished wood, and the faint, cooling mist of sweat after a long day of exertion. Overhead, old fluorescent lights buzz softly, casting a steady, hypnotic white glow over the canvas rings and heavy bags that sway gently in the draft. 
 
-[MALE] If I was your boyfriend, I might be.
+Beyond the ropes, past the steady *thump-thump-thump* of a distant speed bag, a small black-and-white television sits atop a wooden cabinet in the corner. Its screen flickers with a soft, monochromatic luminescence, casting dancing shadows across the floorboards. On the small screen, history moves in quiet silence. Malcolm X and Martin Luther King, Jr. stand together, exchanging a brief, monumental greeting. The television audio is muted, a low murmur of a distant world, as Dr. King’s image speaks to an unseen audience.
 
-[NARRATOR] Daphne answers in a low, calming tone:
+[MALE] I fear if this bill is not passed... Our nation is in for a dark night of social disruption.
 
-[MALE] If you were my boyfriend, I'd suggest you find another girlfriend that isn't going to jail ten-thousand miles away. They're staring in each other's eyes.  The sexual tension strong.
+[NARRATOR] The image on the screen begins to shift, fracturing into five different surveillance angles—quiet, unblinking electronic eyes recording movements in the shadows. The two great leaders remain entirely unaware of the vast, unseen machinery turning quietly around them. 
 
-[NARRATOR] Jordy answers in a low, calming tone:
+Then, the scene dissolves into the quiet hum of a Washington, D.C. coffee shop. The morning light streams lazily through large glass windows, casting long, pale beams across polished mahogany tables and the steam rising gently from white ceramic cups. The atmosphere is hushed, intimate, insulated from the bustling city outside. 
 
-[MALE] A good Immigration lawyer could stall the process.  Eddie recommended one.
+Joe Smiley sits across the table from Joseph 13X, the morning edition of the Washington Post spread out between them like a map of quiet anxieties. The headline stares back at them, a stark black-and-white photograph of Malcolm X standing shoulder to shoulder with Martin Luther King.
 
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
+[MALE] Why we meeting?
 
-[MALE] No matter what happens...I'm glad I met you.
+[NARRATOR] Joe Smiley takes a slow, deliberate sip of his coffee, watching the steam curl and vanish into the cool air of the cafe. His voice is smooth, unhurried, carrying the heavy weight of unseen strategy.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[MALE] The idea was...to...make...Malcolm smaller, you know? Diminished; obscure? Not to turn him into a messiah. What I got, now, is Malcolm shoulder to shoulder with Martin Luther King. And Malcolm running all over the world getting Ben Bella and Nasser to denounce racism in the U.S. while we're competing over there with the Soviets. Not...a resounding success. We were better off before, with Malcolm INSIDE the Nation. So... We want you...to get Elijah Muhammad...to take Malcolm back.
 
-[MALE] I'm glad I met you. They hold each other's eyes...then suddenly they kiss. Urgently.  Passionately.  Somebody is coming up the stairs. They part quickly.  A tenant enters his apartment down the hall.  Jordy clears his throat.
+[NARRATOR] Joseph 13X sits completely still, staring across the table, his expression frozen in quiet incredulity. The silence between them stretches, deep and profound, broken only by the distant, muffled sound of traffic whispering past the window. Joe Smiley offers a dry, knowing smile, breaking the quiet spell.
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[MALE] That's a joke. I'm kidding! Don't you ever smile?
 
-[MALE] Let's get your stuff. He opens the door.  Peers inside - checking it out.  Turns to her.  Gestures that it's okay to enter. INT. DAPHNE'S APARTMENT - CONTINUOUS It's very small.  Almost no furniture.  The bare minimum. The apartment is a hole.  She looks at Jordy.  Both thinking the same thought.  Another kiss.
+[NARRATOR] Joseph 13X does not blink, nor does a single muscle shift in his face. His silence is as deep and still as the night sky. Smiley leans in slightly, his tone dropping to a quiet, measured cadence, marking the inexorable passage of time.
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[MALE] We're on a timetable. Malcolm's pal, Quaison from Ghana, is introducing Malcolm's resolution to the General Assembly in Washington. That's in five weeks.
 
-[MALE] You better get packed.
+[NARRATOR] The heavy, measured quiet of the room lingers as Smiley rises, his movements slow and deliberate. He shifts a wooden stool across the floor, the sound muffled by the thick carpet, before turning back to face the younger man with a heavy, steady gaze.
 
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
+[MALE] You got bad breath, man.
 
-[MALE] Right. She holds his look.
+[NARRATOR] Smiley offers a faint, weathered smile, undisturbed by the blunt observation, his voice carrying the weary weight of bygone years.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[MALE] Thyroid. I got a stab wound in 1961. They took it out. We gotta talk about this guy, too.
 
-[MALE] Do you have coffee?
+[NARRATOR] He gestures downward, indicating a photograph resting against the table—a familiar face captured in the pages of *Muhammad Speaks*, framed by the harsh ink of the press. Joseph 13X glances down at the image, his expression unreadable, before shifting the conversation back to the quiet, daily burdens of the path they walk.
 
-[NARRATOR] Daphne whispers gently into the still air:
+[MALE] When do I get my expenses reimbursed... dry cleaning lots of suits isn't free...
 
-[MALE] In the kitchen.
+[NARRATOR] The image of the champion fades softly, replaced by the warm, amber glow of a Miami hotel room at night. The air is thick with the languid, easy stillness of the evening, punctuated by the low rumble of laughter. Bundini and Cassius Clay, Senior sit together, the laughter drifting away into a comfortable hush as the door opens. Bundini holds a tall glass of cool water; Senior rests a highball glass against his palm. Cassius enters, his eyes scanning the room, the energy of the day still humming softly in his stride.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[MALE] What you drinkin'?
 
-[MALE] I'll make some for us.
+[NARRATOR] Bundini looks down at his glass, a wide, easy grin spreading across his face as he leans back into the cushions.
 
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
+[MALE] What am I drinkin'? Water's what I'm drinkin', champ! I'm a natural man...
 
-[MALE] I'll get my clothes. She heads down the hall.  Jordy enters the small kitchen.  He flips on the kitchen light and the LIGHTBULB EXPLODES - SETTING THE CEILING ON FIRE AND RELEASING A RAIN OF FIRE INTO THE ROOM.  Jordy JUMPS BACK.
+[NARRATOR] Cassius turns, walking toward the shadowed threshold of the bedroom door, his voice carrying the gentle impatience of somewhere to be.
 
-[NARRATOR] Daphne murmurs with a warm, steady cadence:
+[MALE] What's goin' on? We're late.
 
-[MALE] Jordy!!!
+[NARRATOR] From behind the closed door, muffled by the heavy wood, Sonji’s voice rings out, sharp and playful.
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[FEMALE] I'm changing my damn clothes! You didn't like what I was wearin'!
 
-[MALE] No!  Get back!  GET BACK!!! Jordy's more surprised than shaken.  It's a fire - he knows the drill.  He pushes her into the living room.  Then notices a FIRE EXTINGUISHER hanging on the wall.  Grabs it.  Aims it at the FIRE spreading in the kitchen.  He SPRAYS as Daphne SCREAMS!
+[NARRATOR] As Cassius turns back toward the living room, a soft knock raps against the door, followed by a muffled, polite call from the hallway.
 
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
+[NARRATOR] Room Service...
 
-[MALE] That's not mine! WHOOOOOOOOOSH!  The fire extinguisher FEEDS THE FIRE!  Flames leap up from the fire - shooting toward the extinguisher because it's filled with gasoline.  The handle LOCKS!  Jordy CAN'T TURN IT OFF.  Flames engulf the extinguisher and
+[NARRATOR] Bundini rises easily, welcoming the interruption with a wide wave of his hand.
 
-[NARRATOR] Jordy'S Hand. whispers gently into the still air:
+[MALE] Come on in...!
 
-[MALE] He flings the extinguisher - BACKS OUT OF THE KITCHEN. Closes the door.  Jordy takes off his jacket.  Stuffs it under the bottom of the door.  Blocking the smoke.  He hurries into the living room.  Knowing it's moments before the extinguisher will explode.  Jordy pulls out his cellular. Hits the speed dial as he notices Daphne about to throw a chair through the window.
+[NARRATOR] His eyes widen slightly as the attendant steps into the warm light, holding a heavy glass filled to the brim.
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] What's that?
 
-[MALE] Don't!  It'll suck the flames toward us! Too late.  She SMASHES the window.  There's an EXPLOSION in the kitchen.  Smoke and fire rush down the hallway and along the ceiling.  Jordy yells into the phone:
+[NARRATOR] The attendant offers a quiet, pleasant reply, holding the tray steady.
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[NARRATOR] What you wanted, isn't it... a water glass with vodka...?
 
-[MALE] This is Jordan Warsaw!  We got a 1075, make it quick, we're trapped!  8th Avenue and 44th Street. He pulls Daphne toward the bedroom.  It's locked.  Jordy kicks it open.  Grabs the comforter off the bed.  Shoves that under the door jam.  He pulls Daphne into the bathroom. Shuts the door.  Runs his severely burned hand under the cold water.  Daphne looks out the window - hearing the sirens. She notices someone has nailed the window shut.  And on top of one nail...is Eddie's gold shield.
+[NARRATOR] Bundini shakes his head, waving a hand dismissively.
 
-[NARRATOR] Daphne responds with gentle reassurance:
+[MALE] That was before...
 
-[MALE] Oh my G-d!  Oh my G-d! Jordy turns - sees Eddie's shield.
+[NARRATOR] The attendant pauses, a faint, polite confusion in his voice.
 
-[NARRATOR] Daphne responds with gentle reassurance:
+[NARRATOR] Before what?
 
-[MALE] They were here! This freaks her out.  They were in her home.  She starts to panic.
+[MALE] Before you showed up...
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[NARRATOR] At that moment, the bedroom door swings open. Sonji steps into the warm, amber light, her presence filling the room with effortless vibrance. The outfit she wears is bold, a brilliant flash of texture and light—a tight angora sweater and a miniskirt that seems to shimmer against the evening shadows. She stands tall, a vision of uncompromised spirit.
 
-[MALE] Calm down.  Get a hold of yourself!  Get down! He pulls aside the curtain to the bathtub.  In it is a CAN OF GASOLINE.  A virtual bomb.
+[FEMALE] I fine runnin' around in all these cute short things for you. I submissive to you. But I ain't gonna be submissive to the Brother X's and what they think. They askin' me questions alla time anyway.
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[NARRATOR] Cassius looks at her, a mixture of disbelief and genuine curiosity in his tone.
 
-[MALE] Oh Jesus! Daphne reaches for the can of gasoline.
+[MALE] What questions?!
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[FEMALE] About you and us and I ain't tellin' 'em shit.
 
-[MALE] What are you doing?
+[NARRATOR] From the corner of the room, Senior lets out a low, gravelly chuckle, the drink in his hand sloshing gently against the glass.
 
-[NARRATOR] Daphne murmurs with a warm, steady cadence:
+[MALE] Tell it like it is, sugar! They took my boy's name... and what they give him back? Bad style.
 
-[MALE] Pouring it out! She grabs the can of gasoline - pours it down the drain.  The FIRE is raging outside the bathroom.  The bathroom door is beginning to smoke and burn.  They are trapped. Jordy turns - grabs an exposed water pipe that runs up the wall to the ceiling.  He throws his feet against the wall for leverage.  Pulls with all his might to break it loose.  It's creaking - but he's having a hard time with it.
+[NARRATOR] With a firm, decisive movement, Cassius takes her hand, leading her gently back into the quiet sanctuary of the bedroom before pulling the door closed, shutting out the murmurs of the night. Inside the soft shadows of the room, Sonji looks up at him, her voice dropping to a vulnerable, earnest register.
 
-[NARRATOR] Daphne whispers gently into the still air:
+[FEMALE] I don't drink. I don't smoke. I converted to Islam for you and... All except the dress! I ain't puttin' no bleached-out, double-ugly bedsheets on this body, honey! I'm normal!
 
-[MALE] Oh shit! Jordy looks over.  The gasoline she's pouring out - is not going down the drain.  It's stopped up.  As soon as the fire gets in the bathroom, everything will explode! Jordy begins pulling at the rusty pipe with all his might. Daphne comes over - helps him.  Both of them trying to break it off.  Suddenly it snaps and water POURS into the room. SOAKING THE WALLS.  They point the pipe toward the door, soaking some of the flames which are consuming the door. Trying to stop the fire from coming in.  He and Daphne are drenched.  And trapped. Jordy grabs a broken piece of pipe.  Starts SMASHING the wall behind them.  The wall to the adjacent apartment.
+[NARRATOR] For a brief moment, frustration flickers across his features, met only by her quiet, knowing smile. Then, the tension dissolves entirely as he lifts her effortlessly into his arms. A soft sigh escapes her, and the gentle rustle of fabric blends into the quiet air as they settle onto the bed, the world outside fading into a deep, peaceful stillness, accompanied only by the distant, soothing hum of a late-night jazz melody drifting through the walls.
 
-[NARRATOR] Video Pov murmurs with a warm, steady cadence:
+[NARRATOR] The scene shifts across the miles and the hours, into the crisp, pristine winter air of Chicago. A new car glides effortlessly through the quiet, snow-dusted streets, the city passing by like a slow-moving dream. From the dashboard radio, the smooth, resonant voice of the disc jockey washes over the interior like a gentle tide.
 
-[MALE] Jordy and Daphne in the bathroom - surrounded by fire. CAMERA WHIP PANS down the street as FIRE ENGINES arrive.
+[NARRATOR] Hey there, old, aware ones. And you, too, my fair ones... This is "Daddio's Jazz Patio." ON KBCA this fine day, which is A-okay...
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[NARRATOR] The music shifts, melting into the cool, hypnotic notes of Brubeck's piano, carrying the car—and the quiet traveler within—further into the serene expanse of the afternoon. 
 
-[MALE] is VIDEOTAPING them from the opposite rooftop.  Tenants from Daphne's building are fleeing down the fire escape.  Emil stands in back of Oleg - who is very excited.  He turns the camera on himself.
+[NARRATOR] Far away, in the heart of Harlem, the Audubon Ballroom stands quiet and expectant. Down the long, green-glazed terra-cotta hallway, Malcolm walks with steady, unhurried steps, his posture straight and calm. Accompanied by his bodyguard, he approaches a heavy wooden door. Pausing for just a moment, he sheds his heavy coat, drawing in a long, slow breath like a prizefighter gathering his strength before stepping into the light.
 
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
+[NARRATOR] The sunlight falls in long, golden slants across the afternoon streets, warming the quiet air in a gentle, hazy embrace. Outside, a soft breeze carries the distant murmur of the city, brushing against a cluster of young girls waiting near a bus stop. Their laughter suddenly lifts, light and joyful, as they catch sight of a passing car and wave in delighted recognition, their voices fading into the afternoon hum. Inside the vehicle, the cool, rhythmic jazz of Dave Brubeck drifts softly from the radio, unfolding in smooth, hypnotic time, wrapping the traveler in a cocoon of unhurried sound. 
 
-[MALE] This is great film!  You can see fire right now - Daphne is in fire - Fire Marshal is here.  Everything is so messy.  Everything is so crazy right here!  Look at this fire!  We made it! 90% of people who die in fire die from eating smoke.  So most likely they all die from eating smoke. The CAMERA PANS to Emil.
+[NARRATOR] Far away, within the sheltered quiet of the Audubon Ballroom, the light filters through tall windows in dusty, amber beams. Malcolm walks with measured, deliberate grace across the wooden stage, his senses attuned to every quiet rustle, every gentle shifting of the air. He approaches the heavy wooden podium, the polished surface catching the amber glow. Pausing behind it, he adjusts his glasses, his gaze sweeping calmly out over the sea of gathered faces in the dim, tranquil hall. 
 
-[NARRATOR] Oleg adds in a relaxed, peaceful voice:
+[NARRATOR] To the side, a familiar figure—his bodyguard—moves toward a side door instead of standing his usual vigil near the stage. Malcolm’s eyes notice the movement, a quiet awareness passing over his features like a ripple across a still pond. He leans slightly toward the microphone, his voice rich, steady, and resonant in the quiet hall.
 
-[MALE] And this is the man who started the fire.  Say something to your fans, Emil! Emil waits a beat and then blows a kiss to the lens.
+[MALCOLM] As-Salaam Alaikum...
 
-[NARRATOR] Daphne'S Bathroom speaks with a quiet, measured softness:
+[NARRATOR] A soft, collective murmur rises from the dim room, a gentle wave of voices returning the greeting.
 
-[MALE] Filled with smoke.  You can barely see Jordy or Daphne. Jordy SMASHES a hole in the wall - which reveals the bathroom in the apartment next door.  The smoke has a place to escape. There's a 7-year old KID in there.  Standing in the bathroom. Terrified.
+[THE GATHERED] Wa-Alaikum-Salaam...
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[NARRATOR] Suddenly, the peaceful quiet shatters. In the rear of the hall, two young men, Talmadge Hayer and Norman Butler, jostle each other as they stand. A sharp, agitated voice cuts through the stillness.
 
-[MALE] Get back!  Get out of the bathroom! Run!
+[MALE] What you doin' in my pockets, man? Get your hand outta my pocket!
 
-[NARRATOR] 7-Year Old Kid responds with gentle reassurance:
+[MALCOLM] Hold it, hold it, brothers! Let's be cool.
 
-[MALE] The hallway is on fire!
+[NARRATOR] Malcolm’s voice carries a plea of profound weariness and calm, but the sudden commotion pulls the bodyguards away, their footsteps echoing as they rush toward the rear. In the front row, a man named Thomas Johnson rises silently, his dark coat parting to reveal the cold, dull metal of a sawed-off shotgun. Malcolm’s eyes lock onto the dark barrel. There is no surprise in his gaze, only a profound, tragic acceptance of a path already foreseen. 
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[NARRATOR] Johnson’s face remains utterly indifferent as the weapon barks, the heavy sound rolling like distant thunder through the hall. The force of it breaks the stillness, and time itself seems to slow, stretching out into a heavy, quiet eternity as Malcolm falls back, descending gently into the quiet embrace of the floor. Around him, the room dissolves into a blur of frantic motion, but for Malcolm, the noise recedes into a deep, velvety silence. The breath leaves him like a soft sigh, and his eyes reflect the quiet dimness of the ceiling lights.
 
-[MALE] It's okay.  I'm a fireman.  I'm going to help you.  Get back!  Now! Jordy pushes Daphne through the wall - turns as the bathroom door catches fire.  It's seconds before the whole room will blow up.
+[NARRATOR] Miles away, the jazz music plays on, loud and vibrant, inside the warmth of a moving car. Ali sits behind the wheel, the rhythm of the Brubeck tune pulsing softly against the glass. Suddenly, a man stumbles across the sunlit street, his clothes disheveled, his eyes wide and dazed with disbelief.
 
-[NARRATOR] Oleg adds in a relaxed, peaceful voice:
+[MALE] Ambushed! From the bullet holes, black eagles flew! They screaming through the streets...
 
-[MALE] Across the roof is videotaping the bathroom as it EXPLODES! EXT. STREET - CONTINUOUS Fire engines have arrived.  The street is filled with gawkers.  Garcia and Korfin pull up just as Jordy runs from the building - holding the kid in one arm and pulling Daphne with the other.  Carefully guarding his bandaged hand.  A fireman grabs the kid.  Another grabs Daphne.  Garcia and Korfin run to Jordy.
+[NARRATOR] Ali presses the button, and the window glides down smoothly, letting in the warm, restless air of the afternoon.
 
-[NARRATOR] Garcia adds in a relaxed, peaceful voice:
+[MALE] What?
 
-[MALE] Jordy!  What the hell happened?!
+[MALE] They killed Malcolm...they shot Malcolm.
 
-[NARRATOR] Korfin adds in a relaxed, peaceful voice:
+[NARRATOR] The radio broadcast cuts short, the cheerful jazz interrupted by the heavy, solemn weight of an announcement. Malcolm X has been killed. Ali’s foot eases off the pedal, the car coasting to a gentle, unceremonious stop at the curb. 
 
-[MALE] Are you alright, man?  Lemme see the hand!
+[NARRATOR] In that single, suspended moment, the entire world seems to stop breathing. The bustling streets of the South Side of Chicago grow utterly still, wrapped in a profound, heavy numbness. A young man sits down slowly on the nearby curb, his head bowed, tears falling silently into the dust. A gentle, soulful elegy begins to play, Sam Cooke’s voice rising like a distant, soothing lullaby over the quiet afternoon.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] Sitting alone in the hush of his car, surrounded by the amber glow of the fading day, Ali closes his eyes. Against the darkness of his mind, the familiar face appears—the sharp lines, the calm, intelligent eyes behind the steady glasses. A deep, quiet wave of sorrow washes over him, heavy and still as a sleeping lake.
 
-[MALE] Where's Daphne?  Daphne? He spots Daphne on the corner as a familiar voice pushes through the crowd.
+[MALE] You were the first...you walked me forward, my brother...you were the first...
 
-[NARRATOR] Voice murmurs with a warm, steady cadence:
+[NARRATOR] The heavy, velvety darkness of the mind begins to lift, replaced by the soft, distant hum of a midnight radio playing a slow, soulful melody. The velvet voice of Sam Cooke drifts through the warm air like a gentle evening breeze, singing of a long, long time coming, promising that a change is going to come, yes it is. 
 
-[MALE] Isn't she a beauty?  She's my fire, look at that loom-up on her! Jordy turns - it's Max.  The attention pyromaniac who Jordy threw out of his office.  As a news crew arrives, Max turns to the cameras.
+[NARRATOR] Far away in the quiet town of Lewiston, Maine, the vast, shadowy expanse of St. Dominic's Arena hums with a tense, hushed energy under the glow of overhead lights. The arena is ringed by the quiet presence of the FBI, casting long shadows across the concrete floor. The stands are only half full, swallowed by the cavernous quiet of the night, holding their breath beneath a million-dollar insurance policy born of fear, death threats, and the restless currents of the world outside. The air smells of ozone, polished leather, and old dust settling on wooden bleachers. 
 
-[NARRATOR] Max speaks with a quiet, measured softness:
+[NARRATOR] Howard Cosell’s broadcast voice floats through the ether, steady and dramatic.
 
-[MALE] I did this!  I did this!  Take my picture!  I'm Max!  Max Gornick! Jordy grabs Max - pushes him away.
+[MALE] ...the arena is surrounded by FBI, the stands are only half full, the promoter has taken out a million-dollar insurance policy due to Cassius Clay's membership in the militant and radical Black Muslims because of death threats. Oh, and by the way...Sonny Liston is here, too.
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[NARRATOR] Through the dim light, Sonji enters, wearing a shimmering sequined mini-dress, her bouffant hair catching the golden gleam of the arena lamps. She moves like a stray star in a quiet galaxy, attracting both intense attention and quiet disapproval from Herbert. She settles softly into a seat beside Ali's parents at ringside, resting among the large, conservatively dressed Muslim contingent. A quiet friction hangs in the air, warm and heavy as summer humidity. Ali glances over, his brow furrowing with sudden anger at her presentation. She looks like a sweet girl singer from an old doo-wop group, entirely out of place in this austere sanctuary. 
 
-[MALE] Get outta here!
+[NARRATOR] With a fluid, unhurried motion, he slips his heavy white robe from his shoulders, letting it pool around him like a cloud. He raises his gloved hands in silent, solitary Muslim prayer, breathing in the cool night air. 
 
-[NARRATOR] Korfin responds with gentle reassurance:
+[NARRATOR] Then, the bell rings. A clear, resonant chime cuts through the stillness. 
 
-[MALE] What the hell happened?
+[NARRATOR] Ali meets Liston in the center of the canvas, moving with the impossible, dreamlike grace of a phantom. He nails him with a clean, straight right, then begins to softly bait him, dancing across the mat like a shadow on water. Liston tries heavily to cut off the ring, jabbing ineffectually at the empty air. Ali lets Liston drift closer, pulls back with effortless precision, and then pivots smoothly on his right foot. He throws a short, compact right, and the world slows down, drifting into a deep, syrup-thick slo-mo. 
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[NARRATOR] The muscles of Ali’s upper body contract and ripple in a wave of sudden release as his fist catches Liston squarely on the point of his chin. Liston drops to the canvas like a stone falling through still water, his great weight absorbing the quiet earth. 
 
-[MALE] They were inside.  They booby trapped her apartment! Korfin scans the crowd.  Looking for Emil and Oleg.  In the b.g., Duffy is SCREAMING.
+[MALE] Liston is down! Scarcely a minute into the first round, I can't believe it!
 
-[NARRATOR] Duffy speaks with a quiet, measured softness:
+[NARRATOR] High above the canvas, Sonji is suddenly up. For reasons known only to the rushing currents of her heart, tears of worry stream, absurdly and softly, from her eyes, glistening in the arena lights. The image burns into the quiet dark: Ali standing tall over Liston, his fist cocked, bellowing into the empty spaces of the arena.
 
-[MALE] What the hell are you talking about??? They're gonna do what? Jordy and Korfin turn.  The Chief has a phone to his ear and is freaked. INT. LOBBY OF CHANNEL 12 BROADCASTING - NIGHT
+[MALE] Get up, sucker! Get up and fight! No one gonna believe this!
 
-[NARRATOR] Jordy'S Pov responds with gentle reassurance:
+[NARRATOR] Liston tries sluggishly to rise, rolling heavily over. His left leg spasms in the quiet air. As the referee finally pushes Ali away toward a neutral corner, the broadcast voice echoes softly through the rafters.
 
-[MALE] as he enters the TV station.  His clothes burnt and still wet.  The lobby's full of ANGRY COPS.  Tommy and Leon, still in his funeral suit, SCREAMING above them all at Maggie the producer and her ASSISTANT, who are standing behind the desk.
+[MALE] It's over; it's over!
 
-[NARRATOR] Tommy answers in a low, calming tone:
+[NARRATOR] The scene dissolves into the warm, shadowed sanctuary of Muhammad’s dressing room late at night. Sarria, Bundini, and Pacheco stand in the quiet shadows as Dundee carefully cuts the white tape away from Muhammad’s tired hands. Suddenly, the door clicks open and Sonji appears, rushing forward to throw her arms around Ali in a desperate, clinging embrace. 
 
-[MALE] Where is he?!  Where is Hawkins?!
+[FEMALE] You okay? What's wrong?
 
-[NARRATOR] Maggie whispers gently into the still air:
+[NARRATOR] Her hands find only the cold, distant surface of his skin.
 
-[MALE] He's not on the premises!
+[MALE] Why you done up like that?
 
-[NARRATOR] Leon answers in a low, calming tone:
+[FEMALE] I'm dyin' and...'cause this is how I dress! I dyin' for you out of worry...
 
-[MALE] I want the tape.  Go get it and bring it here this minute.
+[MALE] "Worry"...?
 
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
+[FEMALE] Yeah. And all you care about is if I look dull enough?
 
-[MALE] Any request for the video must be directed to "Top Story's" attorney - Bruce Cutler.  I'll be happy to give you his number. Leon jumps over the desk where Maggie stands.  Tommy pushes past the security guard to follow Leon.  They continue toward Maggie, pushing her further back into the office.  She tries to protect herself with an office door which Leon slams open.
+[MALE] The world looks at me, girl! What if I straightened my hair, live in the white suburbs? How I am says something!
 
-[NARRATOR] Leon whispers gently into the still air:
+[FEMALE] Well, sorry you don't like how I am...
 
-[MALE] Lady, if you put Eddie's murder on TV, I'll get a warrant for your arrest and shove it so far up your ass it'll come outta your mouth!
+[NARRATOR] The silence between them stretches out, long and cool as a midnight highway. The scene shifts softly to the exterior of a quiet Holiday Inn balcony at night. Ali climbs the outdoor stairs, his footsteps muffled by the heavy night air. Bundini waits for him, flanked by a cluster of eager reporters trying to ambush him in the dim motel forecourt, where the neon signs cast a pink and blue glow across the pavement. 
 
-[NARRATOR] Maggie whispers gently into the still air:
+[MALE] Where's Herbert?
 
-[MALE] I want your shield number!
+[NARRATOR] Bundini nods toward an open door, and Ali slips away from the noise, stepping into Herbert's quiet room. Beyond the window, the Holiday Inn marquee glows faintly in the dark, reading simply: *Clay vs. Liston II.* A few of the plastic letters droop slightly, sagging in the warm night breeze.
 
-[NARRATOR] Hawkins adds in a relaxed, peaceful voice:
+[MALE] What do I do...?
 
-[MALE] Viewer discretion advised!
+[NARRATOR] Ali stands before Herbert, his chest rising and falling, his anger subdued by the exhaustion of the late hour. Herbert looks up from the quiet desk, his voice a low, steady murmur.
 
-[NARRATOR] Maggie whispers gently into the still air:
+[MALE] If you want, have no contact with her for ninety...
 
-[MALE] You want the tape?  There it is! Leon, Tommy, all the cops and Jordy - turn toward a TV set which is mounted in the lobby.  The "Top Story" logo flashes on the screen, then Robert Hawkins is seen behind his desk.
+[NARRATOR] The heavy silence of the night stretches out like a velvet blanket, absorbing the weight of Herbert's words as they hang in the warm, still air. The room is bathed in the soft, amber glow of a single desk lamp, casting long, gentle shadows that dance softly against the walls. A faint breeze drifts in through the cracked window, carrying the distant, soothing hum of the city winding down toward peaceful sleep.
 
-[NARRATOR] Hawkins answers in a low, calming tone:
+[MALE] Days. Then you make a public statement of divorce in the mosque, and Islamic law will be satisfied.
 
-[MALE] What we are about to broadcast is very graphic footage... Everyone is riveted.  But Jordy notices outside...a "Top Story" NEWS VAN is waiting in the alley.  Robert Hawkins jumps from a doorway and into the van.  Jordy backs out. INT. PLANET HOLLWYOOD - NIGHT POP...a video POV of a bottle of Crystal as the cork is popped.  The videocamera pans up to Emil sitting at the table.  He nods at the waiter who leaves.  Emil raises the glass - looking into the lens.
+[NARRATOR] Bundini shakes his head, his voice a low, gravelly sigh in the quiet room.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] Satisfied...? Satisfaction is not makin' it with the woman who send you to the moon?
 
-[MALE] America!  Who says you can't be success in America?  I arrived with nothing, knowing nobody - now look - I am a success story! The videocamera is lowered.  Oleg turns it off.  Asks suspiciously.
+[NARRATOR] Suddenly, the heavy wooden door swings open, and Cassius, Sr. bursts into the room, his breath coming in ragged gasps. Bundini stands holding Ali's championship belt draped securely over his shoulder, the heavy leather and gleaming brass catching the warm lamplight.
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[MALE] Man, I'm the only normal person left around here and I'm a black Jew who can't read and is half drunk. I gotta talk to you.
 
-[MALE] You are success story?  I am success story!  Why do you say I and not we?
+[NARRATOR] Bundini and Herbert begin to turn toward the door, preparing to slip away into the quiet hallway. Ali reaches out a hand, his voice softening into a weary plea.
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[MALE] Please stay, Brother Herbert.
 
-[MALE] Oleg, don't be paranoid.  You got a hundred-fifty thousand dollars, didn't you?  I gave you half of what they gave me.  Look - here we are! Emil gestures toward the big television set.  We are in Planet Hollywood - where diners and those by the bar can watch a huge screen hanging from the ceiling.  Robert Hawkins is introducing his show.
+[CASSIUS CLAY, SR.] He ain't your brother! Your brother taking your wife back to Chicago. She's crying like a widow.
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[MALE] I ain't dead!
 
-[MALE] Good evening.  Welcome to "Top Story". Tonight, I present to you material of a graphic and violent nature never before seen on television.  And I do so with a heavy heart.  You will be first-hand witness to the slaying of celebrated New York City Homicide Detective, Eddie Flemming.  It would be only normal to ask, why?  Why are we showing something so journalist, I must show it.  A democracy survives through the freedom of its media, and if we cannot see what is happening then we don't deserve our democracy, or our freedom.  Eddie Flemming was my friend.  I cried when I watched this footage and vowed to fight this violence with every molecule of my being from this day onward.  Hopefully, this will have a similar effect on you. One final word, this material is absolutely not appropriate for children. The restaurant BUZZES.  Emil checks his watch.
+[CASSIUS CLAY, SR.] You might as well be. You don't remember your name or who you are.
 
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
+[NARRATORS] Cassius, Sr. turns sharply and leaves the room, the door clicking shut with a soft, final thud. The silence rushes back in, deep and profound. Later, the scene shifts to the quiet sanctuary of Ali's motel room at the Holiday Inn, viewed from a high angle in the quiet hours of the night. Ali enters slowly, his footsteps muffled against the carpet. He stands before the dresser. Only a solitary suitcase rests upon the wood. She has left behind a single chartreuse blouse. He reaches out, his fingers brushing the fabric, and lifts it to breathe in the faint, lingering scent of her cologne. Grief washes over him, a quiet tide pulling him down until he curls into a gentle ball on the edge of the bed, entirely alone in the hush of the night. Hours pass, and day breaks with a soft, golden light filtering through the curtains into a green room. Ali sits quietly as a good-looking Asian cosmetologist gently tends to him, applying makeup with soft, practiced strokes. An assistant director lounges against the wall, a headset resting over his ears, lazily flipping through the pages of a morning newspaper.
 
-[MALE] In movie they make of us, who do you think would act me?
+[FEMALE] You got the prettiest eyes...
 
-[NARRATOR] Emil whispers gently into the still air:
+[MALE] Yeah?
 
-[MALE] The one who got caught in the bathroom.  George Michael. Emil laughs.  Oleg doesn't.
+[MALE] He so pretty, when you look up "pretty" in the dictionary, he too pretty to be there.
 
-[NARRATOR] Oleg adds in a relaxed, peaceful voice:
+[NARRATOR] The cosmetologist laughs softly, leaning in to whisper something low into Ali's ear. She takes his hand, pressing it gently where the others cannot see, and slips her phone number into his palm. Suddenly, the sharp ring of a telephone cuts through the quiet hum of the room. Bundini answers the receiver just as the assistant director glances up from his paper.
 
-[MALE] I'm serious.
+[ASSISTANT DIRECTOR] You gonna try for Germany?
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[MALE] Huh?
 
-[MALE] Shut up.  Look! Emil points towards the TV.  "Top Story" is continuing.  The scene cuts to Emil's video footage.  Eddie is handcuffed to the chair.  The light illuminating his face.
+[ASSISTANT DIRECTOR] You gonna try to get stationed in Germany?
 
-[NARRATOR] Oleg speaks with a quiet, measured softness:
+[MALE] What you talking about?
 
-[MALE] This is my project.  I say 'action.'  I am the director!  You are the talent. You wait for me to say 'action.'  And 'action!'
+[MALE] Champ. It's Eskridge...
 
-[NARRATOR] Emil responds with gentle reassurance:
+[ASSISTANT DIRECTOR] They changed your classification. It's in the paper...You're 1-A. You're gonna get drafted into the Army...
 
-[MALE] Bad last moment - I cut it out. Emil looks at Oleg - furious.
+[MALE] You know about this?
 
-[NARRATOR] Emil responds with gentle reassurance:
+[CHAUNCEY ESKRIDGE] Yes. But I think the government's looking to negotiate a deal...
 
-[MALE] I told you to cut that out before we handed in the tape!
+[ASSISTANT DIRECTOR] Here we go...!
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[NARRATOR] The scene transitions into the bright, buzzing atmosphere of a New York television studio at ABC. The familiar broadcast of "Wide World of Sports" is live on the air, glowing with studio lights and quiet anticipation. Ali speaks directly into the microphone, his voice firm and steady.
 
-[MALE] Be quiet.  Watch. Oleg watches the big-screen TV as Emil raises the pistol to Eddie's temple.  Eddie pushes him over the desk.  Eddie then knocks Emil with the chair and Emil falls off the desk onto the floor.  Eddie continues around with the chair and drives Oleg back across the room - pinning him to the wall.  Eddie and Emil both go for the gun.  Eddie knocks him out of the way.  Stabs him with the legs of the chair repeatedly. Leaves him in a ball on the floor.  Oleg comes at Eddie and he knocks Oleg over the coffee table and onto the sofa.  The blinds and lamp shade are shot - bathing the room with more light.  Emil stabs Eddie in the stomach.  Oleg kneels down for a CLOSE-UP.
+[MALE] I flunk their draft board test. Now, without testing if I am "wiser" or "worser," they decide I can go into the Army.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[HOWARD COSELL] Cassius, it is my opinion you...
 
-[MALE] Die.  Die. EXT. TIMES SQUARE - CONTINUOUS Hawkins' van drives across Times Square.  Jordy's car following.  We WIDEN OUT... Eddie's murder is being broadcast on the JUMBOTRON in Times Square.  People stare up - stunned. INT. PLANET HOLLWYOOD - CONTINUOUS The dinner patrons are watching TV.  Shocked.  Emil glares at Oleg.
+[MALE] And I'm not Cassius Clay. That's a slave name. I'm a free man. I'm Muhammad Ali.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[HOWARD COSELL] You know, I apologize to you. On the air. Your name is Muhammad Ali. You have the right to be called whatever you want.
 
-[MALE] Why did you leave that stuff in about you being the director?
+[MALE] You make a lot of mistakes for a so-called educated man. You really go to law school?
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[HOWARD COSELL] Yes, Muhammad. And to think I gave up a lucrative practice for the likes of you.
 
-[MALE] Because I am the director.  Don't you realize, if it wasn't for my film, for my talent, my idea to do this - no way would we be sitting here right now.
+[MALE] I'm the
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[NARRATOR] The heavy studio lights overhead hum with a low, drowsy frequency, casting a warm, amber glow across the quiet backstage retreat. Outside the radius of the cameras, the noise of the bustling television station fades into a distant, rhythmic murmur, like the gentle lapping of waves against a remote shore. 
 
-[MALE] Your idea?  I thought it was my idea. Oleg tenses.  Emil laughs.
+[MALE] I am the best thing that ever happened to you, Howard Cosell. Without me, you would just be a tall white man with a microphone in his mouth.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] Howard Cosell tilts his head with a familiar, theatrical weariness, his voice dropping into that rapid, familiar cadence as he offers a soft, dry retort.
 
-[MALE] Aren't you just the cameraman? Oleg doesn't laugh.
+[MALE] And without me, you would just be a mouth.
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[NARRATOR] In a swift, playful motion, a hand reaches out and gently lifts the toupee from Howard’s head, a brief flash of mischief before the cameras cut to black. The studio audience's laughter drifts away, echoing softly into the cool evening air, leaving only the quiet stillness of the backstage shadows.
 
-[MALE] I'm serious...this - this is a great American film.  Full of violence and sex.  And I want my credit.
+[NARRATOR] Minutes later, deep within the private sanctuary of the dressing room, the air is thick with the rich, comforting aroma of roasted coffee beans. A silver spoon clinks softly against porcelain, stirring a mountain of white sugar into a steaming mug. Howard leans against the vanity, watching with a mixture of amusement and exhaustion, his voice dropping to a smooth, conversational drawl.
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[MALE] Have a little coffee with your sugar...
 
-[MALE] Credit?
+[NARRATOR] The champion smiles lazily, swirling the dark liquid while the afternoon light filters dust motes through the window blinds in slow, graceful arcs.
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[MALE] Keep talking. You were saying something half-smart...
 
-[MALE] Yes.  Before we hand in the next video - I put titles on it and my credit is going to read - Directed by Oleg Razgul.
+[NARRATOR] Howard’s expression softens, losing its broadcast sharpness, shifting into a quiet, grave sincerity as he considers the heavy weight of the world resting outside their doors.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[MALE] They want to make an example out of you.
 
-[MALE] Yes.  But there's only one problem - you want credit but the problem is - I don't share credit. Oleg is pissed.
+[NARRATOR] The champion pauses, tilting his chin, letting the quiet question hang in the gentle draft of the room.
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[MALE] Why? I'm no Stokely Carmichael, H. Rap Brown...
 
-[MALE] You got that?
+[NARRATOR] Howard shakes his head slowly, his voice steady and soothing, cutting through the noise of external pressures.
 
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
+[MALE] All they are is political. They tell people how they ought to be. But you are the heavyweight champion of the world. You're important. And they don't like your militancy, your politics. So, they'll make an example out of you.
 
-[MALE] No, I don't get that!
+[NARRATOR] The champion stares down into his coffee, his reflection rippling gently in the dark surface, his voice barely more than a whisper.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[MALE] ...of a good Negro, who do what he told?
 
-[MALE] You think you are a director?  You are a fucking little, small Russian piece of shit.  And I hate you.  I fucking hate you. Emil slaps Oleg across the face.  Oleg stands up.  Emil suddenly pulls out Eddie's gun but before he can pull the trigger, Oleg STABS Emil in the arm!  Emil squeezes off a shot through the crowded restaurant.  Patrons SCREAM - Oleg runs through the restaurant, escaping.  It's chaos. Hawkins arrives with a crew and with BRUCE CUTLER, a confident, tough criminal attorney. Emil pulls the steak knife out of his arm, picks up a napkin - pressing it to his wound.
+[NARRATOR] Howard nods once, the gravity of the truth settling heavily over the room like a soft, woolen blanket.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] Yes. Or, to demonstrate here is what happens to your ass if you don't... He's screwed either way.
 
-[MALE] Oh, hello. Cutler accesses the situation.
+[NARRATOR] The scene dissolves into the bright, hazy sunlight of a humid Houston afternoon. The United States Armed Forces station stands quiet and imposing, the pavement radiating a soft, shimmering heat. A car glides silently to the curb, and Chauncey Eskridge waits patiently by the entrance as the doors open. Footsteps crunch softly on the concrete, moving through the murmur of distant reporters whose voices blur into white noise, like the hum of a distant highway. Inside the cool, dim lobby, surrounded by the quiet anxiety of other young recruits, Chauncey leans in, his voice dropping to a low, reassuring murmur.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[MALE] You do six weeks basic... you go into the Reserves... you don't go to Vietnam... you get to box... you even get to keep the money...
 
-[MALE] Are you my attorney?  I'm Emil.  I'm insane.
+[NARRATOR] He presses a crisp, white paper signed by the Justice Department into the champion's hand—a neat, orderly promise of safety. Herbert stands close by, his voice calm, carrying the quiet authority of counsel.
 
-[NARRATOR] Cutler offers quietly, watching the shadows drift across the room:
+[MALE] The Messenger would not object if you joined under these terms.
 
-[MALE] I'm not your lawyer until I see the money.
+[NARRATOR] The champion stares at the paper, the harsh fluorescent lights overhead buzzing at a very high, faint pitch that seems to muffle the rest of the world.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[MALE] I stay out of jail and I get to fight.
 
-[MALE] Here.  I have your money. Emil picks up a briefcase and hands it to Cutler.  Cutler opens it - inside is the cash Emil got from Robert Hawkins. Emil looks at the table, pushing the plates and silverware aside.  Emil looks under the table, throwing the chair aside, freaking.  He's lost the most important thing in his life.
+[NARRATOR] Herbert nods, offering a gentle validation.
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[MALE] All you have to do is accept the induction. And life goes on.
 
-[MALE] Oh no!  No!  Shit!
+[NARRATOR] Chauncey watches him with steady, understanding eyes, knowing the immense gravity of the impending moment.
 
-[NARRATOR] Cutler adds in a relaxed, peaceful voice:
+[MALE] They call your name. You say yes.
 
-[MALE] Emil.  Take it easy.  Stay with me.  Sit down.  What do you need?  What are you looking for?
+[NARRATOR] The scene shifts seamlessly into the vast, sterile interior of the induction center. Rows of young men stand shoulder to shoulder in silence, their breaths synchronized in the still, air-conditioned room. Naval Lieutenant Jerome Claridge stands at the front, holding a clipboard, his voice echoing cleanly off the polished linoleum floors.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[MALE] ...and you will take one step forward as your name and service are called, and such a step will constitute your induction into the Armed Force indicated.
 
-[MALE] He has the camera!  He took the movie! Jordy comes in, gun raised.
+[NARRATOR] Lieutenant Claridge begins to read the names, one by one. The young men step forward with mechanical, dutiful precision, their boots tapping rhythmically against the floor. The champion stands among them, waiting for his birth name to break the silence. Instead, a different name cuts through the quiet air.
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] Cassius Marcellus Clay.
 
-[MALE] Don't move!  Don't move!  Get your hands up!  Drop it! Emil puts his hands in the air.  Immediately drops the gun!
+[NARRATOR] The room falls instantly, profoundly dead quiet. Not a shoe shifts. Not a breath is drawn. The air hangs completely still, heavy and thick as velvet. The champion's lips part, moving slowly, but no sound escapes them. The world seems to pause on its axis, anticipating the forward step—the easy way out, the safe harbor. But his boots remain firmly, immovably rooted to the floor. Lieutenant Claridge waits a beat, his voice dropping into a stern, formal caution that echoes in the hollow stillness.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] Mr. Clay, I am required to inform you that refusal to accept a lawful induction order constitutes a felony under the Universal Military Training and Service Act, punishable by up to five years' imprisonment and a five-thousand-dollar fine. Do you understand?
 
-[MALE] I give up! Jordy is disappointed!  He didn't want to take Emil alive. Hawkins signals to his camera man, who swings his camera at Jordy as he approaches Emil, his gun aimed at Emil's head.
+[NARRATOR] A slow, almost imperceptible nod answers him. From the periphery, two men in dark, unblinking suits—FBI agents—materialize silently out of the shadows, blending into the background like statues. Lieutenant Claridge repeats the name, his voice ringing out once more into the absolute quiet.
 
-[NARRATOR] Cutler responds with gentle reassurance:
+[MALE] Cassius Marcellus Clay.
 
-[MALE] This man is unarmed, officer.  He's surrendered. Jordy cracks Emil across the face - knocking him down.
+[NARRATOR] The champion does not move an inch. He stands entirely at peace within the eye of the storm, completely still, breathing slowly as the silence stretches out infinitely around him.
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[MALE] Cassius Marcellus Clay.
 
-[MALE] What are you hitting him for?
+[NARRATOR] The heavy syllables of the name linger in the warm, heavy air, spoken with a quiet finality that seems to alter the very pressure of the room. 
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] Cassius Marcellus Clay.
 
-[MALE] Turn that camera off! Jordy handcuffs him.  Emil turns to the camera for sympathy, appearing more hurt than he is.
+[NARRATOR] The name is a tether to a life that is shifting, turning, passing into history. A quiet voice breaks the stillness, carrying the weight of an inevitable morning.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[MALE] Herbert's dying.
 
-[MALE] No.  Keep filming... Jordy realizes how media savvy Emil is and understands in that moment why he's surrendering.  Jordy yanks Emil up - dragging him across the restaurant floor - Emil still favoring his ankle.
+[NARRATOR] The words settle like fallen leaves upon the floor. The die has been cast, carved into the grain of time, and there is no reversing the motion of the earth. A shadow falls across the threshold, and a man steps forward from the dim corridor, his movement measured and quiet, holding out a small, metallic shield that catches the amber light of the hallway.
 
-[NARRATOR] Cutler speaks with a quiet, measured softness:
+[MALE] Mr. Clay, you're under arrest for refusing induction.
 
-[MALE] Don't say anything.
+[NARRATOR] Cool steel meets warm skin, a soft click echoing in the stillness as the cuffs turn and close. Outside, the late afternoon sun casts long, drowsy shadows across the pavement of the Holiday Inn in Houston. The heat shimmers in soft, wavy lines above the tarmac, blurring the edges of the crowded media trucks and the quiet, unmarked sedans of the authorities. Rudy and six large companions form a protective corridor, guiding their brother through the murmuring crowd, a sea of faces turned toward the light. Inside the cool sanctuary of the hotel room, the air is thick with the scent of aged paper and impending evening. The telephone trills, a persistent, metallic song that cuts through the hum of the room. Howard Bingham and the young sportswriter stand near the window, watching the amber light slant across the carpet. The receiver is lifted, and the voice floats out onto the small, private balcony where the breeze from the south stirs the evening air.
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[FEMALE] Ask Chauncey Eskridge in Chicago. He's my lawyer. No. I'm out on bail. Yeah, I fight. I fight clean. I'm an athlete. Army's there to kill, kill, kill. My religion forbids that. No. I never shot anything in my life. Do I know where Vietnam is? Yeah. It's on TV... In southeast Asia? It there, too? That's a joke, man...
 
-[MALE] Where are we going?
+[NARRATOR] The receiver settles back onto its cradle with a dull, wooden thud. The silence lasts only a heartbeat before the bell shrills once more, demanding attention from the hollows of the room. 
 
-[NARRATOR] Cutler adds in a relaxed, peaceful voice:
+[FEMALE] What do I think about who? Vietcong?
 
-[MALE] I'm coming with you.
+[NARRATOR] A quiet descends upon the suite, deeper and more profound than before. It is the silence before a falling leaf touches the ground, the stillness of a deep lake at dusk. The words rise up, unforced and entirely certain, born from a quiet place within the soul that no storm can reach.
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[FEMALE] Man, I ain't got no quarrel with them Vietcong.
 
-[MALE] Yes.  Yes, come with me!
+[NARRATOR] The room holds its breath. The distant hum of the traffic below seems to fade away entirely, leaving only the soft rhythm of breathing in the dimming light.
 
-[NARRATOR] Cutler adds in a relaxed, peaceful voice:
+[FEMALE] No Vietcong ever called me nigger.
 
-[MALE] I'm invoking rights - this man is represented by counsel.  I'm coming with him. The "Top Story" crew is all over them, filming everything. Cutler stays close to Emil.  Making sure he's in the video footage.
+[NARRATOR] A shadow crosses the room as a friend leans in, his voice trembling with the heavy realization of what has just been spoken into the listening world.
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[MALE] You know what you just said...?
 
-[MALE] Turn that camera off! EXT. PLANET HOLLWYOOD - CONTINUOUS As Jordy comes out with a limping Emil, police are arriving. Tommy, Leon and Murphy run over as Jordy opens the back door to his car.  Leon grabs Emil.
+[NARRATOR] The phone is placed on the hook, silencing the persistent electronic voice for the night. The sportswriter looks up from his pad, his eyes wide in the amber glow of the bedside lamp, seeing the invisible ripples spreading outward across the sleeping continent.
 
-[NARRATOR] Leon whispers gently into the still air:
+[MALE] From Europe to China...every home in America...the world's gonna know what the heavyweight champion of the world said about the U.S. war...
 
-[MALE] I'll take him.
+[NARRATOR] The champion leans back, his gaze drifting toward the high ceiling where the shadows dance lazily in the draft from the open door. There is no anger in his voice, only the deep, restorative peace of a man resting in his own truth.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[FEMALE] So what? I ain't gonna be what anybody else want me to be. I'm not afraid to be what I want. And think how I want. And that's the real Ali, right there.
 
-[MALE] No way!  He's mine!
+[NARRATOR] Night settles deeply over the Houston skyline, turning the sky the color of dark velvet peppered with distant, indifferent stars. Inside the suite, which now feels less like a room and more like a sheltered island in a vast, dark sea, the men have gathered close. Dundee, Pacheco, and Rudy keep vigil. The television hums softly in the corner, casting a flickering, bluish-gray glow across the walls, painting the room in cool twilight tones. Walter Cronkite's familiar, steady voice drifts from the screen, reporting the distant storms of the world. The writer paces quietly to the sofa where the champion lies resting, holding his notes like a map of a turbulent ocean.
 
-[NARRATOR] Leon adds in a relaxed, peaceful voice:
+[MALE] Nixon, the Republicans, Boxing Commission in New York, Cleveland and L.A. But you're also getting attacked as unpatriotic by the NAACP, Roy Wilkins, Jackie Robinson, the New York Times and Joe Louis...
 
-[MALE] We're takin' him.  Don't argue!
+[NARRATOR] The face upon the cushions remains entirely smooth, untouched by the gathering tempests outside the walls. He accepts the heavy tide of the world with the quiet grace of a tree bending before a midnight wind, knowing that the roots run deep into the dark, quiet earth. Far away, beneath the quiet streets of the city, through miles of concrete and stillness, lies the underground garage, waiting in the velvety dark, holding its breath beneath a very low ceiling where the world is quiet and still.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] Deep beneath the waking world, hidden away within the quiet, cavernous shadows of a subterranean garage, the air hangs heavy and still. The overhead lights cast a soft, emerald glow, painting long, emerald reflections across the polished curves of a classic 1961 Lincoln Continental resting in the velvety dark. The ceiling hangs low and comforting, wrapping the space in a blanket of absolute peace, far removed from the hurried noise of the city above. In the backseat of the stately car, two figures wait in the hushed quiet—Chauncey Eskridge and the champion, his breathing slow and even against the steady hum of the night. Near the distant ramps, two quiet guards in dark suits stand like timeless sentinels, watching as a sleek black Oldsmobile glides smoothly into the lower level. Bob Arum, a weary lawyer and promoter, steps out of the car, his footsteps echoing softly on the concrete. The heavy door of the Lincoln swings open, releasing a breath of cool air into the interior, though the man inside remains seated in the shadows.
 
-[MALE] He's my collar!
+[MALE] People are following me...
 
-[NARRATOR] Leon murmurs with a warm, steady cadence:
+[NARRATOR] Bob Arum rests a hand on the door frame, his expression lined with the quiet exhaustion of a long journey, the green light casting gentle shadows across his face.
 
-[MALE] Well, he killed my partner!
+[MALE] I got almost nowhere I can promote a fight for you. Plus, I think they're going to vacate you from the crown.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] The champion tilts his head slightly, the shadows veiling his steady gaze as the words settle into the quiet air.
 
-[MALE] He's yours but I take him in!  I'll drive him to the precinct, you can have him but I'm walkin' him in. Leon realizes Jordy wants to be seen on TV taking Emil into custody.
+[MALE] What?
 
-[NARRATOR] Leon responds with gentle reassurance:
+[NARRATOR] Bob Arum nods slowly, his voice dropping to a low, weary register that blends with the ambient hum of the garage.
 
-[MALE] Okay, kid, have your 15-minutes.  I'll follow you.  Tommy, you ride with him! Leon stares hatefully into Emil's eyes.
+[MALE] Yeah. If you're convicted. And New York may revoke your boxing license.
 
-[NARRATOR] Leon whispers gently into the still air:
+[NARRATOR] Chauncey Eskridge leans forward from the front seat, his voice a smooth, thoughtful ripple in the stillness, questioning the heavy road ahead.
 
-[MALE] You're goin' down, motherfucker, you are goin' down.  I'll be there with a smile when they put you down! Cutler hurries to Emil's side.
+[MALE] You sure you want to do all this? Your next three to four years are every heavyweight's prime. And there are few of those years...
 
-[NARRATOR] Cutler answers in a low, calming tone:
+[NARRATOR] The champion looks out into the emerald-lit expanse, his mind drifting far beyond the concrete walls, anchored only by the thought of the path he has chosen.
 
-[MALE] Don't say a word.  Don't respond to his taunting!  He's represented by counsel.  You want to speak to someone - you speak to me!
+[MALE] What 'bout Terrell?
 
-[NARRATOR] Tommy offers quietly, watching the shadows drift across the room:
+[NARRATOR] Bob Arum shakes his head, offering a slight, reassuring nod to steady the quiet tension in the car.
 
-[MALE] Out of the way, counselor. Tommy shoves Cutler aside.
+[MALE] We'll know if we can fight Terrell in Illinois this afternoon. Terrell's running his mouth. He said if you're called, you should serve... sixty.
 
-[NARRATOR] Cutler answers in a low, calming tone:
+[NARRATOR] A sudden spark of heat flashes through the cool air, a brief, sharp murmur breaking the tranquil rhythm of the room.
 
-[MALE] Don't you put your hands on me, Detective. Jordy pushes Emil in the back seat and slams the door.  Leon turns to Hawkins, whose cameras are filming everything.
+[MALE] Motherfucker. He got a deferment for bein' too tall, or havin' flat feet. Why don't he serve for me? Tellin' me what I should do...
 
-[NARRATOR] Leon answers in a low, calming tone:
+[NARRATOR] Bob Arum exhales softly, looking between the two men as the weight of the world presses gently against the low ceiling.
 
-[MALE] And you, you'll pay for what you did!
+[MALE] I got to get you some fights. Fast.
 
-[NARRATOR] Hawkins whispers gently into the still air:
+[NARRATOR] The champion grows quiet then, his thoughts turning inward, drifting away from the conversation, resting in the deep, undisturbed waters of his own mind. The scene gently shifts, the emerald light dissolving into the bright, neutral afternoon ambiance of the Illinois Boxing Commission room. The champion sits quietly at a long wooden table, wearing a dark suit and a narrow tie, surrounded by rigid, gray-suited apparatchiks of the machine. At the center sits a bald commissioner, his voice sharp and demanding in the hushed room.
 
-[MALE] This footage will work in your favor. When the jury sees this - no matter what Cutler tries, they'll convict him. Leon looks at him. This man used to be his friend.
+[MALE] You understand we could take away your license to fight Terrell in Illinois?
 
-[NARRATOR] Leon whispers gently into the still air:
+[NARRATOR] The champion answers with a calm, unshakeable certainty, his voice a steady anchor in the room.
 
-[MALE] You outta be ashamed.  Ashamed of yourself.
+[MALE] Yes.
 
-[NARRATOR] Hawkins responds with gentle reassurance:
+[MALE] Are you prepared to apologize? About your unpatriotic remarks that you made?
 
-[MALE] If I didn't put it on somebody else would!  I was his friend!
+[NARRATOR] A slow, deep stillness fills the air around the table as the champion replies, his tone firm and resolute.
 
-[NARRATOR] Leon answers in a low, calming tone:
+[MALE] Apologize? No.
 
-[MALE] Don't give me that fucking shit. The cameras are rolling.
+[MALE] You said that you were the people's champion.
 
-[NARRATOR] Murphy adds in a relaxed, peaceful voice:
+[NARRATOR] The champion straightens, his voice rising with a quiet, powerful conviction that fills every corner of the room.
 
-[MALE] Don't get into it on TV.
+[MALE] Yes, sir!
 
-[NARRATOR] Leon whispers gently into the still air:
+[MALE] Do you think you're acting like the people's champion...?!
 
-[MALE] Alright, let's get going! Leon and the other cops rush to their cars.  Jordy is already behind the wheel.  As soon as Tommy jumps in the passenger seat, Jordy takes off.  The cameras film him driving away. INT. JORDY'S CAR - NIGHT Jordy takes a left turn, racing away.  Running all the lights.
+[NARRATOR] With quiet dignity, the champion looks directly across the table, his words carrying the weight of a profound, unyielding truth.
 
-[NARRATOR] Tommy responds with gentle reassurance:
+[MALE] Yes, sir. I am not going to apologize to you. This isn't a courtroom. And I don't have to sit here and answer your questions.
 
-[MALE] What are you doin'?  You're gonna lose everybody! Jordy rips through another turn, heading toward the West Side Highway.  The car speeds up the ramp and races up the left lane - having lost the police.
+[NARRATOR] Without another word, the champion stands up, moving with fluid grace, and walks away from the table. Chauncey Eskridge and the men in black suits rise smoothly, following in his steady footsteps as they leave the room behind. The atmosphere softens once more, transforming into the bustling lobby of a Chicago office building, where sunlight streams gently through tall glass windows. The champion and his entourage march forward with purpose, the sound of their footsteps rhythmic and unbroken. The champion gives a walking interview, his voice carrying the fierce, beautiful cadence of a man who has found his absolute truth, moving ever forward without slowing his pace.
 
-[NARRATOR] Tommy adds in a relaxed, peaceful voice:
+[MALE] I ain't draft dodgin'! I ain't goin' to Canada. I ain't burnin' my draft card. I ain't burnin' the flag. I'm stayin' right here. And you want to throw me in jail? Go ahead. I'll do my time. I been in jail four hundred years. I'll be in jail four, five more. But I ain't goin' ten thousand miles to help murder and kill poor people for you. 'Cause if I'm gonna die, I'll die now, right here, fighting you. If I wanna die. You my enemy, not Vietcong or Chinese or Japanese. You my opposer when I want freedom. You my opposer when I want justice. You my opposer when I want equality. You want me to go somewhere for you, but you won't even stand...
 
-[MALE] Where are you goin'??  This ain't the way to the station! Jordy looks up at Emil in the rear view mirror. EXT. WEST SIDE HIGHWAY EXIT - CONTINUOUS Jordy pulls off on 130th Street.  They are way uptown in the middle of nowhere.  The car drives down a dark street. Crumbled, vacant buildings dominate the streets and there are no people around. EXT. DESERTED STREET - CONTINUOUS The car slows down.  Tommy watches Jordy, realizes what's going on.  Jordy stops at a dead end.  Pulls open the back door, yanks Emil out and starts to drag him up into the deserted tunnel.
+[NARRATOR] His voice trails off into a gentle, rhythmic echo against the marble walls, fading slowly into a deep, peaceful silence as the afternoon light softens into a soothing, restful dusk.
 
-[NARRATOR] Tommy answers in a low, calming tone:
+[NARRATOR] The atmosphere inside the vast, hollow expanses of the Houston Astrodome is cavernous and cool, a cavern of shadowed concrete and muted echoes. The stadium rests in a profound, heavy quietude, illuminated only by shafts of pale afternoon light filtering lazily down from the high rafters, painting long, lazy paths across the empty rows of seats. 
 
-[MALE] Jordy...??? Listen to me.  You can't do this.  This isn't the way to do things. Jordy ignores Tommy, slamming him up against the tunnel wall.
+[NARRATOR] Near the center of the vast floor, a solitary scale waits on the canvas. Ernie Terrell steps up onto the platform, his frame casting a long, unhurried shadow in the dim arena air. He looks down with a calm, slow indifference.
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[MALE] Tell Clay he can get on after me.
 
-[MALE] Were you a fireman?  That how you knew how to rig the apartment?
+[NARRATOR] The words hang in the still, heavy air, unhurried and thick with a lingering weight. Ali turns his gaze slowly away from the distant rows, his mind momentarily adrift in the quiet hum of the stadium.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] What...?
 
-[MALE] My father was.  He gave me many lessons about fire.  Now it's my friend.
+[MALE] Get on the scale after...
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] What you call me...?
 
-[MALE] Tommy, take a walk.
+[NARRATOR] A quiet friction ripples through the space, a sudden spark in the otherwise soporific calm. Terrell leans forward, his voice low and deliberate, carrying a calculated edge across the canvas.
 
-[NARRATOR] Tommy answers in a low, calming tone:
+[MALE] Only thing I knows you as: Cassius Clay!
 
-[MALE] What are you gonna do?
+[NARRATOR] A deep, resonant fire ignites behind Ali’s eyes, quiet yet immense, like distant summer lightning over a still horizon. The air around him seems to vibrate, tense and electric.
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[MALE] Announce it right here or from flat on your back!
 
-[MALE] Don't you get it?  He knew he was gonna get caught!  That's why he videotaped Eddie's murder - he thinks he's gonna get off.
+[NARRATOR] A sudden motion disturbs the stillness, a swift shadow cutting through the air, though hands reach out to gently separate the space between them. The echoes fade back into the quiet corners of the arena as the light shifts, bleeding slowly from the afternoon amber into the indigo velvet of night. 
 
-[NARRATOR] Tommy whispers gently into the still air:
+[NARRATOR] Under the glaring, brilliant glare of the overhead stadium lights, the night air hums with a deep, hypnotic rhythm. The ring becomes a world unto itself, a square of illuminated white canvas surrounded by fathomless shadows. 
 
-[MALE] Don't stoop to his level! Jordy tosses the car keys to Tommy.
+[NARRATOR] Blows fall with a rhythmic, pulsing cadence—wham, wham, wham—a slow-motion dance of shadows and sweat under the blinding white lamps. Ali moves with a breathtaking, effortless grace, his feet skimming the canvas like a leaf drifting over a calm stream. Every movement is fluid, an endless, circular motion of absolute mastery.
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[MALE] What's my name, motherfucker?!
 
-[MALE] Take the car.  Get outta here, Tommy.
+[NARRATOR] The bell sounds, a long, resonant wave of bronze that ripples out into the empty tiers of seats. The final round unfurls in a blur of motion, a sequence of strikes delivered with the weightless precision of falling snow.
 
-[NARRATOR] Tommy offers quietly, watching the shadows drift across the room:
+[MALE] What's my name?
 
-[MALE] Look, you can't shoot him in cold blood.
+[NARRATOR] The combination flows outward—six, eight, seventeen rhythmic impacts—a cascade of motion that seems to suspend time itself, stretching each second into an eternity of floating grace. 
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] WHAT'S MY NAME?!
 
-[MALE] GET OUTTA HERE NOW!!  GET IN THAT CAR AND DRIVE AWAY!!!  DO WHAT I SAY OR I'LL KILL YOU, TOO!!! Tommy nervously backs up toward Jordy's car.  Climbs behind the wheel and drives away, leaving Jordy and Emil alone in the darkness.  Jordy takes out Eddie's pistol.  The one Emil took from Eddie.  Jordy opens the cylinder - two bullets left.  Jordy snaps the cylinder shut, tucks Eddie's gun in Emil's belt.  He drags Emil away from the wall, into the center of the empty space - unlocks Emil's handcuffs and throws them aside.  Still holding the gun on Emil, he circles around to face him.
+[NARRATOR] The final bell rings out, its tone lingering softly in the warm, heavy night air, vibrating slowly against the distant walls until it dissolves entirely into peace.
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[NARRATOR] Days later, the scene shifts to the quiet, wood-paneled solemnity of a Houston courtroom. Dust motes dance lazily in the shafts of light that cut through the tall, arched windows, illuminating the rows of wooden benches where people sit in hushed stillness. Ali stands before the bench, surrounded by the quiet murmurs of his legal counsel. His voice is steady, soft, and entirely unyielding against the heavy silence of the room.
 
-[MALE] Get your hands up!  Get your hands up! Now facing Emil, he sticks his gun in his waistband - the same place he put Emil's.
+[MALE] If the court would give me my sentence right now instead of waiting and stalling.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[NARRATOR] The judge looks down from the elevated mahogany desk, his expression set in stone as he delivers the words into the quiet sanctuary of the court.
 
-[MALE] You wanna be a real American?  Go for your gun. Emil holds his arms out - making it clear he's not going for the gun.
+[MALE] My pleasure. The jury has found you guilty of refusing induction into the United States armed forces. I sentence you to the maximum sentence allowable...five years' imprisonment and a fine of ten thousand dollars. Fast enough? Your attorney will lodge an appeal. While you're out on bond, I order your passport surrendered. I'll not have you benefitting yourself by fighting abroad...
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] The words settle over the courtroom like a heavy, velvet blanket, muffling the air and slowing the breath of everyone present. 
 
-[MALE] Pull the gun!  You want to be famous? Shoot me, you'll get more headlines and make more money. Emil watches Jordy...a slow grin spreads across his face.
+[NARRATOR] Outside, in the wide, cool foyer of the courthouse, the afternoon light pours through the glass doors in soft, diffused waves. Ali walks slowly toward the exit, his footsteps echoing softly against the marble floor. The distant murmurs of the press remain held far away at the far end of the hall, muffled and indistinct. He pauses near the threshold, looking out into the gentle, hazy sunlight of the afternoon, his gaze drifting into a quiet, hazy daze as the world around him slows to a gentle, unbroken stillness.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[NARRATOR] The heavy oak doors of the courtroom close softly behind him, sealing away the distant, indistinct murmurs of the press and the relentless hum of the world. In a strange, quiet motion of exhaustion and grace, he pauses near the threshold. Benumbed by the long trial and the heavy verdict, he reaches out, seeking the simplest comfort of human contact. Oddly, the only hands available to him are those of the half a dozen white Houston bailiffs who stand near the exit. One by one, in a slow, dreamlike haze, he shakes hands with each of them. The atmosphere is thick with a strange, unhurried stillness, the harsh lines of conflict dissolving into the quiet acceptance of the afternoon light.
 
-[MALE] You can't kill me.  You're not a cop. Just fireman with a gun.  I bet you never shot anybody in your life.
+[NARRATOR] Time drifts forward, folding gently over the seasons like a soft blanket of undisturbed winter snow. 
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] EXT. 79TH STREET, CHICAGO, 1968 - DUSK. 
 
-[MALE] You'll be my first. Jordy pulls out his 9mm and pushes the barrel right between Emil's eyes.
+[NARRATOR] The twilight of a freezing Chicago evening settles over the city. A hush falls over the quiet street as a gentle, continuous snowfall dusts the ground in pristine whiteness. The street lamps have flickered to life, casting a warm, amber glow against the gathering violet of the sky, while the faint murmur of slight traffic hums like a distant lullaby. He walks alone through the peaceful quiet, bundled deep in a thick car coat and a cozy hat with a hooded sweatshirt pulled up beneath it. 
 
-[NARRATOR] Emil answers in a low, calming tone:
+[NARRATOR] ECU. Beneath the brim of his hat, his gaze turns inward once again, quiet and deep, mirroring the stillness of the winter night. His heavy work boots step softly into the deep, falling snow, their prints slowly vanishing into the whiteout, melting into the vast, calming blanket of the winter evening.
 
-[MALE] C'mon.  Pull the trigger.  Do it.  Oh, look, you're sweating.  You don't have the balls.
+[NARRATOR] INT. N.O.I. BAKERY, CHICAGO - DAY. 
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[NARRATOR] A soft flashback washes over the quiet chill, shifting the scene to the warm interior of a neighborhood bakery. Outside, the world is frozen and still; inside, the air is thick with the comforting, rich aromas of freshly baked bread and dark, soothing coffee. The windows are lightly fogged with a delicate, milky steam, turning the bustling city street into a distant, blurry abstraction. 
 
-[MALE] Get down on your knees. Emil gets on his knees and starts to sing in Czech.  SIRENS fill the air.  Police cars come flying down the street.
+[NARRATOR] In the center of the warm light, a delicate white silk scarf rests in his hands. He leans leisurely across a gleaming white showcase filled with sweet baked goods. Beside him stands Belinda Boyd, not yet eighteen, tall and graceful, radiating a supremely confident, gentle warmth. 
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[MALE] Watch now...
 
-[MALE] Where's your partner?
+[NARRATOR] With slow, deliberate grace, he makes a fist, balling the soft white scarf up and tucking it deep into the hollow of his hand. 
 
-[NARRATOR] Emil whispers gently into the still air:
+[MALE] Blow on it...
 
-[MALE] The Sheraton!  On Broadway!  Room 210. Go get Oleg.  He'll kill you. Leon runs up.  Tommy's relieved to see Jordy didn't kill Emil.
+[NARRATOR] Belinda leans in close, her breath forming a tiny, warm mist as she gently blows upon his closed fingers. He opens his hand slowly. The scarf is entirely gone. With a playful expression of mock fright, his eyes go wide at the gentle magic of the moment.
 
-[NARRATOR] Leon responds with gentle reassurance:
+[MALE] This spooky! Don't get scared...
 
-[MALE] Gimme your gun, Jordy.  We all want him dead but you can't do it this way. Emil is still smiling.  Jordy suddenly slams Emil in the face.  Knocking him to the floor.  He jumps in his car and speeds away. INT. BROADWAY SHERATON - 2ND FLOOR HALLWAY - NIGHT A room service WAITER wheels a tray with a magnum bottle of Crystal, with three glasses, toward Oleg's room.  Jordy follows behind him - gun aimed at his back.
+[NARRATOR] Belinda laughs softly, the sound light and musical in the warm, cozy bakery. She looks down at his other hand, searching for the trick, but finds nothing. He makes a fist once more, tucks his thumb into the hollow, and with infinite slowness, pulls the long white scarf back out into the open air.
 
-[NARRATOR] Waiter murmurs with a warm, steady cadence:
+[FEMALE] See, you don't need to fight no more...
 
-[MALE] Do you really need me?
+[NARRATOR] He smiles warmly, handing the delicate fabric to her. She accepts it, wrapping the white silk softly around her slender neck. Ali watches her quietly, resting in the peaceful sanctuary of the steamed-up windows and the quiet afternoon.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[MALE] So what's fresh, girl?
 
-[MALE] Keep your mouth shut.  Don't mess this up. They reach the room.  Jordy flattens himself against the wall.  The waiter KNOCKS.
+[FEMALE] Everything fresh!
 
-[NARRATOR] Hooker'S Voice adds in a relaxed, peaceful voice:
+[MALE] What's the freshest of the freshest?
 
-[MALE] Who's there?
+[FEMALE] Doughnuts just came out...
 
-[NARRATOR] Waiter adds in a relaxed, peaceful voice:
+[NARRATOR] He picks up a warm, golden doughnut, holding it up with a theatrical, gentle amusement, dropping effortlessly into the booming voice of a classic ring announcer.
 
-[MALE] R-room service. A HOOKER, wrapped in a towel, opens the door a crack, looking out at the waiter.
+[MALE] 645 pounds. I'd still be pretty...but I be fat pretty...
 
-[NARRATOR] Hooker murmurs with a warm, steady cadence:
+[FEMALE] You don't remember when you met me once before...long ago...
 
-[MALE] Come in. Jordy whips around the corner - pointing his gun and pushing the hooker back out of the room.  Jordy moves to the bedroom door.  Peers through the crack.  Oleg sits on the edge of the bed in his skivvies with two naked prostitutes.  He's hooked up his videocamera to the TV set and is showing them his footage of the fire.
+[MALE] I remember something... Wha's your name?
 
-[NARRATOR] Oleg murmurs with a warm, steady cadence:
+[NARRATOR] With a playful, affectionate motion, she reaches out and gently slaps his arm.
 
-[MALE] Look at that.  See that shot!  Seamless. No cuts.  And look.  Look at that transition. That's filmmaking!!  Isn't it great?! Jordy KICKS in the door - gun raised.
+[FEMALE] You know my name! You came to my school, right before you win the title. Interviewed you for the school paper. I was eleven.
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] You had a long braid...
 
-[MALE] Don't move! Oleg grabs the videocamera.  Has on hooker in a head lock and picks up the other one.  He rushes at Jordy - using one of the hookers for protection.
+[FEMALE] Yeah! You called me little Indian girl, then.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[MALE] That was you?
 
-[MALE] Drop the girl!  Drop her!! Oleg pushes the hookers at Jordy - knocking Jordy back into the living room and over the back of the sofa.  Oleg rushes out into the
+[FEMALE] I loved you then, like all those kids. I never stopped. I still do.
 
-[NARRATOR] Hotel Hallway adds in a relaxed, peaceful voice:
+[NARRATOR] INT. NATION OF ISLAM ASSEMBLY - DAY. 
 
-[MALE] Oleg runs to the fire exit - Jordy follows, chasing Oleg down the stairwell. EXT. BROADWAY - NIGHT Oleg bursts out a door which opens onto Broadway.  He runs through the crowd - knocking pedestrians aside!  Jordy chases him, gun in hand! Oleg runs into the street, darting in and out of traffic, cars braking to a stop.  One SLAMS into another. Jordy leaps over a car, closing in on Oleg.  People gawk. Even in New York, it's odd to see a man being chased in his underwear.  Oleg runs, knocking people aside.  He's holding the camera in his hand.  It's on.
+[NARRATOR] The warm bakery memory dissolves back into the vast, quiet expanse of the assembly hall. The deep, resonant voice of Elijah Muhammad echoes softly overhead, bringing a finished cadence to the air. The regimented rows of the audience begin to break up in a slow, orderly tide. Ali moves gently through the dispersing crowd, dressed in a sharp contrast of a black suit, a white suit, and a pristine white tie, drifting like a quiet spirit through the room as Belinda approaches him, wearing pure, luminous white.
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[NARRATOR] The evening settles over the quiet Chicago streets like a heavy, velvet curtain, painted in deep shades of indigo and the soft, fading embers of dusk. The air is cool and still, carrying the distant, rhythmic hum of the city as it drifts off toward sleep. Outside the darkened bakery on Seventy-Ninth Street, the pavement glows faintly under the amber amber wash of streetlamps, casting long, peaceful shadows. Ali steps across the grey gutter, his footsteps falling with a quiet, measured grace, moving away from the empty sidewalks and into the warm, secure refuge of the Sinclair station back office. Inside, the world shrinks to the gentle hum of a refrigerator and the comforting scent of roasted coffee. Chauncey Eskridge sits waiting in the quiet room, the low lamplight catching the quiet concentration on his face. Ali enters, unbuttoning his jacket, and takes a steaming paper cup of coffee alongside a soft, sweet pastry. 
 
-[MALE] STOP!  STOP THAT MAN! A UNIFORMED COP turns as Oleg runs right into him.  Knocking him down.  Oleg beats him, takes his gun and runs into: INT. MOVIE THEATER LOBBY - CONTINUOUS Oleg, gun in hand, runs past the TICKET TAKER at the door.
+[MALE] You see the Ellis-Quarry fight?
 
-[NARRATOR] Ticket Taker speaks with a quiet, measured softness:
+[NARRATOR] Chauncey shifts slightly in his seat, the soft rustle of paper breaking the stillness of the midnight office. 
 
-[MALE] Hey, come back here! The ticket taker runs after Oleg who continues past the candy counter.  Jordy rushes in the door.
+[MALE] Yes... We'll be in front of the U.S. Court of Appeals next month. We'll lose. Then we appeal to the Supreme Court.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] Ali sips his coffee, the warmth of the cup contrasting with the cool night air outside. He looks into the distance, his voice low, melodic, and unhurried.
 
-[MALE] Where is he?  Where'd he go?
+[MALE] Ellis the champ? Man. I beatin' on him since we was sixteen. They give Ellis to Joe Frazier? Frazier'll kill him. Then they out of juice. Where's the gate? So they gotta let me fight. I fight Ellis in a phone booth...middle of Times Square...you think that draw a crowd?
 
-[NARRATOR] Ticket Taker offers quietly, watching the shadows drift across the room:
+[NARRATOR] Chauncey offers a patient, weary smile, shaking his head slightly as he watches his friend.
 
-[MALE] Middle door. Jordy continues running through the lobby - past the middle door - and enters the theater through the far door. INT. MOVIE THEATER - NIGHT Jordy enters the theater, crouches down in the aisle.  It's a night scene, the theater is dark.  Jordy tries to see faces. He cuts through a row of seats to the middle aisle.
+[MALE] Draw a crowd or not draw a crowd, Muhammad, is NOT going to make a difference with your boxing licenses. They don't want you to fight. ACLU's handling your case against the New York Boxing Commission. They discovered New York's got actual ex-murderers and ex-rapists currently licensed to fight. But revoked yours...?
 
-[NARRATOR] Drunk'S Voice speaks with a quiet, measured softness:
+[NARRATOR] Ali pauses, his brow furrowing softly in the warm light before a flicker of hope crosses his expression.
 
-[MALE] Kill him!  Kill the bastard! Jordy spins toward the voice - it's a DRUNK.  Others start YELLING for blood!
+[MALE] Tijuana?
 
-[NARRATOR] Audience whispers gently into the still air:
+[NARRATOR] Chauncey sighs, the sound soft and heavy in the quiet room.
 
-[MALE] Shoot him!  SHOOT! A GUNSHOT!  Jordy ducks!  Another GUNSHOT!  Jordy realizes the shots are coming from the screen.
+[MALE] No. State Department refused permission for the one-hour visa. No fight in Tijuana. Look...
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[NARRATOR] Ali looks away, the heavy reality of closed doors settling gently around them.
 
-[MALE] Look!  Over here! Jordy turns.  Oleg stands up and FIRES at him - trying to film Jordy's death with a videocamera. Jordy ducks, then rises up with his gun as Oleg vaults over the seats, leaping from one to the other, mashing shoulders and heads, bounding for the screen.
+[MALE] Can't fight here. Can't fight outside the country...
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[NARRATOR] Chauncey leans forward, offering an alternative that hangs softly in the quiet air of the office.
 
-[MALE] Everybody down!  Stay DOWN! Jordy FIRES as the screen villain blasts away.  Some in the audience don't realize the real thing is happening.  Oleg leaps on the stage in front of the screen, illuminated by it. Jordy runs down the aisle.  Oleg FIRES at Jordy.  Jordy FIRES back.  People panic - scurrying away - Jordy can't get a clear shot.  Oleg FIRES again, wounding a moviegoer.  Jordy raises up as the theater lights go on...and Oleg is gone! Jordy jumps on the stage - runs backstage - Oleg has disappeared.
+[MALE] I know people in the restaurant business...want to start up a chain. Muhammad Ali's "Champ Burger"... "Muhammad Malts," "Fist Full of Fries"...all of that.
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[NARRATOR] They begin to walk together toward the glass doors, stepping out toward the quiet gas pumps where the night breeze whispers through the metal overhang. Ali stops, turning to his friend with a look of genuine disbelief.
 
-[MALE] Shit! SIRENS are heard from outside.  VOICES of cops are heard as they enter.
+[MALE] Why I want to be in the restaurant business?!
 
-[NARRATOR] Close On Tv adds in a relaxed, peaceful voice:
+[NARRATOR] Chauncey answers simply, his voice a steady anchor.
 
-[MALE] A REPORTER is in Times Square, reports from outside the movie theater.
+[MALE] 'Cause you need the money.
 
-[NARRATOR] Reporter responds with gentle reassurance:
+[NARRATOR] Ali lets out a soft, breathy sigh, shaking his head.
 
-[MALE] ...and the wild chase through Times Square ended with the suspect, Oleg Razgul, escaping.  The fire department has identified the fire marshal involved in the failed pursuit as Jordy Warsaw. The channel is changed.  PETER ARNETT is reporting the same story.
+[MALE] How much all this gonna cost?
 
-[NARRATOR] Peter Arnett murmurs with a warm, steady cadence:
+[NARRATOR] Chauncey replies, the words fading gently into the ambient night.
 
-[MALE] In a related matter, Mr. Slovak's attorney, Bruce Cutler - famous for handling sensational cases - claims his client is unfit to stand trial. INT. JAIL CELL - WIDER - DAY Daphne sitting on a bench in a jail cell.  Watching TV through the bars.  She is in the fire department's holding cell in Brooklyn.
+[MALE] Too much.
 
-[NARRATOR] Peter Arnett murmurs with a warm, steady cadence:
+[NARRATOR] They move past the silent pumps under the glowing canopy, where a few late-night working men linger, their eyes recognizing the unmistakable silhouette of the champion. Chauncey pauses, watching curiously.
 
-[MALE] In fact, Cutler claimed Mr. Slovak was not the alleged mastermind behind the murders. According to Cutler, Mr. Slovak was being directed by his partner, who threatened to kill him if he didn't follow Mr. Razgul's orders.  Cutler told reporters today that Mr. Razgul did in fact stab his client. The scene CUTS TO Cutler's press conference.
+[MALE] Where you goin'?
 
-[NARRATOR] Cutler adds in a relaxed, peaceful voice:
+[NARRATOR] Ali calls out to the men, his voice carrying a cheerful, melodic warmth that lifts the chill of the evening.
 
-[MALE] My client, Mr. Slovak, is a victim. What's happened is not his fault.  Emil was under the influence of his partner. At the trial, you'll see that my client will be vindicated... INT. BELLEVUE - MENTAL OBSERVATION UNIT - DAY The CAMERA WIDENS from the TV set.  We are now in an interview room, a guard is posted outside the room.  Emil sits at a small table - with Cutler.  Emil is dressed in Bellevue clothes.  He's handcuffed and his ankle is bandaged. Emil gives a complimentary nod toward Cutler.
+[MALE] Look out!
 
-[NARRATOR] Cutler speaks with a quiet, measured softness:
+[NARRATOR] One of the working men smiles broadly, stepping forward into the light.
 
-[MALE] I brought you some letters.  It's really fan mail.  Women mostly.  One wants to buy you clothes, another sent a check. Another wants a check.
+[MALE] Hey, champ!
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[NARRATOR] Ali’s spirit instantly brightens; he bounces lightly on the balls of his feet, throwing a few playful, harmless phantom jabs into the cool night air. The men laugh, a warm, genuine sound that echoes softly against the pavement. One brave soul raises his hands to playfully match the champion, and Ali shares a series of gentle, good-natured taps before shaking each man's hand. The fleeting moment passes like a warm breeze, leaving everyone smiling in the quiet dark. Chauncey watches the ritual with quiet admiration as Ali walks away into the night, his steps light and free. Hours later, the scene shifts to the serene, dimly lit sanctuary of a Chicago apartment. Inside the bedroom, everything is draped in pure, luminous white—soft linens, pristine pillows, and the gentle glow of moonlight filtering through the windowpanes. Ali and Belinda lie close together, their hands and skin resting against the peaceful white sheets in an intimate, timeless embrace. The world outside has entirely faded away, leaving only the soft rhythm of their breathing. 
 
-[MALE] You bring the cigarettes?
+[MALE] Not then...
 
-[NARRATOR] Cutler offers quietly, watching the shadows drift across the room:
+[NARRATOR] Belinda turns her face slightly toward him, her eyes reflecting the gentle moonlight as she smiles softly in the quiet dark.
 
-[MALE] Oh, sure. Cutler shakes a cigarette out of the pack, stuffs it in Emil's mouth and lights it for him.  Emil has never smoked before.
+[FEMALE] First time? 1961...Sister Khalilah introduced you at assembly. You said you would be heavyweight champion of the world by the time you were twenty-one!
 
-[NARRATOR] Cutler offers quietly, watching the shadows drift across the room:
+[NARRATOR] Ali chuckles softly, the sound low, rich, and deeply soothing against the pillows.
 
-[MALE] How're they treating you, alright  I want to get the cuffs off... but there's a little bit of a problem. Things out there are very negative right now for us.  We gotta change that around.  Perception is very, very important.  Perception is reality.  I know you're not fuckin' crazy.  But it's important that I get that message out. Cause that's our only defense in this case. Emil leans forward.  Cutler retrieves the cigarette from between his lips.
+[MALE] I always tell the truth...
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[NARRATOR] Belinda's laughter is a quiet, musical murmur, drifting like a lullaby through the peaceful room.
 
-[MALE] I want you to focus on three things: fear... He puts the cigarette back in Emil's mouth.
+[FEMALE] I was eleven. I interviewed you for the student paper. You called me "little Indian girl," 'cause I wore my hair real...
 
-[NARRATOR] Cutler offers quietly, watching the shadows drift across the room:
+[NARRATOR] Her voice trails off into a gentle whisper, and the room settles back into a profound, restful stillness. The moonlight rests softly on the white sheets, and the quiet night wraps them both in a deep, undisturbed slumber.
 
-[MALE] ...delusions and paranoia.
+[NARRATOR] The memory drifts away on the cool midnight air, dissolving into the quiet dark of the bedroom. Outside, the night breeze rustles the sleepy leaves against the windowpane, casting soft, shifting patterns of moonlight across the floorboards. The hours tick slowly by, wrapping the world in a heavy, comforting blanket of silence. 
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[NARRATOR] Far away, beneath the golden glow of a distant streetlight, a soft melody begins to drift through the open window, carrying the gentle, haunting strains of a slide guitar. The notes linger in the heavy air like smoke, rising and falling in a slow, rhythmic lullaby. Inside a dimly lit nursery, the shadows stretch lazily across the walls, where a tiny child rests peacefully in her crib, lulled by the quiet hum of the sleeping house.
 
-[MALE] I was all of these.
+[NARRATOR] The music shifts, carrying the mind across miles and years, into a large, warm hall filled with the low, steady murmur of an eager crowd. The air is thick with anticipation and the soft amber glow of stage lights. 
 
-[NARRATOR] Cutler speaks with a quiet, measured softness:
+[MALE] There must be some kind of way outta here, said the joker to the thief.
 
-[MALE] Well, you didn't appreciate the severity of it until recently.  No question about that.
+[NARRATOR] The voice echoes softly, rhythmic and poetic, cutting through the quiet like a distant wave on a shore. 
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[MALE] There's too much confusion, I can't get no relief. Business men, they drink my wine, plowmen dig my earth, none of them along the line, know what any of it is worth.
 
-[MALE] What about Oleg?
+[NARRATOR] The applause ripples through the room like falling rain, gentle and sustained, before fading away into the hum of a small television screen glowing in the corner. The screen flickers with shades of gray and blue, casting a soft, hypnotic light across the faces of those gathered in the quiet backstage room. Outside, the faint wail of a siren rises and falls, swallowed entirely by the vast, quiet night.
 
-[NARRATOR] Cutler speaks with a quiet, measured softness:
+[NARRATOR] The scene dissolves into the shadows of a grimy, vaulted gymnasium, smelling faintly of old leather and polished wood. The air is warm and still. Overhead, a single yellow bulb casts a pool of light over the heavy wooden tables and the rows of hanging bags that sway ever so slightly in the draft. 
 
-[MALE] Disappeared.  They're looking everywhere.  Maybe he went back to Czechoslovakia.
+[MALE] No reason to get excited, the thief, he kindly spoke. There are many here among us, who feel that life is but a joke.
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] The rhythmic thud of leather striking canvas fills the cavernous space, slow and steady, like the heartbeat of the building itself. A solitary figure moves through the shadows, breathing in deep, measured strokes, lost in the heavy, comforting labor of the night. 
 
-[MALE] No, he is here.  Shit...
+[NARRATOR] The television screen flickers again, bringing the silent hum of the world into the quiet room. On the small screen, a stadium glows under a bright autumn sun, where history stands frozen in a single, silent gesture of lowered heads and raised hands. The music weaves through the images, slow and hypnotic.
 
-[NARRATOR] Cutler responds with gentle reassurance:
+[MALE] But you and I, we've been through that, and this is not our fate. So let us not talk falsely now, the hour it's getting late...
 
-[MALE] Don't worry about him.  Think about yourself.
+[NARRATOR] The images drift past like clouds across a midnight sky—faces of the past, flags waving in the breeze, the flash of a camera ring, and the quiet dignity of a champion standing alone in the ring. The music fades into a low, resonant hum, and the world grows heavier, softer, and more still, drifting further and further into a deep, unbroken sleep.
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] The afternoon sun casts long, golden amber shadows across the worn brick and quiet asphalt of a Memphis motel. A gentle, cooling breeze rustles through the leaves of nearby sycamore trees, carrying the faint, distant scent of rain and earth. Down below, standing beside the muted metal housing of a public pay phone, Chauncey Eskridge holds the receiver close to his ear, his voice calm, steady, and low, cutting softly through the stillness of the day.
 
-[MALE] What about my movie rights?  Book rights?
+[MALE] ...struck out at the appellate level in New Orleans. So we're heading back to the Supreme Court...
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[NARRATOR] Miles away, bathed in the quiet, dusty sunlight filtering through the windows of a resting gas station, the champion listens. His expression is contemplative, his breathing slow and measured, attuned to the gentle hum of the world around him.
 
-[MALE] Look, I haven't really focused on that kind of thing.
+[MALE] Thought we already got turned down there.
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] Back at the motel, the afternoon light shifts softly across the courtyard as cars drift by on the distant asphalt, their low murmurs fading into the quiet air. 
 
-[MALE] What's your cut?  How much?
+[MALE] I'm petitioning on a conscientious objection basis. Religious belief. We'll petition that your sincere religious belief prohibits you from shooting people. I believe they'll hear that...
 
-[NARRATOR] Cutler offers quietly, watching the shadows drift across the room:
+[NARRATOR] The champion pauses, watching the gentle sway of the trees outside, his mind navigating the heavy currents of uncertainty, before his deep voice breaks the quiet once more.
 
-[MALE] I would say...half.  Half is fair.
+[MALE] Where the money come from, Chauncey? Herbert tell me I'm runnin' on empty. Put aside "how do that happen"? Licenses all revoked. No passport. I can't fight here. Can't fight abroad. And what happen if I lose the Supreme Court?
 
-[NARRATOR] Emil responds with gentle reassurance:
+[NARRATOR] A soft, lingering stillness settles over the telephone wire, the wind sighing gently against the glass.
 
-[MALE] No.  No way.
+[MALE] It's all over. You go to jail for five years.
 
-[NARRATOR] Cutler answers in a low, calming tone:
+[NARRATOR] Silence stretches, deep and profound, like a heavy velvet drape falling over the afternoon. Slowly, the receiver is placed back upon its cradle. Time drifts forward, transitioning through the warm, bruised violet hues of twilight into the quiet, starlit dome of a Chicago night. High above the city streets, on a cool rooftop surrounded by the soft glow of distant skyline lights and the rhythmic, lullaby-like pulse of faraway sirens, the champion moves in the shadows. Dressed in comfortable sweatpants, he flows through the motions of shadowboxing, the cool night air brushing against his skin. Every movement is a quiet meditation, exhaling softly with each measured strike into the dark. Later, within the warm, lamplit refuge of a Jeffrey Street living room, the television screen flickers with the muted lights of a distant prizefight. The champion holds a sleeping child gently in his arms, his gaze fixed upon the canvas where others trade blows in an arena from which he has been temporarily barred.
 
-[MALE] But it's...
+[MALE] Man give him a shot, he took a shot.
 
-[NARRATOR] Emil offers quietly, watching the shadows drift across the room:
+[NARRATOR] The television announcer's voice hums low in the background like a distant brook, discussing the wear and tear of the road, the fading sharpness of old friends, and the heavy weight of titles left behind.
 
-[MALE] Thirty-percent.  No more.  Or I call another lawyer.  This is the biggest case of your life.  Don't try to negotiate.  Thirty percent.  Say yes or no.
+[MALE] How's he?
 
-[NARRATOR] Cutler offers quietly, watching the shadows drift across the room:
+[NARRATOR] The conversation drifts softly around the room, mingled with the comforting, rich aroma of freshly poured coffee. A door opens gently nearby, and a familiar voice whispers through the quiet interior.
 
-[MALE] This is not about money, Emil.  I need your trust in me.
+[FEMALE] She's got to be done with that bottle.
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] The champion remains still, cradling the warmth in his arms, wrapped in the quiet sanctuary of home as the night deepens, drifting slowly toward peaceful and unbroken rest.
 
-[MALE] What else do you need?
+[FEMALE] No, he didn't. I told them
 
-[NARRATOR] Cutler answers in a low, calming tone:
+[NARRATOR] The midnight house breathes a long, soft sigh, its wooden floors cooling beneath the weight of quiet hours. A pale sliver of moonlight slips through the drawn curtains, painting silver brushstrokes across the kitchen tiles where the shadows gather in deep, restful pools. The air carries the faint, comforting scent of lavender and old paper, settling over the rooms like a heavy, velvet blanket. 
 
-[MALE] I need to know about your background.  I need to know about your upbringing.  Why you're here.
+[FEMALE] No, he didn't. I told them about the one on the way... myself.
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] Footsteps pad softly against the floorboards, unhurried and gentle, moving toward the glowing warmth of the kitchen where the refrigerator hums a low, lulling lullaby. 
 
-[MALE] Give me another one, please. Cutler stuffs another cigarette in Emil's mouth.  Lights it.
+[MALE] You promised you'd call them.
 
-[NARRATOR] Cutler responds with gentle reassurance:
+[NARRATOR] The voice is a low murmur, worn smooth by the late hour, blending easily into the steady rhythm of the house settling in for the night. 
 
-[MALE] Tell me about yourself.  What you did as a young boy... what your parents were like.
+[MALE] I'll call 'em, I'll call 'em... May-may! It go in one end and come out the other.
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[NARRATOR] A soft gurgle rises from the bundle of blankets, a tiny, contented sigh that dissolves into the quiet sanctuary of the room, as timeless and gentle as the turning of the earth.
 
-[MALE] My father always degraded me.  Killed my self-esteem.  And my mother was blind.
+[FEMALE] You wanna try changing her, for the experience?
 
-[NARRATOR] Cutler responds with gentle reassurance:
+[NARRATOR] The warmth of shared laughter floats upward, light as dandelion seeds caught in a slow draft, warming the corners of the high-ceilinged room.
 
-[MALE] Your mother was blind?
+[MALE] You so much better at it, mama.
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] The baby is gathered into soft arms, cradled close against the quiet rhythm of a steady heart, drifting away toward sleep beneath the dim, amber glow of the wall lamp. Outside, the night stretches out endlessly across the city, a vast sea of dark, shimmering rooftops and sleeping windows. In memory, the echoes of distant arenas fade like mist over a quiet lake—the phantom roar of a half-empty Garden, the formality of applause carried away on the cool night wind.
 
-[MALE] Yeah, she went blind giving birth to me. She went to fucking black market doctor to induce me.
+[MALE] Maaan... Joe Frazier can't talk, can't up the gate, can't fill the arena. They gotta let me fight.
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[NARRATOR] The words trail off, losing their edge in the heavy, soothing stillness of the kitchen. The stillness deepens, wrapping around them like a warm fog rolling in from a tranquil ocean.
 
-[MALE] Back in the Czech Republic?
+[FEMALE] That happen, you promise me you put some new people around you.
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[NARRATOR] The tall figure pauses, stepping toward the wall where the telephone hangs silently in the dimness, its cord curled like a sleeping vine. 
 
-[MALE] Yeah, yeah...bad doctor gave her bad drugs which made her go blind.  And my father blamed me for her blindness...
+[MALE] I need Angelo, Rudy, Ferdie...
 
-[NARRATOR] Cutler speaks with a quiet, measured softness:
+[NARRATOR] A quiet pause hangs in the air, weighted with unspoken truths and the gentle shifting of loyalties. 
 
-[MALE] Your father blamed you for your mother's blindness?
+[FEMALE] Ali, she's talkin' about "Brother" Herbert.
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] The movement stops entirely. The house holds its breath. Only the faint, distant hum of a car passing far away breaks the silence, its headlights washing ghosts of light across the ceiling before fading into the dark.
 
-[MALE] Yeah, he hated me from day when I was born.  Put it out.  Can you put the cigarette out? Cutler takes the cigarette from Emil's lips and extinguishes it.
+[FEMALE] Where are they when we need them? You got Gene Kilroy droppin' off groceries like charity. Borrowin' money from my folks. So...?
 
-[NARRATOR] Emil whispers gently into the still air:
+[NARRATOR] The ticking of the clock on the wall slows down, each second stretching wider and more peaceful than the last, allowing the quiet truth to settle deep into the floorboards. Then, a voice drifts out from the invisible glow of the television set in the adjoining room, suspended in the amber dark.
 
-[MALE] That's what he did to me.  He put cigarettes out on me.
+[NARRATOR] What are your feelings about up- and-coming Ken Norton?
 
-[NARRATOR] Cutler adds in a relaxed, peaceful voice:
+[NARRATOR] Far away, in the quiet shadows of a locker room, the metallic clatter of the evening fades into the soft wash of late-night broadcasting, the waves carrying the words across miles of sleeping forests and empty highways.
 
-[MALE] Your father put cigarettes out on you?
+[MALE] Norton's big and strong, but...
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] The headset crackles softly, like dry autumn leaves brushing against a windowpane in a gentle breeze.
 
-[MALE] Out on my back when I was a small boy.
+[NARRATOR] Hold on one second... we have a caller. Go ahead.
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[NARRATOR] The voice that answers is clear and resonant, cutting through the static like a lantern lit in a misty valley.
 
-[MALE] Can I see your back? Emil rises.  Cutler comes around and pulls his shirt up.  HIS ENTIRE BACK IS COVERED WITH DISGUSTING PURPLISH WELTS FROM CIGARETTE BURNS.  Cutler recoils - horrified.
+[MALE] Cosell? This Muhammad Ali. Go to Georgia or Alabama or Sweden. Everybody know I'm the champ. The crown is a lie. I know it's a lie. Joe Frazier know it's a lie. It time for everybody to stop lying and tell the truth.
 
-[NARRATOR] Cutler adds in a relaxed, peaceful voice:
+[NARRATOR] The television screen flickers with a soft, monochromatic blue, casting long, lazy shadows across the quiet rooms of distant houses where people lie resting in the dark.
 
-[MALE] Oh, Jesus.
+[NARRATOR] Let's tell it like it is. With your court and boxing problems, Muhammad, can you get a fight promoted?
 
-[NARRATOR] Emil answers in a low, calming tone:
+[NARRATOR] A deep, unhurried breath is taken, the sound soft and steady as a tide pulling back from the shore.
 
-[MALE] I'm abused.  Don't you think?
+[MALE] I ain't interested in the paycheck, I'd fight Joe Frazier for free in a phone booth in Times Square, if I wasn't broke. I still will.
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[NARRATOR] The interviewer's voice emerges from the airwaves, smooth and inquisitive, floating through the stillness of the night.
 
-[MALE] I don't think it's abuse, I think it's torture. INT. FIRE STATION 91 - DUFFY'S OFFICE - DAY Inside the Arson Squad, Duffy sits behind his desk.  Jordy stands across the table from his Chief.  Behind Jordy we can see Garcia and Korfin outside, listening.  Duffy has a subpoena in his hand.
+[NARRATOR] Did you say you were broke? How can you be broke?
 
-[NARRATOR] Duffy adds in a relaxed, peaceful voice:
+[NARRATOR] There is a long, floating pause—a quiet moment where time seems to fold in upon itself, soft and unpressured. Miles away, in a quiet, shadowy house, a solitary figure watches the blue light of the screen illuminate the stillness.
 
-[MALE] The public doesn't have any idea what we do and now you're going to define our image!  This is going to be our Rodney King!
+[MALE] I'm saying it's time for everybody to quit lying! Muhammad Ali is the champ! I have to, I'll get the fight on myself. And if they offer me money, I ain't gonna turn it down.
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[NARRATOR] The scene shifts across the sleeping land, traveling through the quiet, darkened corridors of a secluded estate where the moonlight rests gently upon polished wood.
 
-[MALE] What was I supposed to do?  The guy tried to mug me.  I was gonna send a cop back - I just forgot.
+[NARRATOR] Get me my son, Herbert, on the telephone!
 
-[NARRATOR] Duffy murmurs with a warm, steady cadence:
+[NARRATOR] The command is swallowed by the heavy, velvet quiet, dissolving into the vast, silent spaces between the stars. Morning begins to paint the edges of the eastern sky in soft, bruised shades of lavender and pale gray, but for now, the world remains suspended in deep, undisturbed repose. In a rundown Chicago gymnasium, dust motes drift lazily downward through shafts of cool morning light. There is no crowd, no noise, no cheering throng—only the rhythmic, hypnotic *thud-thud* of a solitary fighter striking the taped-together heavy bag. 
 
-[MALE] Forgot?  You handcuffed a civilian to a tree?!
+[MALE] *(breathing slowly, rhythmically)*
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] The double left jab lands with a soft, muffled echo against the leather, keeping time with the steady pulse of the awakening city outside. Sweat beads on his brow, catching the early light like morning dew on a blade of grass. Further out, beyond the paved streets and the sleeping brick buildings, the sun crests the horizon, casting long, golden fingers across the landscape. The lone runner moves through the tall reeds at the edge of the U.S. Steel yards, his footsteps quiet and even against the damp earth. The tall grasses brush against his legs with a soothing, rustling whisper—*swish, swish, swish*—a natural metronome keeping time with his breath. The cool river breeze sweeps across the open fields, carrying the clean scent of water and damp soil, clearing the air of all lingering weight. He moves forward into the growing dawn, unburdened and free, surrounded by the vast, quiet expanse of the morning, drifting ever deeper into peace.
 
-[MALE] Chief - I know I screwed up - but this guy was no innocent civilian.
+[NARRATOR] The heavy, iron-scented air of the abandoned industrial landscape hangs thick and still, drifting outward toward the vast, silent expanse of the lakefront. The cold, open water stretches far into the gray distance, meeting a pale, indifferent sky where the twilight breathes in slow, freezing ripples. A lone figure moves along the shoreline, breathing hard against the heavy wind, fighting a quiet, losing battle with time to hold onto his fading strength. He seems terribly vulnerable out here, small beneath the immense dome of the empty sky and the deep, dark water. Far away, sheltered within the dim, lantern-lit sanctuary of the temple, the shadows pool softly against the stone walls. Elijah Muhammad stands tall at the wooden lectern, flanked by the silent, steadfast ring of the Fruit of Islam guards, their dark uniforms blending into the quiet night. Herbert stands closely behind, watching the assembly with a solemn, unblinking gaze. The air in the temple is warm, scented with frankincense and old wool, heavy with the weight of impending decree. 
 
-[NARRATOR] Duffy murmurs with a warm, steady cadence:
+[MALE] Mr. Muhammad Ali desires to do that which the Holy Qur'an teaches him against. I am, therefore, suspending Mr. Ali from the practice of Islam. He may no longer appear in temple, pray or teach, or have any conversation with any Muslim whatsoever. Furthermore...he may no longer use the name of Muhammad Ali. Henceforward, he will revert to his old slave name, Cassius Clay.
 
-[MALE] Well this is gonna end your career and probably mine.
+[NARRATOR] The words hang in the quiet air like falling lead, settling gently over the floorboards before fading into the corners of the vast room. Time slows down, stretching thin and gray, carrying the narrative far away to the sunlit kitchen of the Jeffrey Street house. The morning light streams lazily through the sheer white curtains, casting soft, checkered patterns across the worn linoleum floor where little May-may plays quietly, making a harmless, innocent mess with toys and crumbs. At the wooden table, Ali sits in absolute stillness, staring straight ahead into a deep, heavy vacancy that has never been seen in him before, a hollow silence wrapping around his shoulders like a shroud. Belinda moves gently beside him, her warm presence a quiet anchor in the suddenly chilly room.
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[FEMALE] Muhammad...?
 
-[MALE] End my career?
+[NARRATOR] Ali blinks slowly, the sound of her voice reaching him as if from underwater.
 
-[NARRATOR] Duffy responds with gentle reassurance:
+[MALE] You can't call me that no more.
 
-[MALE] How are you going to fight this?  Maybe if Oleg hadn't gotten away and you'd been on the front page, as a hero, this thing would be easier to fight.  You'd have the good to weight against the bad! It's unfortunate that I have to make decisions based upon your press coverage but there's nothing I can do!  Gimme your shield.
+[NARRATOR] Belinda looks at him, her expression a mix of fierce devotion and tender defiance, her hand resting softly on her swelling, pregnant belly.
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[FEMALE] Hell, I can't. I'm defying them by talking to you. And being with you.
 
-[MALE] But Chief?  Over this??
+[NARRATOR] The camera of the mind drifts closer, moving inward toward Ali's eyes, seeing only a distant, glazed abstraction, entirely oblivious to the warm hum of the room. Belinda speaks again, her voice a little louder, carrying across the quiet space, but he does not look at her. He remains frozen, staring past her over the Formica table where a bottle of Log Cabin syrup, a dusting of white powdered sugar, and two ceramic salt and pepper shakers sit in stark, disconnected relief—isolated, depressed, completely withdrawn from the world. The daylight shifts outside, sliding through the afternoon into the dim, claustrophobic corridors of a decaying flophouse in the heart of the city. The air in the foyer is thick with the scent of old dust, damp plaster, and forgotten years. Ali and Bingham enter with urgent, hurried steps, their boots creaking softly against the warped floorboards. The landlady hurries along right behind them, her face lined with genuine concern.
 
-[NARRATOR] Duffy answers in a low, calming tone:
+[FEMALE] Whyn't you call an ambulance or a doctor? Wouldn't let me. Said he knew you...and to call you, Mr. Ali... He's not been out for three days...
 
-[MALE] There's nothing to talk about.  Get a good lawyer.  You're suspended until your trial. Jordy sighs.  Dying inside.  He surrenders his shield.  Drops his handcuffs, his pager and his gun.  Duffy picks up the gun - looks at it.
+[NARRATOR] Ali doesn't wait. He rushes up the narrow, shadowy stairs, his long strides carrying him down the dim hallway until he reaches a scarred wooden door. He takes the key from the landlady with a sharp, impatient motion, unlocks the heavy latch, and pushes the door open. The room inside is a suffocating dump. The air smells of rotting food and something dark and acrid burned black onto the iron stove. Stretched out on the threadbare carpet, halfway into a foul, cramped bathroom, lies Bundini, shivering and sleeping off the heavy stupor of a long drunk. Bingham steps into the threshold, his voice cutting through the stale air.
 
-[NARRATOR] Duffy answers in a low, calming tone:
+[MALE] Bundini!
 
-[MALE] I know you got backup at home.  Drop it off. Jordy sighs and exits. INT. IMMIGRATION & NATURALIZATION OFFICE - DAY Jordy is talking to BILL STERN, a senior special agent.  In another office we see Daphne with two 25-year old ASSISTANT
+[BUNDINI] (opens his eyes; half sits) Watchu' doin' here? Gimme that short dog!
 
-[NARRATOR] Stern adds in a relaxed, peaceful voice:
+[NARRATOR] In that instant, all of Ali's fierce concern collapses into a sudden, bitter wave of revulsion. He detests the hollow ruin of the type Bundini now resembles. Without a word, his hand shoots out, snatching a half-empty, half-pint bottle of Old Taylor whisky from the floor, and he hurls it with all his might against the cracked plaster wall. The glass shatters violently, the amber liquid splattering in dark, jagged arcs across the peeling wallpaper.
 
-[MALE] Look, what don't you understand?  We've got a good relationship with the Czech's and the State Department doesn't want to cause an incident.
+[MALE] What's wrong with you, man?!
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[BUNDINI] Nothin' wrong with me!
 
-[MALE] But the D.A. needs her as an eyewitness!
+[NARRATOR] Breathing heavily, his chest rising and falling, Ali strides across the cramped room and violently yanks the heavy, dusty curtains apart. The harsh afternoon light floods the room in an instant, blindingly bright. Bundini throws his hands up to shield his eyes, groaning in pain against the sudden illumination.
 
-[NARRATOR] Stern offers quietly, watching the shadows drift across the room:
+[BUNDINI] What that?!!!
 
-[MALE] They've got her testimony on videotape. And even if they do take her to court immediately after she'll be extradited. The Czechs want her back.  She shot a cop!  I mean, Christ, man, what if Emil Slovak and Oleg Razgul fled to the Czech Republic?  How would you feel if the Czechs wouldn't give them back to us?! Stern looks over at Daphne sitting in another office.  Lowers his voice.
+[MALE] A mystery...d-d-d-daylight...
 
-[NARRATOR] Stern offers quietly, watching the shadows drift across the room:
+[BUNDINI] (shielding his eyes) Leave me alone!
 
-[MALE] And just between us...I was married to a redhead.  They're a jinx.  Redheads are like cross-eyed priests.  Stay away from both. Jordy gives him a look.
+[MALE] I leave you alone. You called me!
 
-[NARRATOR] Stern offers quietly, watching the shadows drift across the room:
+[BUNDINI] That were a week ago...
 
-[MALE] You want to see her - go ahead. Jordy enters the other office.  Sits next to Daphne.  The assistant U.S. Attorneys leave.
+[NARRATOR] With a sudden, forceful motion, Ali steps forward and grabs Bundini's bare arm, twisting it upward and pushing the frayed sleeve past the elbow. Bundini tries to pull his arm away, thrashing weakly, but Ali is infinitely stronger, holding him fast in an unyielding grip. The dark, ugly track marks run in long, parallel lines up and down Bundini's arm, telling a silent story of despair. Overcome by a mixture of deep sorrow and sudden, burning fury, Ali raises his hand and brings it down hard against the side of Bundini's head with a sharp, stinging slap. The sound echoes hollowly in the tiny room. A second later, his hand rises again, striking the other side with another sharp blow.
 
-[NARRATOR] Jordy responds with gentle reassurance:
+[MALE] What you shame yourself like this for, maaan...?! Why you shame yourself?!
 
-[MALE] We're gonna fight the extradition. Daphne takes Jordy's bandaged hand in hers.
+[NARRATOR] Bundini flails backward with his arms, crying out against the stinging pain, his voice cracking with exhaustion and delirium as he tries to push away the encroaching reality of the world.
 
-[NARRATOR] Daphne responds with gentle reassurance:
+[BUNDINI] Lemme alone! I'm flyin'! The Sky...
 
-[MALE] Forget about me.  You have enough problems of your own.
+[NARRATOR] The voices drift away now, losing their rough edges, softening into the dim shadows of the room. The harsh light outside mellows into a deep, indigo twilight, washing over the broken glass and the dusty floorboards, painting everything in gentle, soothing shades of gray. The air grows cool and still, settling into a quiet, heavy stillness, inviting the weary mind to let go of every burden, to drift softly away on the quiet breath of the evening, down into the deep, restorative peace of sleep.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[NARRATOR] The night outside is heavy and thick, pressing against the windows of the room with a velvet weight, casting long, indistinct shadows across the floorboards. The air inside is cool and still, settling into a deep, meditative quiet that invites the weary mind to let go of every burden. In this sanctuary of dusk, voices rise and fall like the soft rustle of dry leaves in an autumn breeze.
 
-[MALE] ...Do you really want me to forget about you?
+[MALE] Chief talk through me. I know the word!
 
-[NARRATOR] Daphne adds in a relaxed, peaceful voice:
+[MALE] You know "low." You so low, the curb look like up!
 
-[MALE] I don't want to drag you down with me.
+[MALE] Yeah? The king gotta go home to his throne! From the root to the fruit...
 
-[NARRATOR] Jordy whispers gently into the still air:
+[NARRATOR] The rhythm of the words slows, hanging in the dim air like dust motes caught in a stray beam of moonlight, drifting lazily downward.
 
-[MALE] Daphne, I... Daphne touches her finger to his lips.
+[MALE] Those rhymes is old. Forget 'em.
 
-[NARRATOR] Daphne offers quietly, watching the shadows drift across the room:
+[MALE] God don't care about you! Don't care about me! In all of everything, we mean nothin'. He don't know us. We be. And that's the onliest thing he did. And that's good 'cause that's why we free. But free ain't easy. Free is real. And realness is a motherfucker... It eats raw meat. It walk in its own shoes. It does not waver... Yeah...
 
-[MALE] Shhhh. She leans in and kisses him.  Then looks into his eyes, trying to find a smile. EXT. FEDERAL COURT HOUSE STEPS - DAY It's weeks later.  Nicolette is looking worn, tired, frazzled.  She's trying to go through her stand up.  But she's unraveling.  Not recovered from the loss of Eddie.
+[NARRATOR] A profound quiet settles over the room, as deep and undisturbed as a forest floor covered in moss. The shadows lengthen, breathing slowly with the passage of time. Then, the voice breaks, fragile and soft, weeping into the dark.
 
-[NARRATOR] Nicolette responds with gentle reassurance:
+[MALE] I sold your belt for five hundred dollars to a barber on Lenox Avenue. That's how low I did you. I'm filled with weakness and got a crazy mind. That belt say you the Heavyweight Champion of the World. Five hundred dollars and I put it into my arm. That's what I called to tell you...
 
-[MALE] ...and today with his partner who he blamed for the crimes still at large, Emil Slovak will appear in court.  His lawyer will argue that he is mentally unfit to stand trial.  Eyewitness News has also learned that later this month, Jordy Warsaw will himself be appearing in court.  He will be arraigned on charges of violating the civil rights of...Zwangen...Zwagen...
+[NARRATOR] The atmosphere grows even more still, heavy with a sorrow that feels miles away, like rain falling on distant hills.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] ...heard 'bout the Nation, all that court stuff.
 
-[MALE] Zwangendaba.
+[MALE] Yeah.
 
-[NARRATOR] Nicolette responds with gentle reassurance:
+[MALE] Forgive me, Muhammad. Take me back...
 
-[MALE] Goddamn assholes everywhere. Zwangenbobby..Zwangendaba.  I got it. I'll do it.  Shit.  Let's start again.
+[MALE] No. There's no "back" to take you to...
 
-[NARRATOR] 5-4-3-2-1... adds in a relaxed, peaceful voice:
+[NARRATOR] The steps move away, soft and measured against the floor, dissolving into the vast, quiet night. Outside, the elevated train cuts through the darkness of Chicago, carrying the weight of the city past decrepit tenements and quiet alleys where small fires flicker in steel drums, casting a warm, dying amber glow against the chill of the evening. 
 
-[MALE] She starts over. INT. JORDY'S APARTMENT - NIGHT Jordy's on the couch.  A drink in his hand, watching TV with his dog, ZACK.  Jordy's eyes are glazed.  He's drunk, his eyes are as bloodshot as Eddie's were...without his job or Daphne. His mind miles away - the dog and drink are his only comfort. As Nicolette reports , her anger seeps through her broadcast.
+The city recedes into the shadows, the buildings stretching away into perspective under a sky shifting from deep gray to midnight blue. Suddenly, the train plunges into the subterranean dark of the tunnel, rocking gently from side to side, a rhythmic, hypnotic motion that lulls the senses. 
 
-[NARRATOR] Nicolette responds with gentle reassurance:
+Inside the quiet car, thoughts drift inward, untethered and weightless.
 
-[MALE] Mr. Zwangendaba claims to be a direct descendent of the African King from whom he takes his name... Jordy's face is flashed on screen.  The phone RINGS.  Jordy picks up.
+[MALE] ...you can't do what you do best in the world. And how you feed your family? From prison? Who take care of your kids? And is Allah, is God with me?
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[NARRATOR] The rhythmic clack of the rails continues, a steady, soporific heartbeat in the dark. White and red lights flash intermittently across the windows, painting brief, fleeting strokes of brightness before dissolving back into the soothing embrace of the shadows. The train slows, and tired working men and women board quietly, ghosts in the dim light. Ali turns his face away, seeking the quiet refuge of the corner, letting the anonymity of the night wash over him like cool water.
 
-[MALE] Hello?  No comment. He hangs up.  The phone RINGS AGAIN.
+The train lurches forward once more, descending deeper into the subterranean quiet, away from the noise of the world, sliding smoothly into the profound and restorative peace of sleep.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[NARRATOR] The evening air settles softly over the asphalt parking lot, cool and still under a vast, velvety expanse of indigo sky. A gentle breeze whispers through the open windows of a parked convertible, carrying the distant, muted hum of the city like the low, rhythmic lull of ocean waves against a far shore. The ambient amber glow of distant streetlamps casts long, lazy shadows, painting the quiet night in hushed tones of gold and shadow. Stepping out into the stillness, a sudden, playful voice cuts through the gentle quiet, lighthearted and drifting on the breeze.
 
-[MALE] Hello?  No! Jordy hangs up.  Changes the channel.  He stops as Robert Hawkins' face fills the screen.  He is standing across from someone - in a park - interviewing him.
+[FEMALE] ALI (O.S.) A thousand dollars to the man who brings me Howard Cosell's toupee! Dead or alive!
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[NARRATOR] There, standing beside his gleaming automobile in the tranquil dark, is a figure draped in the comfortable quiet of the night. A familiar, distinct voice responds from the shadows, carrying the weight of a famous broadcaster's practiced cadence.
 
-[MALE] He robbed you? The ANGLE CUTS to Zwangendaba, the mugger, now dressed in a suit and tie.  Clean shaven and with a fresh haircut.  He stands in the same spot where Jordy handcuffed him to the tree.  He's appearing on "Top Story".
+[MALE] HOWARD COSELL (loud) Don't bother me. I'm a world-famous broadcaster and you're an ex-champion with diminished skills. I can't be seen with you, it would be calamitous to my reputation.
 
-[NARRATOR] Zwangendaba adds in a relaxed, peaceful voice:
+[NARRATOR] Moments drift by like drifting clouds, the world slowing down to a comforting, rhythmic pace. Later, inside the quiet intimacy of the convertible parked far away in the secluded corner of the lot, the air is thick with anticipation and the soft rustle of settling upholstery. 
 
-[MALE] That's right, I encountered him right here.  I was just askin' for change an' he whips out his big gun an' pushes me up against that tree, whereupon he takes my money and handcuffs me to it, leavin' me there all exposed... The phone RINGS again.  Jordy suddenly pulls the phone off the table and throws it through the window:
+[FEMALE] ALI Put me on, Howard.
 
-[NARRATOR] Back To Tv offers quietly, watching the shadows drift across the room:
+[MALE] HOWARD COSELL Muhammad, I'd do anything for you. But I got bosses who only give a damn about Nielsen ratings.
 
-[MALE] as the channel is changed.  A REPORTER is on TV.  Behind him is a picture of Emil.  Emil is smiling, in a shirt and tie. The reporter stands in front of the jail.
+[FEMALE] ALI I guarantee...it will be a historical and momentous night!
 
-[NARRATOR] Reporter murmurs with a warm, steady cadence:
+[NARRATOR] The scene dissolves into the warm, comforting interior of the ABC-TV studio. Soft, diffused overhead lights cast a cozy, golden sheen over the "Wide World of Sports" set, where the gentle hum of cameras and the quiet breathing of the crew blend into a soothing white noise. Sitting under the comforting lights, the conversation flows like a slow-moving river at dusk.
 
-[MALE] ...and WBAI has learned that Mr. Slovak won't have to worry about how he is going to pay for his defense.  He has received movie offers and been in conversations with numerous publishers concerning the rights to his life story.
+[FEMALE] ALI ...what Heavyweight Champion of the World? I'm not the champ. I am retired, finished, out of the game. And I ain't gonna let myself grieve and suffer none. But I know I will not fight again...
 
-[NARRATOR] Reverse Angle answers in a low, calming tone:
+[MALE] HOWARD COSELL I thought you were resolute in your resolve to regain your crown...
 
-[MALE] Oleg is at a bar watching TV.  Poisoned with envy. INT. JORDY'S BEDROOM - NEXT MORNING Jordy stands in front of the mirror over the dresser.  We see the TV overturned in the b.g.  His back up gun is on it.  He stares at it.  Dark thoughts dancing in his head. EXT. BATTERY PARK - DAY Jordy sits in a taxi, wearing sunglasses.  Looking inside the park where a POLICE BARRICADE surrounds a POLICE TUGBOAT. Cutler and Emil are arriving - Emil is being transferred to Rykers Island.  Jordy pulls his .38 out of his ankle holster and sticks it in his pocket.
+[NARRATOR] A peaceful pause hangs in the studio air, heavy and restful, like a deep breath before sleep.
 
-[NARRATOR] Close On Meter responds with gentle reassurance:
+[FEMALE] ALI If tomorrow they say: "We want you to fight Joe Frazier. Madison Square Garden. Millions and millionses of dollars. Here's your license back." I will tell them: "I am sorry, but I am done."
 
-[MALE] to $42.00.  The TAXI DRIVER looks in the rearview mirror.
+[MALE] HOWARD COSELL What about Frazier?
 
-[NARRATOR] Taxi Driver offers quietly, watching the shadows drift across the room:
+[FEMALE] ALI You'll have to wonder...what me and Smokin' Joe would have looked like.
 
-[MALE] I can't believe this guy got off. Unbelievable. Jordy takes out money.  All he's got is fifty bucks and he crams it into the slot.
+[MALE] HOWARD COSELL You surprise me, Muhammad...
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[FEMALE] ALI Howard, you losing your hearing along with your hair? Don't put questions to it! I am through fighting. 'Cause I got a bigger and more important match comin' up. The U.S. government. A heavier contender.
 
-[MALE] Whatever's leftover, keep. Jordy exits the cab.  The anger rising inside his body is coming to a boiling point.  He walks into the park.  Leon is sitting on a bench.  Just sitting there.  Also filled with rage and frustration.  Jordy meets his eyes.  Leon gets up and walks away.  Disgusted by it all.  Jordy's right hand grips the gun inside his pocket as he walks on.
+[MALE] HOWARD COSELL Do you think you're going to jail?
 
-[NARRATOR] High Wide Shot murmurs with a warm, steady cadence:
+[FEMALE] ALI I don't know, but it's going to be a shocking and terrible fight. In fact, they might wish they let me stay in boxing.
 
-[MALE] Many policemen are trying to control a swarm of reporters. All are waiting for Emil.  WE SEE:
+[MALE] HOWARD COSELL Joe Frazier told me on this show he would knock you out.
 
-[NARRATOR] Hawkins answers in a low, calming tone:
+[FEMALE] ALI There you go, agitatin'. You ask Smokin' Joe what he been smokin'?! Joe Frazier even dream he can whup me? He better wake up and apologize... But, if I WAS to jump in the ring with Joe, here's what you might see...
 
-[MALE] and his camera crew, and, not far from him - frustrated and frazzled, waits Nicolette.  Still grieving her loss, she looks over at Hawkins and his crew.  She shoots him a disgusted look - Hawkins shrugs it off.  He checks his watch - anxious - looks at his cameraman.
+[NARRATOR] The voice takes on a rhythmic, hypnotic cadence, swaying gently like a cradle rocking in the quiet dark, washing over the listener with the smooth, hypnotic flow of a lullaby.
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[FEMALE] ALI Ali comes out to meet Frazier, but Frazier starts to retreat; If Frazier goes back an inch farther, he'll wind up in a ringside seat; Ali swings with a left, Ali swings with a right. Frazier keeps backin', but there's not enough room. It a matter of time before Ali lowers the boom; Now Ali lands with a right, what a beautiful swing, But the punch lifts Frazier clean out of the ring. Frazier's still risin', but the referee wears a frown, 'Cause he can't start countin' 'til Frazier come down. And Frazier's disappeared from view. And the crowd is getting frantic. Then our radar stations pick him up. He's somewhere over the Atlantic. Who would have thought
 
-[MALE] He said he'd be here.  Pick him up as he comes through the crowd.  Do you hear me?  For Chrissakes don't miss this.
+[NARRATOR] The broadcast studio drifts away, dissolving into a warm, amber haze of laughter and fading applause. The microphone hums a low, comforting note, anchoring the room in stillness. 
 
-[NARRATOR] The Police Van Pulls Up whispers gently into the still air:
+[ALI] But don't wait for the fight. 'Cause it ain't never gonna happen. You only can wonder and imagine...
 
-[MALE] Cutler's car behind it.  Emil - handcuffed - is unloaded from the van.  Reporters swarm forward - Cutler gets out of his car, hurrying up, taking his place alongside Emil and the POLICE ESCORTS.  The swarm follows - firing questions at Cutler.  He answers the barrage of questions with:
+[NARRATOR] The sound of distant telephones ringing in the master control booth fades softly, like the gentle chiming of bells carried away on a summer breeze. The air grows quiet, settling into the warm, drowsy light of a sunlit afternoon outside a modest frame house in Louisville. The afternoon breeze carries the scent of fresh paint and sun-warmed wood. Cassius Clay, Senior, sits upon a weathered wooden crate, a brush in his hand, quietly applying a coat of paint to the door of a delivery truck. The rhythmic stroke of the brush is slow and hypnotic. He pauses, looking up, and there, bathed in the soft golden rays of the southern sun, stands his son. Emotion wells up silently in both men. The younger rebel, standing face-to-face with the man who shaped him, the older hep-cat whose fierce spirit and unfulfilled dreams live on in the champion before him. 
 
-[NARRATOR] Cutler whispers gently into the still air:
+[CASSIUS CLAY, SR.] I don't drink no more. You wanna fight?
 
-[MALE] ...my client was suffering from a major illness of schizophrenic nature wherein during times of intense stress, as a result of paranoid and psychotic delusions - there was impairment of his ability to appreciate wrongfullness... This is a victory for the mentally ill! Jordy walks alongside the moving mass.  His eyes focused on Emil - his hand in his pocket.  We notice in the crowd Max, the celebrity-crazed pyromaniac.  What's he doing here? Max's hand is also stuck deeply in his pocket.  A weird gleam in his eye.  We see Korfin in the group, speaking to other cops.  Nicolette and her camera crew are vying for their place in the mass.  She watches Emil with quiet rage.  Cutler continues:
+[ALI] I don't wanna fight no more. Not with you...
 
-[NARRATOR] Cutler answers in a low, calming tone:
+[NARRATOR] They step into a long, quiet embrace, the warmth of the sun wrapping around them like a heavy, comforting quilt. From the doorway, Odessa watches, her heart full, bathed in the tranquil hush of the afternoon. The scene shifts, drifting north on a gentle current of time, arriving on the wide, bustling pavements of Broad Street in Philadelphia. The autumn air is crisp, carrying the scent of fallen leaves and distant rain. Ali stands quietly on a sun-dappled street corner, wearing dark sunglasses, almost invisible in the gentle rhythm of the city. Suddenly, a magnificent gold Cadillac glides up to the curb, catching the afternoon sunlight in a flash of brilliant metal. Joe Frazier steps out, resplendent in a lemon-yellow cowboy outfit, a broad Stetson hat casting a soft shadow over his eyes, and bright striped pants. Ali stares in utter disbelief, a slow, amused smile breaking through.
 
-[MALE] ...before Emil boards the police boat and heads for Rykers Island where he will be checked into the psyche ward, I want to say one last word to you all... As you know, Emil was coerced by Oleg Razgul into committing these murders, yet Oleg is still out in the street, a free man, filming gruesome murders... My client and I hope he is brought to justice in the near future. They are through the monuments, approaching the steps when Jordy passes a distracted Hawkins - who's checking his watch obsessively.
+[ALI] Who dress you, Joe? You look like Dale Evans.
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[FRAZIER] Shut up. Get in.
 
-[MALE] Where the hell is he?  Goddamn it?! Jordy glares at Emil.  Emil looks back at Jordy, gloating. Smiles.  He won.  He beat the system.  Jordy suddenly erupts.
+[NARRATOR] Ali slides into the plush passenger seat, and the Cadillac purrs to life, pulling away into the steady, hypnotic flow of traffic. Frazier sits sideways, steering effortlessly with a single finger while the radio murmurs the rich, soulful tones of Isaac Hayes, wrapping the car in a cocoon of warm, rhythmic sound.
 
-[NARRATOR] Jordy murmurs with a warm, steady cadence:
+[FRAZIER] What the hell you in Philly for? Philly my town.
 
-[MALE] You think this is funny??  What the hell are you laughing at? Emil stares down Jordy.  Jordy grips the gun inside the jacket.
+[ALI] To be closer to you, honey.
 
-[NARRATOR] Cutler speaks with a quiet, measured softness:
+[FRAZIER] Fuck you.
 
-[MALE] Officer, keep this man back, he's assaulted my client on previous occasions. A PATROLMAN blocks Jordy from Emil.
+[ALI] There be two undefeated heavyweight champions! And they ain't fighting!
 
-[NARRATOR] Jordy speaks with a quiet, measured softness:
+[FRAZIER] I wanna fight you! Said it a hundred times. The Man won't let you fight no more. What you complainin' to me for?
 
-[MALE] This is it?  This bastard kills the best cop this city ever had and we do nothing?
+[ALI] 'Cause you gotta get behind this and we gotta do this.
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[NARRATOR] Frazier’s foot presses down, and the car screeches to a gentle halt in the middle of Columbia Avenue, surrounded by the peaceful hum of the afternoon.
 
-[MALE] You may not like it marshal, but that's the law.
+[FRAZIER] We..."gotta" do nothin'!!!
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[ALI] You wanna get this on, Joe? You and me? Or not?!
 
-[MALE] And what about the other victims??  What about their families?  He'll end up in some country club nuthouse while his lawyer sells his rights to the movies and we just stand here and do nothing? We let this scumbag walk? Jordy moves past the officer.  Emil breaks away from Cutler. Gets in Jordy's face.  Laughs quietly.
+[FRAZIER] What about your license?
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[ALI] I can fight in Atlanta.
 
-[MALE] Be careful.  I can kill you.  I'm insane. Jordy shoves Emil into Cutler.  A scuffle breaks out as the cops separate the two - pulling Jordy back as we cut to:
+[FRAZIER] How's that? What about the Boxing Commission?
 
-[NARRATOR] A Video Pov speaks with a quiet, measured softness:
+[ALI] Georgia ain't got no state boxing commission. And Atlanta got a black city council; a liberal Jewish mayor, Sam something. It all set. I do a prelim in Atlanta with Jerry Quarry. But we got to get the steamroller movin' now.
 
-[MALE] as it approaches Hawkins from behind.  A hand dips into frame tapping Hawkins on the shoulder.  Hawkins turns - sees who he's been waiting for.  His face lights up.
+[FRAZIER] What I got to do?
 
-[NARRATOR] Hawkins whispers gently into the still air:
+[ALI] You announce that if I beat Quarry you give me the title shot. So what you say...maaan?
 
-[MALE] I thought you wouldn't show up.  Where is it?  Where is the tape?
+[NARRATOR] The Cadillac rolls forward, coming to a soft stop in front of a newly renovated duplex nestled in the quiet shadows of the North Philadelphia ghetto. The afternoon shadows lengthen, painting the pavement in peaceful shades of violet and gray. Frazier looks out across the street, his voice dropping to a low, steady murmur, heavy with the weight of memory.
 
-[NARRATOR] It'S Oleg offers quietly, watching the shadows drift across the room:
+[FRAZIER] My daddy was a sharecropper. I worked in a slaughterhouse...right on that corner. I came up from nothing. What I got, I...
 
-[MALE] In disguise - sunglasses and a hat.  Holding his videocamera.
+[NARRATOR] The heavy car moves softly forward through the darkening evening, its tires hissing against the quiet pavement. Frazier keeps his eyes fixed straight ahead, his hands resting easily upon the wheel, the tension of the city fading into the steady hum of the engine.
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[MALE] I got with this. And I already got the title. So I got nothing to win and everything to lose.
 
-[MALE] It's all in here.  All in here.
+[NARRATOR] Ali sits quietly beside him, the ambient streetlights casting gentle, flickering shadows across the dashboard, illuminating the soft dust motes suspended in the warm cabin air.
 
-[NARRATOR] Meanwhile Jordy murmurs with a warm, steady cadence:
+[FEMALE] But you know you ain't the champ yet.
 
-[MALE] has been separated from Cutler and Emil as Hawkins' voice cuts above the din of the crowd, announcing excitedly:
+[NARRATOR] Frazier glances sideways for a brief moment, a faint, knowing shadow of a smile touching the corners of his mouth.
 
-[NARRATOR] Hawkins offers quietly, watching the shadows drift across the room:
+[MALE] Yeah... "yet." All right. You beat Quarry, I'll get inna ring and...
 
-[MALE] Wait a minute, Bruce!  We've got some interesting evidence, something you should look at! Reporters turn as Hawkins speaks.  His crew is taping as he continues introducing his broadcast:
+[NARRATOR] The car accelerates smoothly, swallowing the miles in a quiet rhythm. After a long, restorative silence, the city lights blur past the windows, and Frazier speaks again, his voice dropping to a softer, more rhythmic murmur, carrying the gentle cadence of an unspoken kinship.
 
-[NARRATOR] Hawkins murmurs with a warm, steady cadence:
+[MALE] You need any money or anything to tide you by...?
 
-[MALE] I have exclusive rights to the ORIGINAL UNCUT videotape shot by Oleg Razgul, proving Emil Slovak was not insane! Hard to believe...watch! Reporters swing their cameras over as Oleg holds his videocamera up in the air.
+[NARRATOR] Ali turns his gaze softly toward the passenger window, watching the calm, nocturnal architecture drift away into the soothing velvet of the night.
 
-[NARRATOR] Oleg responds with gentle reassurance:
+[FEMALE] I'm fine. Thanks.
 
-[MALE] He knew exactly what he was doing - all of this was planned!  It's all here in my movie.  Emil is not insane.  Look. Look! Oleg PLAYS his videocamera as lenses focus, we see excerpts of the moment where Emil explains to Eddie:
+[NARRATOR] With a gentle, reassuring gesture, Ali rests a hand upon Frazier’s shoulder, a silent seal of understanding between two warriors resting beneath the peaceful canopy of the midnight sky. Days later, within the warm, cavernous stillness of the Fifth Street Gym, the afternoon light streams through tall, dust-filmed windows in long, golden beams. The air is thick with the scent of leather, liniment, and quiet exertion. Ali stands in the center of the ring, his breath coming in a steady, rhythmic cadence. Sweat pours profusely from his brow, darkening the soft gray fabric of his sweatsuit, dripping slowly down his face, blurring his vision through the protective webbing of his headgear. Photographers crouch quietly in the corners, their lenses clicking softly like the ticking of an old clock, while Angelo Dundee and the training camp observe in respectful, expectant silence. From the deep shadows near the heavy wooden entrance, a solitary figure steps cautiously through the door. It is Bundini, thin and stooped, carrying the quiet gravity of a long and winding road. He stands hesitant at the edge of the canvas, bracing himself against the familiar fear of rejection, his eyes clear and searching. Angelo Dundee steps close, wiping the condensation from the ropes.
 
-[NARRATOR] Emil whispers gently into the still air:
+[MALE] Weight's comin' down. 222.
 
-[MALE] ...so we kill someone famous and if we are caught, we are sent to mental hospital...
+[NARRATOR] Ali moves with languid, deliberate grace along the ropes, lowering his gaze to look down at the frail figure waiting below. The gym grows impossibly quiet, the only sound being the distant, muffled murmur of the city outside.
 
-[NARRATOR] Cutler murmurs with a warm, steady cadence:
+[MALE] What you want?
 
-[MALE] Officers, there's your killer, do your duty, arrest him! The police are attempting to get to Oleg, but a sea of reporters separate them.  We hear the staccato calls from the press corps.  Nicolette looks on in amazed outrage.  Jordy notices and starts moving towards her.  Before the POLICE CAPTAIN in charge of the detail can react, the rage which killed Milos, Tamina and Honey wells up inside Emil.  He yells at Oleg!
+[NARRATOR] Bundini looks up, his voice steady, carrying the quiet, haunting plea of a man seeking sanctuary.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[MALE] Take me back, boss.
 
-[MALE] Traitor!!
+[NARRATOR] Ali maintains his stoic posture, the golden light catching the sheen of perspiration on his shoulders.
 
-[NARRATOR] Oleg answers in a low, calming tone:
+[MALE] You want me to take you back?
 
-[MALE] No.  You are the traitor.  You are murderer.  I am director.  Action! Oleg pulls his gun.  Emil pulls Cutler in front of him as: BANG! Oleg FIRES!  Cutler is SHOT and goes down.  Hawkins swings his camera over to Oleg - filming the would-be assassin. Oleg FIRES off another SHOT - hitting the COURT OFFICER escorting Emil.  Emil grabs the down officer's gun.  He swivels - rapid fires at Oleg.  Oleg topples.  People are screaming.  It's CHAOS. Emil darts forward - grabbing Nicolette who is closes to him. He puts his handcuffed arms over her head - points the gun at her head.
+[NARRATOR] Bundini inhales slowly, the years of wandering resting gently upon his shoulders.
 
-[NARRATOR] Captain offers quietly, watching the shadows drift across the room:
+[MALE] I'm clean. And you a resurrection. This is God's act. Anybody love poor people and little people and fucked-up people gotta be a prophet. And the prophet is going home. You the sun. Let me live in the light. Take me with, boss. I'll do anything.
 
-[MALE] Drop the gun!  DON'T SHOOT!
+[NARRATOR] Ali stands suspended in the warm, ambient glow of the gym, considering the man before him—a tapestry of grand illusion, hidden wisdom, and deep, enduring loyalty. The silence stretches, soft and deep, before Ali speaks in a voice scarcely louder than the gentle draft moving through the room.
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] You can't hit what you can't see.
 
-[MALE] I'll kill her!  Back off!  Everyone back away from me! We hear Jordy's voice above Emil.
+[NARRATOR] Bundini’s face softens, a spark of ancient life returning to his eyes as the familiar rhythm takes hold of him once more.
 
-[NARRATOR] Jordy whispers gently into the still air:
+[MALE] Float like a butterfly, sting like a bee.
 
-[MALE] Let her go.  Let her fucking go!! The captain is screaming at all his men.
+[NARRATOR] They look deeply into one another, bridging the vast distances of time and absence, speaking the sacred incantation together as the afternoon light embraces them both.
 
-[NARRATOR] Captain speaks with a quiet, measured softness:
+[MALE] Rumble, young man, rumble!
 
-[MALE] No one shoot!  Lower your weapons!  Do not fire!  No officer will fire his weapon unless I say so!  Let the woman go! Cops reluctantly lower their weapons.  But Jordy is still aiming his gun at Emil.  He is the only one who hasn't lowered his gun.  The captain is yelling at him.
+[NARRATOR] The scene shifts seamlessly into the vast, amber-lit expanse of the City Auditorium in Atlanta, where the night hums with anticipation. The second round of the fight unfolds in a blur of motion and shadow. Quarry presses forward, backing Ali against the taut, vibrating ropes. With a swift, fluid motion, Ali shoughs him off, his feet dancing upon the canvas like falling leaves upon a quiet stream. Quarry lunges forward again, throwing a flurry of heavy blows. Ali leans back, swaying effortlessly out of the arc of danger, and launches a lightning-fast jab that catches Quarry cleanly over the right eye. Quarry pauses, shaking his head to clear the sudden fog, reorganizing his stance before throwing a double jab and a heavy right to the body. He follows with a sweeping left hook, but Ali intercepts it, tying him up in a brief, comforting embrace of kinetic stillness. The referee steps between them, parting the fighters with a gentle wave of his hands. Quarry rushes in once more, desperate and relentless. But Ali is already floating away, ducking beneath a heavy right cross with effortless grace, before snapping two rapid, glancing jabs into the exact same spot above Quarry's eye, parting the skin like a silent whisper. The bell rings, echoing through the cavernous hall, marking the end of the second round. Instantly, the crowd erupts into a thunderous, unified roar—a swelling wave of Atlanta’s black elite and scattered onlookers, their voices blending into a single, continuous hymn of adoration, chanting the name of their defiant champion, their warrior saint, beneath the warm, protective glow of the arena lights.
 
-[NARRATOR] Captain adds in a relaxed, peaceful voice:
+[NARRATOR] The heavy canvas of the arena floor absorbs the dull, rhythmic thud of waiting feet, while high above, the warm amber halos of the stadium lights cast long, somber shadows across the canvas. In the quiet dimness of the corner, the champion closes his eyes against the rising roar of the multitude, drawing in a long, cool breath through his nose, feeling the night air settle deep within his chest, and blowing it out in a slow, tranquil sigh. Angelo’s hands move with practiced, soothing grace, smoothing cool Vaseline over skin that feels as calm as still water beneath the gathering night. 
 
-[MALE] Holster your weapons!  Back away.  That is an order!  No officers will fire! Emil is screaming back at the captain as Jordy screams at Emil.
+[MALE] You the man! You Superman! Ain't no kryptonite in this ring tonight!
 
-[NARRATOR] Emil murmurs with a warm, steady cadence:
+[NARRATOR] The bronze chime of the bell rings out across the stillness, a solitary, echoing note that dissolves into the heavy, humid air of the third round. The world narrows to the rhythm of breath and heartbeat, the sweet science moving in slow, measured sweeps beneath the dimmed chandeliers of the ceiling. A feint, a whisper of motion, and the glove traces a quiet arc through the quiet air. The referee steps between them, raising a hand in the dimness, and the arena dissolves into a rolling wave of distant celebration, a warm, murmuring sea of sound. The champion raises his arms in a quiet gesture of triumph, the shadows stretching long and peaceful across the mat. He looks upon his adversary, seeing the deep fatigue mirrored in his own bones, and steps forward. In the quiet center of the ring, the two men lean into one another, their arms interlocking in a silent, unspoken truce beneath the soft glare of the overhead lights. They are an island in the dark, two solitary souls wrapped in the quiet stillness of the midnight hour. Then the corner erupts; Angelo’s arms lift him up, and Bundini’s laughter echoes softly against the rafters, a warm, familiar tide carrying him toward the quiet shelter of the back rooms. Hours later, the deep quiet of the night settles over the dressing room, the air thick with the scent of liniment and cooling skin. Pacheco moves quietly, a soft rustle of cloth and tape, checking the hands that fought the world and won. Belinda steps through the shadows, her embrace deep and enduring, a gentle harbor from the storm outside. The heavy door swings open with a faint, whispering creak, and Herbert steps into the dimness, flanked by the silent, steady presence of the Nation's men. Belinda’s voice is a low, protective murmur against the quiet.
 
-[MALE] Tell him to put his gun down!
+[FEMALE] ...you don't need their management...
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[NARRATOR] The champion gives her hand a slow, reassuring squeeze, feeling the steady warmth of her fingers, before looking up into the shadows where Herbert stands, his expression tight with the nervous weight of the midnight hour.
 
-[MALE] Let her go!  Let her go!!
+[MALE] As-Saalam Alaikum...Brother Muhammad...
 
-[NARRATOR] Emil speaks with a quiet, measured softness:
+[NARRATOR] The champion pauses, letting the silence settle like falling dust before his voice drifts out, soft as a drifting feather in the empty room.
 
-[MALE] If he doesn't lower his gun I'll fucking kill her. Jordy doesn't lower his gun.  Emil tries to back away.  The reporters - who have ducked and covered - are still keeping their lenses pointed at the scene.  This is great film! Jordy follows after Emil - his gun raised.
+[MALE] All praise to Allah... Alaikum Salaam...
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[NARRATOR] The people in the room drift backward into the shadows, leaving a wide, quiet space of empty air between the two men. Herbert’s face catches the dim lamplight, a faint, nervous smile trying to break through the tension.
 
-[MALE] Let her go.
+[MALE] The Messenger has lifted the suspension, Muhammad. Congratulations.
 
-[NARRATOR] Nicolette offers quietly, watching the shadows drift across the room:
+[NARRATOR] The champion leans back against the cool leather of the chair, his gaze steady and deep, untroubled by the shifting currents of the room.
 
-[MALE] Shoot!  Shoot him!!
+[MALE] You saying I can be a Muslim again, Herbert?
 
-[NARRATOR] Emil adds in a relaxed, peaceful voice:
+[MALE] Yes.
 
-[MALE] Shut up! Meanwhile, the captain is still yelling:
+[NARRATOR] The word hangs in the quiet air, light as a drifting leaf, before the champion answers, his voice barely above a whisper, cold and clear as mountain water.
 
-[NARRATOR] Captain responds with gentle reassurance:
+[MALE] I never stopped. Like I never stopped being champ.
 
-[MALE] No on shoot!  No one shoot!!  No officer will follow.  No officer will shoot! Nicolette is still encouraging Jordy.
+[MALE] I begged my father to reinstate you.
 
-[NARRATOR] Nicolette whispers gently into the still air:
+[NARRATOR] The champion tilts his head, watching the dust motes dance in the amber light.
 
-[MALE] Shoot!  Shoot!  Shoot him!!
+[MALE] When? After I promoted Quarry fight? After I won it?
 
-[NARRATOR] Emil answers in a low, calming tone:
+[MALE] We can get you Frazier.
 
-[MALE] Shut up! Everyone is screaming at once.  It's mass chaos.  The captain is trying to keep everyone calm.  Cops following along with their weapons lowered.  All except Jordy - his gun still pointed at Emil. Hawkins can't believe what footage he's getting.  He's pushing his cameraman to the front of the pack.  Trying to get the best coverage.
+[NARRATOR] A slow, tranquil smile touches the edges of the champion's lips, untouched by bitterness.
 
-[NARRATOR] Emil responds with gentle reassurance:
+[MALE] I already got Frazier.
 
-[MALE] I'll surrender!! I'll surrender if he lowers his gun. He's pointing at Jordy but he's continuing to back away towards the police boat.
+[MALE] We can get you five million dollars for Frazier.
 
-[NARRATOR] Nicolette adds in a relaxed, peaceful voice:
+[NARRATOR] The champion lets his eyes wander over the faces in the shadows, his voice a low, rhythmic current carrying the weight of a thousand quiet truths.
 
-[MALE] Don't.  Don't let him surrender.  Shoot him! Jordy won't take his gun off him.
+[MALE] Are we talking management, talking money or talking religion?
 
-[NARRATOR] Jordy adds in a relaxed, peaceful voice:
+[MALE] When you...
 
-[MALE] Let her go.  Let her go. The captain is yelling at Jordy.
+[NARRATOR] The champion's hand rises, a gentle, stopping motion in the quiet air.
 
-[NARRATOR] Captain murmurs with a warm, steady cadence:
+[MALE] When I got leery and talked up how come I'm broke, then came the suspension. Now, you explain that to me, my brother...?
 
-[MALE] Lower your weapon.  I told you - lower your weapon! Jordy struggles to get a clean shot at Emil.  He can't.  His heart pounding.  Adrenaline pumping.  He suddenly lowers his weapon.  Turns away.  The captain visibly relaxes.  Emil laughs.  Jordy suddenly turns back.  Quickly raises his weapon.
+[MALE] It's my father...
 
-[NARRATOR] Jordy Shoots adds in a relaxed, peaceful voice:
+[NARRATOR] The champion reaches out, his heavy hand resting with surprising gentleness upon Herbert’s shoulder, anchoring him in the stillness of the room.
 
-[MALE] Emil takes a shot in the leg.  Nicolette ducks under the handcuffs and scurries away.  Emil looks at Jordy - surprised he shot him.  Jordy FIRES AGAIN.  Emil is hit in the shoulder.  Jordy marches forward, EMPTYING HIS CLIP in Emil's chest.  Abdomen.  Head.  Gun fire echoes in the humid air as Emil stumbles back.  Does a funny dance and drops to the ground.  Dead.  The captain yells.
+[MALE] I love the Nation, Herbert. I love Elijah Muhammad. But it don't own me.
 
-[NARRATOR] Captain answers in a low, calming tone:
+[NARRATOR] Herbert stands frozen, realizing the iron beneath the velvet, the immovable peace of a man who knows his own path through the dark.
 
-[MALE] I told you not to shoot!  No officers should shoot. Jordy quietly answers:
+[MALE] Now, you go on out. And you make the Frazier deal.
 
-[NARRATOR] Jordy offers quietly, watching the shadows drift across the room:
+[NARRATOR] The unexpected softness of the concession hangs in the air, surprising the visitor and drawing a quiet, frustrated sigh from the shadows where Belinda stands. Herbert takes a step forward, his hand raised.
 
-[MALE] I'm not a cop.  I'm a fire marshal.
+[MALE] My brother!
 
-[NARRATOR] Hawkins whispers gently into the still air:
+[NARRATOR] The champion raises a single finger, keeping the distance between them vast and peaceful, the quiet master of his own destiny beneath the waning lights of the night.
 
-[MALE] He's still alive. Hawkins looks down at Oleg.  He is sprawled on the ground. His videocamera in hand - he's still making the movie.
+[NARRATOR] The evening settles in deep and slow, wrapping the quiet rooms in a velvet blanket of dusk. 
 
-[NARRATOR] Oleg'S Video Pov murmurs with a warm, steady cadence:
+[MALE] You b-b-becoming a Christian? Forgive and forget?
 
-[MALE] as it ZOOMS from the Statue of Liberty and PANS to Oleg.  He looks in the lens with his dying eyes, gasps:
+[NARRATOR] A frustrated, breathless sigh drifts from the dim corners where shadows pool quietly against the wall. Belinda stands still as the night air, containing the fierce tide of her own fury, watching the silence stretch thin. Ali meets her gaze with an open, unblinking calm, holding the space between them before turning softly to dress in the dim, cooling light. 
 
-[NARRATOR] Oleg responds with gentle reassurance:
+Time drifts onward, carrying the world into the late afternoon glow of a grand dining hall. Long wooden tables stretch beneath high, vaulted ceilings, laden with the comforting warmth of evening dinner. The air is thick with the rich, savory aromas of slow-cooked feasts and the gentle murmur of beloved company. New twin babies rest safely nearby, their soft breathing rising and falling in perfect, hypnotic rhythm. All around the tables sit Maryum, Dundee, Pacheco, Cassius Senior, Sarria, and the quiet circle of a loyal entourage. 
 
-[MALE] A film...by Oleg Razgul. And Oleg dies but suddenly his eyes pop WIDE OPEN.  Hawkins jumps back, Oleg smiles, coughing in pain.
+Above the kitchen counter, a large, hand-painted sign sways gently in the warm draft, bearing the lighthearted wisdom of Lana Shabazz's Ten Commandments. 
 
-[NARRATOR] Oleg whispers gently into the still air:
+[NARRATOR] A telephone rings softly against the backdrop of murmurs and clinking silver. Lana Shabazz answers the receiver with practiced calm, then carries it across the room to Ali. 
 
-[MALE] How was that? Oleg's head rolls to one side.  Now dead.  Nicolette runs over to Jordy.  Composing herself.  Coming together.  Glad Emil is dead.  Jordy starts to walk away.
+Ali sits comfortably, cradling one of the newborn twins in the crook of his arm, feeding her a bottle with infinite tenderness while taking a quiet sip of his own drink. Far away, yet connected through the invisible wires of the evening broadcast, Howard Cosell's voice hums softly from the television screen of the ABC Wide World of Sports set.
 
-[NARRATOR] Nicolette whispers gently into the still air:
+[MALE] Muhammad, you T.K.O.'ed 'em...
 
-[MALE] Wait a minute.  Where are you going? Learn from Eddie.  Talk to the court of public opinion.  Take the credit, you need it. She turns him around.  Straightens his tie.  Starts to push the hair out of his face but he stops her hand.
+[NARRATOR] Ali tilts his head, a gentle, quizzical curiosity softening his features.
 
-[NARRATOR] Jordy answers in a low, calming tone:
+[MALE] What are you talking about, Howard? Quarry?
 
-[MALE] No thanks. Jordy puts something in her hand.  She looks down.  It's EDDIE'S BADGE.  The one Jordy took out of Daphne's bathroom. She looks up at him.  Her cameraman rolling.  The lens pointed at Jordy.  Jordy looks at Nicolette.  Meets her eyes. He doesn't want to make a statement.  He still doesn't want the fame.  He did learn from Eddie.  Eddie was killed because he was a celebrity.  Jordy wants no part of it.
+[NARRATOR] Cosell adjusts his glasses, reading from the parchment before him with measured gravity.
 
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
+[MALE] No. "The Supreme Court ruled today in the case of the United States versus Cassius Clay, a-k-a Muhammad Ali..." You won an eight-zero unanimous decision. You're free.
 
-[MALE] Cut. Her cameraman lowers his leans.  Jordy smiles.  She nods. Jordy turns and walks away.
+[NARRATOR] The news settles over the dining hall like a quiet, sunlit mist lifting after years of heavy morning fog. Ali takes in the words, the weight of three and a half long years of looming shadows melting away in an instant. He whispers into the receiver, offering quiet thanks before hanging up the phone, a shining, luminous moment suspended in time.
 
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
+[MALE] I'm free.
 
-[MALE] Get a shot of him leaving.  Then pan to me. Jordy disappears into the sea of people.  The camera PANS back to Nicolette.
+[NARRATOR] Angelo Dundee leans in, blinking through the haze of the afternoon.
 
-[NARRATOR] Nicolette murmurs with a warm, steady cadence:
+[MALE] What are you talking about?
 
-[MALE] Well, he wouldn't talk to us, but you saw it. The CAMERA PULLS BACK from Nicolette's face and the video is now on:
+[NARRATOR] Ali looks out at the faces of his family.
 
-[NARRATOR] We PULL BACK FURTHER and FURTHER.  Nicolette finishing her
+[MALE] Supreme Court set me free.
 
-[NARRATOR] stand up:
+[NARRATOR] Bundini smiles, a warm, knowing light dancing in his eyes as he nods toward the ceiling.
 
-[NARRATOR] Nicolette adds in a relaxed, peaceful voice:
+[MALE] That's 'cause they know the king is gonna go home to his throne. And they know everybody's with you, now. And they wanna be on the RIGHT side!
 
-[MALE] New York City has a new hero, Fire Marshal Jordan Warsaw.  I hope that Fire Marshal Warsaw's heroic actions this afternoon will help with his other legal problems.  WB11 has also learned that the fire Marshal has retained an immigration lawyer to help Daphne Handlova with her case.  We wish her well.  This is Nicolette Karas, live at Battery Park, WB11 New York.  Good night.
+[NARRATOR] The scene dissolves into the magnificent, glittering expanse of Madison Square Garden at night. A vast sea of American Black royalty sits draped in the rich, flowing velvet robes of the seventies, glowing under the amber wash of overhead lights. Movie stars rest twenty rows back in plush velvet seats. Burt Lancaster speaks in hushed tones as a color man, while Frank Sinatra moves quietly through the shadows, working a still camera like a painter capturing twilight. In the press section, writers and critics sit in quiet observation. 
 
-[NARRATOR] The Screen adds in a relaxed, peaceful voice:
+A heavy black microphone descends slowly from the high, shadowy recesses of the overhead lighting grid, swaying gently like a pendulum. A hand reaches up from the canvas below to catch it.
 
-[MALE] FADES TO BLACK.
+[MALE] Ladies and gentlemen, fifteen rounds of boxing for the heavyweight championship of the world...
 
-[NARRATOR] The narrative softly draws to a close, and the world outside settles into pure, uninterrupted quiet. The shadows lengthen across the room, wrapping you in a cocoon of warmth, safety, and deep peace. Every breath you take now is slower, softer, and deeper. There is nothing more to do, nowhere else to be. Surrender completely to the gentle pull of sleep. Drifting... floating... sleeping deeply and peacefully through the night.
+[NARRATOR] Beneath the deep hood of his flowing white robe, Ali stands bouncing on the canvas, shaking out his limbs, loosening every muscle with the graceful rhythm of a midnight tide.
+
+[MALE] ...the contender and former heavyweight champion of the world, seeking to regain his title, from Louisville, Kentucky, Muhammad Ali!
+
+[NARRATOR] Catcalls and boos ripple through one half of the massive arena, while the other half erupts in the triumphant, echoing sound of a long-awaited comeback. A nation divided, humming with the electric tension of pro-war right-wingers and Nixon supporters cheering for Frazier, meeting the counter-wave of anti-war advocates, liberals, artists, and hippies lifting Ali in their collective hope.
+
+[MALE] And in the opposite corner, the current heavyweight champion of the world... Smokin' Joe Frazier!
+
+[NARRATOR] The contentious roar diminishes only slightly, fading into a low, rumbling hum beneath the lights. Deep within the hood of his robe, Ali's eyes reveal an absolute, laser-focused concentration. His attention is so pure and arrow-like that it mirrors the younger man from the Liston fight years ago—an embodiment of absolute purpose.
+
+In the center of the ring, all noise dissolves. There is only profound, absolute silence as the referee leans in to give final instructions in slow, dreamy motion. Ali bounces softly on the canvas. The gentle shifting, turning, and dancing of his feet whisper against the floor, accompanied by the steady, expectant rhythm of his breathing, welcoming the quiet return of the night.
+
+[NARRATOR] The heavy canvas of the ring breathes beneath the weight of a legendary struggle, bathed in the soft, golden amber haze of the overhead arena lights. The air is thick with the quiet dust of motion, suspended in the vast, cathedral-like darkness of Madison Square Garden. Around them, the murmur of the crowd swells and recedes like a distant, hypnotic ocean tide, washing over the canvas in slow, rhythmic waves. Time itself seems to drift, slowing to the pace of a deep, restful sigh. 
+
+[NARRATOR] Within the dim sanctuary of the corner, voices rise in a blur of urgent, protective warmth, but the sound drifts away, muffled by the gentle fog of exhaustion. Ali stands at the center of the canvas, his breath rising in a steady, slow cadence. He moves with a dreamlike heaviness, every motion deliberate and soft. The shadows lengthen across the mat, embracing the quiet rhythm of the fight.
+
+[MALE] Hook's comin'. Lean back, man! Move back! Work legs...
+
+[NARRATOR] The words echo softly inside the quiet chambers of his mind, floating like whispers across a still lake. The legs, once as light as falling leaves, now feel heavy and rooted, anchored to the cool canvas by the profound stillness of the midnight hour. A sudden, sweeping motion stirs the air, a gentle brush of wind against the skin, and the world tilts just a fraction, slow and unhurried. 
+
+[NARRATOR] The bell sounds, a deep, resonant chime that vibrates softly through the wooden floorboards, fading into a long, tranquil silence. The shadows lengthen and stretch, wrapping the exhausted warriors in a blanket of rest. Howard Cosell’s voice drifts from the ether, soft and far away, recounting the tale of the night like a bedtime story told in the dark. 
+
+[NARRATOR] Round fifteen arrives with the quiet grace of a fading twilight. The two figures move toward one another, bound by an unspoken rhythm, mirroring each other in the dim, glowing haze. The final bell tolls, echoing out into the vast, slumbering arena, carrying away the heat of the contest into the cool, silent air of the night. 
+
+[NARRATOR] Deep within the quiet shadows of the dressing room, far away from the roaring tide of the crowd, the air is still and cool. The gentle hum of the city outside fades into a soothing lullaby, and the dim, amber lamps cast a warm, sleepy glow across the walls. Angelo Dundee steps forward through the quiet shadows, his voice a soft, steady murmur in the peaceful dark.
+
+[MALE] Hell of a fight.
+

@@ -1,3203 +1,2684 @@
-[NARRATOR] Welcome to tonight's peaceful sanctuary of deep, restorative slumber. Take this moment to settle into your bed, softening your posture, letting your head sink gently into the pillow, and releasing all the residual tension of the day. Inhale slowly and deeply... feeling the cool, tranquil air fill your lungs... and gently exhale, letting go of all effort. Tonight, we journey through an expansive, atmospheric sleep story inspired by the world of The Weaver of the Timeless Horizon. Allow the calming rhythm of the narrative to carry you effortlessly into stillness and deep rest.
+[NARRATOR] High above the slumbering earth, inside the steady, rhythmic drone of a C-130 Hercules turbo-prop, the night air is cool and thick with the scent of ozone and anticipation. Eighteen combat-ready figures, clad in gear as dark as the midnight sky, stand in absolute stillness. They stare down the deep, sloping expanse of a greasy metal ramp, looking out into the vast, velvety emptiness. Far below, at nineteen thousand feet, tiny village lights flicker like fallen stars, winking gently in the heavy, quiet atmosphere. A designated leader motions silently with his hand. Without a single wasted movement, the team steps off the edge, surrendering to the wind, diving smoothly into the embracing dark to plummet softly toward the earth.
 
-[NARRATOR] Twelve Monkeys
+[NARRATOR] Below, resting in the quiet stillness of the night, sits a sprawling estate surrounded by deep shadows and whispering trees. A lone military guard, wearing an old-style uniform, paces slowly around the corner of the grand mansion, his footsteps soft against the damp ground. Suddenly, a tiny crimson light dances briefly across the cool night air and rests upon his forehead. The guard exhales a quiet, long sigh and collapses gently into the grass, vanishing into the shadows. Across the sprawling grounds, other sentries fade away into the quiet, neutralized by the silent grace of the approaching force. 
 
-[NARRATOR] Twelve Monkeys murmurs with a warm, steady cadence:
+[NARRATOR] A strike team member stands before the estate's main electrical junction box, his breath misting softly in the chill air, waiting for the final cue. Through the emerald-tinted lens of infrared binoculars, the strike force leader observes his soldiers slipping seamlessly into their positions, their movements as fluid and unhurried as drifting smoke.
 
-[MALE] An original screenplay by David Peoples & Janet Peoples Inspired by LA JETEE, a Chris Marker Film Production Draft June 27, 1994 FADE IN: INT.  CONCOURSE/AIRPORT TERMINAL - BAY CLOSE ON A FACE.  A nine year old boy, YOUNG COLE, his eyes wide with wonder. watching something intently.  We HEAR the sounds of the P.A. SYSTEM droning Flight Information mingled with the sounds of urgent SHOUTS, running FEET, EXCLAMATIONS. YOUNG COLE'S POV:  twenty yards away, a BLONDE MAN is sprawled on the floor, blood oozing from his gaudy Hawaiian shirt. A BRUNETTE in a tight dress, her face obscured from YOUNG COLE'S view, rushes to the injured man, kneels beside him, ministering to his wound. ANGLE ON YOUNG COLE, flanked by his PARENTS, their faces out of view, as they steer him away. FATHER'S VOICE  Come on, Son --this is no place for us. YOUNG COLE resists momentarily, mesmerized by the drama. YOUNG COLE'S POV:  intermittently visible through a confusion of FIGURES rushing through the foreground, the BLONDE MAN reaching up and touching the cheek of the kneeling BRUNETTE in a gesture of enormous tenderness, a gesture of farewell, while the P.A. SYSTEM continues its monotonous monotone...
+[MALE] GO!
 
-[NARRATOR] P.A. System answers in a low, calming tone:
+[NARRATOR] With a sudden, synchronized motion, the power to the massive estate surrenders, plunging the grounds into a velvet blanket of darkness. The heavy front doors of the mansion yield quietly to the practiced touch of the assault team, who pour inside like a quiet tide. Five figures move in a tight, protective phalanx up the grand staircase, their footsteps muffled by thick antique carpets. They glide past a startled resident who utters a brief, fading gasp, then sweep down the carpeted corridor toward a heavy wooden door. With a single, practiced motion, the door swings wide, and the team floods into the dimly lit bedchamber.
 
-[MALE] Flight 784 for San Francisco is now ready for boarding at inmate number 66578, Greely. INT.  PRISON DORMITORY/FUTURE - ETERNAL NIGHT
+[NARRATOR] Assault weapons lower, aimed toward the center of the grand mahogany bed as soldiers yank back the heavy satin sheets. Beneath them lies Ivan Stravanavitch, stirring from his sleep alongside his young companion, both blinking against the sudden intrusion of the muted room light.
 
-[NARRATOR] Prison P.A. System responds with gentle reassurance:
+[MALE] Get up, now! Up!
 
-[MALE] --number 5429, Garcia -- number 87645, Cole... COLE, late thirties, dark hair, comes awake in a bunk cage, one of many stacked four high along both sides of a long dim corridor.  He blinks in the near dark, shaken, disoriented. Then, as he "recovers" from his very vivid dream, WE GET OUR FIRST LOOK AT HIS ENVIRONMENT...A WINDOWLESS UNDERGROUND WORLD OF ETERNAL NIGHT SOMETIME IN THE FUTURE...AN ALMOST COLORLESS "REALITY" OF BLURRED EDGES AND ECHOEY SOUNDS, MUCH MORE "DREAMLIKE" THAN HIS DREAM. Flashlights glare. In the half-light, COLE sees spooky figures, GUARDS, moving among the locked bunk/cages. COLE turns and whispers to the occupant of the next cage, JOSE...
+[NARRATOR] Rough hands lift the disoriented man to his feet, guiding him gently yet firmly out from the warmth of the bed and down the dimly lit hallway. Suddenly, the quiet is broken by the erratic rattle of security guards firing haphazardly from the shadows. In response, the strike team deploys small flash-bang grenades. Soft, cascading bursts of light and muted pops bloom through the corridors, creating a dreamy, disorienting haze that lulls the defenders into stillness.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Outside, in the open field, bright signal flares cast a warm, amber glow across the dew-kissed grass as a heavy transport helicopter descends from the night sky with a low, rhythmic thrum. The strike team escorts the struggling prisoner across the open field, easing him into the cavernous belly of the waiting aircraft. As the commandos pull themselves aboard, a few lingering guards rush into the clearing, firing blindly. The helicopter’s mounted door guns reply with a measured, deep thrum, returning fire to the empty night. One soldier, grazed in the commotion, is pulled safely inside by his comrades as the heavy aircraft lifts effortlessly into the cool night air, its engines singing a deep, soothing lullaby to the clouds.
 
-[MALE] Ssssst!  Jose, what's going on? JOSE's face is almost lost in shadow.  What there is of it is youthful.  He's just a scared Puerto Rican kid!
+[MALE] Archangel, this is Restitution. Archangel, this is Restitution. The package is wrapped. Over.
 
-[NARRATOR] Jose answers in a low, calming tone:
+[NARRATOR] A radio crackles softly in the dim cockpit, bathing the instruments in a warm, amber amber glow.
 
-[MALE] "Volunteers" again. JOSE immediately rolls over and feigns sleep as SCARFACE, a menacing guard with a jagged scar running down his cheek, looms close to COLE's cage and unlocks it.
+[MALE] Roger, Restitution. We are standing by for delivery.
 
-[NARRATOR] Scarface offers quietly, watching the shadows drift across the room:
+[NARRATOR] The screen fades slowly to a profound, restful black. Out of the quiet emerges the gentle, ambient murmur of a grand dinner banquet. The soft, rhythmic clinking of silver forks against fine china and the low, soothing hum of a hundred distant conversations fill the air, creating a cocoon of warm, civilized sound. Suddenly, the din softens as a bright, clear sound cuts through the room: the delicate *ding, ding, ding* of a silver spoon tapping against the side of a crystal wine glass. 
 
-[MALE] "Volunteer duty". The PRISONERS in the other cages watch silently with narrowed eyes.
+[NARRATOR] Superimposed in elegant script across the darkening screen, the words read: "MOSCOW - THREE WEEKS LATER."
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The scene opens inside a grand banquet hall bathed in the warm, golden glow of crystal chandeliers. Hundreds of distinguished guests, draped in formal evening wear, sit in absolute stillness around large, candlelit round tables. A profound hush settles over the massive room, every pair of eyes drifting toward the head table. Slowly, a rotund, silver-haired man in his late sixties rises from his seat, adjusting his jacket as the gentle amber light plays across his shoulders, beginning a new chapter in the quiet tapestry of the night.
 
-[MALE] I didn't volunteer.
+[NARRATOR] The grand banquet hall breathed in a collective sigh, the murmurs of the distinguished guests melting away into a profound, anticipatory quiet. The ambient light caught the rich folds of silk drapery and the polished brass of twin banners—the stars and stripes of the United States standing in quiet, steadfast communion with the crimson and white of Russia. 
 
-[NARRATOR] Scarface adds in a relaxed, peaceful voice:
+[NARRATOR] Slowly, gracefully, a rotund man with a crown of silver hair stepped forward. This was Stoli Petrov, President of Russia, his steps measured and calm upon the carpeted dais as he approached the polished wooden podium. He adjusted his stance beneath the warm, golden glow of overhead chandeliers, his gaze sweeping over the sea of rapt faces. 
 
-[MALE] You causing trouble again?
+[MALE] Thank you for joining us this evening.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] His voice carried the deep, rumbling cadence of the Russian tongue, rolling through the cavernous room like distant thunder over a quiet steppe. Yet, woven softly over his words, a young woman’s voice whispered the simultaneous translation, smooth and melodic like a gentle stream.
 
-[MALE] No trouble. INT.  EQUIPMENT ROOM - ETERNAL NIGHT COLE's alone, struggling to get into what looks like a space suit in a room where suits hang like ghosts with blank eyes. TITLES BEGIN SUPERED OVER THE SCENE COLE has the torso of the suit on now and is trying to close it. OFFSCREEN VOICE  All openings must be closed. COLE looks for the source of the voice, a tiny grate in the wall. OFFSCREEN VOICE  If the integrity of the suit is compromised in any way, if the fabric is torn or a zipper not closed, readmittance will be denied. INT.  SEALED CHAMBER - MINUTES LATER  COLE, wearing the "space suit" and a helmet with a plastic visor, steps into a tiny chamber, a kind of air lock.  The heavy door clangs shut behind him.  He's alone.  COLE'S breath comes quicker now as he sucks oxygen from the air tanks on his back. On the opposite wall is another door with a huge wheel lock. COLE turns the heavy wheel, opens the door, steps through It INT.  ELEVATOR - SECONDS LATER  COLE'S in an ascending elevator that groans and creaks.  He looks down at a crudely drawn map he holds in his gloved hand. The map shows a series of tunnels and ladders. INT.  SEWER PIPE - MINUTES LATER  COLE pans a flashlight, probing the filthy sewer he's wading through RATS flee the blade of light, scurry across islands of rusting junk. The flashlight beam settles on a ladder mounted in the wall. Reaching the rusted ladder, COLE starts to climb awkwardly. EXT.  CITY STREET/FUTURE - MOMENTS LATER  A SCRAPING NOISE as a heavy man-hole cover is pushed up and moved aside.  COLE'S helmeted head emerges from below. COLE'S POV THROUGH HIS PLASTIC-VISORED HELMET:  a city in moonlight!  A surreal image of abandoned buildings.  No people anywhere.  The only sounds are the WIND and COLE'S BREATHING. EXT.  ANOTHER CITY STREET - MINUTES LATER  COLE'S light reveals abandoned vine-covered automobiles. Moving to the nearest car, COLE searches in the vines for something.  Finds it.  An insect. COLE takes the bug in his gloved hand.  As he clumsily inserts it into a collection tube, something makes him turn. There's something across the street in the dark.  Something alive. COLE points his flashlight and reveals...a BEAR!  Startled by the light, the animal blinks, then stands on its rear legs and ROARS. ANGLE ON COLE, staring wide-eyed. Then, the BEAR sinks down onto all fours and, trying to avoid the flashlight, it pads quickly down the street. INT.  SUBTERRANEAN PARKING GARAGE - NIGHT Using the flashlight to see, COLE reaches down to the cracked floor and gets another specimen.  DOGSHIT! The only sound is COLE'S labored BREATHING. Then, a different SOUND.  GRRRR!  A dog.  More GRRRRS.  More dogs.  Then, a YIP.  Then, VICIOUS GROWLS.  It's a DOGFIGHT! EXT.  STREET - NIGHT  A giant OWL, perched on an overhead traffic light, raises its wings and lifts off...rising higher and higher into the brightening sky. Below, on the street, COLE trudges along, passing deserted buildings, windows broken, rusted signs dangling. INT.  DEPARTMENT STORE - NIGHT  COLE'S light reveals a spider web just inside the store.  A large SPIDER tries to hide from the light. COLE reaches carefully into the web and plucks the spider and puts it into one of his specimen tubes. Then, he shines his light all around the once elegant store.  There's nothing but aisle after aisle of moldering consumer goods. EXT.  DEPARTMENT STORE - DAWN As COLE comes out of the store, the first rays of the sun hit the building.  COLE stops, squints into the light through his visor. COLE'S POV:  spray-painted on the wall a long time ago is a stenciled logo of twelve monkeys holding hands in a circle.  Over it is written, "WE DID IT!" COLE looks up. COLE'S POV:  high up on a building across the street, a LION patrols a ledge, pauses, looks out majestically over his world.
+[NARRATOR] Down at the front table, illuminated by the intimate amber pools of candlelight, sat a man whose face was etched with the quiet exhaustion of leadership. James Marshall, President of the United States, pressed a sleek little earpiece a fraction deeper into his ear. A few soft worry lines feathered across his forehead, and the gentle touch of silver at his temples spoke of three long, demanding years in office. With a soft, rhythmic scratching of pen on paper, he busily made his final, meticulous adjustments to the speech resting before him. 
 
-[NARRATOR] Tttles End responds with gentle reassurance:
+[NARRATOR] The translator’s voice hummed softly inside his ear, carrying across the quiet air.
 
-[MALE] INT.  FIRST UNDERGROUND DECONTAMINATION CHAMBER - ETERNAL NIGHT ROARING WATER, powerful torrents gushing from nozzles in the wall, pummel the still-suited COLE. INT.  SECOND UNDERGROUND DECONTAMINATION CHAMBER - ETERNAL NIGHT Stark naked and shivering, COLE is being scrubbed with brushes on long poles  wielded by two HULKING FIGURES in bulky decontamination suits, their personas lost in their windowed masks.  It's a grim scene in a grim cement room with damp, dripping walls.  From an unseen source comes an AMPLIFIED VOICE, AMPLIFIED VOICE  Raise your arms above your head. COLE lifts his arms and the FIGURES start scrubbing his armpits. INT.  TINY CHAMBER - SHORTLY  Still naked, COLE is seated on a stool while a MASKED TECHNICIAN in a less elaborate, less bulky decontamination outfit draws blood from COLE'S arm with an old-fashioned hypodermic needle. COLE glances toward a single, nearly opaque "window" of thick plastic in the rusty iron wall.  VAGUE FIGURES seem to lurk behind the translucent aperture, studying him. The TECHNICIAN slips the blood sample through a slot in the wall. INT.  ENGINEERING OFFICE/FUTURE WORLD - ETERNAL NIGHT Ushered in by two guards, TINY and SCARFACE, COLE looks around. COLE'S POV:  wails hidden by old headlines, articles, maps, charts... a blackboard covered with elaborate, sophisticated formulae...surfaces heaped with cracked monitors, gerry-rigged computers held together with string, lasers lost in tangles of cable, ancient tube amplifiers, a dilapidated cardboard reconstruction of a city, stacks of moldering books and tattered computer printouts...and, seated at a long conference table, staring at COLE, six SCIENTISTS:  an ASTROPHYSICIST, ENGINEER, BOTANIST, MICROBIOLOGIST, ZOOLOGIST, and a GEOLOGIST.  They represent a "modern" science where brilliant new ideas interface with crude, outdated, patched-together technologies.
+[NARRATOR] Has chosen to join our fight against tyranny in forging a new world community. Ladies and gentlemen, I give you the President of the United States of America... Mr. President.
 
-[NARRATOR] Tiny speaks with a quiet, measured softness:
+[NARRATOR] A wave of thunderous applause rippled through the hall, a warm, rolling tide of sound that washed over the tables, the crystal glassware, and the velvet chairs. President Marshall slowly rose from his seat, slipping his papers into a neat stack, and made his way toward the podium with a calm, unhurried grace. 
 
-[MALE] James Cole.  Cleared from quarantine.
+[NARRATOR] At the shadowy back of the room, amidst the soft rustle of expensive fabrics, Doherty, a senior policy adviser, leaned close to the President’s Chief of Staff, Ed Shepherd. 
 
-[NARRATOR] Microbiologist speaks with a quiet, measured softness:
+[MALE] Maybe we should consider running him for re-election instead of the U.S.
 
-[MALE] Thank you.  You two wait outside.
+[NARRATOR] Shepherd offered a quiet, knowing smile as the applause slowly subsided, fading away into a blanket of peaceful stillness. Marshall stood before the microphone, the ambient light catching the determination in his eyes.
 
-[NARRATOR] Scarface adds in a relaxed, peaceful voice:
+[MALE] Good evening and thank you. First I would ask you to join me in a moment of silence for the victims of the Turkmenistan massacres.
 
-[MALE] He's got a history, Doctor.  Violence. COLE'S eyes return to the walls. Headlines:  "CLOCK TICKING!  NO CURE YET!"
+[NARRATOR] The great room settled into a deep, reverent quiet. Most of the guests respectfully bowed their heads, the weight of the moment hanging softly in the air like evening mist over a sleeping valley. After a few slow, meditative beats, Marshall began again, his voice steady and resonant in English, while the young translator mirrored his words in Russian for the listening crowd.
 
-[NARRATOR] Scarface answers in a low, calming tone:
+[MALE] As you know, three weeks ago American Special Forces, in cooperation with the Russian Republican Army, secured the arrest of Turkmenistan's self-proclaimed dictator, General Ivan Stravanavitch, whose brutal sadistic reign had given new meaning to the word horror. I am proud to say our operation was a success.
 
-[MALE] Anti-social six -- doing 25 to life.
+[NARRATOR] A wave of polite, appreciative applause drifted through the room. Marshall gently turned the page of his speech, the paper whispering softly in the quiet hall.
 
-[NARRATOR] Engineer adds in a relaxed, peaceful voice:
+[MALE] And now, yesterday's biggest threat to world peace... today awaits trial for crimes against humanity.
 
-[MALE] I don't think he's going to hurt us.  You're not going to hurt us, are you Mr. Cole? COLE'S head turns quickly to the ENGINEER.
+[NARRATOR] While the applause swelled once more, Marshall's hands moved with quiet deliberation. He pulled a single page from his notes, folded it with care, and slid it deep into his pocket. He reached up, gently removing his glasses, and allowed his gaze to wander out across the sea of faces. The warm, amber light illuminated the softening lines of his expression. His tone shifted, losing the cadence of a prepared address and becoming deeply personal, almost conversational in the quiet room.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] What we did here was important. We finally pulled our heads out of the sand, we finally stood up to the brutality and said, "We've had enough." Every time we ignore these atrocities—the rapes, the death squads, the genocides—every time we negotiate with these thugs to keep them out of our country and away from our families, every time we do this, we legitimize terror. Terror is not a legitimate system of government. And to those who commit the atrocities I say, we will no longer tolerate, we will no longer negotiate, and we will no longer be afraid. It's your turn to be afraid.
 
-[MALE] No, sir. The GUARDS exchange a look, shrug, exit, closing the door.
+[NARRATOR] The room erupted into a final, soaring wave of applause, echoing warmly against the high vaulted ceiling as the evening drifted deeper into quiet serenity.
 
-[NARRATOR] Microbiologist offers quietly, watching the shadows drift across the room:
+[NARRATOR] The evening breeze brushed softly across the vast, sprawling expanse of the Moscow International Airport, carrying with it the cool, metallic scent of autumn and the distant hum of jet engines winding down into silence. Terminals stretched outward like quiet, slumberous tentacles beneath a moonless, indigo sky. Out on the tarmac, bathed in the amber glow of towering floodlights, stood a monument of modern engineering and quiet authority. Air Force One. The majestic Boeing 747 rested like a giant, tranquil bird, dwarfing the smaller commuter and military jets that slept nearby. A distinctive royal blue stripe ran the length of its fuselage, separated by a thin line of gold that tapered gracefully toward a tail adorned with the American flag and the Presidential Seal. 
 
-[MALE] Why don't you sit down, Mr. Cole. COLE goes to the empty chair at the conference table, sits down.
+[NARRATOR] Around the perimeter of the aircraft, Secret Service agents and U.S. Marines stood in quiet, unyielding vigilance, their boots making the only sharp sounds against the concrete. From the surrounding shadows, a Russian news van emerged slowly, its headlights cutting through the cool night fog before coming to a gentle halt near a heavy Secret Service barricade. Special Agent Gibbs stepped forward from the pool of light, his posture calm and deliberate as the doors of the van opened.
 
-[NARRATOR] Astrophysicist murmurs with a warm, steady cadence:
+[MALE] Gentlemen, welcome to Air Force One. Please present your equipment to Special Agent Walters for inspection.
 
-[MALE] We want you to tell us about last night.
+[NARRATOR] The news team's segment producer, a crusty, weathered older Russian man named Korshunov, raised his thick, bushy eyebrows in mild, weary fatigue.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] We've already been inspected.
 
-[MALE] I went to the surface and I collected specimens like I was told. The SCIENTISTS don't say anything.  They just study him carefully.
+[MALE] Sir, this plane carries the President of the United States. Though we wish to extend your press service every courtesy, you will comply with our security measures to the letter.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] Of course. I'm sorry.
 
-[MALE] I mashed the spider, didn't I?
+[NARRATOR] Korshunov and the five members of his news crew stepped down onto the tarmac, laying out their heavy video cameras, delicate sound equipment, and leather supply cases for Special Agent Walters to inspect. Nearby, specialized canine units moved with rhythmic, steady breathing, their noses sniffing carefully through the stacked baggage. 
 
-[NARRATOR] Microbiologist whispers gently into the still air:
+[MALE] Please place your thumbs on the ID pad.
 
-[MALE] We'll get to the spider later, Mr. Cole.  Right now, we want to know everything that you saw. INT.  ENGINEERING OFFICE - AN HOUR LATER  COLE, starting to look very tired now, stands at the blackboard sketching a detailed map of exactly where he was last night.
+[NARRATOR] Korshunov stepped closer, pressing his thumb firmly onto the illuminated glass of a portable computer. The system hummed quietly, cross-referencing his print with an extensive dossier and photograph stored deep within secure databases. A soft, green light pulsed, and the word CLEARED flashed brightly on the screen.
 
-[NARRATOR] Astpophysicist answers in a low, calming tone:
+[NARRATOR] Inside the warm, dimly lit hallway of the terminal building, the President walked at a relaxed pace, flanked by the quiet footsteps of his traveling entourage. 
 
-[MALE] Where you collected sample #4, what street was that?
+[MALE] CBS said they'll give us four minutes. They thought the Russian was a nice touch.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] I always wondered if my freshman Russian class would come in handy.
 
-[MALE] Uh...
+[MALE] Sir, you threw out page two.
 
-[NARRATOR] Botanist answers in a low, calming tone:
+[MALE] Goddamn right I did. I asked for a tough-as-nails speech and you gave me diplomatic bullshit. What's the point in having a speech if I have to ad-lib?
 
-[MALE] It's important to observe everything.
+[MALE] It was a good ad-lib, sir.
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] Thanks. Wrote it last night.
 
-[MALE] I think it was...I'm sure it was 2nd Street. As the SCIENTISTS start to whisper animatedly among themselves, COLE'S eyes drift across the newspaper clippings taped to the wall.  One headline screams, "VIRUS MUTATING!"  Another features a photo of an OLD MAN  and the words, SCIENTIST SAYS, "IT'S TOO LATE FOR CURE". ASTROPHYSICIST'S VOICE  Close your eyes, Cole. Startled, COLE closes his eyes obediently. BLACKNESS.  Like COLE, WE SEE NOTHING.  But we HEAR their VOICES. ENGINEER'S VOICE  Tell us in detail what you've seen in this room. COLE'S VOICE  Uh, in this room?  Uh... MICROBIOLOGIST'S VOICE  How many of us are there? COLE'S VOICE  Six...seven, if you count me. ASTROPHYSICIST'S VOICE  Tell us about the pictures on the wall... COLE'S VOICE  Uh, you mean the newspapers? A MONTAGE OF OVERLAPPING VOICES  Tell us about the newspapers.  Can you hear my voice?  What do I look like? What does he look like, the man who just spoke?  How old were you when you left the surface? The VOICES blur into a cacophony and FADE INTO the droning P.A. SYSTEM at the airport. INT.  CONCOURSE/AIRPORT - DAY THE DREAM AGAIN!  But at an earlier moment.  YOUNG COLE, flanked by his PARENTS, whose faces are out of view, is watching a PLANE land through one of the big glass windows that lines the concourse leading to the departure gates. P.A. SYSTEM  Flight 784 now boarding at gate... Suddenly, a SHOUT, followed by raised VOICES, interrupts the monotonous airport routine.  As YOUNG COLE and his PARENTS turn to see what's going on, a man we'll call MR. PONYTAIL, his face averted, hurries past them, bumping YOUNG COLE with a Chicago Hulls Sports Duffle Bag.
+[NARRATOR] With a gentle click of a heavy door, the President stepped out of the building and into the plush, quiet leather interior of his waiting limousine, the engine idling with a deep, soothing vibration. Back out on the wide-open tarmac, Special Agent Walters finished inspecting the heavy bags and handed them back to the waiting crew.
 
-[NARRATOR] Mr. Ponytail offers quietly, watching the shadows drift across the room:
+[MALE] Equipment checks out.
 
-[MALE] WATCH IT! YOUNG COLE sees little more than the gaudy pants, the duffle, and the man's ponytail flopping as he rushes towards the gates. Just then, a WOMAN'S VOICE cries out, "NOOOOOOOOO!" YOUNG COLE turns back toward the Security Check Point just as TRAVELERS scatter madly, some diving to the floor, others running.  A TERRIFIED TRAVELER, hitting the floor close by, looks up at YOUNG COLE with panicky eyes, and asks....
+[NARRATOR] A striking woman in her early thirties descended the illuminated metal stairway of Air Force One, her heels clicking softly against the steps. It was Maria Mitchell, handling press relations for the presidential flight office.
 
-[NARRATOR] Terrified Traveler answers in a low, calming tone:
+[MALE] Gentlemen, this is Maria Mitchell. Press Relations for the Presidential Flight Office. She'll take you from here.
 
-[MALE] Just exactly why did you volunteer? INT.  ENGINEERING OFFICE/FUTURE WORLD -  COLE comes abruptly awake.  Seated now, he's facing the SCIENTISTS.
+[MALE] Ms. Mitchell. So nice to finally meet you in person.
 
-[NARRATOR] Astrophysicist murmurs with a warm, steady cadence:
+[FEMALE] The President and I were delighted that we could accommodate you. Now if you're all cleared? You can follow me then.
 
-[MALE] Wake up, Cole.
+[NARRATOR] Gibbs offered a slow nod of approval, and the group moved forward, ascending the steps into the warm, secure belly of the magnificent aircraft. The heavy door closed behind them with a muffled, airtight seal, shutting out the cool night air of Moscow. Inside the soft, ambient lighting of the cabin, Maria Mitchell turned to face the weary journalists.
 
-[NARRATOR] Cole whispers gently into the still air:
+[FEMALE] I'll be giving you a brief tour, then during the flight, two members of your crew will be allowed out of the press area at a time for filming. You will have exactly ten minutes with the President and twenty with the crew...
 
-[MALE] Uh, I didn't hear the...
+[NARRATOR] Her voice drifted softly into the background noise of the cabin's ventilation system, as the presidential motorcade began its quiet journey through the sleeping, lamp-lit streets of Moscow, rolling gently toward the night.
 
-[NARRATOR] Microbiologist offers quietly, watching the shadows drift across the room:
+[NARRATOR] The heavy limousine wound its smooth, effortless way down the narrow, sleeping cobblestone streets of the city, transitioning at last onto a wide, lamp-lit thoroughfare. Inside the cabin, the atmosphere was thick with the gentle hum of the engine and the soft, diffused amber glow of hidden reading lights, casting long, peaceful shadows across the dark leather interior. 
 
-[MALE] I asked you, why did you volunteer?
+[NARRATOR] The vehicle was packed with advisers, aides, and tired military staff. Sitting quietly in the background was Lieutenant Colonel Perkins, the steady guardian of the nuclear football, secured securely to his wrist by a gleaming silver band. Upon the small, glowing television screen mounted near the front, the late-night banter of a talk show played at a low, soothing murmur, blending seamlessly with the quiet rhythm of the journey. 
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[NARRATOR] The President sat among them, his shoulders heavy with the weariness of the hour, wearily rubbing his temples as he stifled a slow, deep yawn. 
 
-[MALE] Well, the guard woke me up.  He told me I volunteered. The SCIENTISTS react, whispering urgently among themselves. COLE starts to nod off again, then comes awake with a start as the ENGINEER speaks to him.
+[FEMALE] You wanna knock off? 
 
-[NARRATOR] Engineer whispers gently into the still air:
+[NARRATOR] Shepherd asked softly, his voice barely cutting through the hushed cabin air. 
 
-[MALE] We appreciate you volunteering.  You're a very good observer, Cole.
+[MALE] No, no. I'm fine. What did the Speaker say? 
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Marshall replied, his eyelids drooping slightly against the heavy tide of exhaustion. 
 
-[MALE] Uh, thank you.
+[FEMALE] He and the NRA don't like the wording. 
 
-[NARRATOR] Engineer adds in a relaxed, peaceful voice:
+[FEMALE] Apparently taking uzis away from sixth graders isn't as popular as we thought it'd be. Representative Taylor is working on a compromise. 
 
-[MALE] You'll get a reduction in sentence. COLE keeps his face impassive.
+[NARRATOR] Marshall leaned his head back against the cushioned rest, letting out a soft sigh that seemed to carry the weight of the entire day. 
 
-[NARRATOR] Astrophysicist answers in a low, calming tone:
+[MALE] Put together a score sheet. I'll make some calls. 
 
-[MALE] To be determined by the proper authorities.
+[FEMALE] With all due respect, sir, maybe you should give them this one. Your numbers are still pretty low and you called in a lot of chips to nail Stravanavitch. 
 
-[NARRATOR] Engineer speaks with a quiet, measured softness:
+[MALE] I might still have a few chips left. 
 
-[MALE] You don't want to jeopardize that reduction, do you, Cole?  Have it taken away?
+[FEMALE] * We could always put you in a duck blind with a twelve gauge. The second amendment types'll love that. 
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] This is a crime bill, Shep. Killing a couple ducks won't get it through committee. Besides, Shep, I told you... I don't shoot babies and I don't kiss guns. 
 
-[MALE] No, sir!
+[FEMALE] Other way around, sir. 
 
-[NARRATOR] Astrophysicist speaks with a quiet, measured softness:
+[NARRATOR] A slow, fleeting realization crossed Marshall’s features, and a faint, tired ghost of a smile touched his lips. 
 
-[MALE] We have a very advanced program, something very different, requires very skilled people.
+[MALE] Right... Christ I'm tired. Do me a favor and keep me away from the press. 
 
-[NARRATOR] Microbiologist speaks with a quiet, measured softness:
+[NARRATOR] At that moment, a small, polite chime from his watch alarm began to beep. Moving by pure habit, Marshall automatically reached into his breast pocket, drew out a small medicine vial, and quietly swallowed two pills, washing them down with a bitter sip of lukewarm coffee. 
 
-[MALE] An opportunity to reduce your sentence considerably...
+[NARRATOR] On the television screen, the familiar voice of the host filled the quiet space between them. 
 
-[NARRATOR] Zoologist speaks with a quiet, measured softness:
+[NARRATOR] ... and your reaction to the President's trip to Moscow. Good or bad? 
 
-[MALE] And possibly play an important role in returning the human race to the surface of the earth.
+[NARRATOR] Shepherd reached out, turning up the volume just a fraction, the blue light of the screen reflecting in his glasses. 
 
-[NARRATOR] Engineer answers in a low, calming tone:
+[FEMALE] This is the part I wanted you to see. 
 
-[MALE] We want tough minded people.  Strong mentally.  We've had some...misfortunes with "unstable" types.
+[NARRATOR] On the screen, a stern face appeared, speaking with sharp indignation. 
 
-[NARRATOR] Astrophysicist whispers gently into the still air:
+[NARRATOR] Criminal. One of our boys died in Marshall's little publicity stunt and for what? So we could claim victory over another country's problems instead of our own? And now he's got the nerve to prance around Moscow gloating, while that poor boy's family is left to bury him. If I were Marshall, I'd be ashamed of myself. 
 
-[MALE] For a man in your position...an opportunity.
+[NARRATOR] The host nodded solemnly. 
 
-[NARRATOR] Botanist responds with gentle reassurance:
+[NARRATOR] There you have it. Harsh words for the President from Michael Danforth, the Speaker of the House. 
 
-[MALE] Not to volunteer could be a real mistake.
+[NARRATOR] With a heavy, deliberate press of a button, Marshall muted the television, plunging the interior back into a profound, restful silence. A long, still moment settled over the moving car, undisturbed except for the gentle rush of air conditioning. 
 
-[NARRATOR] Microbiologist whispers gently into the still air:
+[FEMALE] * My opinion. We can't let him get away with that kind of language. 
 
-[MALE] Definitely a mistake! COLE gives away nothing.  He's in a box here.  He has no choices. He stares at the tapping pencil. INT.  ART GALLERY - NIGHT A strikingly "real" world of bright colors.  Extravagant paintings adorn the walls.  A POET, tiny and ruddy faced, squints over his glasses as he reads in a booming voice to an AUDIENCE of thirty seated on folding chairs.
+[NARRATOR] Marshall sat in the quiet dark, considering the words, letting them wash over him and drift away like smoke into the night air before finally making his choice. 
 
-[NARRATOR] Poet adds in a relaxed, peaceful voice:
+[MALE] It's bait. Don't take it. 
 
-[MALE] Still among the myriad microwaves, the infra-red messages, the gigabytes of ones and zeroes, we find words, infinitesimally small, byte-sized now, tinier even than science lurking in some vague electricity where, if we listen we can hear the solitary voice of that poet telling us, "We are no other than a moving row Of Magic shadow-shapes that come and go Round with the Sun-illumined Lantern hold In Midnight by the Master of the show." As the POET reads, we STUDY the audience, mostly YUPPIE CULTURE JUNKIES or BOHEMIANS.  Among them, a light-haired woman of twenty- eight, soberly dressed, wearing glasses.  She's KATHRYN RAILLY.  And it's her beeper that suddenly BEEPS.  BEEP!  BEEP! POET'S VOICE  "The Moving Finger writes; and, having writ, Moves on:  nor all your Piety nor Wit Shall lure it back to cancel half a Line, Nor all your Tears wash out a Word of it." BEEP!  BEEP!  Scowling at the outrageous interruption, the POET looks up from the text just as RAILLY, tumbling, shuts off the beeper and rises, embarrassed.  As she makes her way to an exit, the glaring POET continues...
+[FEMALE] Sir, the Speaker of the House attacked this administration on national television. You can't afford to leave that hanging. 
 
-[NARRATOR] Poet answers in a low, calming tone:
+[NARRATOR] Ignoring the urgency in Shepherd's tone, Marshall closed his eyes for a long, slow moment, letting the gentle sway of the limousine lull him toward peace. 
 
-[MALE] "Yesterday This Day's Madness did prepare; Tomorrow's Silence, Triumph or Despair: Drink!  for you know not whence you came, nor why: Drink!  for you know not why you go, nor where." INT.  CORRIDOR/POLICE STATION - NIGHT DETECTIVE FRANKI leads RAILLY past crowded holding cells.
+[MALE] Did we tape the Duke game? 
 
-[NARRATOR] Franki responds with gentle reassurance:
+[NARRATOR] A young aide nodded from the shadows of the back seat. 
 
-[MALE] -- so they get there and they ask the guy real nice for some kind of i.d., and he gets agitated, starts screaming about viruses. Totally irrational, totally disoriented, doesn't know where he is, what day it is, alla that stuff.  All they got was his name.  They figure he's stoned out of his mind, it's some kinda psychotic episode, so they're gonna bring him...
+[NARRATOR] It's waiting on the plane. The ending was pretty... 
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Marshall held up a hand, interrupting him with a gentle, weary finality. 
 
-[MALE] He's been tested for drugs?
+[MALE] Please don't tell me. Just for once, * let me be surprised. 
 
-[NARRATOR] Franki responds with gentle reassurance:
+[NARRATOR] High above the sleeping earth, inside the cavernous, softly lit corridor of Air Force One as it surged quietly through the midnight clouds, Maria Mitchell escorted the visiting Russian delegates down the seemingly endless length of the great aircraft. As they glided past the polished wooden surfaces of the galley, Maria paused for a moment, raising her hand to gently motion toward a carpeted staircase leading upward. 
 
-[MALE] Negative for drugs.  But he took on five cops like he was dusted to the eyeballs.  No drugs.  You believe that? FRANKI pauses, indicating a tiny observation window of thick meshed glass in an otherwise solid door, and RAILLY looks through it. RAILLY'S POV THROUGH THE WINDOW:  a MAN, his back to her, in strait-jacket and prison denims, examining the wall of the padded cell with the distorted intensity of a "mental case".
+[NARRATOR] Up on the upper deck is the...
 
-[NARRATOR] Railly answers in a low, calming tone:
+[NARRATOR] The soft, diffused lighting of the upper deck guided them onward, casting a gentle amber glow over the plush carpeting and the meticulously polished bulkheads. 
 
-[MALE] You have him in restraints.
+[NARRATOR] Up on the upper deck is the... cockpit and the Mission Communication Center. The MCC, as we call it, can place clear and secure phone calls to anywhere on earth. We're linked to a network of military and civilian satellites and ground stations. We could run the country or run a war from there if we had to.
 
-[NARRATOR] Franki whispers gently into the still air:
+[NARRATOR] A quiet, steady hum of heavy engines vibrated softly through the floorboards, a low and hypnotic lullaby that seemed to anchor the flying fortress against the vast, dark sky outside. Korshunov gazed around the immaculate space, his voice carrying a quiet, contemplative weight in the subdued cabin.
 
-[MALE] Were you listening?  We got two officers in the hospital.  Yeah, he's in restraints, plus the medic gave him enough stellazine to kill a horse.  Look at him!  Still on his feet. RAILLY'S POV THROUGH THE WINDOW:  the MAN in the cell turns, looks right at her.  In spite of the cuts and welts, it's clearly COLE.
+[MALE] This is a remarkable aircraft.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] Mitchell smiled, his footsteps falling softly as they moved along the wide, wood-paneled corridor.
 
-[MALE] That would explain the bruises, I guess.  The struggle.
+[MALE] You don't know the half of it. Did you know this entire plane is shielded from radiation? We could fly through a mushroom cloud completely unharmed if necessary.
 
-[NARRATOR] Franki whispers gently into the still air:
+[NARRATOR] Korshunov paused for a brief, reflective moment, his eyes scanning the dense technological marvels surrounding them.
 
-[MALE] You want to go in?  Examine him?
+[MALE] A dubious distinction, no?
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Mitchell offered a slow, easy nod, his shoulders relaxing in the tranquil atmosphere of the flight deck.
 
-[MALE] Yes, please.  You said he gave a name...
+[MALE] I guess it depends on your perspective.
 
-[NARRATOR] Franki speaks with a quiet, measured softness:
+[NARRATOR] They walked on, their shadows stretching long and slow over the carpet as they passed by several conference rooms, running down the starboard side of the plane. The rhythmic, muffled thrum of the aircraft lulled the senses into a deep, heavy peace. Korshunov glanced toward the closed doors lining the passage.
 
-[MALE] James Cole.  That's everything we got.  None of the James Coles on the computer match him. No license, no prints, no warrants.  Nothing. You want me to go in with you?
+[MALE] And all these rooms here?
 
-[NARRATOR] Railly answers in a low, calming tone:
+[NARRATOR] Mitchell gestured fluidly with an open palm, his voice a steady, calming drone that blended seamlessly with the ambient white noise of the jet.
 
-[MALE] No, thank you.
+[MALE] Conference rooms, though some have other functions. The one up front doubles as an emergency medical center.
 
-[NARRATOR] Franki whispers gently into the still air:
+[NARRATOR] Moving past the conference rooms, they drifted by a small, quiet side room where secretaries worked in hushed tones on computers, their fingers clicking softly like distant raindrops while generating documents in the warm, dim light.
 
-[MALE] I'll be right here...just in case. INT.  ISOLATION CELL COLE stares at RAILLY.  The environment is intensely real...vivid colors...each sound, however slight, very distinct, almost loud... and yet she appears to him almost like a vision.
+[NARRATOR] As you can see, back here's more like a regular plane. Security and Secret Service take this cabin. You'll be in the rear with the press pool.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] They entered the rear press cabin, situated just ahead of the rear galley and the quiet bank of bathrooms. A handful of disgruntled reporters feigned sleep, their heads lolling comfortably against rolled-up jackets and soft cushions, lulled by the constant, soothing motion of the flight. Mitchell handed over a small packet, his tone courteous and low.
 
-[MALE] Mr. Cole?  My name is Doctor Railly. I'm a psychiatrist.  I work for the County -- I don't work for the police. My only concern is your well being -- do you understand that?
+[NARRATOR] Here's a press kit. I'll let you guys get comfortable and once we're airborne I'll be able to schedule the interviews.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Korshunov accepted the papers with a polite dip of his head.
 
-[MALE] I need to go now.
+[MALE] Thank you.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Mitchell turned and exited forward, his footsteps fading away into the deep carpeted expanse of the aircraft. One of the reporters stirred from the shadows, lifting a heavy head to look at the new arrivals with a weary, sleep-softened groan. Space was at a premium in the back, the air warm and heavy with fatigue.
 
-[MALE] I'm going to be completely honest.  I'm not going to lie to you.  I can't make the police let you go...but I do want to help you.  And I want you to trust me.  Can you do that, James?  May I call you "James"?
+[MALE] You fellas win some sort of fly-with-POTUS contest?
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] Korshunov blinked, a mild, unhurried curiosity crossing his features.
 
-[MALE] "James"!  Nobody ever calls me that.
+[MALE] Potus? What is Potus?
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] The reporter rubbed his tired eyes, settling back into his makeshift pillow with a soft sigh.
 
-[MALE] Have you been a patient at County? Have I seen you someplace?
+[MALE] P.O.T.U.S. President Of The United States.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Korshunov shook his head slowly, a faint, weary smile touching his lips.
 
-[MALE] No, not possible.  Listen, I have to get out of here.  I'm supposed to be getting information.
+[MALE] Ah, no. We won nothing. We are ITAR-TASS news service.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] The reporter let out a long, slow breath, gesturing vaguely to the cramped seating arrangement.
 
-[MALE] What kind of information?
+[MALE] Right. Listen, this here... This is my row. You'll have to sit over there.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Korshunov traded quiet, understanding looks with his news team, and together they settled into their designated spots as the heavy, comforting weight of the journey settled over them. 
 
-[MALE] It won't help you.  You can't do anything about it.  You can't change anything.
+[NARRATOR] Far below, outside in the velvety darkness of Moscow International Airport, the night air was still and crisp. The President's motorcade pulled up smoothly in front of Air Force One, its headlights painting long, pale beams across the tarmac. 
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Inside Air Force One, the atmosphere was a sanctuary of hushed efficiency and dim, golden lighting. The President and his entourage ascended from the lower deck platform onto the main deck, their movements unhurried and graceful. Colonel Daniel Axelrod, the pilot of Air Force One, snapped off a crisp salute as the President passed, his posture upright and calm.
 
-[MALE] Change what?
+[MALE] Welcome aboard, Mr. President.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] Marshall returned the salute with a relaxed, familiar gesture, his eyes carrying the gentle fatigue of a long day drawing to a close.
 
-[MALE] I need to go.
+[MALE] Hey Danny. How's it look tonight?
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] Colonel Axelrod smiled warmly, leaning in just slightly.
 
-[MALE] Do you know why you're here, James.
+[MALE] Glassy, sir. Care to take the wheel?
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Marshall chuckled low in his chest, shaking his head with a fond, easy humor.
 
-[MALE] Because I'm a good observer.  Because I have a tough mind.
+[MALE] You keep offering, one of these days I'll take you up on it. Rose and Alice back yet?
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] An aide standing nearby shook his head softly.
 
-[MALE] I see.  You don't remember assaulting a police officer...several officers?
+[MALE] No, Mr. President. The ballet ran late. Their ETA is seventeen minutes.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[NARRATOR] Marshall nodded slowly, reaching up to pull off his bow tie with a sigh of profound relief. He stepped toward his private stateroom, Shepherd following two quiet steps behind, his boots making no sound on the thick carpeting. 
 
-[MALE] They wanted identification.  I don't have any identification.  I wasn't trying to hurt them.
+[MALE] Mr. President?
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Marshall halted Shepherd with a gentle, floating gesture of his hand, pausing in the threshold of the doorway.
 
-[MALE] You don't have a driver's license, James?  Or a Social Security card?
+[MALE] Thirty seconds.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Shepherd nodded understandingly, stepping back to wait quietly by the door in the warm, ambient glow of the hallway. Outside the stateroom, Lieutenant Colonel Perkins took a quiet seat, settling into the cushions and opening the latest Tom Clancy thriller, using the heavy, secure nuclear football comfortably as a lap desk.
 
-[MALE] No.
+[NARRATOR] Inside the President's stateroom, the world grew utterly still. The lighting was soft, muted by heavy draperies that blocked out the vast, starry night. Marshall collapsed gently onto the plush couch, slowly rubbing his tired eyes, before letting his eyelids drift closed in the quiet embrace of the room. A moment...
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] The quiet sanctuary of the stateroom offered a brief, fleeting island of peace amidst the relentless currents of a breakneck day. Outside the thick, sound-dampening hull, the great jet surged through the velvet night, its engines humming a low, steady, hypnotic vibration that lulled the air into stillness. A sudden, polite knock at the heavy wooden door broke the tranquil spell, fracturing the silence. 
 
-[MALE] Why not?  Most people have some ID.
+[MALE] Yes.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Shepherd slipped into the room, his footsteps soundless on the deep carpet, carrying with him the restless energy of the administration.
 
-[MALE] You wouldn't understand.
+[MALE] Can I at least issue a press release objecting to the Speaker's choice of wording?
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] President Marshall did not look up immediately. He reached out with a steady hand, lifting the receiver of one of the many black telephones resting on his desk.
 
-[MALE] You've been in an institution, haven't you, James?  A hospital?
+[MALE] I said it's not worth the fight. Steward, please.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Shepherd took a restless step forward, his voice persistent in the softly lit room.
 
-[MALE] I have to go.
+[MALE] We'll just say it was in bad taste.
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] Marshall lowered the phone, his gaze hardening as he looked at his advisor, his voice dropping into a register of quiet, weary conviction.
 
-[MALE] A jail?  Prison?
+[MALE] Forget it, Shep. The kid gave his life for his country and the Speaker's a bastard for turning him into a sound bite. I'll take the heat. Understood?
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] You give me ulcers.
 
-[MALE] Underground.
+[MALE] That's my job.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] At that moment, a steward slipped quietly through the doorway, his uniform immaculate, blending into the subdued shadows of the stateroom.
 
-[MALE] Hiding?
+[MALE] Mr. President?
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Hey Mike. Could you get me a Heineken?
 
-[MALE] I love this air.  This is wonderful air.
+[MALE] No, wait. Get him one of the Russian beers.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] The steward gave a silent, deferential nod and faded back into the corridor, his departure as quiet as his arrival.
 
-[MALE] What's wonderful about the air, James?
+[MALE] We've got those Russian news guys on board and it'll look good in the papers.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Marshall turned his attention downward, his fingers sifting through a heavy stack of crisply printed policy reports, the rustling of paper the only sound in the room.
 
-[MALE] It's so clean.  No germs.
+[MALE] C'mon Shep. I've been eating borscht and drinking vodka for days. Isn't that enough? New home starts are down.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] The door clicked open once more. The steward returned, stepping over the threshold with a dark glass bottle, presenting it with quiet care. Marshall took the bottle, raised it, and took a long, thirsty swig. He swallowed hard against the bitter taste, his face instantly souring. It was entirely flavorless, little more than cold water. 
 
-[MALE] You're afraid of germs?
+Silently, Marshall crossed the plush carpet to the small sink in the corner. With a sigh of resignation, he tipped the bottle, pouring the pale liquid down the drain. He handed the empty glass back to the waiting attendant.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Fill this with Heineken.
 
-[MALE] I have to go.
+[MALE] Yes, Mr. President.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] The steward slinked backward out of the room, cradling the bottle. Watching him go, a sudden wave of self-awareness washed over the President. He shook his head, a faint, self-deprecating smile touching his lips.
 
-[MALE] Why do you think there aren't any germs in the air, James?
+[MALE] I don't believe this. I'm playing politics with a bottle of beer. A goddamn bottle of beer. I've been in office too long.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] Look on the bright side... if the polls don't change, you won't have that problem, sir.
 
-[MALE] This is April, right?
+[NARRATOR] Marshall reached out again, his hand finding the familiar weight of the telephone receiver.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[MALE] Yeah. Put the Duke game on in my room.
 
-[MALE] July.
+[NARRATOR] Far away in the glowing alcoves of the mission communication center on the upper deck, Air Force specialists monitored banks of glowing screens and quiet dials under the amber wash of overhead lamps. 
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] Yes, Mr. President.
 
-[MALE] July?!
+[NARRATOR] The specialist slid a magnetic tape into the humming deck, routing the live feed downward through the spine of the aircraft, straight into the quiet haven of the stateroom. The blank screen on the wall flickered to life, bathing the dark wood panels in the soft, dancing green and amber light of a distant basketball court. Marshall glanced up at the moving images, then shifted his gaze back to his trusted advisor.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[MALE] Defense and State Department in the conference room in one hour. I want to review the Iraq situation.
 
-[MALE] Do you know what year it is?
+[MALE] Yes, sir.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Shepherd turned and quietly exited, leaving the President alone with the gentle hum of the aircraft. Marshall sank deep into the worn leather of his chair, pulling the stack of briefing papers closer, and pressed the small intercom button on the speakerphone.
 
-[MALE] What year is it?
+[MALE] Get me the Housing Secretary...
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Deep in the dark exterior of the night, the colossal silhouette of Air Force One cut smoothly through the high-altitude air. Below, the pristine tarmac reflected the amber glow of floodlights as a motorcade glided to a halt. Marine guards snapped to crisp, synchronized attention against the chill wind. 
 
-[MALE] What year do you think it is?
+From the sleek leather interior of the lead limousine emerged Rose Marshall. She possessed an air of effortless grace and an aristocratic gleam in her eye that commanded the quiet night. She took two precise steps forward, then paused, her heel tapping a gentle, impatient rhythm against the stone.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[FEMALE] C'mon Alice, we're 20 minutes late. Your father's gonna have a fit.
 
-[MALE] 1995?
+[NARRATOR] From the shadows of the vehicle's rear door, a young girl emerged, dragging her feet with all the practiced reluctance of thirteen years. Alice, the President's daughter, rolled her eyes toward the vast, starry expanse above, letting out a soft sigh that misted in the cool air.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[FEMALE] It's not like he hasn't made us wait a few times.
 
-[MALE] You think it's July of 1995?  That's the future, James.  Do you think you're living in the future?
+[FEMALE] Well, you
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The cabin of Air Force One hummed with a low, rhythmic vibration, a steady, mechanical lullaby that masked the rush of the midnight air outside. Soft, recessed lighting cast a warm, amber glow across the plush carpet and the polished wood paneling of the main deck. A gentle draft from the subtle ventilation system brushed against the hem of the First Lady’s coat as she gently nudged her daughter forward, her voice a soft murmur that blended with the ambient hum of the engines.
 
-[MALE] No, 1995 is the past.
+[FEMALE] Well, you aren't the President, dear.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[FEMALE] Yeah, no duh.
 
-[MALE] 1995 is the future, James.  This is 1989. COLE looks stunned. INT.  POLICE STATION CORRIDOR - MORNING COLE, bound tightly by the strait-jacket, heavy manacles on his ankles, is being escorted down the corridor by two surly POLICEMEN.
+[NARRATOR] Rose sighed, a quiet, understanding breath, watching the young girl shift her weight from one foot to the other in the hushed, secure sanctuary of the aircraft. 
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[FEMALE] Why don't you go say hi?
 
-[MALE] Where are you taking me? POLICEMAN #1 South of France, buddy.  Fancy hotel. You're gonna love it.
+[NARRATOR] Alice rolled her eyes, the gesture heavy with the universal exhaustion of a thirteen-year-old pulled away from her world. 
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[FEMALE] What is wrong with you tonight? Come here.
 
-[MALE] South of France?!  I don't want to go to the South of France.  I want to make a telephone call. POLICEMAN #2 smirks as he unlocks a heavy steel door. POLICEMAN #2 Zip it, scumbag -- you fooled the shrink with your act, but you don't fool us. Then, POLICEMAN #2 swings the steel door open and sunlight overwhelms COLE, blinding him in a dazzling fury of white light. EXT.  CITY STREET/MINI-VAN - DAY A Mini-van, the kind of vehicle used to transport a half dozen prisoners, crawls through a busy street.  The Police Department logo is prominent on the side of the van beneath barred windows. INT. COUNTY HOSPITAL/SHOWERS - AN HOUR LATER  Fierce spray recalls the decontamination in the future.  COLE stands stark naked under the shower while two muscular attendants, PALMER and BILLINGS, supervise. As PALMER shuts off the water, BILLINGS hands COLE a towel and starts inspecting his scalp...
+[NARRATOR] Rose pulled Alice gently aside, away from the quiet rustling of papers and the low whispers of the surrounding aides, into a pocket of softer shadow.
 
-[NARRATOR] Billings responds with gentle reassurance:
+[FEMALE] You don't want to say hi to your father?
 
-[MALE] Lemme see your head, Jimbo, see if you got any creepy crawlies.
+[FEMALE] I'm sure he's busy.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[FEMALE] Don't you even want to ask?
 
-[MALE] I need to make a telephone call.
+[NARRATOR] Alice toed her foot into the dense, thick wool of the carpet, releasing a long, exasperated sigh that seemed to carry the weight of a thousand delayed flights and missed dinners. She lifted her hand, offering a casual, almost sarcastic wave toward the heavy door of the Presidential Suite at the front of the cabin.
 
-[NARRATOR] Billings whispers gently into the still air:
+[FEMALE] If I go over there to say hi to daddy President, Mike's going to tell me he's in a meeting and can't be disturbed. Then when the plane starts to taxi, he'll come out and say "Hey, are you guys back? Did you enjoy the ballet?" But he'll be on his way to another meeting and won't wait for an answer. Then you'll get pissed at him and he'll get pissed at you. It's like you guys rehearse or something.
 
-[MALE] Gotta work that out with a doctor, Jimbo. Can't make no calls 'til the doctor says.
+[NARRATOR] With a dramatic flourish, weighed down by the invisible burdens of statehood and adolescence, Alice collapsed backward into one of the oversized leather armchairs. The supple leather yielded instantly, its deep cushions swallowing her frame in a quiet, enveloping embrace. A steward, Jory, drifted past the row of seats, moving with the practiced, silent grace of someone accustomed to the midnight skies.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[FEMALE] Hey Joey, how `bout a cocoa, double whip cream.
 
-[MALE] It's very important.
+[FEMALE] Alice...
 
-[NARRATOR] Billings adds in a relaxed, peaceful voice:
+[FEMALE] Mom, just this once, give it a rest.
 
-[MALE] What chew gotta do, Jimbo, is take it easy, relax into things.  We all gonna get along fine if you just relax. COLE gets the hint of menace in the message and submits to the lice inspection, only his eyes revealing his frustration. INT.  HOSPITAL/DAYROOM - HALF AN HOUR LATER  COLE stands in the doorway, stunned by his first sight of the large room.  His eyes go to the heavily-grilled windows where light pours in from outside.  Then, to the TV, where a CARTOON COMMERCIAL makes raucous noises. PATIENTS, in K-Mart street clothes or ratty robes, stare gloomily at the TV, or play cards, pace, or just stare blankly. BILLINGS is at COLE'S side, beckoning to a patient, JEFFREY MASON, a twenty year old white youth dressed in khakis and a plaid shirt.
+[FEMALE] You're jet-lagged. We'll talk about this back...
 
-[NARRATOR] Billings whispers gently into the still air:
+[FEMALE] Back at The Fishbowl?
 
-[MALE] Jeffrey.  Yo!  Jeffrey.  This here is James. Whyncha show James around?  Tell him the TV rules, show him the games an' stuff, okay?
+[NARRATOR] Alice's gaze swept across the curved walls of the cabin, eyeing the cluster of presidential aides who pretended with great concentration to be absorbed in their silent paperwork, though their ears strained to catch every word. With a dry, knowing smile, Alice raised her hand and offered them a slow, dramatic wave.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[FEMALE] We'll talk at home. You know, most girls aren't as lucky as you. For most girls seeing the Bolshoi ballet would be the experience of a lifetime.
 
-[MALE] How much you gonna pay me?  Huh?  I'd be doing your job.
+[FEMALE] I know, Mom. It was great... really.
 
-[NARRATOR] Billings adds in a relaxed, peaceful voice:
+[NARRATOR] Rose nodded, her expression softening into a gentle, half-formed smile. After a long, contemplative pause, Alice pushed herself up from the deep leather chair, crossing the quiet deck to the heavy door of the Presidential suite. She exchanged a few low, murmured words with the aide standing guard outside, then turned and walked slowly back, her face schooling itself to cover the flicker of disappointment in her eyes.
 
-[MALE] Five thousand dollars, my man.  That enough?  I'll wire it to your account as usual, okay?
+[FEMALE] He's in a meeting. He can't be disturbed.
 
-[NARRATOR] Jeffrey offers quietly, watching the shadows drift across the room:
+[FEMALE] I'm sorry, honey.
 
-[MALE] Okay, Billings.  Five thousand.  That's enough.  Five thousand dollars.  I'll give him the Deluxe Mental Hospital Tour. As BILLINGS walks away chuckling, JEFFREY turns to COLE.
+[FEMALE] No, it's okay. After all, he is the President, right?
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[NARRATOR] At that moment, Jory the steward returned, placing a steaming mug into her hands with a warm, sympathetic wink. Alice’s eyes immediately brightened at the towering, pillowy mound of whipped cream melting slowly into the dark surface of the hot chocolate.
 
-[MALE] Kid around, kid around.  It makes them feel good, we're all pals.  We're prisoners, they're the guards, but it's all in good fun, you see? COLE nods and JEFFREY indicates card tables where PATIENTS are playing cards, checkers, chess, or working on jig saw puzzles.
+[FEMALE] When I write my memoirs I think I'll devote an entire chapter to the cocoa aboard Air Force One.
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[FEMALE] Your father never means to be so...
 
-[MALE] Here's the games.  Games vegitize you. If you play the games, you're voluntarily taking a tranquilizer. COLE sees a partially completed puzzle of the well-known painting, THE PEACEABLE KINGDOM, depicting a serene world of animals in harmony.
+[FEMALE] I know... But lotsa times I feel like it's me versus the world. Some kid at school teases me and the same day a plague breaks out in Bangladesh. I mean it doesn't take a genius to figure which is more important.
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[FEMALE] Some kids were teasing you?
 
-[MALE] What'd they give you?  Thorazine?  How much?  Learn your drugs -- know your doses.
+[FEMALE] That's not really the point.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] The cabin grew even quieter, the only sound being the distant, steady whisper of the jet stream gliding past the fuselage thousands of feet below. Rose reached out, her hand resting gently on her daughter's shoulder in the dim, soothing light.
 
-[MALE] I need to make a telephone call.
+[FEMALE] You're right and I'll tell you a secret. I know exactly how you feel.
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[NARRATOR] The cabin of the great aircraft settled into a slow, rhythmic hush, cocooned in the deep velvet shadows of twilight. The steady, hypnotic hum of the jet engines sang a low lullaby, vibrating softly through the polished metal walls as the massive plane completed its descent, gently kissing the tarmac. Outside, the lights of the airfield blurred into a soft, glowing mosaic of amber and gold, casting long, peaceful reflections across the windows. 
 
-[MALE] A telephone call?  That's communication with the outside world!  Doctor's discretion.  Hey, if alla these nuts could just make phone calls, it could spread.  Insanity oozing through telephone cables, oozing into the ears of all those poor sane people, infecting them!  Whackos everywhere!  A plague of madness.  In fact, very few of us here are actually mentally ill.  I'm not saying you're not mentally ill, for all I know you're crazy as a loon.  But that's not why you're here.  Why you're here is because of the system, because of the economy.  There's the TV.  It's all right there. Commercials.  We are not productive anymore, they don't need us to make things anymore, it's all automated.  What are we for then?  We're consumers.  Okay, buy a lot of stuff, you're a good citizen. But if you don't buy a lot of stuff, you know what?  You're mentally ill! That's a fact!  If you don't buy things...toilet paper, new cars, computerized blenders, electrically operated sexual devices...  SCREWDRIVERS WITH MINIATURE BUILT-IN RADAR DEVICES, STEREO SYSTEMS WITH BRAIN IMPLANTED HEADPHONES, VOICE- ACTIVATED COMPUTERS, AND... A woman orderly, TERRY, turns from the feeble PATIENT she's helping.
+[FEMALE] Big secret. You said the same thing to Newsweek.
 
-[NARRATOR] Terry adds in a relaxed, peaceful voice:
+[NARRATOR] A sudden, gentle jolt rippled through the fuselage, signaling the beginning of their slow, graceful taxi toward the terminal. The heavy machinery purred in a low, soothing rhythm, rocking the cabin with the comforting motion of a cradle. Alice leaned close to the window, her breath fogging the cool glass as she watched the vast, quiet expanse of the tarmac unfold before them.
 
-[MALE] Take it easy, Jeffrey.  Be calm. Abruptly, JEFFREY stifles his hysteria, takes a deep breath and continues, completely calm now.  But COLE isn't listening.  He's mesmerized by the TV.
+[FEMALE] We're taxiing. Ready. And... five... four... three.. two... one... Cue Daddy.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] With a quiet, theatrical gesture, Alice extended her hand toward the corridor, her imagination weaving the fabric of the room. And as if conjured by her own counting, the familiar figure of Marshall stepped out from the quiet warmth of his office. He paused for a moment, his hand gently lifting to check the gold watch on his wrist, bathed in the soft, amber glow of the corridor sconces.
 
-[MALE] So if you want to watch a particular program, say "All My Children" or something, you go to the Charge Nurse and tell her what day and time the show you want to see is on.  But you have to tell her before the show is scheduled to be on.  There was this one guy who was always requesting shows that had already played.  He couldn't quite grasp the idea that the Charge Nurse couldn't just make it be yesterday for him, turn back time ha ha.  What a fruitcake!! This last thought actually penetrates COLE'S focus on the TV and he turns to JEFFREY who's picking up speed again.
+[FEMALE] Oooooh, I'm good.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[MALE] Hey, you guys back already?
 
-[MALE] Seriously, more and more people are being defined now as mentally ill.  Why? Because they're not consuming on their own.  But as patients, they becone consumers of mental health care.  And this gives the so-called sane people work!  WHOOO!  SHOCK THERAPY!  GROUP THERAPY! HALLUCINATIONS!  THERAPEUTIC DRUGS! IGGIDY DIGGIDY DIG!  PERFECT!  THE SYSTEM IN HARMONY LIKE A BIG MACHINE...
+[NARRATOR] Alice nodded slowly, a soft, knowing smile playing at the corners of her mouth as the ambient light of the room danced in her eyes. 
 
-[NARRATOR] Terry adds in a relaxed, peaceful voice:
+[MALE] How was... the ballet?
 
-[MALE] Okay, that's it, Jeffrey, you're gonna get a shot.  I warned you...
+[FEMALE] It was the experience of a lifetime.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[MALE] How `bout a hug for the old man.
 
-[MALE] Right!  Right!  Carried away, heh heh. I got "carried away".  Explaining the workings of...the institution. Just then, TJ WASHINGTON, a somber-looking African American in a bathrobe, taps COLE on the shoulder.
+[NARRATOR] Alice rose from her seat with a slow, effortless grace, crossing the plush carpeting to wrap her arms around her father in a warm, lingering embrace. From the corner of the room, the soft, rhythmic click of a White House photographer's shutter broke the quiet, capturing the fleeting moment in a flash of bright, momentary light. Alice scrunched her nose, making a playful, exaggerated face at the camera before the moment gently dissolved. 
 
-[NARRATOR] Tj Washington adds in a relaxed, peaceful voice:
+A heartbeat later, the steady footsteps of Shepherd echoed softly down the corridor, breaking the quiet spell of the reunion. 
 
-[MALE] I don't really come from outer space.
+[MALE] Mr. President... they're ready for you in the conference room.
 
-[NARRATOR] Jeffrey whispers gently into the still air:
+[MALE] Okay. Hey, pumpkin, you'll tell me all about it later, right?
 
-[MALE] This is TJ Washington, Jim -- he doesn't really come from outer space.
+[FEMALE] Sure.
 
-[NARRATOR] Tj Washington offers quietly, watching the shadows drift across the room:
+[NARRATOR] Marshall turned toward the heavy oak doors of the conference room, pausing only to lean down and brush a light, formal kiss against Rose’s cheek. The gesture hung in the air, weighted with the heavy, unyielding formality of their lives.
 
-[MALE] Don't mock me, my friend.  It's a condition of "mental divergence". I find myself on another planet, Ogo, part of an intellectual elite, preparing to subjugate barbarian hordes on Pluto. But even though it's a totally convincing reality in every way...I can feel, breathe, hear...nevertheless, Ogo is actually a construct of my psyche.  I am mentally divergent in that I am escaping certain unnamed realities that plague my life here.  When I stop going there, I will be well.  Are you also divergent, friend? The P.A. SYSTEM interrupts, startling COLE. P.A. SYSTEM  James Cole.  Report to Staff.  James Cole!
+[FEMALE] May I speak to you for a moment?
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[MALE] Can't it wait?
 
-[MALE] Staff!  Whoo!  Time for Staff.  Now the geniuses cure you.  Hallelujah! INT.  PSYCH WARD CONFERENCE ROOM - MINUTES LATER  COLE is agitated, speaking forcefully.
+[FEMALE] No, Mr. President. It can't.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] The heavy mahogany door of the President’s office swung shut behind them, sealing out the low murmur of the outer hallways and wrapping the room in a profound, velvety stillness. The lamps cast a warm, golden glow across the leather-bound books and polished wood, creating a private sanctuary of shadows and quiet light. But before Rose could utter a single word, Marshall reached out, pulling her into a long, deep, passionate embrace. 
 
-[MALE] This is a place for crazy people!  I'm not crazy! RAILLY, four other PSYCHIATRIC RESIDENTS, including RAILLY'S best friend, MARILOU MARTIN, and their chief, DR. OWEN FLETCHER, sit around a beat-up conference table, watching COLE, who sits facing the doctors, with BILLINGS looming behind him.   RESIDENT #1 We don't use that term..."crazy", Mr. Cole.
+Rose gently pulled away, her expression guarded against the familiar warmth of his touch.
 
-[NARRATOR] Cole whispers gently into the still air:
+[FEMALE] Don't. I know spin control when I feel it.
 
-[MALE] Well, you've got some real nuts in here! Listen to me, all of you -- I have to tell you something that's going to be difficult for you to understand, but...
+[MALE] Rose, I don't have time for this. I've gotta go stop a war.
 
-[NARRATOR] Dr. Railly responds with gentle reassurance:
+[FEMALE] For godsakes, Jim, slow down and stop acting like the little dutch boy. Not even you can plug all the world's leaks. Don't you think it's a sign you're pushing too hard when your daughter sees more of you on MTV news than in person.
 
-[MALE] James...please.  These are all doctors here and we want to help you.
+[MALE] She's a big girl. She understands.
 
-[NARRATOR] Dr. Fletcher speaks with a quiet, measured softness:
+[FEMALE] How do you know she understands? You haven't spent more than five minutes with her, or me, in weeks.
 
-[MALE] Mr. Cole -- last night you told Dr. Railly you thought it was...  1995. ... How about right now?  Do you know what year it is right now?
+[MALE] And when have I had five minutes? When I wake up in the morning and I'm already three hours behind Schedule. What do you want me to do, Rose, tell the G7 to fuck off because I'm a family man? I'm sorry. That wasn't fair.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[FEMALE] No. It wasn't.
 
-[MALE] 1989.  Look, I'm not confused.  There's been a mistake, I've been sent to the wrong place. Suddenly, COLE reaches out and BILLINGS lunges forward, but COLE is just grabbing a pad and pencil.
+[NARRATOR] The heavy tension in the room seemed to soften, evaporating into the quiet corners like mist under a rising sun. Marshall opened his arms once more, drawing her gently against his chest as the ambient silence wrapped around them like a heavy, comforting blanket.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] You know what?
 
-[MALE] Hey, I'm not going to hurt anybody. FLETCHER restrains BILLINGS with a hand signal.
+[FEMALE] What?
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] I miss you. And I miss her.
 
-[MALE] Do any of you know anything about the Army of the Twelve Monkeys?  They paint this, stencil it, on buildings, all over the place. COLE waves a sketch of the dancing monkey logo we saw earlier.
+[FEMALE] But that's the point, Jim. We're right here.
 
-[NARRATOR] Dr. Casey answers in a low, calming tone:
+[MALE] I wish it were that easy...
 
-[MALE] Mr. Cole...
+[NARRATOR] A long, peaceful beat stretched between them, filled only with the faint, rhythmic ticking of a grandfather clock in the corner of the room. Marshall looked down at her, his face softening into the very same sweet, disarming smile that had first captured her heart so many years ago—the smile that had carried him across the country and into the quiet halls of power. Rose felt the last traces of her fatigue and frustration melt away in its warmth.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] I'll make it up to you, I promise.
 
-[MALE] Right.  I guess you wouldn't, this is 1989, they're probably not active yet. That makes sense!  Okay.  Listen to me, three billion people died in 1995. Three billion, got that?  Almost the whole population.  Of the world! Only about one percent survived. DOCTORS exchange knowing looks.  This is an old story, apparently. RESIDENT #2 Are you going to save us, Mr. Cole?
+[FEMALE] I should trust that promise? Because you know the voters are still waiting for that middle class tax cut.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] This promise isn't subject to Congressional approval.
 
-[MALE] Save you?  How can I save you?  It already happened!  I can't save you.  I'm simply trying to get some information for people in the present so that someday...  You don't believe me.  You think I'm crazy.  But I'm not crazy.  I'm a convict, sure, I have a quick temper, but I'm as sane as anyone in this room.  I... COLE stops, sees DR. FLETCHER tapping his pencil.  COLE'S seen that tapping before -- in the future!  It disorients him.
+[NARRATOR] Rose smiled, a genuine, relaxed expression that chased away the lingering shadows of the day. The air between them was light once more, serene and undisturbed.
 
-[NARRATOR] Dr. Railly whispers gently into the still air:
+[FEMALE] How did your speech go?
 
-[MALE] Can you tell us the name of the prison you've come from? COLE doesn't answer.  He's staring at the tapping pencil.
+[MALE] Well, they aren't burning me in effigy. That's always a good sign.
 
-[NARRATOR] Dr. Fletcher offers quietly, watching the shadows drift across the room:
+[NARRATOR] He leaned down, and this time, the kiss was soft, unhurried, and entirely real, untethered from the demands of the world outside. But as the quiet moments stretched on, a gentle, respectful knock rapped softly against the heavy wood of the office door.
 
-[MALE] Does this bother you, Mr. Cole?
+[MALE] Mr. President.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The heavy wooden door opens slowly, letting in a sliver of warm corridor light before clicking shut once more. 
 
-[MALE] No!  Look, I don't belong here!  What I need to do is make a telephone call to straighten everything out.
+[MALE] Look on the bright side, hon. Shep here thinks I'll be a one termer.
 
-[NARRATOR] Dr. Fletcher adds in a relaxed, peaceful voice:
+[FEMALE] Shall I ask the Chief of Staff to schedule your daughter in?
 
-[MALE] Who would you call, Mr. Cole, who would straighten everything out?
+[MALE] She is scheduled. Her school play's Tuesday night.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Rose offers a subtle, knowing roll of her eyes, a quiet, affectionate gesture in the amber glow of the room.
 
-[MALE] Scientists.  I'm supposed to report in to them.  They'll want to know they sent me to the wrong time.
+[MALE] The First Lady was making a joke, Shep. I'll make some time, Rose. I promise.
 
-[NARRATOR] Dr. Fletcher responds with gentle reassurance:
+[NARRATOR] Marshall turns away, his footsteps fading softly down the carpeted hallway as he heads toward his evening meeting. Outside, the night air is cool and still, wrapping the tarmac in a blanket of absolute dark, broken only by the soft amber beacons of the airfield. Inside the spacious, glowing cockpit of Air Force One, Colonel Axelrod and his co-pilot, Lieutenant Colonel Arthur Ingrahams, sit quietly at the illuminated controls, surrounded by the gentle hum of instruments. 
 
-[MALE] So you could talk to these scientists and they do what?  Send you to the future?
+[NARRATOR] A radio crackles to life, carrying a thick, welcoming accent through the static of the midnight hour.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[RUSSIAN AIR TRAFFIC (V.O.)] United States Air Force One, this is tower. It's an honor to clear you for immediate take-off on runway three.
 
-[MALE] No, no.  I can't talk to them.  It's called, "voice mail".  I'm supposed to leave messages. They monitor it from the present. RESIDENT #2 "From the present."  We're not in the present now, Mr. Cole?
+[COL. AXELROD] Roger, Tower. And thank you for the hospitality.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] With a smooth, practiced motion, Axelrod eases up the throttle. Four powerful GE-F103 turbofan engines awaken with a deep, sonorous sigh, vibrating the air with a steady, hypnotic pulse. Outside, the massive aircraft glides along the darkened runway like a silver ghost, lifting effortlessly into the moonlight to skate upward on a vast, invisible sheet of cool night air. An hour passes. The colossal plane cruises through the tranquil expanse of the midnight sky, far above the sleeping world. Deep within the galley, the ambient drone of the engines provides a lulling, rhythmic white noise. A gleaming silver coffee pot pours piping hot coffee into a ceramic mug emblazoned with the familiar, stately Presidential Seal. The mug joins a half-dozen others on a tray, carried gently down the carpeted corridor by a steward. Soft shadows stretch across the passenger cabins where profound drowsiness has overtaken nearly everyone on board. Most aides and travelers are already fast asleep, lulled by the gentle motion of the flight. Only the low, muted murmur of a television set breaks the quiet, playing CNN softly for the few night owls remaining.
 
-[MALE] No, no.  This is the past.  This has already happened.  Listen... RESIDENT #3 Mr. Cole, you belong in 1995 -- that's the present, is that it?
+[CNN REPORTER (T.V.)] In an unusually aggressive speech, the President characterized the Stravanavitch regime as thugs whose brutality will no longer be tolerated. Meanwhile, in Turkmenistan, Stravanavitch's ouster has sent the country into turmoil. Tens of thousands of refugees continue to huddle in U.N. safe havens, as rival Stravanavitch loyalists fight among themselves for control. But at least for the time being, the ethnic cleansing has been stopped.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[NARRATOR] Toward the front of the aircraft, the steward approaches a heavy door and slips inside the conference room. As the door clicks shut behind him, all exterior sound vanishes entirely. This is a deeply sound-shielded sanctuary, where even the eternal drone of the engines is reduced to a comforting, imperceptible memory. The lights within are dimmed to a soft, resting glow. Major Caldwell, a military advisor, stands near a glowing projection screen displaying satellite photographs of distant military installations. The steward moves silently, serving the warm coffee with effortless grace.
 
-[MALE] No, 1995 is the past, too.  Look...
+[MAJOR CALDWELL] Our KH-11's took this one at 0100 hours. What you see here is the mobilization of two mechanized brigades.
 
-[NARRATOR] Dr. Fletcher murmurs with a warm, steady cadence:
+[MALE] They've gotta be joking.
 
-[MALE] These scientists, Mr. Cole?  Are they doctors like ourselves? Two of the residents exchange quick knowing looks.
+[DOHERTY] The Iraqi ambassador is claiming it's just an exercise.
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] An exercise in futility. Send the Nimitz back in.
 
-[MALE] No!  I mean yes, but... Look, I've been given a lot of drugs but I'm still perfectly lucid. You have to let me use the phone.  One call! COLE looks desperately toward RAILLY, pleading eyes meeting hers. INT.  LOW RENT APARTMENT - DAY Four little KIDS SCREAM and SQUABBLE while the phone CHIRPS insistently in the tiny, cluttered apartment and a harried MOTHER lunges for the phone, answers sharply...
+[MAJOR CALDWELL] The northern border's gotten a bit hairy. Their MiGs are playing tag with our Tomcats and our boys are just itching to engage.
 
-[NARRATOR] Mother offers quietly, watching the shadows drift across the room:
+[MALE] Tell our boys to cool their jets. I don't need 'em creating policy for me.
 
-[FEMALE] Yes?  Whaaaaat?  "Voice mail"!  I don't know what you're talkin' about. ... Is this a joke?  I don't know any scientists. James who?  Never heard of you! The MOTHER slams down the phone. INT.  RAILLY'S OFFICE/COUNTY HOSPITAL - DAY A dismayed COLE still has the receiver in his hand.  Sympathetically, RAILLY takes it from him.
+[NARRATOR] The steward slips quietly back toward the heavy door, exiting the conference room and returning to the quiet, peaceful flow of the midnight flight.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] The corridor of the great aircraft glows with a dim, amber light, casting long, somber shadows across the carpeted floor. The ambient hum of the jet engines vibrates with a deep, rhythmic thrum, a steady, hypnotic pulse that lulls the surrounding night into a profound quiet. A lone steward moves softly through the passage, balancing a tray bearing a few remaining cups of dark, steaming coffee. 
 
-[MALE] It wasn't who you expected? COLE is clearly agitated, starts to pace, upset.  Nuts?
+[NARRATOR] Out of the gentle shadows steps Gibbs, his footsteps making scarcely a sound against the floor. As he glides past, his fingers scoop up one of the warm paper cups, his attention entirely absorbed by the crinkling pages of a faxed report clutched in his other hand. The cabin air is cool and conditioned, carrying the faint, metallic scent of high-altitude travel and the quiet stillness of the midnight hour.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Gibbs reaches the threshold of the Secret Service cabin, pausing just outside the doorway where the lighting softens into a sleepy, golden hue. 
 
-[MALE] It was some lady.  She didn't know anything.
+[MALE] Hey Walters, you and Johnson come here a second. Reykjavik just sent the advance team report.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[NARRATOR] Special Agents Walters and Johnson rise from their seats, their movements unhurried in the tranquil cabin environment, and follow Gibbs into the adjoining office. The heavy door swings shut behind them, sealing them away from the soft hum of the main compartment. 
 
-[MALE] Perhaps it was a wrong number...
+[NARRATOR] In the quiet sanctuary of the office, as the two agents settle into their seats, Gibbs’s hand moves with sudden, chilling swiftness. He withdraws his weapon, the silenced barrel catching the pale overhead light, and with cold precision, he fires, ending their quiet watches in an instant. The silence of the cabin remains unbroken, save for the muffled sigh of the ventilation system. Gibbs retrieves their firearms, slipping them securely into his waistband. He pauses for a beat, taking a slow, long sip of his coffee before quietly turning and exiting back into the corridor.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] As he moves through the Secret Service cabin, his gaze sweeps the room in a silent inventory. Five other agents are scattered about—some resting their eyes in the soft leather seats, others quietly attending to paperwork or speaking in low murmurs on the phone, enveloped in the sleepy embrace of the night flight.
 
-[MALE] No.  That's the reason they chose me -- I remember things. RAILLY frowns, studying the distracted man with intense interest. It's clear COLE is becoming a special patient and RAILLY'S cool, detached demeanor is giving way ever so slightly.
+[NARRATOR] Further down, in the press cabin, a dim reading light illuminates the faces of the passengers. Gibbs offers a subtle nod to Korshunov. Korshunov, in turn, signals one of his men. Nevsky pulls a videotape from its resting place, popping open the protective plastic cover to expose the dark ribbon within. Across the face of the cassette rests a thin strip of rubbery material. Nevsky gently pulls the strip upward, creating a makeshift fuse, and reaches for a small book of courtesy matches emblazoned with the Seal of the President. He nods once and strikes a match, lighting the fuse with a tiny, flickering flame.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[NARRATOR] In a rapid, synchronized cascade of motion, Gibbs tosses the two extra weapons he carries to Korshunov’s men, pivots sharply around the corner, and unleashes a series of suppressed shots. The remaining Secret Service agents, caught completely in the quiet haze of the night, attempt to reach for their sidearms, but the swift, silent precision leaves no time. One by one, they slump back into the fine Corinthian leather chairs, the cabin bathed in the soft, shadowed glow of the overhead lamps. 
 
-[MALE] James, where did you grow up?  Was it around here?  Around Baltimore?
+[NARRATOR] Nevsky tosses the smoking cassette up the corridor. Thick white smoke billows forth, creating a dense, obscuring screen that rolls softly across the carpet. Bazylev and Zedeck catch the thrown weapons, training them upon the startled reporters who blink against the sudden haze.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[AZYLEV] UP! GET UP NOW! Walk in front of us. Go! Go! Go!
 
-[MALE] What?
+[NARRATOR] The reporters are guided into the aisle, forming a hesitant human shield behind the advancing figures. Suddenly, one of the forward bathroom doors swings open, and a Secret Service agent emerges, blinking into the smoke. He registers the unfolding chaos and reaches instantly for his holster. 
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] Zedeck raises his weapon, firing a sharp, unsuppressed shot that shatters the quiet air. The sudden noise reverberates loudly through the cabin, instantly followed by the startled cries and echoes of alarm.
 
-[MALE] I have the...strangest feeling I've met you before...a long time ago, perhaps. Were you ever...?
+[NARRATOR] In the forward cabin, a sleeping Secret Service agent bolts upright, his eyes wide in the dim light. The sharp report of gunfire reaches his ears, and he springs from his seat, drawing his weapon as he advances toward the sound.
 
-[NARRATOR] Cole whispers gently into the still air:
+[SECRET SERVICE AGENT] SHOTS FIRED! SECURE BOY SCOUT! SHOTS FIRED! SHOTS FIRED!
 
-[MALE] Wait!  This is only 1989!  I'm supposed to be leaving messages in 1995.  It's not the right number yet.  That's the problem.  Damn!  How can I contact them? RAILLY recovers her distance, her poise, as she takes a bottle, pours out some tablets, and holds them out to COLE.
+[NARRATOR] Back in the Secret Service cabin, Bazylev and Zedeck lay down a steady suppressing fire toward the open doorway, keeping the passage locked in tension.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[MALE] Come on! Quickly.
 
-[MALE] James, take these.  Please -- I helped you like I said I would.  Now I want you to trust me. INT.  AIRPORT CONCOURSE - DAY  MR. PONYTAIL races past the startled YOUNG COLE.
+[NARRATOR] Korshunov, Nevsky, and Vlad follow closely in Gibbs's wake as they re-enter the office space. Gibbs slides open a heavy metal locker, revealing a hidden cache of MP5 automatic assault rifles and thick, protective bullet-proof vests. Korshunov reaches out, his hand closing over the heavy gear as the shadows lengthen around them.
 
-[NARRATOR] Mr. Ponytail speaks with a quiet, measured softness:
+[NARRATOR] The heavy metal locker hums softly as it slides shut, leaving the surrounding office space cloaked in deep, tranquil shadows. The ambient light fades to a gentle, slumberous charcoal, wrapping the room in absolute quiet. Far away, through winding corridors and deep within the metal belly of the majestic aircraft, the night air stirs with the faint, rhythmic hum of jet engines slicing through the velvet sky. 
 
-[MALE] WATCH IT! Was it JEFFREY wearing gaudy pants and a ponytail?  It was definitely JEFFREY'S VOICE. TRAVELERS dive for cover as a WOMAN'S VOICE cries out...
+[MALE] The Secret Service believes in being prepared for any eventuality.
 
-[NARRATOR] Woman'S Voice offers quietly, watching the shadows drift across the room:
+[NARRATOR] Out in the dimly lit corridor, a soft haze of gray smoke drifts lazily against the pale walls. A solitary agent moves through the calm, quiet gloom, his footsteps muffled against the carpet until he reaches a recessed wall panel glowing with a soft, amber light. His hand rises slowly, pressing a heavy red button. 
 
-[FEMALE] NOOOOOOOOOO! The TERRIFIED TRAVELER looks up at YOUNG COLE, makes eye contact, but doesn't speak.  The TERRIFIED TRAVELER looks a lot like DR. FLETCHER! Just then, YOUNG COLE is distracted by a running figure.  It's the BLONDE MAN in the Hawaiian shirt, but he's not injured.  He's sprinting toward the gates, glancing back over his shoulder, his moustache slightly askew! A sharp CRACK of a GUNSHOT rings out!  Then, DAZZLING LIGHT. Everything goes white! INT.  DORMITORY /COUNTY HOSPITAL - NIGHT COLE'S eyes blink awake, blinded by a flashlight. He's lying in one of thirty beds in a darkened ward.  Disoriented. Which world is this?  The room is full of BREATHING, SNORING, occasional MOANS.  He can barely discern the shadowy figures of an ORDERLY and a NURSE, making their rounds, checking each bed. His eyes adjusting to the darkness, COLE watches them exit. He turns and sees a patch of moonlight coming in a barred window. With a quick glance at the sleeping PATIENTS, he slips out of bed, makes his way stealthily to the window, peers out. COLE'S POV:  the moon, glowing in the sky, illuminating a single tree.  Under the tree, in silhouette, a COUPLE embraces, kisses. ANGLE ON COLE, looking out the window, absorbed. VOICE  It won't work. You can't open it. Alarmed, COLE turns, sees JEFFREY in the next bed.
+High above, inside the softly lit flight deck of Air Force One, a tiny red jewel on the security console blinks awake, casting a warm, steady ruby glow across the polished instrument panels.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[MALE] We have a code red, I repeat, code red. Shots fired onboard.
 
-[MALE] You think you can remove the grill but you can't.  It's welded. COLE checks the grill anyway.
+[MALE] Cabin/Flight Deck: Code Red Acknowledged... Shit.
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[FEMALE] Warsaw tower this is Air Force One. Declaring Emergency.
 
-[MALE] See?  I toldja.  And all the doors are locked, too.  They're protecting the people on the outside from us.  But the people outside are as crazy as us. COLE has become preoccupied with a small SPIDER creeping along the window sill.  He's staring at it when he's distracted by a sudden SOUND.  Grabbing the SPIDER, COLE scrambles back into bed just as the door opens and an ORDERLY probes the dark room with the blade of his flashlight. ANGLE ON COLE, in bed, feigning sleep. The flashlight clicks off and COLE hears the door close. For a long moment the ward is silent except for BREATHING, SNORES, occasional MOANS.  Then, COLE hears JEFFREY'S hoarse whisper, picking up right where he left off.
+[MALE] Ranstein Air Base, this is Air Force One Heavy. We have a code red, shots fired onboard, request priority redirect. Please acknowledge.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] Down on the ground, miles below in the quiet midnight stillness of Germany, the Ramstein Air Base control tower rests under a blanket of moonlight. Inside, the glowing green radar scope sweeps in slow, hypnotic circles, tracking the tiny blip of the massive aircraft gliding through the dark. 
 
-[MALE] You know what "crazy" is?  "crazy" is "majority rules".  Take germs for example. Although COLE is preoccupied with the SPIDER struggling to get out of his fist, he can't help reacting to the word, "germs"!
+[MALE] Fuck me. Go wake the General. Now!
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] The watch officer springs into gentle motion, lifting the heavy receiver as the controller leans toward the glowing microphone.
 
-[MALE] Germs?!
+[MALE] Air Force One Heavy, acknowledged. You are on our scope. Please state fuel remaining and souls onboard.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[MALE] Sixty seven souls onboard, we're okay with fuel. Request secure military escort with emergency medical standing by.
 
-[MALE] In the 18th century there was no such thing!  Nobody'd ever imagined such a thing -- no sane person anyway.  Along comes this doctor...Semmelweiss, I think.  He tries to convince people... other doctors mostly...that there are these teeny tiny invisible "bad things" called germs that get into your body and make you...sick!  He's trying to get doctors to wash their hands.  What is this guy...crazy?  Teeny tiny invisible whaddayou call 'em?..."germs"! As JEFFREY warms to his subject, getting excited, COLE tries to figure out where to put the SPIDER. JEFFREY  So cut to the 20th century!  Last week in fact, right before I got dragged into this hellhole.  I order a burger in this fast food joint.  The waiter drops it on the floor.  He picks it up, wipes it off, hands it to me...like it was all okay. No alternative.  COLE pops the SPIDER in his mouth and swallows it as JEFFREY prattles on...
+[NARRATOR] The controller presses a single red button, and far across the misty airfield, soft amber warning lights begin to turn, washing the long concrete runways in a soothing, hypnotic rotation of red and gold. Down below, silhouetted against the bright moonlight, dark figures move purposefully toward the sleek, slumbering shapes of F-15 Eagles resting on the tarmac.
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[MALE] Call Berlin Tower. Not a plane lands or takes off within two hundred miles! Understood?
 
-[MALE] "What about the germs?"  I say.  He goes, "I don't believe in germs.  Germs are just a plot they made up so they can sell you disinfectants and soap!" Now, he's crazy, right?  Hey, you believe in germs, don't you?
+[NARRATOR] The quiet nighttime room shifts into a steady hum of organized activity, while high above, inside the mission communications center of the great plane, a soft murmur of urgent voices fills the air like distant rain.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] General Greely? No sir, interrupt her. This is Air Force One. We have a code red. Shots have been fired.
 
-[MALE] I'm not crazy.
+[MALE] This is Air Force One with an emergency call.
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[NARRATOR] The heavy wooden doors of the conference room drift open, letting in a pale wash of hallway light and a wisp of soft, fragrant smoke. Two agents step quietly into the room, their movements fluid and calm, gliding toward the president who sits resting in the tranquil quiet.
 
-[MALE] Of course not, I never thought you were. You want to escape, right?  That's very sane.  I can help you.  You want me to, don't you?  Get you out?
+[MALE] What's going on?
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] We're under attack.
 
-[MALE] If you know how to escape, why don't you...?
+[MALE] Where's my family?
 
-[NARRATOR] Jeffrey whispers gently into the still air:
+[MALE] We're handling it, sir.
 
-[MALE] Why don't I escape, that's what you were going to ask me, right?  'Cause I'd be crazy to escape!  I'm all taken care of, see?  I've sent out word.
+[NARRATOR] The agents gently lift him to his feet, guiding him smoothly away from the room as the other officials murmur in the distance, their voices fading into a peaceful hum.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] The launch codes! Who's protecting the football?
 
-[MALE] What's that mean?
+[NARRATOR] Through the forward corridor, illuminated by the gentle glow of recessed ceiling lights, Perkins moves with the heavy briefcase, his steps steady as shadows lengthen and fade across the carpet, leaving only the quiet, rhythmic whisper of the wind outside the cabin walls.
 
-[NARRATOR] Jeffrey offers quietly, watching the shadows drift across the room:
+[NARRATOR] Through the dim, shadowed corridors of the great aircraft, the heavy night settles in like a thick blanket of velvet. The air grows still and quiet, save for the distant, muffled cadence of distant echoes fading into the vast, hollow belly of the plane. 
 
-[MALE] I've managed to contact certain underlings, evil spirits, secretaries of secretaries, and assorted minions, who will contact my father. When he learns I'm in this kind of place, he'll have them transfer me to one of those classy joints where they treat you...properly. LIKE A GUEST!  LIKE A PERSON!  SHEETS! TOWELS!  LIKE A BIG HOTEL WITH GREAT DRUGS FOR THE NUT CASE LUNATIC MANIAC DEVILS... PATIENTS are waking up as the NURSE and two ORDERLIES burst into the dorm and head straight for JEFFREY who's struggling to calm himself.
+[NARRATOR] Outside, among the high and endless clouds, the silver wings of the vessel tilt softly in the moonlight, banking in a wide, gentle curve through the velvet dark. The engines hum a low, continuous lullaby, vibrating the polished metal floor with a soothing, hypnotic rhythm that lulls the senses into a deep, heavy tranquility. 
 
-[NARRATOR] Jeffrey whispers gently into the still air:
+[NARRATOR] High above the world, in the hushed sanctuary of the flight deck, the soft green glow of instrument panels casts a peaceful light over dials and gauges. Voices murmur softly through the radio, blending with the gentle rush of nighttime air against the reinforced glass.
 
-[MALE] Sorry.  Really sorry.  Got a little agitated.  The thought of escaping crossed my mind and suddenly...suddenly I felt LIKE BENDING THE FUCKING BARS BACK, RIPPING OFF THE GODDAMN WINDOW FRAMES AND...EATING THEM, YES, EATING THEM, AND LEAPING, LEAPING... COLE watches the ORDERLIES grab JEFFREY and haul him away.
+[MALE] Air Force One Heavy, you are cleared for priority divert, all runways are clear.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[MALE] Warsaw Tower has cleared local airspace.
 
-[MALE] You dumb assholes!  I'm a mental patient! I'm supposed to act out.  Wait til you morons find out who I am.  My father's gonna be really upset.  AND WHEN MY FATHER GETS UPSET, THE GROUND SHAKES! MY FATHER IS GOD!  I WORSHIP MY FATHER. INT.  WARD DAYROOM - MORNING ANGLE ON TV SCREEN/A VIDEO IMAGE OF A LAB MONKEY, convulsing pathetically, a victim of shocks from the numerous wires attached to his tiny, restrained body. ANGLE ON COLE, sitting, writing intensely in a magazine with crayon, surrounded by dull-eyed PATIENTS in pajamas and ratty robes, staring at the shuddering LAB MONKEY on the TV screen. JEFFREY'S VOICE  Torture!  Experiments!  We're all monkeys COLE locks up, startled, as JEFFREY, one eye bruised black, takes the seat next to him.
+[MALE] Changing course heading to 276 point five. Dropping to twenty thousand feet.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Ingrahams, make sure that door's locked.
 
-[MALE] They hurt you!
+[FEMALE] Yes sir.
 
-[NARRATOR] Jeffrey responds with gentle reassurance:
+[NARRATOR] The heavy lock turns with a quiet, reassuring click, sealing the flight deck away from the rest of the world, leaving only the steady, rhythmic pulse of the engines drifting through the metal walls. In the stateroom further down, the shadows lengthen against the wood-paneled walls. 
 
-[MALE] Not as bad as what they're doing to kitty. ANGLE ON TV, showing a laboratory CAT turning in mad circles, eating its own tail, while a NEWS REPORTER narrates. TV NEWS REPORTER  These video tapes were obtained by animal rights activists who worked underground as laboratory assistants for several months.  Authorities say there is little they can do until... The video footage now shows LAB WORKERS watching the results of their experiments passively. ANGLE ON COLE, reacting angrily.
+[MALE] Get back! Get back!
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] A quiet hush falls over the forward bulkhead as the shadows shift. The secret service agents move with muted urgency, their footsteps muffled against the plush carpet. 
 
-[MALE] Look at those assholes, they're asking for it!  Maybe people deserved to be wiped out!
+[MALE] We have Boy Scout, traveling forward.
 
-[NARRATOR] Jeffrey whispers gently into the still air:
+[MALE] Negative... negative... they're up here too.
 
-[MALE] Wiping cut the human race!  That's a great idea!  But it's more of a long term thing -- right now we have to focus on more immediate goals.  I didn't say a word about "you know what".
+[MALE] Roger. We're going to the chute.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] ROSE! ALICE!
 
-[MALE] What are you talking about???
+[NARRATOR] The call echoes softly down the carpeted hallway, fading gently into the hum of the ventilation. Down in the small, warm sanctuary of the private bath, a soft voice answers through the quiet air.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[FEMALE] Daddy...
 
-[MALE] You know -- your plan. As COLE stares, befuddled, JEFFREY sees COLE'S magazine.
+[NARRATOR] The door drifts open, letting in a sliver of cool hallway light. Further down the long, carpeted mid-plane corridor, the shadows grow long and hazy. Perkins lifts himself slowly from the floor, his breathing deep and steady, his footsteps dragging softly as he moves toward the quiet hum of the computer room. The soft amber glow of computer terminals illuminates the quiet space, casting long, peaceful shadows across the floor where paperwork rests undisturbed. 
 
-[NARRATOR] Jeffrey responds with gentle reassurance:
+[MALE] Down! Everyone down!
 
-[MALE] What're you writing?  You a reporter?
+[NARRATOR] The quiet hum of the room absorbs the sudden sound, letting it drift away like a ripple on a quiet lake. Perkins turns slowly in the amber light, his hand rising with a quiet, heavy grace as the shadows lengthen around him, stretching out into the deep, peaceful quiet of the night.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] The heavy silence of the night swallows the muted sounds of the struggle, letting them dissolve into the vast, quiet expanse of the high-altitude air. Outside, high above the sleeping earth, the sky is a deep, velvety indigo, pierced only by the soft, silvery luminescence of a pale moon. The moonbeams drift downward through broken veils of clouds, catching the sleek, metallic wings of a squadron of F-15 Eagles as they glide effortlessly into a protective, steady formation around the massive silhouette of Air Force One. 
 
-[MALE] It's private.
+Inside the dimly lit flight deck, the instrument panels cast a soft, rhythmic amber and green glow over the quiet crew. Through the thick reinforced glass of the cockpit, the dark, polished exterior of the aircraft cuts smoothly through the tranquil, thin air of the upper atmosphere. A steady, comforting hum vibrates through the frame of the plane, a low-pitched lullaby of motion that rocks the night.
 
-[NARRATOR] Jeffrey offers quietly, watching the shadows drift across the room:
+[COL. CARLTON] [MALE] Air Force One, this is Squadron Commander Carlton. You are now under escort. All airspace has been cleared.
 
-[MALE] A lawsuit?  You going to sue them? Just then BILLINGS looms over COLE, extending a cup full of pills.
+[NARRATOR] The radio crackles with a soft, static whisper before the steady voice of the pilot responds, grounded in deep, unwavering calm.
 
-[NARRATOR] Billings murmurs with a warm, steady cadence:
+[COL. AXELROD] [MALE] This is Air Force One Heavy. I'm coming in full throttle. ETA to Ramstein eight minutes. We've got a war here, sir.
 
-[MALE] Yo, James -- time to take your meds. INT.  DAY ROOM/HOSPITAL - THIRTY MINUTES LATER  ANGLE ON THE TV, a commercial playing:  a beautiful couple romps in the surf in slow motion while an eager NARRATOR encourages... NARRATOR  Take a chance.  Live the moment.  Sunshine. Gorgeous beaches.  The Florida Keys! ANGLE ON COLE, very drugged, seated in front of the TV along with other drugged PATIENTS, staring at the screen. ANGLE ON THE TV, showing a picture of the Marx Brothers. TV AWNOUNCER  We'll return to the Marx Brothers in "Monkey Business" following these messages. JEFFREY'S VOICE  Monkey Business!  Monk Key Business. COLE sees JEFFREY sliding into the next chair and smirking.
+[NARRATOR] Inside the cockpit of the lead F-15 Eagle, encased in the quiet isolation of a heavy helmet and tinted visor, Commander Carlton watches the distant, silent lights of the great transport plane.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[COL. CARLTON] [MALE] Copy. Delta Force has been mobilized.
 
-[MALE] Get it?  Monk - Key.  Monk!  Key! JEFFREY flashes his palm open for one quick moment.  A KEY!
+[COL. AXELROD] [MALE] Roger that.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Deep within the subterranean corridors of the great aircraft, far beneath the main passenger cabin, the air is cool, still, and shadowed. Secret Service agents move with quiet, desperate urgency, guiding the President through the softly illuminated forward baggage compartment and into the vast lower galley. This hidden room is lined with stainless steel storage freezers and food preparation tables, all catching the faint, utilitarian gleam of overhead emergency lamps. 
 
-[MALE] What....???
+On the far side of the galley, the agents fling open a heavy hatchway, stepping out into a narrow, echoing gangway that stretches between the lower galley and the rear baggage hold. The space is flanked by massive landing gear bays and sturdy wing supports. They duck low beneath the sweeping metal arches until their boots meet a cold mesh grating. With a quick, practiced motion, the uninjured agent heaves the grating upward, revealing the dark, cylindrical interior of an escape pod.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[SECRET SERVICE AGENT] [MALE] Get in!
 
-[MALE] Wooooo, they really dosed you, bro. Major load!  Listen up -- try and get it together.  Focus!  Focus!  The plan! Remember?  I did my part.
+[NARRATOR] For a brief moment, the President hesitates, his gaze drifting back toward the quiet shadows of the ship.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[SECRET SERVICE AGENT] [MALE] Get in, sir.
 
-[MALE] What...???
+[NARRATOR] A sudden, sharp clatter shatters the stillness of the gangway. A volley of bullets tears through the air, and the loyal agent stumbles, falling back under the protective shelter of a wing strut. The second agent immediately takes position, raising his weapon to return fire, his movements fluid and resolute as he beats back the incoming threat with measured precision. In the brief, breathless lull that follows, the President’s voice is barely a whisper above the gentle atmospheric sigh of the plane.
 
-[NARRATOR] Jeffrey whispers gently into the still air:
+[MARSHALL] [MALE] What about my family?
 
-[MALE] Not, "what", babe!  When! "When???"
+[SECRET SERVICE AGENT] [MALE] I have a family, too, sir. Now get in the fucking pod.
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[NARRATOR] The sharp, metallic chatter of renewed gunfire echoes against the curved bulkheads. The President stands frozen in the dim, flickering light, torn by the weight of a heavy choice. The agent presses himself against the cold steel, shouting over the rising din.
 
-[MALE] Now! VOICE/TV  Let us guide you to the stocks and bonds that will enhance your portfolio.
+[SECRET SERVICE AGENT] [MALE] Mr. President... MR. PRESIDENT! You have to do this! The pod, on three. Ready?
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[NARRATOR] With steady, practiced hands, the agent shoves a fresh clip into his weapon, the metallic click sounding unnaturally loud in the confined space.
 
-[MALE] YES -- NOW!  BUY NOW!  STOCKS AND BONDS! NO MORE MONKEY BUSINESS -- BUY NOW. ANGLE ON TV, almost mimicking JEFFREY with an ad...a BULL and a BEAR and a computer screen showing stock prices fluctuating. VOICE/TV  A portfolio tailored to your specific needs and the needs of your loved ones... ANGLE ON COLE, dumbfounded, watching JEFFREY dance crazily.
+[SECRET SERVICE AGENT] [MALE] One.
 
-[NARRATOR] Jeffrey whispers gently into the still air:
+[MARSHALL] [MALE] But...
 
-[MALE] YES, YES.  ENHANCE YOUR PORTFOLIO NOW! ANGLE ON BILLINGS, across the ward, reacting to JEFFREY, lets go of the OLD MAN he's helping as another orderly, TERRY, presses a beeper, calling for help. ANGLE ON COLE, flabbergasted, as JEFFREY cavorts around the room.
+[SECRET SERVICE AGENT] [MALE] Two... THREE. GO!
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] The agent executes a swift combat roll out into the open gangway, firing blindly as he advances, serving as a living shield. He absorbs the impacts of the incoming fire, his sacrifice buying the vital seconds needed. With a sudden, decisive burst of momentum, the President dives forward into the secure sanctuary of the pod.
 
-[MALE] BUY!  SELL!  SEIZE THE OPPORTUNITY! ANGLE ON A HAND, inserting the last piece into the PEACEABLE KINGDOM JIGSAW PUZZLE.  Just then, JEFFREY'S HAND sweeps the puzzle off the table, scattering it into a thousand pieces. ANGLE ON JEFFREY, dancing away while the PATIENT who just completed the puzzle stares, very upset. Other PATIENTS are getting agitated, too, as JEFFREY avoids a lunge by BILLINGS and dances off, using PATIENTS as a shield.
+At the far end of the gangway, behind the protective barrier of the bulkhead, two figures emerge from the shadows. As the brave agent finally falls, Nevsky and Vlad rush forward through the dim corridor, their footsteps echoing sharply against the grating just as the heavy door of the escape pod begins to slide smoothly along its oiled rails, closing out the restless world.
 
-[NARRATOR] Heavy Woman Patient answers in a low, calming tone:
+[NARRATOR] Outside, in the vast and silent night sky, the silver belly of the great aircraft opens its small bay doors. A lone, human-sized canister drops gently into the cool air, its silk parachute instantly unfurling, blossoming like a soft white cloud against the stars, drifting downward through the peaceful dark. High above, inside the warm glow of the flight deck, a small amber light flashes softly on the instrument panel, bathing the quiet room in a comforting, rhythmic pulse. 
 
-[FEMALE] I'M GETTING DIZZY.  MAKE HIM STOP!
+[MALE] Ramstein, Air Force One. Emergency pod has been deployed. I repeat, emergency pod has been deployed.
 
-[NARRATOR] Skinny Man Patient responds with gentle reassurance:
+[MALE] This is Ramstein. Acknowledged. We are picking up the homing beacon and deploying search and rescue.
 
-[MALE] HERE THEY COME!  THEY'RE COMING!
+[MALE] Copy, Ramstein. We are dropping to five thousand feet, beginning final approach.
 
-[NARRATOR] Old Man Patient speaks with a quiet, measured softness:
+[NARRATOR] Far away from the flight deck, in the dim, shadow-laden corridors of the baggage deck gangway, the air grows still and heavy. 
 
-[MALE] FIVE HUNDRED DOLLARS!  I GOT FIVE HUNDRED DOLLARS!  I'M INSURED!
+[FEMALE] Daddy? Dad?
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] The young voice echoes softly, filled with a fleeting, childish panic that slowly dissolves into the vast quiet of the metal halls. She rounds the heavy steel corner, and suddenly, a strong hand catches her hair, guiding her gently backward as a weapon presses softly against the fabric of her coat.
 
-[MALE] OPPORTUNITY!  DEFINITELY!  A WINDOW OF OPPORTUNITY!  OPENING NOW!  NOW'S THE TIME FOR ALL GOOD MEN TO SEIZE THE MOMENT!  YES! YES!  MASTERCARD!  VISA!  THE KEY TO HAPPINESS! ANGLE ON COLE, realizing through the haze of drugs that JEFFREY is sending a message to him.  COLE looks at the ward door. COLE'S POV:  the WARD DOOR opens and two husky ORDERLIES enter. One locks the door with a key, one of many on a key ring attached to his belt, as the other ORDERLY rushes to join the pursuit.
+[MALE] Your father has left you behind.
 
-[NARRATOR] Jeffrey responds with gentle reassurance:
+[NARRATOR] Deep within the presidential stateroom, the heavy door swings open with a slow, echoing creak. 
 
-[MALE] SEIZE THE MOMENT!  GET RICH!  NOW'S THE TIME!  GO FOR IT!
+[FEMALE] No!
 
-[NARRATOR] Billings adds in a relaxed, peaceful voice:
+[NARRATOR] A rapid series of sharp, harmless clicks fills the air, echoing like dry autumn twigs snapping in a forest, before silence reclaims the room. A smile crosses the threshold in the dim, amber lighting, and hands rise slowly against the wood-paneled walls, surrendering to the quiet. 
 
-[MALE] God damn you, Jeffrey, quit playing the fool. ANGLE ON COLE, hesitating.  He locks at the door...blurring in and out of focus.  He looks down at the key in his hand. ANGLE ON JEFFREY, being grabbed by the ORDERLIES.  JEFFREY resists wildly as they struggle to overpower him.
+Across the ocean, bathed in the gentle, warm sunlight of a new day, a green Marine helicopter touches down softly upon the manicured lawn of the White House. The blades slow their rotation, whirring down to a gentle, lulling whisper. Marines stand at attention, saluting as Katherine Chandler steps from the interior, walking steadily toward the grand South entrance.
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+Inside the deep, shadowed interior of Air Force One, footsteps pad softly across the carpeted floor of the mission communications center. A hand tests the heavy lock of the cockpit door, then strikes the reinforced metal with a dull, heavy thud that reverberates like a distant heartbeat.
 
-[MALE] LAST CHANCE!  LAST CHANCE!  HEY -- OW! ANGLE ON COLE, moving to the door.  He reaches it and tries to insert the key in the lock. ANGLE ON LOCK, as the key keeps missing the hole. ANGLE ON COLE, glancing nervously over his shoulder. COLE'S POV:  ORDERLIES swarm over JEFFREY, don't notice COLE. ANGLE ON COLE, managing to insert the key.  It won't turn. A PATIENT, close at hand, startles COLE, speaking into his ear.
+[MALE] Open! Now!
 
-[NARRATOR] Patient murmurs with a warm, steady cadence:
+[NARRATOR] Through the thick glass of the flight deck windows, the distant, glowing amber and white landing lights of Ramstein Air Base pierce the night, cutting a quiet, beautiful wedge through the sleeping German towns and silent fields below. The steady pounding continues, rhythmic and muffled.
 
-[MALE] Place to go would be...Florida.  The keys are lovely this tine of year. COLE, unnerved, desperate tries the key again.  It turns.
+[MALE] Ramstein, we are fifteen miles away on final approach. I'm coming in fast and will need every inch of runway.
 
-[NARRATOR] Patient whispers gently into the still air:
+[MALE] Copy, Air Force One. Wind is twelve knots from the east. Tactical and emergency are in position.
 
-[MALE] Be careful.  J. Edgar Hoover isn't really dead. COLE pauses, stares, not understanding.  Then, he opens the door. INT.  CORRIDOR/COUNTY HOSPITAL Stepping through the door, COLE finds himself in an ante-room facing several elevators. A uniformed SECURITY MAN sitting at a near-by desk doesn't even lock up from the magazine he's reading. Barely daring to breathe, COLE steps toward the elevators so his back is to the SECURITY MAN.  But he doesn't know how to control this elevator.  What should he do? SECURITY MAN'S VOICE  Two's not working today.  Use one. COLE freezes, sneaks a glance over his shoulder. COLE'S POV:  the SECURITY MAN continues his reading.  He's a big guy with reading glasses perched on his nose.  He looks exactly like the MENACING GUARD IN THE FUTURE...SCARFACE! ANGLE ON COLE, stunned! Just then, an elevator door slides open.  The elevator's empty. COLE steps into it. INT.  ELEVATOR/COUNTY HOSPITAL The door closes, isolating COLE in the elevator. COLE finds the down button, is about to push it when the elevator springs to life.  The numbers on the indicator over the door start to rise.  7...8...9. Then, the elevator stops and the door opens. Two DOCTORS and an AIDE stand in front of the door, waiting. COLE hesitates. They look at him.  They seem to expect him to exit. Avoiding eye contact, COLE exits the elevator. As they enter the elevator, the DOCTORS look back at COLE and frown. INT.  RAILLY'S OFFICE - MORNING RAILLY has just arrived for work.  She's slipping on her white doctor's coat when... DR. CASEY, one of the other residents, sticks his head in the door waving a crayoned message on a page torn from a magazine.
+[NARRATOR] Below, on the tarmac of Ramstein Air Field, the darkness is dotted with the silent, rotating glow of rescue vehicle lights, casting slow circles of crimson and amber across the damp concrete. A team of figures alights from a transport truck, moving with quiet, fluid grace. Snipers settle into their positions atop the high towers and barracks, their scopes reflecting the starlight.
 
-[NARRATOR] Dr. Casey answers in a low, calming tone:
+In the communications center, a weapon is raised, and a brief flurry of metallic reports strikes the reinforced steel door, blooming into small, harmless indentations that fade into the dim shadows.
 
-[MALE] This was in my box, but I have a slight suspicion it wasn't meant for me. CASEY enters the room, reading the scrawled words dramatically.
+[NARRATOR] Inside the flight deck, the impacts are heard only as faint, distant bumps, like raindrops falling upon a tin roof.
 
-[NARRATOR] Dr. Casey speaks with a quiet, measured softness:
+[MALE] Let's get this crate on the ground. There's some real good men waiting to help us.
 
-[MALE] "You are the most beautiful woman I have ever seen.  You live in a beautiful world.  But you don't know it.  You have freedom, sunshine, air you can breathe."
+[NARRATOR] Outside, the great silver wings of the aircraft deploy their heavy landing gear, descending in a slow, graceful glide over the sleeping city, riding the cool night currents closer and closer to the earth.
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] High above the quiet expanses of the airfield, the great silver aircraft drifts downward on a cushion of cool nocturnal air, its massive wings casting soft shadows beneath the pale glow of the moon. 
 
-[MALE] Cole.  James Cole -- right? She reaches for the note but CASEY moves it out of her grasp.
+[NARRATOR] Within the dim sanctuary of the communications room, the ambient light flickers gently against the concrete walls. Gibbs kneels in quiet concentration, his fingers smoothing out a thumb-sized ribbon of gray explosive, rolling it out like soft clay with the slow, deliberate patience of a gentle evening task, pressing it carefully along the heavy rubber seal of the door.
 
-[NARRATOR] Dr. Casey answers in a low, calming tone:
+[NARRATOR] Up on the flight deck, the atmosphere is bathed in the emerald and amber wash of instrument lights. Colonel Axelrod sits at the controls, his movements unhurried and precise.
 
-[MALE] "I would do anything to stay here, but I must leave.  Please, help me."
+[COL. AXELROD] Almost there.
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] He reaches out to gently raise the great silver flaps of the wings. The air speed softens, the altitude decreases, and the heavy bird settles into a deeper, slower grace, descending smoothly toward the quiet runway below. Three hundred feet... two hundred feet... the earth rising up to meet them like a long-lost friend. Outside on the perimeter, spotters watch the glowing navigation lights glide through the velvet stillness of the night.
 
-[MALE] Poor man... CASEY is handing her the note when another resident, DR. GOODINS, sticks his head in the door.  He's upset.
+[NARRATOR] In the communications room, Gibbs raises his weapon with a steady hand, aiming softly at the prepared seal. With a muffled pop that barely ripples the quiet air, he fires. A bright, sudden flash blooms in the shadows, blowing the heavy door inward in a silent rush of displaced air. 
 
-[NARRATOR] Dr. Goodins offers quietly, watching the shadows drift across the room:
+[NARRATOR] Outside, the massive tires of the aircraft meet the tarmac with a soft, sliding hum, kissing the concrete as the night air rushes past the fuselage. Gibbs and Zedeck move swiftly through the quiet corridors, stepping into the dim glow of the flight deck. Axelrod reaches out to hold the turning wheel, but the moment is quiet and fleeting. A single, quiet motion brings an end to his watch, and the pilot drifts forward, slumping softly against the instrument panel in a profound, unbroken sleep. 
 
-[MALE] Hey, Kathryn, James Cole is one of yours, right? RAILLY and CASEY stare at him.
+[NARRATOR] The great Boeing 747 begins to veer gently across the wide, open spaces of the airfield, its movement heavy and wandering like a ship seeking a distant shore. Emergency lights sweep across the glass in lazy, rhythmic pulses of red and blue, casting long, sweeping shadows against the walls. Inside the narrow corridors, hostages are guided softly toward the conference room, their footsteps muffled against the carpet. The master sergeant makes a sudden, fleeting reach, but the moment passes in a blur of sound, and Bazylev's voice cuts sharply through the dim hallway.
 
-[NARRATOR] Dr. Goodins offers quietly, watching the shadows drift across the room:
+[BAZYLEV] Keep moving!
 
-[MALE] He got out.  Took off.  Last seen, he was up on nine. INT.  X-RAY DEPARTMENT/BASEMENT - DAY A PATIENT is being swallowed by a large tube, a CAT SCANNER, while a DOCTOR in a white coat speaks reassuringly.
+[NARRATOR] Back upon the flight deck, the red glow of warning lights bathes the disarray. Gibbs reaches down, his hands resting upon Axelrod’s shoulders to ease him away from the controls.
 
-[NARRATOR] Doctor offers quietly, watching the shadows drift across the room:
+[GIBBS] Throttle up. Throttle up!
 
-[MALE] Just relax -- don't fight it.  We have to know exactly what's there so we can... The DOCTOR stops, astonished, as the door bursts open. It's COLE!  He stares at the PATIENT and the Cat Scanner. The PATIENT lifts his head up and stares at COLE.
+[NARRATOR] Zedek steps forward, his hand pushing the heavy metal levers all the way up into the forward position. The great jet engines outside awaken with a deep, rumbling sigh, a low-frequency vibration that hums softly through the floorboards. 
 
-[NARRATOR] Doctor answers in a low, calming tone:
+[NARRATOR] In the control tower, the controller leans against the glass, watching the vast machine drift across the fields like a restless giant.
 
-[MALE] Eh, excuse me.  Can I help you? COLE turns and rushes back out the door. INT.  CORRIDOR/COUNTY HOSPITAL COLE steps into the corridor, turns to his right, freezes. A POSSE of SECURITY GUARDS is headed in his direction. COLE turns to his left. Four ORDERLIES are coming that way. COLE'S trapped.  A beat.  He attacks the nearest man.  BILLINGS. INT.  TECH ROOM/PSYCH WARD - SHORTLY  RAILLY prepares a hypo, turns to COLE who is strapped tightly on a gurney with BILLINGS and an RN standing on either side, tense for more trouble.  One of BILLINGS' eyes is starting to swell shut.
+[RAMSTEIN A.B. CONTROLLER] Ah, fuck. We're losing it!
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Gibbs pulls the weight of the fallen pilot completely from the seat, casting his gaze through the fog-rimmed windshield. There, looming in the darkness directly ahead, a monstrous C-141 Starlifter rests across their path, a dark shadow as vast and imposing as Air Force One itself. Gibbs' hands tighten around the control column, pulling back with a smooth, gradual motion, coaxing the heavy nose upward into the night.
 
-[MALE] It's just a shot to calm you.
+[GIBBS] Come on.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] He reaches out to adjust the wing flaps, seeking the exact balance of air and metal. Outside, the mighty 747 struggles upward, its straining frame defying gravity like a wounded bird lifting its wings toward the safety of the clouds. Gibbs senses the perilous closeness of the earth and the looming shape, pulling back further on the stick, risking everything in one smooth, sweeping motion. The magnificent bird responds, its engines singing a deep, resonant lullaby as it climbs at last into the cool, forgiving sky.
 
-[MALE] No more drugs.  Please...
+[NARRATOR] High in the midnight firmament, the magnificent silver body of Air Force One sweeps upward, barely clearing the massive silhouette of the Starlifter below. The tip of her wing brushes the cool night air, missing the tail of the transport craft by a whisper. Far beneath them, upon the quiet runway, the sharp-eyed sentries, the emergency crews, and the weary commandos of Delta Force stand in silence, watching the giant bird dissolve into the vast, protective sea of stars. 
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[NARRATOR] Within the dim sanctuary of the flight deck, bathed in the soft, emerald glow of instrument panels, a profound stillness settles. Gibbs sits at the controls, his hands resting easily upon the yoke, watching the altimeter climb through the dark. Zedeck sits beside him, his gaze fixed on the glowing dials.
 
-[MALE] I have to do this, James.  You're very confused. RAILLY pushes the needle into COLE'S skin. INT.  CONFERENCE ROOM/PSYCH WARD - LATER  DR. FLETCHER faces RAILLY across the conference table.  DR. CASEY, DR. GOODINS, DR. MARILOU MARTIN are also there.
+[MALE] Okay, thirty thousand feet. Give me my heading.
 
-[NARRATOR] Dr. Fletcher responds with gentle reassurance:
+[NARRATOR] Zedeck adjusts a dial, his voice a low murmur against the steady, rhythmic thrum of the turbine engines.
 
-[MALE] Don't be defensive, Kathryn, this isn't an inquisition.
+[MALE] Bearing one hundred ten point eight two.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[NARRATOR] With a gentle, practiced motion, Gibbs banks the colossal aircraft into a wide, sweeping curve, easing her into the invisible highways of the upper atmosphere. He reaches out, his fingers gliding over the console to engage the mechanical guardian of the skies.
 
-[MALE] I didn't think I was being defensive. I was just...
+[MALE] Call me if something changes.
 
-[NARRATOR] Dr. Fletcher responds with gentle reassurance:
+[NARRATOR] Zedeck turns, a quiet disbelief in his eyes as he looks to the pilot.
 
-[MALE] He should have been in restraints.  It was bad judgment on your part, plain and simple.  why not just cop to it?
+[MALE] That's it?
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[NARRATOR] Gibbs leans back into his seat, the tension in his shoulders finally beginning to melt away into the quiet expanse of the night.
 
-[MALE] Okay, it was bad judgment.  But I have the strangest feeling about him -- I've seen him somewhere and...
+[MALE] To fly a seven-forty-seven you need to know three things. How to take off, how to land, and how to engage the autopilot.
 
-[NARRATOR] Dr. Fletcher murmurs with a warm, steady cadence:
+[NARRATOR] Down below the flight deck, in the hushed, carpeted corridors of the main cabin, the shadows stretch long and slow. A quiet series of moments unfolds as the intruders guide the stunned survivors, hands resting gently upon their heads, toward the central conference room. Down the dimly lit hallway comes Korshunov, his footsteps muffled by the plush carpet, leading Rose by the arm. As they approach the stairs, they meet Gibbs descending from the upper deck, his expression unreadable.
 
-[MALE] Two policemen were already in the hospital and now we have an orderly with a broken arm and a Security Officer with a fractured skull.
+[MALE] The rest of the Secret Service?
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] Gibbs pauses, his voice steady and quiet.
 
-[MALE] I said it was bad judgment!  What else do you want me to say?
+[MALE] Dead.
 
-[NARRATOR] Dr. Fletcher responds with gentle reassurance:
+[MALE] How many others killed?
 
-[MALE] You see what I mean?  You're being defensive.  Isn't she being defensive, Bob? But just then, BILLINGS sticks his head in the door.
+[MALE] Nine.
 
-[NARRATOR] Billings offers quietly, watching the shadows drift across the room:
+[MALE] Any of us?
 
-[MALE] Uh, Dr. Fletcher -- we got another... situation. INT.  CORRIDOR/PSYCH WARD - MOMENTS LATER  DR. FLETCHER looks into an empty padded cell as RAILLY, MARTIN, GOODIN, BILLINGS, PALMER and the NURSE crowd behind him.
+[NARRATOR] Gibbs reaches out, his hand tapping lightly against the heavy, hidden weight of his bulletproof vest.
 
-[NARRATOR] Dr. Fletcher murmurs with a warm, steady cadence:
+[MALE] No damages.
 
-[MALE] He was in full restraints?  And the door was locked?
+[NARRATOR] Rose looks up, her eyes wide with a desperate, searching plea.
 
-[NARRATOR] Billings murmurs with a warm, steady cadence:
+[FEMALE] Where's my daughter?
 
-[MALE] Yes, sir.  Did it myself.
+[MALE] She's alive, ma'am, for the time being.
 
-[NARRATOR] Dr. Fletcher speaks with a quiet, measured softness:
+[NARRATOR] A soft, tremulous breath escapes Rose, the release of a heavy burden turning into a half-sob of profound relief.
 
-[MALE] And he was fully sedated?
+[FEMALE] And my husband?
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] The Secret Service did their job, ma'am. The President is safely off the plane. But that still leaves us plenty to bargain with.
 
-[MALE] He was fully sedated!
+[NARRATOR] A sudden flash of lightning fills Rose’s eyes—not of the sky, but of a fierce, protective hatred. With a sharp, sudden motion, her hand strikes Gibbs across the face. The sound is muffled by the thick cabin walls.
 
-[NARRATOR] Dr. Fletcher whispers gently into the still air:
+[FEMALE] Mr. Gibbs. You, of all people...
 
-[MALE] Then are you trying to tell me that a fully sedated, fully restrained patient somehow slipped out that vent, replaced the grill behind him and that he's wriggling through the ventilation system right now? DR. FLETCHER indicates an impossibly tiny vent high in the wall. INT.  CONCOURSE/AIRPORT - DAY  Seen through the glass windows, a 747 takes off, climbing into the sky as the airport P.A. System drones...
+[NARRATOR] Gibbs does not flinch. He absorbs the blow with the stillness of stone, his gaze dropping only slightly before he turns.
 
-[NARRATOR] P.A. System speaks with a quiet, measured softness:
+[MALE] Follow me, ma'am.
 
-[MALE] Flight 784 to San Francisco now boarding at Gate 38... YOUNG COLE, watching the 747, whirls at the SOUND of a COMMOTION. MR. PONYTAIL bumps him. The BLONDE MAN sprints past.  The WOMAN'S VOICE calls out!
+[NARRATOR] Far across the sleeping continent, beneath the warm, artificial lights of the White House Situation Room, a very different kind of quiet reigns. High-tech tactical maps and glowing communication arrays line the austere walls, casting a soft, blue-white luminescence over the main conference table. Secure telephones and modern laptops rest silently beside each chair, while nearby teletype machines gently chatter, spitting out ribbons of classified data into the stillness. Vice President Chandler stands before the tactical vid-map, his eyes tracing the projected, lonely course of Air Force One across the globe.
 
-[NARRATOR] Woman'S Voice offers quietly, watching the shadows drift across the room:
+[MALE] We should have the President secure within minutes. Do we know who these terrorists are or where they're going?
 
-[FEMALE] NOOOOOOOOOO! TRAVELERS dive for cover briefly revealing the mysterious BRUNETTE running after the BLONDE MAN!  But this time, YOUNG COLE catches just a glimpse of her face.  She looks a little like RAILLY except for the dark hair, the make-up. and the flashy earrings.  She calls out, her VOICE blending weirdly with the P.A. SYSTEM... BRUNETTE/P. A. SYSTEM The Freedom For Animals Headquarters now boarding on Second Avenue.  The Army of the Twelve Monkeys... ENGINEER'S VOICE  Cole, you moron -- wake up! INT.  ENGINEERING OFFICE - ETERNAL NIGHT OF THE FUTURE As COLE blinks awake, the digitized monotone of the P.A. SYSTEM continues to drone in an unearthly VOICE... UNEARTHLY VOICE/P.A. SYSTEM -- they're the ones who are going to do it... COLE'S eyes seek the source of the sound and find it on the table in front of the panel of disapproving SCIENTISTS facing him.  It's a beat-up old tape recorder. UNEARTHLY VOICE/TAPE RECORDER I can't do anything more.  The Police are after me. The tape ends, runs off the reel, flap...flap...flap...
+[NARRATOR] General Northwood, the steadfast head of the Joint Chiefs of Staff, shifts papers before him, his voice low and measured.
 
-[NARRATOR] Astrophysicist offers quietly, watching the shadows drift across the room:
+[MALE] General Greely says it looks like the Middle East.
 
-[MALE] Well?
+[NARRATOR] Vice President Chandler nods slowly, turning his gaze toward the end of the table.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] Does your office have anything to add, Mr. Dean?
 
-[MALE] Uh, what?
+[NARRATOR] Walter Dean, the National Security Advisor, leans forward into the pool of light, resting his elbows on the polished wood.
 
-[NARRATOR] Engineer offers quietly, watching the shadows drift across the room:
+[MALE] The garners believe that, given the scenario, there's an eighty-six percent chance that we'll be dealing with a hostage situation and not an assassination attempt. Not much else until there's more data.
 
-[MALE] He's drugged out of his mind!  He's completely zoned out.
+[MALE] If we're dealing with an airborne hostage situation, what's our procedure?
 
-[NARRATOR] Astrophysicist responds with gentle reassurance:
+[NARRATOR] Thomas Lee, the Under-Secretary of Defense, taps methodically upon the keys of his laptop, bringing up a complex digital matrix of protocols.
 
-[MALE] Cole, did you or did you not record that message?
+[MALE] Our only policy assumes the plane is on the ground. Our hands are completely tied while they're in the air.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Chandler exhales a long, quiet breath, the weight of the nation resting heavily upon his shoulders in the hushed room.
 
-[MALE] Uh, that message...me?
+[MALE] Okay, gentlemen. We'll take no action until we confirm that the President is off the plane. Lee, go huddle with the D.O.D. I want an options paper on this in twenty minutes.
 
-[NARRATOR] Microbiologist whispers gently into the still air:
+[NARRATOR] Lee looks up, startled by the narrow margin of time.
 
-[MALE] It's a digital reconstruction of a message, Cole, from a weak signal on our contact number.  Did you make that call?
+[MALE] Twenty minutes?
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] You heard me.
 
-[MALE] I couldn't call!  You sent me to the wrong year!  It was 1989.
+[NARRATOR] Chandler turns his gaze away from the maps, pointing toward a waiting aide at the edge of the room, as the quiet machinery of government hums endlessly on into the night.
 
-[NARRATOR] Scientists adds in a relaxed, peaceful voice:
+[NARRATOR] The heavy mahogany doors of the command chamber absorb the low, persistent hum of the government at work. The aide nods slowly, his movements measured in the quiet, amber glow of the lamps, and picks up a heavy black telephone.
 
-[MALE] 1989! The SCIENTISTS react, exchanging looks, whispers.  Then,
+[MALE] Madame Vice-President?
 
-[NARRATOR] Zoologist answers in a low, calming tone:
+[NARRATOR] Chandler turns his gaze away from the maps toward the heavy oak door. An Air Force Colonel steps quietly into the room, his boots making a soft, muted sound against the carpet. In his hand, he carries a dark, leather-bound briefcase, identical in every way to the one resting on the table.
 
-[MALE] You're certain of that?
+[FEMALE] Yes?
 
-[NARRATOR] Geologist whispers gently into the still air:
+[MALE] National Command Authority. All previous launch codes have been cancelled. You're carrying the ball now.
 
-[MALE] What did you do with your time, Cole? Did you waste it on drugs?  Women?
+[FEMALE] Thank you, Colonel. Have a seat.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Far away, across the quiet, sleeping expanse of the earth, the night settles deep and still over the German countryside. Outside, a lone Huey helicopter, flanked by the dark, silent silhouettes of a pair of Apaches, skims low across the velvet surface of the wheat fields. The blades cut the damp midnight air with a steady, hypnotic rhythm, moving at maximum velocity through the cool mist. 
 
-[MALE] They forced me to take drugs.
+[NARRATOR] Inside the cockpit, the pilot's face is illuminated only by the soft green and amber glow of the instrument panel. He watches the flickering dials, honing in on a faint, distant signal pulsating through the dark. 
 
-[NARRATOR] Botanist offers quietly, watching the shadows drift across the room:
+[NARRATOR] Outside, sweeping beams of light cut through the shadows as the Apaches circle low, their powerful spotlights finally illuminating the presidential seal resting atop the emergency deployment pod nestled in the grass. The Huey drops gently out of the night sky, settling into the earth with a soft thump, and a half dozen figures in full gear emerge from the cabin, moving with quiet urgency toward the pod. They unlatch the heavy metal door and pull it open. 
 
-[MALE] Forced you!  Why would someone force you to take drugs?
+[NARRATOR] But the pod is completely empty. The cool night air sweeps through the hollow interior.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Hours away, hidden deep within the cavernous baggage deck gangway of a soaring aircraft, the dim emergency lights cast long, flickering shadows. Bruised and battered, with a faint smear of dark blood across his crisp tuxedo shirt, President James Marshall lowers himself carefully from one of the overhead wing struts. He emerges in silence into the deep, echoing bowels of the great plane. He stands completely still for a long, quiet moment, listening only to the distant, rhythmic whine of the jet engines and the steady thrum of the air. His eyes fall upon the fallen agent who had risked everything so he might reach safety. Turning, he moves quietly down the metal gangway toward the lower galley, blending into the shadows of the vast, sleeping sky.
 
-[MALE] I got into trouble.  I got arrested. But I still got you a specimen -- a spider -- but I didn't have anyplace to put it, so I ate it.  It was the wrong year anyway, so I guess it doesn't matter. The SCIENTISTS stare incredulously, then turn, exchange knowing looks, huddle, start whispering to one another. Struggling to stay awake COLE sees, blurrily, the MICROBIOLOGIST staring at COLE intently.  For one moment, the face belongs to DR. FLETCHER! COLE blinks hard...and the MICROBIOLOGIST has his own face, again. COLE'S head slumps forward now...and everything goes dark. GEOLOGIST'S VOICE  Cole! INT.  ENGINEERING OFFICE - ETERNAL NIGHT OF THE FUTURE COLE comes awake with a start.  The room is dark now, except... a slide is being projected on a torn screen.  It's a picture of a stenciled graffiti...the logo of The Army of the 12 Monkeys.
+[NARRATOR] High above the world, Air Force One floats in the endless sea of midnight, resting atop billowy peaks of clouds that glow softly under the pale moonlight. Smaller fighter jets cluster around her in a loose, protective formation, their wing lights blinking rhythmically against the infinite dark.
 
-[NARRATOR] Engineer speaks with a quiet, measured softness:
+[MALE] Sir, isn't there something we can do besides escort?
 
-[MALE] What about it, Cole?
+[MALE] Like what, son... shoot our own plane down?
 
-[NARRATOR] Zoologist speaks with a quiet, measured softness:
+[MALE] No sir. I just wish...
 
-[MALE] Did you see it?
+[MALE] Roger. We all wish... Now shut the fuck up and escort.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Down in the lower galley, the air is still and shadowed. Marshall scans the stainless steel counters, the half-full coffee pot resting on the burner, the walk-in freezer, and the neat stacks of plates. His hand reaches out, resting upon the cool handle of a heavy butcher knife.
 
-[MALE] Uh, no, sir.  I... Another slide CLICKS into place.  Youthful PROTESTERS, their placards featuring slogans and images of Animal Atrocities, confront POLICE in riot gear.
+[NARRATOR] Further down the corridor, Nevsky and Bazylev stand silent watch outside the heavy conference room door. Korshunov and Vlad approach, their footsteps muffled by the thick carpet. Nevsky hands Korshunov a crisp, white copy of the plane's flight manifest.
 
-[NARRATOR] Astrophysicist answers in a low, calming tone:
+[MALE] Every weapon and every person is accounted for.
 
-[MALE] What about these people?  Did you see any of these people? Zooming in, panning, the SCIENTISTS emphasize the FACES of the PROTESTERS.  The FACES are unfamiliar to COLE . COLE  Uh, no, sir, I...wait! The image pans back to a much enlarged blurry FACE among the PROTESTERS.  In spite of the poor image, the expression of rage is clear, and it seems to resemble a somewhat older JEFFREY MASON.
+[NARRATOR] Korshunov nods once, his expression unreadable, and steps into the room. 
 
-[NARRATOR] Astrophysicist answers in a low, calming tone:
+[NARRATOR] Inside the conference room, the air is close and heavy. Korshunov's gaze sweeps slowly over the fifty captives huddled together like gentle shadows in the dim light. Vlad stands sentinel at the door, his weapon raised. Rose holds little Alice tightly, rocking her with slow, comforting motions, while the doctor tends to the wounded in the quiet corner. 
 
-[MALE] Him?  You saw that man?
+[MALE] Fear will keep you alive. Any one who is not afraid is bound to do something foolish, and bound to die.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[FEMALE] What do you want with us?
 
-[MALE] Uh, I think so.  In the mental hospital.
+[MALE] Cooperation. If you try to escape, you will be met with automatic gunfire and a barricade of your comrade's bodies will prevent you from exiting. Good day.
 
-[NARRATOR] Micro3Iologist murmurs with a warm, steady cadence:
+[NARRATOR] Korshunov turns and exits into the corridor, with Vlad backing out slowly behind him. The heavy door swings shut with a soft, final click, and the lock turns. The hostages are left alone in the quiet, velvet dark, wrapped in a deep and mournful stillness.
 
-[MALE] You were in a mental institution?! The SCIENTISTS MUTTER disapprovingly among themselves.
+[NARRATOR] The heavy click of the lock reverberates softly through the velvet darkness of the cabin, leaving behind a profound and heavy stillness. For a long, suspended beat, no one moves. The air is thick with the scent of spent adrenaline and quiet sorrow, illuminated only by the faint, pulsing glow of the cabin lights reflecting off the curved windows. Shadows stretch and sway gently with the rhythmic, hypnotic banking of the aircraft, high above the sleeping earth.
 
-[NARRATOR] Astrophysicist murmurs with a warm, steady cadence:
+[NARRATOR] Slowly, the tension fractures into a low murmur of hushed conversation, rolling like a soft tide across the room.
 
-[MALE] You were sent to make very important observations!
+[MALE] This can't be happening. You just don't pull this shit with the United States. You just don't.
 
-[NARRATOR] Botanist murmurs with a warm, steady cadence:
+[NARRATOR] Major Caldwell paces the carpeted aisle, his boots making no sound against the thick pile, his eyes scanning the faces of the survivors and the quiet, fallen figures resting in the dimness. He takes a steadying breath, grounding himself against the gentle hum of the engines.
 
-[MALE] You could have made a real contribution.
+[MALE] Keep your heads.
 
-[NARRATOR] Geologist speaks with a quiet, measured softness:
+[NARRATOR] Shepherd steps gently toward the First Lady, his voice a low, reassuring murmur designed to cut through the mounting panic.
 
-[MALE] Helped to reclaim the planet...
+[MALE] Mrs. Marshall, are you okay?
 
-[NARRATOR] Zoologist murmurs with a warm, steady cadence:
+[FEMALE] We're alive.
 
-[MALE] As well as reducing your sentence.
+[MALE] That's all that matters. Thank God the President got off the plane.
 
-[NARRATOR] Microbiologist whispers gently into the still air:
+[FEMALE] Yes... thank God.
 
-[MALE] The question is, Cole -- "Do you want another chance?" COLE stares at them, trying to figure out what they mean. INT.  CONCOURSE/AIRPORT - DAY  The BRUNETTE runs up the concourse, her back to YOUNG COLE, as frightened PASSENGERS duck for cover, SHOUTING! RASPY VOICE  Hey!  Who's that? INT.  CELL - ETERNAL NIGHT COLE opens his eyes.  Where is he?  Silence as he examines the tiny cell.  Bare cement walls.  High ceiling.  Same color and size as the isolation room at the county hospital. RASPY VOICE  Hey, Bob...what's your name? COLE looks around frantically.  Up, down.  Where is the VOICE coming from?  Maybe from that tiny vent high in the wall...
+[NARRATOR] She turns her gaze toward the pacing officer, her expression steady despite the trembling of the world around them.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[FEMALE] You there... Caldwell, right? What's on your mind?
 
-[MALE] Where are you? RASPY VOICE  You can talk!  Wah'dja do, Bobby boy? Volunteer?
+[NARRATOR] Caldwell pauses, crossing the soft carpeting to join them in the shadows, lowering his voice to a confidential whisper that barely disturbs the ambient hum of flight.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[MALE] I don't want to get anybody here excited, but if we can get out of this room, I can get us to safety.
 
-[MALE] My name's not "Bob". RASPY VOICE  Not a prob, Bob.  Where'd they send you?
+[MALE] We're thirty-five thousand feet up.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Caldwell nods slowly, his silhouette shifting against the pale light of the windows.
 
-[MALE] Where are you? RASPY VOICE  Another cell. ...  Maybe.
+[MALE] Yes, sir, that's a problem, but if we can somehow get to a lower altitude, the rear loading ramp on the baggage deck is equipped with parachutes in case of an engine failure. Now we can either wait for a political resolution, or try to resolve this thing ourselves.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[MALE] You're goddamn right we can resolve this ourselves. We'll negotiate.
 
-[MALE] What do you mean, "maybe"?  What's that supposed to mean? RASPY VOICE  Maybe.  Means "maybe" I'm in the next cell, another "volunteer" like you -- or "maybe" I'm in the Central Office spying on you for all those science bozos.  Or, hey, "maybe" I'm not even here.  "Maybe" I'm just in your head.  No way to confirm anything. Ha Ha.  Where'd they send you? COLE doesn't answer. RASPY VOICE  Not talking, huh, Bob?  That's okay I can handle that.
+[MALE] You know the President's policy.
 
-[NARRATOR] 1989. offers quietly, watching the shadows drift across the room:
+[MALE] The President isn't here.
 
-[MALE] RASPY VOICE  89!  How was it?  Good drugs?  Lotsa pussy?  Hey, Bob, you do the job?  D'ju find out the "big info"?...Army of the Twelve Monkeys...where the virus was prior to mutation?
+[FEMALE] Right now we are an enormous liability to the United States. We can't just sit and do nothing.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[NARRATOR] Outside the heavy doors, in the muted stillness of the corridor, soft footsteps fade away as the terrorists drift toward the nose of the plane, leaving a single sentinel, Nevsky, to guard the quiet confines of the conference room. 
 
-[MALE] It was supposed to be 1995. RASPY VOICE  Science isn't an exact science with these clowns.  You're lucky you didn't end up in ancient Egypt! INT.  LAB - ETERNAL NIGHT OF THE FUTURE COLE is strapped on a gurney.  SCIENTISTS hover near-by, whispering.  The walls of the gloomy chamber are damp, sweating.
+[NARRATOR] Far below, in the cavernous, cool shadows of the baggage hold, President Marshall reaches the front stairway. He pauses, listening to the vast, hollow echoes of the aircraft, then cautiously ascends toward the main cabin. As he reaches the top of the stairs, the low murmur of Russian conversation drifts down from above. He melts back into the protective gloom of the stairwell, blending into the shadows as the unseen voices pass within a few feet, ascending toward the upper deck. 
 
-[NARRATOR] Geologist responds with gentle reassurance:
+[NARRATOR] Silence settles once more—deep, vast, and heavy. Marshall waits, listening to the steady, rhythmic thrum of the engines, then quietly mounts the stairs again. 
 
-[MALE] No mistakes this time, Cole.
+[NARRATOR] He nearly steps into the shadow of a guard, freezing instantly. Vlad stands facing the opposite direction, his back to the President. Marshall holds his breath, blending completely into the dim ambient light of the corridor, watching as Vlad reaches lazily into his pocket, retrieves a cigarette, and strikes a match. The tiny flame flares brilliantly for a single heartbeat, casting a warm, flickering amber glow across the dark bulkheads. 
 
-[NARRATOR] Astrophysicist responds with gentle reassurance:
+[NARRATOR] On the first puff, a phantom instinct brushes against the back of Vlad's neck. He slowly turns around.
 
-[MALE] Stay alert.  Keep your eyes open.
+[NARRATOR] The corridor is empty, draped in quiet shadows. Vlad smiles faintly at his own jittery nerves in the cool night air, then turns back around, gazing down the dim passage.
 
-[NARRATOR] Zoologist murmurs with a warm, steady cadence:
+[NARRATOR] In the reverse angle, just over Vlad's shoulder, Marshall stands pressed flat against the edge of the galley divider, completely absorbed by the gloom. With infinite care, he creeps away from the guard, stepping gingerly over the quiet forms of fallen Secret Service agents, moving like a ghost toward the sanctuary of the Presidential Suite.
 
-[MALE] Good thinking about that spider, Cole. Try and do something like that again.
+[NARRATOR] Up on the upper deck, inside the Mission Communications Center, the atmosphere is chillingly still. Korshunov pulls a crisp white handkerchief from his breast pocket, his movements deliberate and unhurried, and gently wipes the smear of blood from a telephone headset. 
 
-[NARRATOR] Microbiologist answers in a low, calming tone:
+[MALE] Proceed.
 
-[MALE] Just relax now -- don't fight it.  We have to know exactly what's there so we can fix it. The gurney is being wheeled into a crudely welded steel tube... reminiscent of the cat scanner in County Hospital. COLE'S POV:  a last glimpse of anxious FACES, then the chamber door is CLANGED shut. EVERYTHING IS BLACK.  A HUM BUILDS.  THE BLACKNESS VIBRATES, THE HUM REACHES A DEAFENING LEVEL, THEN DIMUENDOS.  WE BEGIN TO HEAR BURSTS OF MACHINE GUN FIRE, VOICES SHOUTING IN FRENCH, A SUDDEN HUGE EXPLOSION!  THEN... EXT.  TRENCH/FRANCE - DAY DRIZZLING RAIN.  And SCREAMS.  COLE'S in a deep trench, naked, eyes wide with terror. What's going on? Where is he?  SOLDIERS in gas masks push urgently past him rushing toward their injured COMRADES who've been ripped apart by the shell that just hit fifteen yards away.  Muffled VOICES shout through gas masks... in FRENCH.  COLE doesn't know it, but this is World War I! Suddenly, a SERGEANT confronts him, shouting in French.
+[NARRATOR] Gibbs’ fingers move with quiet efficiency across the communications board, dialing a precise sequence of numbers into the glowing equipment. The soft, electronic chime of a telephone ringing begins to echo through the quiet room.
 
-[NARRATOR] Sergeant whispers gently into the still air:
+[NARRATOR] Thousands of miles away, in the subterranean stillness of the White House Situation Room, the air is thick with anticipation. The dim, recessed lighting illuminates a large rear screen displaying a glowing map of Air Force One's vast, solitary flight trajectory—stretching from Moscow to Berlin, and looping back toward the dark, silent waters of the Black Sea. The assembled brass stand in hushed, watchful silence, listening as the cold, clear voice of Korshunov begins to slither softly out from the speaker, drifting into the quiet room like a winter wind.
 
-[MALE] Where's your mask?!  And your clothes... and your weapon, you idiot?!
+[NARRATOR] The small speaker on the desk crackles in the dim, shadowed quiet of the command center, carrying the cold, chilling demands across the room like a whisper of winter frost.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] ...the Chief of Staff, the First Lady, and the First Daughter. Our demands are simple. Arrange the release of Ivan Stravanvitch. Once our leader is returned to Turkuenistan soil, Air Force One and it's occupants will be allowed safe passage to Switzerland. You have one hour before we start killing hostages.
 
-[MALE] What?  What?? COLE looks around desperately.  A horribly WOUNDED MAN is being stretchered past them in the narrow trench.  Machine guns chatter close at hand.  AAK AAK AAK.  A grenade EXPLODES.  Reacting to the foreign word, the SERGEANT jams his bayonet into COLE'S ribs...
+[NARRATOR] The metallic click of the disconnecting line echoes through the heavy, breathless silence, leaving only the soft hum of cooling fans and quiet breathing in the room. Vice-President Chandler stands tall beneath the amber pools of desk lamps, her voice cutting steadily through the stillness.
 
-[NARRATOR] Sergeant murmurs with a warm, steady cadence:
+[FEMALE] Find that voice for me, I want to know who we're dealing with. And get President Petrov on the phone.
 
-[MALE] Captain!  A Kraut!  We got a Kraut!
+[NARRATOR] Heavy footsteps pad softly against the carpeted floor as General Charles Greely, commander of the 87th Mechanized Air Wing, steps into the warm glow of the room, his expression grave and tired.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Madame Vice-President, we just got word from Ramstein...
 
-[MALE] I don't understand.  Where am I? The CAPTAIN hurries over, snapping at COLE in German.
+[NARRATOR] The briefest nod passes between them before Chandler rises from her chair, leaning forward as the words settle over the assembly.
 
-[NARRATOR] Captain answers in a low, calming tone:
+[FEMALE] Empty?
 
-[MALE] How'd you get here, soldier?  What's your rank?  Where are your clothes?
+[NARRATOR] General Greely shakes his head slowly, the soft light catching the silver strands at his temples.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] The President... he must still be onboard.
 
-[MALE] I...don't understand.
+[NARRATOR] Chandler turns toward the technical consoles, her gaze fixed on the glowing screens.
 
-[NARRATOR] Captain murmurs with a warm, steady cadence:
+[FEMALE] Play back that call.
 
-[MALE] German!  Speak German!  What are you doing here? VOICE   I gotta find 'em.  I gotta find 'em. Please, you gotta help me! COLE turns, sees... It's his friend, JOSE, the Puerto Rican kid from the next cell in the "underground" time.  He's being carried past COLE now on a stretcher, blood all over his torso, horribly wounded.
+[NARRATOR] A technician’s fingers dance lightly, rhythmically across the keyboard, indexing the magnetic tape with a gentle, whirring sigh.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Yes, sir.
 
-[MALE] JOSE!
+[NARRATOR] The tinny, recorded voice spills out once more into the quiet night air, looping the chilling words.
 
-[NARRATOR] Jose murmurs with a warm, steady cadence:
+[MALE] The plane is under our command, and those we did not kill we hold as hostages, including the Chief of Staff, the First Lady, and the First Daughter.
 
-[MALE] Cole!  Oh, God, Cole, where are we? JOSE reaches out to COLE just as a PHOTOGRAPHER takes a FLASH PICTURE of the kid being carried off on the stretcher.  SUDDENLY, SHOTS RING OUT.  COLE goes down.  Hit in the leg! SOLDIERS in gas masks rush past him like giant insects. Looking to his left, COLE sees the CAPTAIN lying beside him, dead from a chest wound, his gas mask half off. COLE is reaching for the mask when... A SHELL HITS CLOSE BY WITH AN ENORMOUS EXPLOSION. EXT.  COLLEGE CAMPUS - NIGHT Stunningly quiet.  We are on a placid campus looking at the dignified architecture of Breitrose Hall.  MOVING IN we FOCUS ON a large poster advertising "The Alexander Lectures, Spring 1995". WE SKIM the listings  until we SETTLE ON...
+[NARRATOR] Chandler’s eyes narrow slightly, the realization dawning in the quiet space.
 
-[NARRATOR] Dr. Kathryn Railly whispers gently into the still air:
+[FEMALE] but not the President. Not the President.
 
-[FEMALE] MADNESS AND APOCALYPTIC VISIONS
+[NARRATOR] Another deep, heavy silence settles over the room, thick as evening fog, before General Northwood speaks from the shadows.
 
-[NARRATOR] May 17 murmurs with a warm, steady cadence:
+[MALE] He's dead then. They must have killed him.
 
-[MALE] INT.  AUDITORIUM/BREITROSE HALL - NIGHT A large screen dominates the auditorium stage.  On the screen is a slide of an engraving from the Middle Ages showing a MADMAN in apparent agony, his mouth shaped to a scream, as he is restrained by PEASANTS.  The projector ZOOMS slowly in on the agonized FACE of this MADMAN as we HEAR RAILLY'S VOICE lecturing. RAILLY'S VOICE  According to the accounts of local officials at that time, this gentleman, judged to be about forty years of age, appeared suddenly in the village of Wyle near Stonehenge in the West of England in April of 1162.  Using unfamiliar words and speaking in a strange accent, the man made dire prognostications about a pestilence which he predicted would wipe out humanity in approximately 8OO years.  Deranged and hysterical, the man raped a young woman of the village, was taken into custody, but then mysteriously escaped and was not heard of again. WE DISCOVER RAILLY, six years older now, standing at a lectern in a pool of light.  She's dwarfed by the giant screen where the engraving is replaced by a series of slides of woodcuts showing scenes of pestilence in the Middle Ages as she lectures to an audience of mostly SCHOLARLY TYPES. RAILLY  In 1841, Mackay wrote, "During seasons of great pestilence, men have often believed the prophecies of crazed fanatics, that the end of the world was come."  Obviously, this plague/doomsday scenario is considerably more compelling when reality supports it in some form, whether it's the Bubonic Plague, smallpox, or AIDS.  In addition to these "natural" contagions, there are now technological horrors as well:  besides radiation, consider our lurking fear of germ warfare and its close approximation, chemical warfare, which first reared its ugly head in the deadly mustard gas attacks during the First World War. ON THE SCREEN, a SERIES of SLIDES show images of WORLD WAR I SOLDIERS in gas masks, in death throes, etc.. RAILLY'S VOICE  During such an attack in the French trenches in October, 1917, we have an account of this soldier... ON THE SCREEN, a slide of an old deteriorated photograph shows JOSE, the Puerto Rican kid, strapped to a stretcher, being carried by SOLDIERS through the trenches during an attack.  JOSE appears to be ranting madly as the projector ZOOMS CLOSER on his face until the image approximates Munch's famous painting. RAILLY'S VOICE  -- who, during an assault, was wounded by shrapnel and hospitalized behind the lines where Doctors discovered he had lost all comprehension of French but spoke English fluently, albeit in a regional dialect they didn't recognize. The man, although physically unaffected by the gas, was hysterical.  He claimed he had come from the future, that he was looking for a pure germ that would ultimately wipe mankind off the face of the earth in the year... 1995! The AUDIENCE gives a nervous CHUCKLE. ON THE SCREEN, a different old photograph of JOSE.  This time he's in a military hospital, gaunt, haunted, very ill. RAILLY'S VOICE  Although seriously injured, the young soldier disappeared from the hospital before more data could be gathered.  No doubt, he was trying to carry on his mission to warn others, substituting for the agony of war...a self-inflicted agony we call the "Cassandra Complex". As RAILLY continues, we SCAN the AUDIENCE and DISCOVER MARILOU MARTIN, RAILLY'S friend, and MARILOU'S HUSBAND, WAYNE CHANG, both listening attentively.  Further away, another MAN listens intently.  A MAN with shoulder-length carrot-colored hair.  His name is DR. PETERS. RAILLY  Cassandra, in Greek legend you will recall, was condemned to know the future but to be disbelieved when she foretold it.  Hence, the agony of foreknowledge combined with impotence to do anything about it. INT.  RECEPTION ROOM - AN HOUR LATER  A stack of new books.  THE DOOMSDAY SYNDROME, Apocalyptic Visions of the Mentally Ill by Dr. Kathryn Railly Surrounded by enthusiastic members of the audience, RAILLY is seated at the table signing books but DR. PETERS has her ear.
+[MALE] We don't know that.
 
-[NARRATOR] Dr. Peters offers quietly, watching the shadows drift across the room:
+[NARRATOR] Northwood crosses his arms, shaking his head with pragmatic certainty.
 
-[MALE] I think, Dr. Railly, you have given your alarmists a bad name.  Surely there is very real and very convincing data that the planet cannot survive the excesses of the human race:  proliferation of atomic devices, uncontrolled breeding habits, the rape of the environment, the pollution of land, sea, and air.  In this context, isn't it obvious that "Chicken Little" represents the sane vision and that Homo Sapiens' motto, "Let's go shopping!" is the cry of the true lunatic? DR. PETERS smiles self-importantly at RAILLY as an elderly disheveled PROFESSOR elbows in front of him.
+[MALE] Holding the president hostage is not something that slips your mind when you're making demands.
 
-[NARRATOR] Disheveled Professor offers quietly, watching the shadows drift across the room:
+[NARRATOR] Chandler looks between them, her voice dropping to a calm, contemplative register.
 
-[MALE] Doctor Railly -- please!  I wonder if you're aware of my own studies which indicate that certain cycles of the moon actually impact on the incidence of apocalyptic predictions as observed in urban emergency rooms and... As the PROFESSOR babbles, MARILOU MARTIN and her husband, WAYNE CHANG, appear and whisper...
+[FEMALE] And if he's dead? Do you really think they'd risk telling us?
 
-[NARRATOR] Marilou whispers gently into the still air:
+[MALE] There is a possibility we're overlooking.
 
-[MALE] You were great.
+[NARRATOR] All eyes slowly turn toward Dean, who stands quietly near the edge of the light.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] When I ran Specops in `Nam, I ordered the destruction of a V.C. munitions dump. During insertion, the plane was shot down and the entire team was killed, or so we thought. Two days later the dump BLEW AND A WEEK AFTER THAT, THIS 19- year-old kid, the pilot... he walks out of the jungle in pretty bad shape. He survived the crash and finished the mission... alone.
 
-[MALE] You're leaving?
+[NARRATOR] Northwood shifts impatiently, the soft rustle of his uniform breaking the quiet rhythm.
 
-[NARRATOR] Marilou answers in a low, calming tone:
+[MALE] Walter, if you have a point, make it.
 
-[MALE] The reservation's at nine thirty -- it's getting late.
+[MALE] That kid's name was Jim Marshall. Most of the President's service record makes for dull reading because most of what he did iarLZ ULirn. History remembers him for what he did aflar he got back to the states -- the protests, the rallies -- But he was a soldier once, a damn fine one.
 
-[NARRATOR] Disheveled Professor answers in a low, calming tone:
+[NARRATOR] Chandler watches him closely, her brow furrowing in soft inquiry.
 
-[MALE] Doctor Railly -- please -- this is very important!
+[FEMALE] So what are you saying?
 
-[NARRATOR] Wayne Chang murmurs with a warm, steady cadence:
+[MALE] Maybe he's alive on that plane and those bastards don't even know it.
 
-[MALE] You sure you're gonna be all right?
+[NARRATOR] Chandler lets out a slow, gentle breath, her voice carrying a trace of weary skepticism.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[FEMALE] Mr. Dean, may I remind you that the President is not 19 anymore.
 
-[MALE] I'll be there in twenty minutes.
+[NARRATOR] Miles away, high above the sleeping earth, inside the shadowed refuge of the President's stateroom, Marshall moves with absolute, careful silence. The room is quiet, save for the faint, tinny sounds of a forgotten basketball game still murmuring from the television screen. The air is cool and still, touched by the scent of spent smoke and polished wood. Marshall steps quietly toward the secure console, his hand reaching out in the dim light. He lifts the heavy receiver, listening only to the flat, empty hum of a dead line. With a quiet sigh, he tries the standard telephone beside it. Nothing. He hangs it back up with a soft, dull click of frustration. 
 
-[NARRATOR] Disheveled Professor whispers gently into the still air:
+[NARRATOR] Goddamnit.
 
-[MALE] Dr. Railly, I simply cannot understand your exclusion of the moon in relation to apocalyptic dementia... EXT.  PARKING LOT/BREITROSE HALL - NIGHT A full moon. COLLEAGUES in a VOLVO pull out of the parking lot, calling, "Congratulations" to RAILLY. She waves back as she hurries to her black ACURA, one of the last cars left in the lot. The outside lights of Breitrose Hall go off. RAILLY seems to be alone in the lot as she fishes keys from her purse, unlocks her car door, starts to open it when... Suddenly, she's grabbed from behind in a choke-hold by a large shadowy MAN looming out of the darkness behind her.
+[NARRATOR] His boot heel shifts slightly against the carpet, pressing down upon a scattering of sharp, glittering glass fragments. He looks down as the ambient cabin light catches a shattered wooden frame resting upon the floor, holding a smiling, cherished photograph of Alice and Rose, untouched by the chaos yet surrounded by the quiet ruin of the night.
 
-[NARRATOR] Man'S Voice whispers gently into the still air:
+[NARRATOR] The stateroom is bathed in a deep, hushed indigo, save for the soft, amber glow of the reading lamp illuminating the broken glass upon the floor. He reaches down with a gentle, steady hand, lifting the unmarred wooden frame. The smiling faces of Alice and Rose look out from the glass, preserved and peaceful amidst the quiet ruin of the night. With deliberate slowness, he carries the photograph across the room, resting it softly upon a smooth mahogany table. He pauses, his thoughts drifting like smoke in the heavy air, before turning toward the shadow-drenched wardrobe. He slides the closet door open, his hands quietly brushing through the rows of hanging garments, searching for something essential in the deepening stillness.
 
-[MALE] Get in! Unable to scream, she writhes and kicks as he forces her into the front seat.
+[NARRATOR] Farther down, inside the vast, cavernous expanse of the main conference room, the air is still and cool. Caldwell stands tall atop the polished mahogany conference table, reaching upward where the hostages have pried away a heavy ceiling panel. Above, a dark labyrinth of air supply ducts and thick bundles of wiring stretches through the narrow ten-inch space between the acoustic tiles and the heavy shielding plates. 
 
-[NARRATOR] Man'S Voice speaks with a quiet, measured softness:
+[MAJOR CALDWELL] This is a dead end.
 
-[MALE] I've got a gun. RAILLY freezes, terrified, as he opens the rear door and scrambles in behind her. INT.  ACURA/PARKING LOT Fighting to suppress the quaver in her voice, RAILLY says...
+[NARRATOR] Rose looks slowly around the vaulted room, the vastness of the space pressing down upon her with a heavy, hopeless quiet. Her eyes drift downward, tracing the intricate patterns of the muted carpet below.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Outside, in the long, dimly lit corridor, the shadows stretch long and soft. The stateroom door glides open with barely a whisper, and Marshall slips out into the carpeted hallway. A few yards away, Vlad stands motionless, his back turned, facing the opposite direction. Marshall moves like a quiet specter, creeping softly down the corridor, when suddenly, the electronic chime of his wristwatch breaks the quiet. Beep. Beep. Beep. The alarm sounds far too loud in the hollow hallway. Marshall reacts instantly, diving headlong into the nearest open doorway. Vlad pivots sharply around, his eyes narrowing as he catches the fleeting shadow of a figure slipping into the senior staff cabin. Unsure of what he witnessed, Vlad moves with cautious, predatory steps toward the cabin door. As he nears, he pauses, bending low over the fallen form of a dead Secret Service agent. He lifts the lifeless wrist, revealing a small digital watch that continues its steady beeping. It was not the fugitive's watch after all. No matter. Vlad lets the wrist drop and continues his slow, deliberate advance toward the staff cabin.
 
-[MALE] You can have my purse.  I have a lot of cash and credit... MAN'S VOICE  Start the car. Glancing in the rear view mirror, RAILLY sees penetrating eyes peering out of the shadows, no other features. Half-turning in the seat, she holds out the keys to him.
+[NARRATOR] Inside the staff cabin, the darkness is thick, illuminated only by the faint, rhythmic blinking of several silent video monitors. Leather chairs cast long, slumberous shadows, and a row of stainless-steel cabinets stretches the entire length of the far wall. Marshall moves frantically, his breath misting in the cool air as he searches for anything to defend himself. He throws the heavy cabinet doors open, and a soft, sterile light spills across the room. It is a fully stocked medical center. A fold-down operating table rests against the wall, flanked by high-intensity surgical lights—equipped to handle any emergency the president might ever face. But tonight, it is too late for medicine. 
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[NARRATOR] Without warning, the cabin door is kicked violently off its latch, crashing open against the bulkhead.
 
-[MALE] Here!  You can have the keys.  You can... He grabs her hair and yanks her head back hard, speaking fiercely into her ear, his face last in shadow.
+[VLAD] Get on the floor, now!
 
-[NARRATOR] Man adds in a relaxed, peaceful voice:
+[NARRATOR] With a surge of desperate adrenaline, Marshall hews the heavy operating table downward. It crashes forward, striking Vlad squarely and knocking him off balance. Marshall lunges forward, gripping the kitchen knife tight, but Vlad reacts with terrifying speed, opening fire. A half-dozen heavy rounds hammer into Marshall's belly. The sheer kinetic force throws him backward, slamming him hard against the wooden bulkhead before he slumps slowly to the floor. Vlad steps forward over the crumpled, motionless body. He kneels down, lowering his face to examine his victim. Cupping a gloved hand beneath the man's chin, he lifts his head into the ambient cabin light, his eyes widening in sudden disbelief.
 
-[MALE] START THE CAR!  NOW! EXT.  ACURA/PARKING LOT The engine STARTS, the Acura backs up, then heads for the exit. INT.  ACURA Steering fearfully, RAILLY hears him speak more calmly now. MAN'S VOICE  I don't want to hurt you.  But I will. I've hurt people before when...when I had no choice.  Turn left. As she makes the turn, RAILLY glances in the rear view mirror, sees him unfolding a tattered map.  His face is lost in darkness but she glimpses ragged, torn clothing as he tries to read the map by the intermittent glow of passing street lights.
+[VIAD] The President.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] But as the words leave his lips, Marshall’s eyes flash wide open, burning with fierce, unyielding resolve.
 
-[MALE] Where... where are we going'
+[MARSHALL] That's right, asshole.
 
-[NARRATOR] Man offers quietly, watching the shadows drift across the room:
+[NARRATOR] He springs upward from the floor in one fluid, terrifying motion, driving the butcher knife deep beneath the terrorist's flack jacket and straight into his spleen. Vlad freezes, his breath catching in his throat as shock ripples through his frame. Marshall is instantly on his feet, his fingers locked around the handle of the twisting blade. Never letting go, he grabs the back of Vlad's head and slams his face with brutal force against the thick mirror above the porcelain surgical scrub sink. The glass shatters in a thunderous spiderweb, and bright, warm streams of crimson erupt across the terrorist's face, dripping downward to swirl into the white porcelain drain below. 
 
-[MALE] I need you to drive me to Philadelphia.
+[NARRATOR] Stunned for a mere heartbeat, Vlad swings a heavy elbow, striking Marshall in the side of the neck. The blow momentarily stuns the president, who stumbles back. Vlad wipes the slick blood from his brow, spins on his heel, and drives a devastating right cross into Marshall's jaw. Marshall reels backward, colliding heavily with the wall. Vlad advances instantly, shoving the cold, steel barrel of his MP5 directly into Marshall's throat, pinning him in place. Marshall’s hands shoot upward, his fingers wrapping firmly around the receiver of the submachine gun near the trigger guard.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[VLAD] Don't move or I'll blow your head off.
 
-[MALE] But that's... that's more than 200 miles!
+[NARRATOR] I don't think so.
 
-[NARRATOR] Man answers in a low, calming tone:
+[NARRATOR] Marshall's forefinger stretches forward, pressing firmly against the safety button of the weapon, preparing to reclaim the quiet night.
 
-[MALE] That's why I can't walk there.  Turn here... I think... RAILLY obeys.  She glances in the mirror again, hesitates, then boldly switches on the dome light, holding her breath fearfully for his reaction. He grunts appreciatively.  Relieved, she looks in the mirror again, trying to get a better look at him, but now his features are concealed by the map.
+[NARRATOR] The stillness of the midnight corridor shatters as a sudden, sharp motion breaks the tension, a swift and decisive physical reaction in the cool, dimly lit air. 
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] Ugh—
 
-[MALE] If you make me go with you, it's kidnapping.  That's a serious crime. If you let me go, you could just take the car and...
+[NARRATOR] Vlad’s fingers convulse, pulling the trigger repeatedly in a desperate, frantic rhythm as his knees buckle downward into the quiet shadows. Yet the weapon remains frustratingly, safely silent, denying him his intent. Instead, with a surge of momentum, Vlad surges upward, swinging the heavy stock of the submachine gun in a wide, sweeping arc. 
 
-[NARRATOR] Man offers quietly, watching the shadows drift across the room:
+[NARRATOR] The impact is heavy and dull, like wooden timber striking hard, knocking Marshall sideways through the open doorway and deep into the sanctuary of the medical closet. The discarded weapon slips from failing fingers, clattering across the linoleum floor before skittering away into the deep shadows underneath a low medical cabinet. 
 
-[MALE] I don't know how to drive!  We went underground when I was nine, I told you that.  When you come to the corner, turn right. Startled, RAILLY whirls, looks right at him. He's lowered the map.  It's COLE!  Haggard, unshaven, dirty.
+[NARRATOR] Inside the quiet, sterile enclosure of the closet, surrounded by the faint scent of antiseptic and clean cotton, Marshall pulls his weight upward along the metal shelves, his muscles trembling as he strives to keep his footing steady. Outside the shelves, Vlad lunges forward, seizing a length of flexible plastic I.V. tubing from a nearby tray, looping it swiftly and tightly around Marshall’s neck. 
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] The air vanishes. Marshall struggles for breath, his fingers clawing desperately against the unyielding plastic as the quiet room begins to spin in a haze of dim overhead lights. Through the blurring haze, his gaze lands upon the heavy metal casing of a medical defibrillator resting on a counter. With a final, agonizing surge of willpower, Marshall reaches out a trembling hand and flicks the heavy toggle switch into the ‘on’ position. 
 
-[MALE] Cole!  James Cole!  You escaped from a locked room six years ago.
+[NARRATOR] A low-pitched, rhythmic hum begins to vibrate through the quiet air, accompanied by a steady, hypnotic beeping. Straining every muscle against the biting constraint of the plastic tubing, Marshall pulls his head forward, gathering his weight, and then hurls himself backward, slamming the full force of his skull directly into Vlad’s head. 
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] The grip on the tubing loosens just a fraction—the electronic beeping shifts instantly into a long, continuous, steady whine of readiness. 
 
-[MALE] 1989.  Six years for you.  There's the sign!  Right here! COLE is indicating a freeway entrance. RAILLY turns the wheel sharply. EXT.  FREEWAY - NIGHT The Acura veers up the ramp and onto the freeway. INT.  ACURA/FREEWAY - NIGHT RAILLY glances in the mirror, sees COLE settling back wearily against the seat.  She says carefully...
+[NARRATOR] A fraction of a second is all the quiet night requires. Marshall’s hands find the smooth, insulated handles of the cardiac paddles, turning sharply in the confined space, and drives them downward with all his remaining strength against either side of Vlad’s temples. 
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[NARRATOR] A brilliant flash of blue-white current floods the dim room. Vlad convulses violently from the electric shock, his body rigid and trembling for five long, suspended seconds, his eyes rolling upward as the static electricity makes the hair on his arms and head stand straight on end. Then, like a falling shadow, he collapses silently to the floor. 
 
-[MALE] I can't believe this is a coincidence, Mr. Cole.  Have you been...following me?
+[MALE] Clear.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Marshall stands alone in the quiet shadows, catching his breath in slow, measured rasps. With trembling fingers, he pulls open the buttons of his shirt. Beneath it, a dark Kevlar vest clings tightly to his torso. He lifts the hem of the heavy fabric to reveal a half-dozen angry, bruised welts blossoming across his skin in dark, mottled circles. The heavy vest had held back the lead, but each of Vlad’s impacts had burned with a fierce, lingering sting. 
 
-[MALE] You told me you'd help me.  I know this isn't what you meant, but...I was desperate... no money...bum leg... sleeping on the streets. I probably smell bad.  Sorry about that. But then I saw your book in a store window with a notice about your lecture.  I can read, remember?
+[NARRATOR] Outside, the long, carpeted corridor stretches away into the dim, amber glow of recessed wall sconces. Nevsky walks slowly down the passageway, his boots stepping softly over the plush carpet, noticing too late that the post is unmanned. 
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] Vlad?
 
-[MALE] Yes, I remember.  Why do you want to go to Philadelphia?
+[NARRATOR] Inside the staff cabin, surrounded by the cool, sterile scent of rubbing alcohol and gauze, Marshall moves swiftly along the medical shelves. His hands rifle through drawers, pulling out hypodermics, small glass ampoules of adrenaline, and bottles of antiseptic, arming himself quietly for the darkness ahead. 
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] Vlad? Vlad?
 
-[MALE] It's the next step.  I checked out the Baltimore information, it was nothing. It's Philadelphia, that's where they are, the ones who killed everyone.  Zs that a radio?  Does it play music? RAILLY turns on the radio and immediately WE HEAR the SOUND of SURF and the CRIES of gulls, background to an oozing baritone COMMERCIAL. COMMERCIAL/RADIO  This is a personal message to you. COLE sits up, alert, listening intently. COMMERCIAL/RADIO  Are you at the end of your rope?  Are you dying to get away? COLE'S eyes narrow, concentrating on this personal message. COMMERCAIL/RADIO (cont. o.s.} The Florida Keys are waiting for you. COLE frowns as the SOUND of breaking SURF and crying GULLS fills the car.  It's confusing!  He blurts out...
+[NARRATOR] Nevsky’s voice echoes softly from the corridor, drawing closer as he works his way from room to room, peering into the shadows. As he steps across the threshold of the staff cabin, his eyes are suddenly blinded by the blinding, high-intensity white glare of the adjustable surgical lights overhead. 
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Before his eyes can adjust to the glare, Marshall swings a heavy glass tank of anesthesia downward, shattering it directly across Nevsky’s head. The man crumples silently to the floor. Without hesitation, Marshall kneels, ripping the MP5 submachine gun from Nevsky’s shoulder, and presses the cold steel barrel directly against the quiet man’s throat. 
 
-[MALE] I've never seen the ocean! Observing his confusion in the mirror, RAILLY assumes her professional tone.
+[MALE] Where are they? My family, the crew… where are they?
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] Nevsky remains silent, his breath shallow in the bright, clinical light. 
 
-[MALE] It's an advertisement, Mr. Cole.  You do understand that, don't you?  It's not really a special message to you. COLE frowns.  He did think it was for him, but she's probably right.
+[MALE] The conference room, right? Right?
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] With a sudden, heavy heave, Marshall jerks the man to his feet, the weapon steady and cold against his skin. 
 
-[MALE] You used to call me "James".
+[MALE] You’ll unlock the door for me, or I’ll kill you right here.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Down the quiet corridor, illuminated only by the faint, rhythmic pulse of emergency lights, Marshall guides Nevsky firmly toward the heavy double doors of the main conference room. As they pass the open stairwell leading upward to the deck, Nevsky suddenly twists his body, breaking free with a desperate burst of motion. 
 
-[MALE] You'd prefer that? ... James...you don't really have a gun, do you.
+[MALE] KORSUNOV!
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The sharp crack of gunfire shatters the nocturnal quiet. Marshall fires instantly, the muzzle flash illuminating the dim walls for a split second before Nevsky collapses to the floor. 
 
-[MALE] Everybody's got a gun.  In this city... He breaks off reacting to the RADIO MUSIC!  FATS DOMINO singing "BLUEBERRY HILL"!  COLE grins, mouth agape, eyes wide like a kid's.
+[MALE] Shit.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] There is no time for hesitation, no room for remorse in the quiet ship. Marshall turns to the heavy oak door of the Main Conference Room, pressing his weight against the latch, only to find it firmly, hopelessly locked. Footsteps echo from the stairwell above—the others are coming. 
 
-[MALE] Can you...can you make it louder?  I love hearing twentieth century music! Hearing music and breathing air! As RAILLY cranks up the volume, she watches the mirror incredulously, sees him stick his head out the window into the wind, mouth open, "eating" the air hungrily. EXT.  FREEWAY/ACURA - NIGHT "BLUEBERRY HILL" BLARES as the Acura, COLE'S head out the rear window, zips past a sign at 65 mph. The sign says, "PHILADELPHIA 233 MILES." INT.  ACURA/FREEWAY - NIGHT RAILLY glances in the mirror at the nut in the rear seat with his head out the window.  what can she do?  Just then, while she's trying to figure something out, an ANNOUNCER'S VOICE breaks in... ANNOUNCER/RADIO  This just in from Fresno, California: emergency crews are converging on a cornfield where playmates of nine year old Ricky Neuman say they saw him disappear right before their eyes. COLE pulls his head back inside with a frown, troubled now. ANNOUNCER/RADIO  Young Neuman apparently stepped into an abandoned well shaft and is lodged somewhere in the narrow 150 foot pipe, possibly alive, possibly seriously injured.  Playmates claim they heard him cry out faintly but since then there has been no contact with...
+[NARRATOR] Flattening his body tightly against the cool plaster of the corridor wall, Marshall raises the submachine gun, his eyes fixed on the descending stairs. As the first dark silhouettes of the terrorists emerge from the shadows, Marshall gently squeezes the trigger, sending a short, controlled burst of rounds upward. 
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] The figures retreat hastily up the steps, returning a flurry of wild, blind fire that chips away at the wooden paneling. Marshall lowers the weapon briefly to check the ammunition clip; only a few rounds remain within the metal housing. Raising the barrel once more, he fires a few final, calculated shots to buy a moment of precious silence, then ducks swiftly around the corner into the sheltering alcove. 
 
-[MALE] "Never cry wolf!"
+[NARRATOR] His fingers find the small bottle of rubbing alcohol and a roll of white gauze resting in his pocket. Down the corridor, the terrorists seize the temporary lull, cautiously descending the steps to take up tactical positions in the dim light. 
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] With a steady hand, Marshall strikes a match, ignites the makeshift gauze fuse of his newly fashioned Molotov cocktail, and hurls it smoothly around the corner into the open corridor.
 
-[MALE] What?
+[NARRATOR] The makeshift fuse catches the oxygen, blooming instantly into a bright, contained sphere of fire that sails gracefully around the threshold, shattering against the bulkhead in a sudden, blinding flash of orange. Bazylev cries out as the liquid fire catches, dropping heavily to the carpeted floor to roll and smother the flames, while overhead, automated thermal sensors trigger a sudden, hissing cascade of thick, white fire-suppressing foam that blankets the aisle in a soft, drifting snow. 
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] Go after him.
 
-[MALE] My father told me that.  "Never cry wolf."  Then people won't believe you if...something really happens.
+[NARRATOR] Serge steps carefully over the steaming, dampened form of his comrade, his boots making a dull, wet sound against the foam-slicked carpet as he advances deeper into the tail section of the aircraft, searching the shadows for the elusive shadow that haunts these high-altitude halls. Korshunov reaches for a heavy red extinguisher from the galley wall, releasing a steady stream of mist to cool the remaining embers. Further back, moving with measured, silent steps through the twilight of the rear cabins, Marshall retreats behind a series of fabric-covered dividers, his breath coming in slow, controlled rhythms. He fires a brief, calculated warning through the dimness before slipping back toward the very end of the great flying fortress, where the galley opens into a narrow, confined space of metal and mirrored panels. There is nowhere left to run, no place to vanish, save for a row of small, enclosed lavatories with their lightweight doors swinging slightly in the pressurized draft. Serge follows the scent of ozone and tension, his boots echoing softly in the cramped space, his eyes scanning the empty counters until they land upon the closed doors of the bathrooms. 
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] I know you're in there. Come on out.
 
-[MALE] "If something really happens"...like what, James?
+[NARRATOR] A heavy silence stretches through the cabin, broken only by the steady, hypnotic drone of the jet engines outside the thick double-paned windows. 
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] Okay. Have it your way. Time for a deadly version of the shell game.
 
-[MALE] Something bad.  Is that all the music? I don't want to hear this stuff... RAILLY glances at him as she scans stations.
+[NARRATOR] Without another word, Serge raises his weapon and sends a jagged line of lead slicing effortlessly through the thin wood of the first enclosure, kicking the splintered door open to reveal only empty air and mirrored reflection. He moves with cold, methodical precision to the next, repeating the hollow ritual, and then to the third, unloading a concentrated burst of fire that shreds the final door into a cloud of pale sawdust and shrapnel before kicking it inward with a heavy thud. It, too, is completely empty. Serge lowers his barrel, his brow furrowing in disbelief as he turns slowly in the tiny space, wondering how a man could simply dissolve into the metal ribs of the plane, until a distant voice echoes down the narrow corridor.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[MALE] Serge?
 
-[MALE] Did something terrible happen to you when you were a child?  Something so bad...?
+[NARRATOR] Reluctantly turning his back on the empty alcove, Serge retreats toward the main cabin. Meanwhile, hidden just beyond the reach of normal sight, Marshall has slipped through the tight, recessed square of the lower galley dumbwaiter, tumbling downward into the dim, shadowy depths of the baggage level. He slumps heavily against the cold aluminum bulkhead, letting his weight slide down until he rests upon the carpeted floor, eyes closed as he lets the quiet stillness restore the center of his mind. He reaches out, his fingers finding the familiar, cold steel of an MP5, hefting its weight to feel the balance and texture of the mechanism. With a practiced motion, he ejects the magazine, counting the precious few remaining rounds with the tip of his thumb before slapping it firmly back into place and clicking the selector switch from automatic to a quiet, solitary single-shot. He raises the weapon in the dim, amber glow of the cargo hold, aiming gently into the stillness.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] The NRA'll love this.
 
-[MALE] Ohhhh, that one!  Can we hear that one? It's IVORY JOE HUNTER singing, "SINCE I MET YOU, BABY". IVORY JOE/RADIO  "Since I met you, baby, My whole life has changed... Ecstatic, COLE sticks his head out the window again. EXT.  ACURA/FREEWAY COLE'S POV:  the heavens, glittering with a million stars and a lover's moon as IVORY JOE croons the achingly romantic lyrics... IVORY JOE/RADIO  "-- cause since I met you, baby. All I need is you..." ANGLE ON COLE, wind in his hair, eyes shining, gulping air blissfully. INT.  RAILLY'S APARTMENT - MORNING Two POLICE OFFICERS and an anxious MARILOU MARTIN listen to an answering machine's message while a hungry CAT cries plaintively.
+[NARRATOR] Down the gleaming barrel of the gun, his eyes drift past the sights and rest upon the silent, stacked rows of leather luggage bins, holding secrets from a world far below. Thousands of miles away, inside the warm, wood-paneled confines of the secure office, Stoli Petrov sits behind a massive oak desk, the soft amber lamp light casting long, gentle shadows across his face as he holds the heavy receiver to his ear.
 
-[NARRATOR] Answering Machine offers quietly, watching the shadows drift across the room:
+[MALE] I understand your dilemma, Vice President Chandler. But unless you can confirm that your President is indeed a hostage, I cannot release Stravanavitch. If Marshall is dead, no good will come of meeting this demand. We both know he would agree.
 
-[MALE] Dr. Railly -- this is Palmer from Psych Admitting.  There was a guy here this afternoon looking for you.  He seemed very agitated.  We tried to keep him, but he refused 'n I kept thinking, I know this guy.  Then, just a few minutes ago, it came to me.  It's Cole!  James Cole. Remember him?  The paranoid who pulled the Houdini back in '89.  Well, he's back and he's...cuckoo...and he's looking for you.  I thought you oughta know. The machine switches off.  The POLICE OFFICERS exchange a look.
+[FEMALE] But the First Lady...
 
-[NARRATOR] Marilou Martin responds with gentle reassurance:
+[MALE] ... is not a First Lady if her husband's been killed. Then she's a civilian. And I can't release him for a civilian. Do you see my point?
 
-[MALE] It's just as I told you -- my husband and I had gone ahead -- she never showed.  That's totally unlike her!
+[NARRATOR] Within the brightly lit sanctuary of the White House Situation Room, the air is thick with the quiet, urgent hum of crisis management, where advisors and staff murmur softly into telephones and review neatly stacked piles of reports under the cool glare of overhead fixtures. A secure fax machine in the corner begins to chatter softly, spitting out curled lengths of freshly printed paper that Lee catches with practiced hands, quickly sliding them into color-coded manila folders before stepping forward to interrupt the Vice President's call.
 
-[NARRATOR] Officer Two responds with gentle reassurance:
+[FEMALE] Madame Vice President. We have an options paper.
 
-[MALE] Do you happen to know the make of her car?
+[NARRATOR] Chandler reaches out across the polished conference table, taking the papers from her outstretched hand as the low, steady murmur of the room continues to weave its quiet, watchful vigil into the night.
 
-[NARRATOR] Marilou Martin whispers gently into the still air:
+[NARRATOR] The heavy, polished wood of the conference table absorbs the muted amber glow of the desk lamps, casting soft shadows across the quiet room. Outside the tall windows, the night is vast, dark, and still. [NARRATOR] Vice President Chandler accepts the options paper with a slow, deliberate movement. [FEMALE] Yes. You've made yourself quite clear. [NARRATOR] She gently waves away Lee’s approaching hand, her eyes scanning the neat rows of text as she listens to the quiet hum of the phone against her ear. [MALE] But I will deploy forces to a staging area near the Turkmenistan border. When you have more information, we can decide how to proceed. [FEMALE] By then I'll be President. [NARRATOR] With a soft, quiet click, Chandler rests the telephone back onto its cradle, ending the connection. [FEMALE] I don't like any of these. [NARRATOR] She lets out a slow, quiet breath, her gaze lifting from the pages. [FEMALE] Did you brief General Northwood? [NARRATOR] General Northwood rises smoothly from his huddle, stepping forward into the soft, ambient light of the room. [MALE] I'm inclined to try this part. Anticipate their landing site and get strike teams in place. [FEMALE] Can we do that? [NARRATOR] Northwood nods slowly, his voice measured and calm against the stillness of the night. [MALE] We've got four hours before they make it into Turkmenistan airspace. I've got a satellite passing overhead in twenty minutes. We can narrow down the landing site choices based on runway length and any unusual activity. With luck we'll only have to capture three or four sites. [FEMALE] But they start executing hostages in forty-five minutes. [NARRATOR] Northwood shifts his weight, his expression somber in the dim room. [MALE] I hate to be pragmatic, but they'll sacrifice pawns before kings. It may take them some time to kill their way up to senior staff. [FEMALE] Okay. Also, I want you to put our bases in Turkey on alert, and have the Kitty Hawk prepare a retaliatory air strike. [NARRATOR] Dean steps forward, the soft fabric of his suit rustling faintly in the quiet air. [MALE] Madame Vice President... [FEMALE] I've not discounted your theory, Mr. Dean... [NARRATOR] Dean shakes his head gently, his voice dropping to a low, weary murmur. [MALE] No... I got the new numbers from our gamers. They believe that there's only an eight percent chance that the President is still alive. [FEMALE] Eight percent is better than zero. [NARRATOR] Suddenly, a soft gasp escapes her lips as her eyes are drawn toward the flickering blue light of a monitor in the rear of the room. [FEMALE] Oh shit... what is that? [NARRATOR] CNN plays silently on the screen, a restless, glowing pulse in the quiet room, broadcasting live footage from Ramstein Air Base beneath the heavy blanket of night. [MALE] That's trouble. [NARRATOR] The television reporter's voice drifts softly through the room's speakers, a distant, murmuring cadence. [NARRATOR] The Presidential Aircraft was en route from Moscow when it began its mayday hail. But in a startling turn of events, the seemingly out-of-control plane aborted its landing and took off again. We haven't been able to confirm its status or whether or not the first family was onboard at the time. [FEMALE] Would someone get the Press Secretary! [NARRATOR] An aide steps forward into the dim light. [MALE] He's been holding on line four. [NARRATOR] Far above the earth, high in the quiet, endless expanse of the night sky, Air Force One glides silently. [NARRATOR] The fuselage gleams softly, bathed in the pale, ethereal glow of the moonlight as it drifts through the peaceful, empty oceans of air. [NARRATOR] Deep inside the corridor, the acrid scent of smoke has faded, replaced by the cool, still air of the upper deck. [NARRATOR] The small fire is completely extinguished, leaving only charred shadows against the bulkhead. [NARRATOR] Zedeck crouches low over Nevsky’s still form, his movements slow and careful. [NARRATOR] Gibbs and Serge maintain a steady, watchful defensive position, their weapons held ready in the dim, flickering emergency light. [NARRATOR] Bazylev emerges silently from the senior staff conference room, his expression a quiet mask of solemnity as he slowly shakes his head no. [NARRATOR] Korshunov nods once, his brow furrowing deep in thought as he surveys the quiet, shadowed corridor. [MALE] Who did this? [MALE] We checked the manifest. Everyone was accounted for. [MALE] A secret service agent. It must be. Wounded but alive. Serge, Bazylev... Find him. [NARRATOR] Serge and Bazylev lock their weapons with a soft, metallic click and vanish quietly in opposite directions down the dim hallway. [MALE] The conference room is no longer secure. We'll take the First Lady and the girl up top where we can keep a closer eye on them. [NARRATOR] Inside the main conference room, the atmosphere is heavy and still, the hostages having torn away a section of the wall in the quiet dark.
 
-[MALE] Um...Acura...'92 Acura. ... Also, that cat's starving!  She would never neglect her cat! EXT.  MOTEL - MORNING The ACURA is parked outside room 46 of the HIGHWAYS & BYWAYS MOTEL, which has definitely seen better days. INT.  MOTEL ROOM 46 The TV is on.  A commercial is just starting.  A catfood jingle. The sound of HEAVY BREATHING. ANGLE ON COLE, sweating, BREATHING HEAVILY, sprawled on one side of the double bed, sound asleep. INT.  CONCOURSE/AIRPORT - DAY  GUNSHOT!  YOUNG COLE glimpses the BLONDE MAN staggering, wounded. The mysterious BRUNETTE races past him toward the BLONDE MAN, and YOUNG COLE again glimpses the resemblance to RAILLY, in spite of the dark hair, the make-up, the flashy earrings. Close at hand, YOUNG COLE'S FATHER, his face still out of view, says, FATHER'S VOICE  Son, it's important for your cat to have the nourishment necessary for healthy bones and a rich coat. INT.  MOTEL ROOM 46 COLE comes awake with a start.  He stares, disoriented, at the CATFOOD COMMERCIAL on the TV. RAILLY'S VOICE  Please untie me.  I'm very uncomfortable. COLE turns to RAILLY, beside him on the bed, frightened and helpless, her jacket arranged to restrain her like a strait-jacket. COLE'S instinct is to free her at once, but he controls his impulse.  He looks away, gets up, and, wincing, limps to the dresser, stepping around empty fast-food cartons.  He pulls a razor and shaving soap from a paper bag, then goes into the bathroom, leaving the door open, and starts to shave.
+[NARRATOR] The overhead lights of the main conference room cast long, pale shadows across the disturbed floor, where the deep-piled carpeting has been hastily peeled back to reveal a cold expanse of smooth, riveted steel sheets. Major Caldwell and Shepherd kneel upon the fabric, their fingers brushing the unyielding metal beneath, feeling the utter futility of the barrier.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] We're not getting out that way.
 
-[MALE] You were in my dream just now.  Your hair was different, but I'm sure it was you.
+[NARRATOR] The heavy oak door swings open with a soft, sliding whisper, and Gibbs steps into the room alongside Korshunov, their boots treading upon the quiet dust of the hallway. Their eyes immediately drop to the jagged tear in the floorboards.
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] Admirable, but you're wasting your time. Mrs. Marshall, would you and your daughter please come here.
 
-[MALE] We dream about what's important in our lives. And I seem to have become pretty important in yours.  What was the dream about?
+[NARRATOR] The heavy air grows even stiller, the hostages frozen in place, bound by an invisible weight. Korshunov’s arm rises, the dark barrel of his weapon shifting until it comes to rest gently against Shepherd's temple.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] Now, or he dies, please.
 
-[MALE] About an airport...before everything happened.  It's the same dream I always have -- the only one.  I'm a little kid in it.
+[FEMALE] Come on, Alice.
 
-[NARRATOR] Railly whispers gently into the still air:
+[FEMALE] I'm scared.
 
-[MALE] And I was in it?  What did I do?
+[NARRATOR] Before anyone else can move, Doherty steps forward from the gathered crowd, his shadow stretching long against the wall, while Shepherd’s hand reaches out in a silent, futile gesture of restraint.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] You've got the better part of the White House locked in this room, you know. If you want to negotiate, we're the ones to do it with.
 
-[MALE] You were very upset.  You're always very upset in the dream, but I never knew it was you before.
+[NARRATOR] A sharp, sudden report shatters the quiet, echoing off the paneled walls, followed by the soft, heavy sigh of a falling body and the muffled, fluttering gasps of startled breaths. To still the rising tide of panic, Korshunov fires twice more into the empty air, the sharp flashes illuminating the dim, dust-filled room before settling back into a tense, breathless quiet.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] Mrs. Marshall. Alice. If you please.
 
-[MALE] It wasn't me before, James.  It's become me now because of...what's happening.  Please untie me. Finished shaving, COLE re-enters the bedroom, toweling his face.
+[NARRATOR] Rose turns her gaze away from the tragedy, her eyes sweeping over the pale, upturned faces of the frightened hostages, offering them a fragile anchor of calm.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[FEMALE] It's okay. Do what you're told. It's okay. We'll be okay.
 
-[MALE] No, I think it was always you.  It's very strange.
+[NARRATOR] She locks her eyes with Caldwell, sending a silent message through the quiet gloom.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[FEMALE] Keep working.
 
-[MALE] You're flushed.  And you were moaning. I think you're running a fever.  What are you doing? COLE is rummaging through RAILLY'S wallet, pulling out money.
+[NARRATOR] He gives a slow, microscopic nod, while far away in the dim, shadowed sanctuary of the rear baggage hold, the President works in absolute solitude. Overturned garment bags and scattered suitcases lie half-buried in the shadows, their contents spilling across the corrugated steel floor like forgotten autumn leaves. He sifts through a final heap of dark fabric until his fingers brush against a small, hard object—a cellular phone. He flips it open with a familiar motion, his thumb resting upon the keypad, but his hand freezes in the amber glow of the screen.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] Goddamnit.
 
-[MALE] I'll be back in a minute. He heads for the door.
+[NARRATOR] He hesitates, searching the quiet corners of his mind before pressing a simple, universally known sequence of numbers. 
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Close upon the tiny illuminated screen, the digits glow softly in the dark: 555-1212. Information. The soft electronic hum of the line vibrates through the quiet air. 
 
-[MALE] No!  Don't leave me here like this! Too late!  He shuts the door behind him, leaving her alone. ANGLE ON THE TV SCREEN, where an ANCHORMAN sits at a News Set.
+[NARRATOR] Down in the forward baggage hold, Bazylev moves with the practiced, silent grace of a commando, his boots making no sound as he slips deeper into the cool shadows of the lower galley. 
 
-[NARRATOR] Tv Anchorman responds with gentle reassurance:
+[NARRATOR] In the rear hold, the distant ringing tone finally ceases, replaced by a calm, professional cadence.
 
-[MALE] And in Fresno, California...crews continue to attempt to rescue nine year old Ricky Neuman. ANGLE ON RAILLY, twisting and struggling on the bed, trying to get loose, tears welling in her eyes. TV ANCHORMAN  The boy was playing ball with four other children when he literally disappeared off the face of the earth. EXT.  MOTEL CORRIDOR - MORNING COLE puzzles over a junk food vending machine, inserts coins tentatively. INT.  MOTEL ROOM ANGLE ON TV, the picture of RAILLY filling the screen. ----------------------- PAGE 52 MISSING -----------------------
+[FEMALE] Information. How can I assist you?
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Washington D.C.?
 
-[MALE] My notes.  Observations.  Clues.
+[FEMALE] Yes, sir. Can I help you?
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] Yes, the number for the White House.
 
-[MALE] Clues?  What kind of clues?
+[NARRATORS] Far away from the cargo holds, within the quiet sanctuary of the pilot's rest area—a small, enclosed space behind the cockpit where the bulkheads still bear the faint, sooty scars of an earlier C-4 explosion—a different kind of quiet settles. Korshunov fills a small ceramic mug with dark, steaming coffee, the rich aroma cutting through the smell of scorched metal, and holds it out toward the young girl.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] You must be tired. It'll wake you up.
 
-[MALE] A secret army.  The Army of The Twelve Monkeys.  I've told you about them. They spread the virus.  That's why we have to get to Philadelphia.  I have to find them -- it's my assignment.
+[FEMALE] I don't drink coffee.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[MALE] No, thank you. The gunfire did that.
 
-[MALE] What will you do...when you find this...secret army?
+[NARRATORS] While they speak, Gibbs stands behind Rose, efficiently wrapping her wrists together with heavy strips of gray duct tape, sealing her movements in the dim, pulsing light of the aircraft.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[FEMALE] Leave my daughter alone.
 
-[MALE] I just have to locate the virus in its original form before it mutates.  So scientists can come back and study it and find a cure.  So that those of us who survived can go back to the surface of the earth. RAILLY maintains a professional deadpan, says nothing as they pass a pickup truck with a MOTHER, FATHER, and five KIDS in the back. COLE stares at the KIDS, a sad look in his eyes.
+[MALE] Or you will do what, Mrs. Marshall? But I admire your courage. Your husband, on the other hand...
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[FEMALE] What do you know of my husband?
 
-[MALE] You won't think I'm crazy next month. People are going to start dying.  At first the papers will say it's some weird fever, some virus.  Then they'll begin to catch on.  They'll get it. RADIO NEWSCASTER  We interrupt this program with a special bulletin... RAILLY and COLE both react to the radio, suddenly alert. RADIO NEWSCASTER  This report just in from Fresno, California.  Naval sonar specialists who were flown to the site...
+[MALE] I know he left you behind.
 
-[NARRATOR] Cole whispers gently into the still air:
+[FEMALE] My husband is a very courageous man.
 
-[MALE] I thought it was about us.  I thought maybe they'd found us and arrested me or something. RAILLY stares at COLE.
+[MALE] Your husband is a coward. He sends soldiers half-way around the world to steal a man from his home in the middle of the night.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Alice shifts where she sits, her young eyes sharpening with an unexpected, quiet intensity as she fixes her gaze upon the man before her.
 
-[MALE] Just a joke. RADIO NEWSCASTER  -- an hour ago have been unable to determine the location of the boy in the 150 foot shaft...but a TV sound man who lowered an ultra-sensitive microphone into the narrow tube claims he heard breathing sounds coming from approximately seventy feet down... COLE reaches over and changes stations.  MUSIC again.
+[FEMALE] You're one of Stravanavitch's men.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[MALE] So, you study world events, little one. That's good for a girl your age.
 
-[MALE] Does that disturb you, James?  Thinking about that little boy in the well?
+[FEMALE] Yeah, I study world events. Five thousand Turkienistan Muslims were slaughtered in Stravanvitch's cleansings... along with 15 American school kids. You know how I studied that. I went...
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] The heavy, pressurized air of the aircraft cabin hung still, carrying the faint, metallic scent of ozone and the rhythmic, low-frequency thrum of the engines high above the clouds. Outside the thick, rounded windows, the vast expanse of the night sky stretched out endlessly, a deep, velvety indigo blanket sprinkled with distant, unblinking stars. Inside, the soft, amber glow of recessed lighting cast long, gentle shadows across the aisle, creating an atmosphere of quiet, isolated stillness.
 
-[MALE] When I was a kid I identified with that kid, down there alone in that pipe...a hundred feet down -- doesn't know if they're going to save him.
+[MALE] Smart for your age, eh? Top of your class? Tell me, do you know what the word "propaganda" means?
 
-[NARRATOR] Railly responds with gentle reassurance:
+[FEMALE] Yeah. Do you know what the word "asshole" means.
 
-[MALE] What do you mean -- when you were a kid?
+[NARRATOR] A fleeting ripple of tension passed through the cabin air, followed closely by the sound of shifting fabric as Rose leaned forward in the dim light, torn between a quiet, protective exasperation and an unspoken swell of stubborn admiration. Korshunov’s lips curved into a slow, knowing smile, his dark eyes reflecting the cabin's amber lights as he gave a soft nod and lifted the heavy, cold metal of his weapon.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Yes, I have heard that word. Yes, I am an asshole.
 
-[MALE] Nevermind.  It's not real -- it's a hoax.  A prank.  He's hiding in a barn. Hey, turn left here.  Left! COLE quickly checks the map as RAILLY stares, then turns left. EXT.  SKID ROW STREET/PHILADELPHIA - DAY An elderly EVANGELIST with long stringy hair, wearing a tattered bathrobe, stands on a Skid Row corner WAVING a worn Bible as he rants at disinterested DERELICTS, WINOS, and BAG LADIES.
+[NARRATOR] The seconds stretched outward, growing long and heavy in the quiet air, until the tension slowly melted away like mist in the morning sun, and the man lowered the barrel of the gun. The steady, hypnotic hum of the engines seemed to fill the silence once again, pulsing like a distant heartbeat.
 
-[NARRATOR] Evangelist responds with gentle reassurance:
+[MALE] Your father is a reasonable man. Once he hears our simple demand, I'm sure he will acquiesce. For your sake.
 
-[MALE] "And the wild beasts of the islands shall cry in their desolate houses and dragons in their pleasant palaces:  and her time is near to come, and her days shall not be prolonged." ANGLE ON RAILLY'S ACURA, crawling down the street, RAILLY driving, COLE, beside her, staring out the window. INT.  ACURA/SKID ROW STREET COLE is scrutinizing the crumbling walls, boarded-up store fronts, tattered posters, decaying signs, miserable "RESIDENTS".
+[NARRATOR] Korshunov smiled warmly, a chilling contrast to the situation, while Gibbs stepped forward from the shadows. With steady, silent movements, Gibbs pulled the young girl's hands behind her back, the gentle rustle of clothing accompanied by the soft, tearing sound of tape being smoothly unrolled to bind her wrists. 
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+Farther down the narrow, dimly lit gangway, away from the quiet confrontation, Serge moved with hushed stealth through the main cabin and into the rear galley. The galley was bathed in the cool, blue-tinted shadows of the night flight, the polished metal surfaces of the counters catching faint highlights from the aisle lights. Serge searched through the lower cabinets until his hand brushed against the cool metal of the galley dumbwaiter, the hidden pathway his quarry had used. With a low, frustrated grunt, he grabbed a heavy service cart and shoved it forcefully into the shaft, the metallic clatter echoing softly before jamming the mechanism completely.
 
-[MALE] Where I come from we think of this as Eden. If we could just see the sun, eat sun-grown food.  Eden!  Look at them!  They donut know what they have.  They don't see the sky.  They don't feel the air! COLE'S POV:  a BMW speeds toward them, passes, its radio BLARING! COLE  And the ones who aren't hungry are so smug they haven't a clue.  WAIT!  STOP! EXT.  ACURA/SKID ROW On foot now, COLE pulls an astonished RAILLY to a wall covered with graffiti, a hopeless tangle of symbols, words, and crude pictures. Clueless, RAILLY stares at the wall, then at COLE. COLE touches a bit of red-stenciled graffiti hidden under gang insignias.  We can just see TWELVE MONKEYS holding hands in a circle.
+Nearby, in the dim hush of the corridor, Bazylev stood motionless. His ears caught the faint, high-pitched electronic trill of a phone dialing somewhere in the shadows ahead. Moving with the silent grace of a shadow, he drifted toward the aft portal of the gangway, his boots making no sound on the carpeted floor.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+Deep within the cavernous shadows of the rear baggage hold, surrounded by stacked crates and draped cargo, the air was cool and still. Marshall stood beside a heap of soft clothing, holding the small receiver tightly against his ear as the phone rang and rang into the empty void. 
 
-[MALE] The Twelve Monkeys!!!  They're here.  Somewhere.  Come on! He pulls her along the sidewalk.  No question, he's insane. At the next alley entrance, COLE stops abruptly.  Then, still keeping a firm grip on RAILLY'S arm, he starts ripping down newly tacked-up posters announcing a Rap concert. RAILLY stares at him, then turns and is looking all around when, suddenly, COLE pulls her up tight and threatens...
+Thousands of miles away, in the brightly lit, humdrum sanctuary of the White House switchboard room, the fluorescent lights buzzed softly overhead. A young woman in her mid-twenties sat at the sprawling wooden console, her fingers resting idly near the blinking panel of calls, surrounded by the quiet routine of the night shift. The phone before her chimed gently, and she lifted the receiver with a practiced, cheerful cadence.
 
-[NARRATOR] Cole whispers gently into the still air:
+[FEMALE] White House switchboard. How may I direct your call.
 
-[MALE] Look, I'm warning you.  You do anything, I'm going to go crazy -- hurt people!
+[NARRATOR] In the dim, cavernous quiet of the rear baggage hold, Marshall spoke in a hushed, urgent whisper, his voice competing with the distant, muffled roar of the aircraft's engines.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[MALE] Okay listen, listen carefully. This is an emergency call from Air Force One. Who's there? Is the Vice-President there?
 
-[MALE] I'm not going to "do" anything, I promise.  But you need help, James. None of this is what you think it is. ANGLE ON COLE, not listening, staring triumphantly!  He's found another partially obscured stencil of THE TWELVE MONKEYS! But just then, a raspy VOICE startles COLE. RASPY VOICE  You can't hide from them, Bob. COLE whirls, sees a derelict, LOUIE, leering at him, speaking in a voice eerily like the RASPY VOICE from the next cell in the future.
+[NARRATOR] Back in the brightly lit switchboard room, the operator tilted her head, a slight, playful amusement touching the corners of her mouth as she leaned back in her ergonomic chair.
 
-[NARRATOR] Louie whispers gently into the still air:
+[FEMALE] Who can I say is calling?
 
-[MALE] No, sir, Old Bob -- don't even try.  They hear everything.  They got that tracking device on you.  They can find you anywhere.  Anytime.  Ha Ha! RAILLY looks from LOUIS to COLE, sees COLE'S stunned reaction.
+[NARRATOR] Marshall's voice strained through the tiny speaker, tight with the absolute gravity of the moment.
 
-[NARRATOR] Louie offers quietly, watching the shadows drift across the room:
+[MALE] This is the President.
 
-[MALE] In the tooth, Bob!  Right?  But I fooled 'em, old buddy! He opens his mouth wide.  NO TEETH' COLE grabs RAILLY and pulls her into the alley and down it.
+[FEMALE] Yeah, right.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Don't cut me off. This is an emergency.
 
-[MALE] They're keeping an eye on me.
+[FEMALE] Sir, the President does not call this particular number. So whoever you are get a life, before I have this call traced.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[MALE] You don't understand. This is an emergency. Let me talk to anyone.
 
-[MALE] Who's keeping an eye on you?
+[NARRATOR] The operator paused for a brief, quiet beat, letting a small smile form as she decided to humor the stranger on the line, resting her chin in her hand.
 
-[NARRATOR] Cole whispers gently into the still air:
+[FEMALE] Okay... if you're the President, when's your wife's birthday?
 
-[MALE] The man...with the voice.  I recognized him.  He's from the present.  He... COLE breaks off, freezes as he sees... there on a brick wall is a stencil of the DANCING MONKEYS And further on, another red stencil! EXT.  VACANT LOT - MOMENTS LATER  CRACKHEADS huddle against a building, sucking their pipes, oblivious to COLE pulling RAILLY past. COLE scans the walls for messages in the confusion of graffiti. RAILLY is considering her surroundings dubiously when, suddenly, COLE pulls her toward the mouth of a dark and forbidding alley.
+[MALE] Look lady, I don't have time for games. Just put the....
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[FEMALE] Thank you for calling the White House...
 
-[MALE] James, no -- we shouldn't be here! COLE ignores her, yanking her after him into the alley. INT.  DARK ALLEY - DAY Two TOM CATS face off, arching their backs and HISSING menacingly. COLE avoids them as he pulls RAILLY into the gloom. ANGLE ON RAILLY, seeing something alarming twenty yards ahead! RAILLY'S POV:  TWO THUGS, standing over a MAN, kicking him. RAILLY tries to stop, but COLE, intent on the wall messages, doesn't notice the THUGS. The TWO THUGS turn and spot COLE and RAILLY moving toward them. These creeps have mean eyes, predator faces. RAILLY digs her heels in, forcing COLE to stop.
+[MALE] No. No. No. Wait. Wait.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Out of the deep shadows of the baggage hold, Bazylev emerged silently, stepping up directly behind Marshall and raising his heavy machine gun with chilling precision. 
 
-[MALE] James!  We have to go back.  Those men... Too late.  While COLE turns and stares at her, uncomprehending, the TWO THUGS are approaching.
+[MALE] I should know this.
 
-[NARRATOR] First Thug speaks with a quiet, measured softness:
+[FEMALE] Sir? Are you there? Sir? Sir?
 
-[MALE] Hey, buddy. Startled, COLE turns to face them. The SECOND THUG lunges for RAILLY'S purse, yanks it from her. COLE reaches to grab it back, but...WHACK!  The FIRST THUG smacks COLE hard across the face with something metallic. Bloody-faced, dazed, COLE doesn't even have a chance to clear his head as the FIRST THUG shoves the hard object against COLE'S cheek.  It's a cheap thirty-eight pistol. RAILLY turns to run, gets two steps before the SECOND THUG knocks her roughly to the ground.
+[NARRATOR] Through the open line, the sharp, thunderous crack of gunfire suddenly echoed, shattering the quiet hum of the switchboard room. The operator froze, her cheerful expression vanishing as her face went pale. In her hand, the receiver trembled slightly. Quickening her movements, she reached out, pulling open a thick call sheet to scan for a number in the fading silence.
 
-[NARRATOR] Second Thug answers in a low, calming tone:
+In the baggage hold, the phone lay open and discarded upon the soft heap of clothing. The harsh black muzzle of Bazylev's machine gun pointed directly at Marshall's head, the cold steel gleaming faintly under the emergency lights.
 
-[MALE] Stick around, bitch. Looming over her, the SECOND THUG starts to unzip his fly. RAILLY looks over to COLE, SEES... COLE dropping to his knees, groveling at the FIRST THUG'S feet.
+[MALE] Hands away from your weapon.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Marshall stood frozen, his breathing slow and measured, his weapon hanging at his side with his fingers resting just inches from the grip. 
 
-[MALE] Please!  Please don't hurt me! The FIRST THUG steps close, kicks COLE contemptuously, cocks his foot for a second kick when... COLE uncoils, lunging, rising, his strong arms around the bigger man's calves, lifting him mightily, high off the ground. The gun FIRES wildly as COLE staggers forward with the FIRST THUG in his arms and smashes the man into the brick wail behind him. The FIRST THUG goes down in a heap, dropping the pistol. Zipping his fly hastily, the SECOND THUG turns to deal with COLE but COLE attacks him....rocking him again and again with savage blows that come one after another with lightning speed.  The SECOND THUG staggers back, bloody and dazed as RAILLY watches, amazed. Turning back to the FIRST THUG, COLE sees the MAN reaching for the dropped pistol. COLE kicks him viciously in the jaw.  The FIRST THUG'S head whips back.  SNAP!  He collapses against the brick wall. COLE turns back to see the SECOND THUG retreating down the alley as fast as he can stagger. RAILLY stares up at COLE.  He looks very dangerous.  He glances in her direction as he pockets the pistol.
+[MALE] Come now. You don't want to die.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] With no other options left, every muscle in Marshall's body relaxing slowly, he pulled his hand away from the gun, lifting his arms just a fraction.
 
-[MALE] Are you hurt?
+[MALE] On your knees...
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] From the open receiver resting among the fabric below, a soft, electronic voice drifted upward into the quiet air of the hold.
 
-[MALE] Uh, no.  Yes.  I mean, just some scrapes... As RAILLY gets to her feet, she sees COLE bend over the motionless THUG and quickly go through his pockets.
+[FEMALE] Hello. Is anyone...
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Deep within the cavernous, quiet belly of the aircraft, the dim emergency lighting cast long, lazy shadows across towering crates and draped canvas. The air here was cool and still, carrying the faint, comforting scent of ozone and oiled metal, far away from the bustling world above the clouds. 
 
-[MALE] Is he...alive? COLE ignores the question as he pockets the man's wallet and a handful of bullets, then turns and snaps at RAILLY.
+[MALE] What's that in your shirt? Open it.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Bazylev gestured with a slow, deliberate tilt of his chin, his dark eyes shadowed beneath the warm, overhead glow. Marshall complied without a word, his movements measured and heavy, gently pulling aside the dark fabric to reveal the heavy, protective weave of his Kevlar vest resting against his chest.
 
-[MALE] Come an.  We're running out of time. You can't help him. As COLE yanks her roughly away, she looks back, sees the FIRST THUG'S sightless eyes, wide open...staring blankly.
+[MALE] Take it off. Now.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] The soft rustle of cloth broke the profound stillness of the hold, fading quickly back into the gentle, rhythmic hum of the engines. Thousands of miles away, beneath the heavy, vaulted ceilings of the White House Situation Room, daylight filtered softly through thick glass, casting a pale gold illumination across polished mahogany tables and quiet, waiting faces. Vice President Chandler held the telephone receiver close, her expression a study in tranquil focus, until a young aide stepped quietly to her side, waving a hand to capture her attention.
 
-[MALE] Oh, Jesus, James!  You killed him!
+[FEMALE] My intention is not to escalate the situation, but it's a contingency that must be considered. Hang on... What?
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[AIDE] The switchboard says that someone called in claiming to be the President, then she heard gunfire. Caller's gone, but the line's still active.
 
-[MALE] I did him a favor.  Now come on. COLE, pulling her again, sees more "12 MONKEYS" on the wall.
+[DEAN] Could be some crank watching CNN.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[AIDE] No sir. Trace confirms the call is coming from a White House staff cellular account.
 
-[MALE] You didn't have a gun before, did you?
+[FEMALE] Put it through down here. Hang on, Toni.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] The call transferred effortlessly onto the central speaker phone, filling the quiet room with a wash of muffled, distant static, the faint, hypnotic whine of jet engines humming like a lullaby in the background.
 
-[MALE] I've got one now. EXT.  SECOND AVE - DAY The EVANGELIST, spotting COLE and RAILLY hurrying past him, points urgently at COLE.
+[FEMALE] What's going on in the background? Can we hear what's going on?
 
-[NARRATOR] Evangelist speaks with a quiet, measured softness:
+[DEAN] Max, get me Willis.
 
-[MALE] You!  You!  You're one of us, aren't you? But COLE has stopped and is staring at... A STOREFRONT OFFICE...its windows covered with posters.  The sign over the office says, FREEDOM FOR ANIMALS ASSOCIATION. INT.  FAA STORE - MOMENTS LATER  Earnest young activists, FALE, deathly pale, BEN, long haired, and TEDDY, muscular, are gathered around a counter collating leaflets that demand an END TO SPECIEISM.  Behind them, a large poster proclaims, "ANIMALS HAVE SOULS, TOO".  Just then, there's a tremendous CLAP OF THUNDER as the ACTIVISTS look up and see COLE and RAILLY enter. COLE looks startled.  It sounds like torrential RAIN POURING in here.  Maintaining a tight grip on RAILLY'S wrist, he looks around frantically for an explanation for the tropical downpour. Bookshelves line two walls.  The front window is blanked cut with posters of Animal Rights demonstrations, newspaper clippings, photos of animal atrocities.  The fourth wall features the counter where the three ACTIVISTS face COLE as a JUNGLE BIRD SCREAMS in the DOWNPOUR.
+[NARRATOR] Far away at a National Security Agency listening post, bathed in the soft, cobalt glow of countless computer monitors, a heavy-set man named Willis sat surrounded by towering monoliths of high-tech machinery. His fingers moved with practiced, unhurried grace across his console.
 
-[NARRATOR] Fale responds with gentle reassurance:
+[WILLIS] Tracking... Intercepting call... Got it. Ten seconds, Mr. Dean.
 
-[MALE] Uh, can we help you? COLE looks confused as the RAIN abates and an ELEPHANT trumpets an urgent warning.
+[NARRATOR] Green and amber audio waveforms cascaded in gentle waves across the screens. Willis pressed a few keys, implementing digital filtering routines, sweeping away the rushing white noise and melting the chaotic static into pristine clarity. Back in the Situation Room, the gathered leaders leaned in, listening as the distant sounds modulated, dissolved, and finally resolved into sharp, spoken words.
 
-[NARRATOR] Fale adds in a relaxed, peaceful voice:
+[MALE] Hands... hands behind your head, Mr. President.
 
-[MALE] Excuse me.  You looking for something in particular?
+[FEMALE] It's him. He is alive.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] I'm going to take your weapon now, and then I'm going to take you upstairs to join the others. Understand?
 
-[MALE] It's all right, James -- it's just a tape. COLE'S eyes follow her look.  It's a tape recorder underneath a sign advertising, "THE TRUE MUSIC OF THE WORLD".
+[DEAN] Christ, they have him.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] And if you make any sudden moves, I will not hesitate to shoot.
 
-[MALE] I, uh, I'm looking for the, ah, the Army of the Twelve Monkeys. FALE glances at BEN and TEDDY.  "We have a problem!" the look says. MONKEYS start CHATTERING on the tape as TEDDY comes around the counter, bigger than COLE, physically imposing, menacing.
+[GENERAL NORTHWOOD] Maybe they don't have him yet.
 
-[NARRATOR] Teddy offers quietly, watching the shadows drift across the room:
+[NARRATOR] General Northwood stared upward toward the glowing tactical board on the far wall, where a tiny, solitary icon represented Air Force One, gliding peacefully through the vast, empty blue, surrounded by the silent, steady orbit of F-15 fighters.
 
-[MALE] We don't know anything about any "Army of the Twelve Monkeys", so why don't you and your friend disappear, okay? COLE backs away, a firm grip on RAILLY, as a LION ROARS.
+[GENERAL NORTHWOOD] And maybe we aren't so helpless.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Reaching out with a steady hand, Northwood lifted a secure telephone receiver and punched in a rapid sequence of numbers.
 
-[MALE] I just need some information...
+[GENERAL NORTHWOOD] General Greely, Air Force One has automatic countermeasures, right?
 
-[NARRATOR] Teddy answers in a low, calming tone:
+[GENERAL GREELY] Everything we own is in that plane.
 
-[MALE] Didn't you hear me?  We're not... TEDDY breaks off mid-sentence...freezes. COLE is pointing a pistol at them.  A TIGER SNARLS.
+[GENERAL NORTHWOOD] So a single missile launched from a distance should be a mere distraction.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[GENERAL GREELY] Theoretically.
 
-[MALE] James, no -- don't hurt them.  Please, I'm a psychiatrist -- just do whatever he tells you to do.  He's... upset -- disturbed.  Please -- he's dangerous -- just cooperate. MONKEYS CHATTER wildly as TEDDY backs up.
+[GENERAL NORTHWOOD] Ramstein Tower Control, please.
 
-[NARRATOR] Fale offers quietly, watching the shadows drift across the room:
+[GENERAL GREELY] But the effect could be jarring.
 
-[MALE] What do you want -- money?  We only have a few bucks. COLE is suddenly very much in charge and self-confident again.  A BABOON HOWLS with laughter.
+[GENERAL NORTHWOOD] Exactly. Ramstein? General Northwood... Patch me through to your fighters. Madame Vice President... with your permission?
 
-[NARRATOR] Cole whispers gently into the still air:
+[FEMALE] Do it.
 
-[MALE] I told you what I want.  Lock the door!
+[NARRATOR] Down in the dim, tranquil quiet of the aft storage compartment, Marshall knelt upon the metal floor, his hands laced securely behind his head. Bazylev pressed the cold steel of his automatic gently against Marshall's forehead, disarming him with a fluid, practiced motion before stepping back. Slipping Marshall's MP5 over his own shoulder, the captor paused, studying the kneeling man for a long, quiet moment.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] So you're the President. Somehow, I thought you'd be smaller.
 
-[MALE] James, why don't we...?
+[NARRATOR] Marshall stared straight ahead in silent, unbroken defiance, the rhythmic pulse of the aircraft vibrating softly through the floorboards. Without warning, a sharp kick struck his side. Marshall doubled over with a soft wheeze, the breath leaving him as the heavy stillness settled back over the hold.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Not so powerful now, eh? No aides to advise you, no secret service.
 
-[MALE] Lock it now! RAILLY hurries to the door to lock it as BEN says to FALE,
+[NARRATOR] The vast, moonless night outside the heavy windows of the aircraft held an eternal, silent calm, indifferent to the turbulence within. High above the slumbering clouds, the cold, velvet dark pressed softly against the thick glass, while the steady, low-frequency hum of the engines vibrated deep through the floorboards. In the dim, shadowed hold, the amber emergency lights cast long, somber shadows that flickered lazily with every subtle shift of altitude. 
 
-[NARRATOR] Ben murmurs with a warm, steady cadence:
+[MALE] You'll suffer for what you've done.
 
-[MALE] I told you that fuckhead Mason would get us into something like this.
+[NARRATOR] The words hung in the stale, pressurized air, heavy and devoid of warmth. 
 
-[NARRATOR] Fale answers in a low, calming tone:
+[MALE] So will you.
 
-[MALE] Shut up!
+[NARRATOR] A sudden, swift motion disrupted the quietude, and the silence rushed back in like a heavy tide, settling over the bruised stillness of the cargo bay. 
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] Up. Get up now. You will walk ahead... slowly. Do you understand? Do you understand!
 
-[MALE] Mason???
+[NARRATOR] The questions drifted through the shadows, unanswered save for the ragged, heavy breathing that echoed off the metal walls.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[MALE] Do you know what's going to happen to you because of this? Do you know what the world will do?
 
-[MALE] Jeffrey Mason?
+[NARRATOR] The answer came, quiet and absolute, swallowed by the metal architecture of the drifting giant.
 
-[NARRATOR] Ben offers quietly, watching the shadows drift across the room:
+[MALE] Nothing. The world will do nothing. That is what they've always done.
 
-[MALE] Yeah, tucking, crazy Jeffrey Mason. INT.  FAA STORE BASEMENT - TWENTY MINUTES LATER  The three ACTIVISTS are tied tightly together in the middle of the floor in this dimly-lit, windowless basement.  They're very frightened, eager to cooperate.
+[NARRATOR] Far away in the endless, starry expanse, a squadron of silent protectors cut through the thin, freezing air. The sleek hulls of the fighter jets reflected the faint, silvery glow of distant constellations as they drifted in loose formation through the peaceful night. Inside a lead cockpit, illuminated by the soft emerald glow of instrumentation, a pilot stared out into the vast, empty sky.
 
-[NARRATOR] Fale answers in a low, calming tone:
+[MALE] You want me to what? You heard the order. And do not, I repeat, do not take your best shot. Roger, sir. Okay boys, clear the deck. I have been ordered to engage Air Force One. Assuming attack posture. Targeting computer is on. Target is acquired. I have good tone. They're gonna court martial me for this.
 
-[MALE] Then, Jeffrey becomes like this...big star -- the media latch on to him because he's picketing his own father, a "famous Nobel Prize winning virologist". You musta seen all that on TV.
+[NARRATOR] With a gentle, deliberate hesitation, a gloved hand pressed downward. Out in the vast, quiet expanse of the upper atmosphere, a bright streak of fire bloomed against the dark, a silent spark of motion racing through the tranquil night. 
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+Inside the cavernous belly of the massive jumbo jet, warning lights flickered from amber to crimson, painting the flight deck in a restless, pulsing glow. Alarms chimed softly, a rhythmic cascade that seemed miles away from the quiet descent.
 
-[MALE] No, I don't watch TV. COLE, the gun next to him, rummages through boxes of papers while RAILLY watches helplessly.  Suddenly, COLE finds something he thinks he's seen before.  He holds it up.
+[MALE] What is this? Gibbs! Gibbs! Get in here. What the hell's going on?
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The glowing green screens of the tactical computer flashed with cascading lines of text, tracking the fiery arc approaching through the clouds.
 
-[MALE] Is this him -- Dr. Mason? It's a photograph of DR. MALCOLM MASON, being escorted by a phalanx of riot cops through a mob of raging activists.
+[MALE] The Americans fired at us. Why would they fire on us?
 
-[NARRATOR] Fale adds in a relaxed, peaceful voice:
+[NARRATOR] Outside the reinforced glass, a brilliant tail of flame grew larger, painting the swirling vapors of the night sky with a warm, amber light as it closed the distance.
 
-[MALE] That's him.
+[NARRATOR] The night sky wrapped itself in a heavy, velvet cloak, vast and quiet, save for the hum of the giant aircraft cutting through the upper chill. Inside the cockpit, the cool blue glow of the instrument panels cast long, resting shadows across the walls. The tactical computer's synthetic voice counted down into the quiet air, a steady, hypnotic rhythm measuring the passing of seconds. Eight. Seven. 
 
-[NARRATOR] Ben offers quietly, watching the shadows drift across the room:
+[MALE] Do something.
 
-[MALE] What are you going to do with us?
+[NARRATOR] The voice was taut, vibrating with a sudden, sharp panic that cut through the low ambient drone of the flight deck. 
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] I'm not a combat pilot.
 
-[MALE] Tell me more about Jeffrey.
+[NARRATOR] Outside, the missile screamed through the heavy air, a brilliant thread of white fire weaving toward the silver belly of the great plane. 
 
-[NARRATOR] Fale answers in a low, calming tone:
+[MALE] Shit.
 
-[MALE] Jeffrey started getting bored with the shit we do...picketing, leafleting, letter-writing stuff.  He said we were, "ineffectual liberal jerkoffs".  He wanted to do guerrilla "actions" to "educate" the public. COLE holds up a clipping showing horrified SENATORS standing on their desks as RATTLESNAKES slither along the Senate Floor.
+[NARRATOR] Beneath the aircraft, small metal doors slipped open with a faint, whispering hiss into the rushing wind. A thick, protective cloud of tiny metallic particles drifted out, blooming into a shimmering, reflective fog against the dark emptiness of the night. On the cockpit screens, the glowing threat grew closer, locked onto its target, until it brushed against the glittering cloud of chaff and veered sharply downward. The computer's calm voice drifted through the cabin.
 
-[NARRATOR] Fale murmurs with a warm, steady cadence:
+[NARRATOR] Missile Neutralized.
 
-[MALE] Yeah, that's when he let a hundred snakes loose in the Senate.
+[NARRATOR] A heartbeat later, the missile plunged into the heart of the descending swarm and detonated, blossoming into a vast, silent bloom of red and amber fire that washed over the silver-grey clouds like a watercolor on dark silk. The resulting shock wave rolled over the aircraft, a deep, resonant rumble that gently rocked the cabin side to side, causing the overhead lights to flicker once, twice, and then settle back into a soft, steady glow. 
 
-[NARRATOR] Teddy murmurs with a warm, steady cadence:
+[NARRATOR] In the dim passages far from the flight deck, the turbulence tossed shadows against the metal bulkheads. In the narrow gangway, a brief, violent struggle unfolded and faded into the background hum of the engines. Through the swaying corridors, a solitary figure slipped away into the quiet galley, breathing softly in the warm, enclosed air. Back on the flight deck, the pilot steadied the yoke as the vibrations subsided into a gentle, swaying glide.
 
-[MALE] But we weren't into that kind of stuff. It's counter productive, we told him.
+[MALE] We're okay.
 
-[NARRATOR] Fale adds in a relaxed, peaceful voice:
+[NARRATOR] Ivan Korshunov leaned over the console, his eyes reflecting the soft green light of the Tactical Countermeasures Computer as he gazed upon the marvelous machinery surrounding them.
 
-[MALE] So he and eleven others split off and became this underground..."army"
+[MALE] Remarkable aircraft. Remarkable.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The pilot exhaled a long, trembling breath, his shoulders dropping as the adrenaline receded from his veins.
 
-[MALE] The Army of The Twelve Monkeys.
+[MALE] Why did they do that?
 
-[NARRATOR] Ben answers in a low, calming tone:
+[NARRATOR] Korshunov offered a slow, cold smile, his voice dropping to a smooth, unhurried cadence that seemed to quiet the very air around them.
 
-[MALE] They started planning a "Human Hunt".
+[MALE] Psychology. They're trying to unnerve us.
 
-[NARRATOR] Teddy speaks with a quiet, measured softness:
+[MALE] Well, it worked.
 
-[MALE] They bought stun guns and nets and bear traps.  They were gonna go to Wall Street and trap lawyers and bankers...
+[NARRATOR] Korshunov gently placed a heavy hand upon the pilot's shoulder, steadying him in the dim, rolling light.
 
-[NARRATOR] Ben whispers gently into the still air:
+[NARRATOR] Relax, my friend. Apparently they cannot harm us. Even if they wanted to.
 
-[MALE] But they didn't do it.  They didn't do any of it.
+[NARRATOR] In the front galley, the air was warm and smelled of simmering water and dark, roasted coffee. A solitary figure worked with slow, deliberate care, fingers moving quietly in the shadows to assemble a small glass cylinder and a fine steel needle. Down the dark passage, heavy footsteps approached, echoing softly against the metal floor. As the doorway darkened, a sudden spray of scalding water and hot coffee hissed through the air. The intruder shouted out in sudden pain, stumbling backward against the bulkhead. In one fluid, silent motion, the trap was sprung. The steel needle drove deep into the intruder's neck, delivering a full, rushing wave of pure adrenaline into his bloodstream. 
 
-[NARRATOR] Teddy responds with gentle reassurance:
+[NARRATOR] The empty needle fell away, clattering softly against the floor. For a long, suspended moment, the two men stood motionless in the quiet galley, waiting, listening to the distant drone of the engines outside. Then, a slow, knowing smile crossed the intruder's face. He leveled his weapon, the dark barrel catching the amber galley light, and fired once. A sharp, echoing report shattered the quiet, and the wounded man winced against the sudden ache in his arm, pressing back against the cool metal wall. The intruder stepped closer, his chest rising and falling in a rapid, shallow rhythm as the potent drug began to flood his veins, building and building with an overwhelming, rushing heat. He clutched at his throat, a low, exhausted sound escaping his lips as his eyes drifted upward into the darkness, and the quiet finally claimed him.
 
-[MALE] Yeah, just like always, Mr. Big Shot sold his friends out!
+[NARRATOR] High above the slumbering earth, the vast canopy of the night sky cradled the colossal silver silhouette of the Jumbo Jet. Outside, the sleek gray shapes of the F-15s glided through the velvet darkness, their navigation lights blinking like distant, sleepy stars as they pulled back into a quiet, protective formation. 
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Inside the dim, shadowed sanctuary of the pilot's rest area, the air was still and warm. Rose sat gently on the edge of the narrow bunk, her arm around young Alice, whose eyes were heavy and glistening with the soft tears of a long day finally drawing to a close. The pale amber glow of a small instrument panel cast a comforting, drowsy light across the small room. 
 
-[MALE] What's that mean?
+[FEMALE] Mom?
 
-[NARRATOR] Fale whispers gently into the still air:
+[NARRATOR] Alice whispered, her voice barely louder than the faint, rhythmic hum of the engines somewhere deep in the metal skeleton of the aircraft. Rose turned to her daughter, smoothing a strand of hair from her forehead with infinite, tender care.
 
-[MALE] He goes on TV, gives a news conference, tells the whole world he just realized his daddy's experiments are vital for humanity and that the use of animals is absolutely necessary and that he, Jeffrey Mason, from now on, is going to personally supervise the labs to make sure all the little animals aren't going to suffer.
+[FEMALE] Yes, dear?
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Rose replied softly, her voice a soothing cadence designed to chase away the cold shadows.
 
-[MALE] What's this? EXT.  FREEWAY - AFTERNOON In the crawling traffic, WE FIND a battered FORD covered with bumper stickers and painted slogans.  "I BRAKE FOR ANIMALS"... "FREE THE ANIMALS"..."WOULD YOU LET A MINK WEAR YOUR SKIN?" RAILLY  You can't just barge in on a famous scientist.  They'll have security guards, gates, alarm systems.  It's insane, James. INT.  MOVING FORD/FREEWAY A ROLODEX CARD with an address on "Outerbridge Road" for "Jeffrey Mason c/o Dr. Malcolm Mason" rests on a map spread across COLE'S lap.  COLE is in the passenger seat, RAILLY'S at the wheel, maneuvering in heavy traffic.
+[FEMALE] I'm sorry I was so mean to you earlier.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Alice confessed, her eyelids fluttering as exhaustion began to wrap its gentle arms around her. Rose smiled, a sad, knowing curve of her lips that held the deep, enduring warmth of a mother's love.
 
-[MALE] If those young men don't get loose, they could die in that basement. COLE glances out the window, indicates the PEOPLE in passing cars...COMMUTERS, FAMILIES, TRUCKERS.
+[FEMALE] I know, sweetie. I know. You're being very brave.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[NARRATOR] Alice nodded against her mother's shoulder, her breathing slowing into a steady, comforting rhythm as she tried her best to feel safe in the quiet dark. 
 
-[MALE] All I see are dead people.  Everywhere. What's three more?
+[NARRATOR] Farther down the quiet, carpeted aisle of the main cabin, Serge finished his methodical sweep of the upper level, his boots making no sound against the thick wool. He paused near the stairs, looking down into the dimness below.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] He's not up here. I'm going down below.
 
-[MALE] You know Dr. Mason's son, Jeffrey Mason, don't you, James?  You met him in the County Hospital six years ago. COLE is studying the map again.
+[NARRATOR] Serge murmured softly into the dimness, then turned away to slip into the lower shadows. 
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] In the secluded, quiet corners of the rear baggage hold, hidden safely behind a towering waste storage tank, Marshall moved with slow, deliberate care. The harsh, fluorescent strips overhead cast a sterile, cool light across the cargo crates. Wincing against a sudden wave of fatigue, Marshall ripped the torn fabric of his sleeve away. A dark, jagged graze on his arm throbbed in the quiet air—a souvenir of the chaos that had just passed. He reached into his travel bag, pulling out a small bottle of clear vodka, and let the cool, stinging liquid pour directly over the wound to cleanse it, his breath hitching softly before settling back into a slow, measured cadence. Through a secure, hidden satellite link, the quiet hum of the White House Situation Room whispered directly into his ear.
 
-[MALE] The guy was a total fruitcake.
+[MALE] Did they say anything about my family?
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Marshall asked, his voice a low, gravelly rasp. Vice President Chandler's voice drifted through the tiny receiver, steady and hushed.
 
-[MALE] And he told you then his father was a famous virologist. COLE is absorbed in the map, his finger tracing "Outerbridge Road".
+[MALE] They're still alive, but the loyalists plan to start killing hostages in forty minutes.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] Marshall’s jaw tightened, his eyes reflecting the dull gray metal of the storage tank. 
 
-[MALE] No -- he said his father was "God"! EXT./INT.  FORD/COUNTRY HIGHWAY - LATER  The RADIO BLARES a country song as the Ford zips along an open highway.  COLE has his head out the window, sucking air, loving the music, but his bliss is feverish now -- he's not well.  As the SONG ends, he pulls his head inside.  An ANNOUNCER'S VOICE intones over the RADIO... RADIO ANNOUNCER  This just in:  police are widening their search for Dr. Kathryn Railly, prominent psychiatrist and author. Authorities confirm that Dr. Railly has been abducted by escaped mental patient, James Cole. The two are believed to be traveling in Railly's 1992 black Acura, license plate H-E-A-D-D-R. RAILLY glances at him, sees he's in pain.  She feels so badly for him.  She wants to help him.  She says, tenderly...
+[MALE] Then tell me there's a rescue operation underway.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[MALE] I think we're okay, sir. Now that we know you're alive, we can force Petrov to release Stravanavitch.
 
-[MALE] This can't go on, James.  You're not well.  You're burning with fever. COLE, refusing to succumb, instead, leans over to check the gas gauge.
+[NARRATOR] Marshall shook his head slightly in the dim enclosure, the shadows shifting gently around him.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Don't tell me you plan to give in to these fuckers.
 
-[MALE] We need gas.
+[MALE] We plan to do whatever it takes to keep you alive, sir. And if that means negotiating...
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Marshall's voice dropped even lower, carrying the weight of absolute, unwavering conviction through the quiet miles that separated him from the capital.
 
-[MALE] I thought you didn't know how to drive.
+[MALE] You know my policy. We don't negotiate with terrorists. If we start now, all of America becomes a target.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] But this is different, sir. You're the President.
 
-[MALE] I said I was too young to drive.  I didn't say I was stupid.
+[MALE] And what happens when Stravanavitch is freed and discovers he's got the President? You think for a second that that crazy bastard is just gonna turn me over? He'll ask for the goddamn moon before he's done.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[MALE] Please, Mr. President. You're going to get yourself killed. Is that your solution?
 
-[MALE] What's the matter with your leg?
+[NARRATOR] A profound, heavy stillness hung over the line, broken only by the faint, distant hiss of static and the throbbing heartbeat of the great jet engines. Marshall closed his eyes for a long, restful moment, feeling the steady, calming pulse of the night.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[MALE] Freeing Stravanavitch is gonna get tens of thousands killed. I can't live with that. I'm not royalty. I'm an elected official, and the integrity of the office of the President is infinitely more important than the man who holds that office. We don't negotiate. Not as long as I'm President. Is that understood?
 
-[MALE] I got shot.  Look -- there's a gas station up ahead.
+[NARRATOR] A long, respectful silence stretched across the connection, heavy with the quiet dignity of duty. Then, a low chorus of voices murmured through the receiver.
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] Yes, sir.
 
-[MALE] Shot!  Who shot you?
+[MALE] Now, is there a rescue operation under way or not?
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Across the room in the Situation Room, Lee gave a sharp, cautionary shake of his head, signaling Chandler to hold his tongue. 
 
-[MALE] It was some kind of...war.  Never mind, you wouldn't believe me.  Turn off here. INT.  PARKED FORD/GAS STATION - MINUTES LATER  The GAS STATION ATTENDANT checks the oil while COLE and RAILLY remain in the car.  She's pulling a gas card from her wallet.
+[MALE] He's not on a secure line.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Marshall caught the rustle of movement and the hesitation in the air. 
 
-[MALE] You were going to run out off gas on purpose, weren't you?
+[MALE] Whoever said that, shut up. Walter, are you there?
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Dean’s voice came through clearly, calm and steady in the midnight quiet of the command center.
 
-[MALE] No.  I want you to turn yourself in, James -- It'll go much better for you if you do -- but I'm not going to trick you.
+[MALE] I'm here, Mr. President. 
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] Where's the cavalry?
 
-[MALE] That has your name on it.  Give him cash. RAILLY puts the card back into her wallet and pulls out cash as the GAS STATION ATTENDANT slams the hood down. RAILLY starts opening the door.  Alarmed, COLE tries to stop her.
+[MALE] We can't do anything until that plane lands. And when...
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] The heavy, pressurized air of the command center hummed with a quiet, anxious tension, illuminated only by the soft, amber glow of instrument panels and muted CRT screens. Deep within the cavernous belly of the massive aircraft, far from the warmth of the cabin, the atmosphere shifted into a stillness thick with shadow. 
 
-[MALE] Where are you going? She looks him in the eye, then indicates the tiny Convenience Store appended to the Gas Station.
+[MALE] It does land, sir, it's going to be in hostile territory. To be perfectly honest, we don't know what the hell to do. It's going to take a miracle to figure this one out. 
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] A profound, heavy beat of silence settled over the room, stretching out like the vast, empty midnight skies outside. The dim overhead lights cast long, gentle shadows across the determined, unyielding lines of Marshall's face. 
 
-[MALE] You can come with me.  I have to get some things.  Scissors, bandages, some alcohol or whiskey. ... I have to look at your leg, James.  I'm a doctor. COLE looks helpless, hesitant.  She's in charge...for the moment. EXT.  CLEARING/WOODS - AN HOUR LATER  The sun dazzles through the canopy of leaves.  We HEAR the CAR RADIO but not the engine. RADIO ANNOUNCER  Meanwhile in Fresno, where mining engineers continue their desperate attempt to sink a shaft parallel to the ant in which nine year old... COLE, in his underwear, leans back on a large rock beside the Ford, his pants hanging on the car's open door.  He's staring up at the sun and the sky.  RAILLY finishes bandaging his thigh.
+[MALE] I'll see what I can do. 
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] In the dim, subterranean quiet of the galley, surrounded by the faint, metallic scent of chilled steel and old coffee, Serge moved with absolute stealth. He came across the still figure of Bazylev, pausing to check for any lingering pulse, but found only the cold, unyielding chill of stone. He looked around into the deepening shadows, his fingers tightening instinctively around the grip of his weapon as he slowly backed away. 
 
-[MALE] You shouldn't put your weight on it. You need stitches and antibiotics. Lucky for you it was near the surface. RAILLY wraps the bullet in some gauze and sticks it in her pocket while COLE continues staring up at the sky.
+Upstairs in the main cabin, the soft, rhythmic hum of the engines provided a comforting white noise, masking the tension beneath. Serge quietly secured the stair access panel leading down to the baggage deck, sealing Marshall off in the dim, isolated quiet below. Trotting up the metal steps with booted footsteps echoing softly, Serge re-entered the mission communications center where the blue-tinted glow of monitors flickered against the walls. 
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Bazylev is dead. 
 
-[MALE] I love seeing the sun. A beat.  COLE tries to stand up.
+[NARRATOR] Korshunov swallowed hard, the sharp sound cutting through the quiet hum of the electronics, his gaze darkening as the reality of the situation took hold. 
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] Trapped on the baggage deck. Let me go finish him. 
 
-[MALE] Wait -- let me help you. RAILLY puts an arm around him and helps him to his feet.  A beat. They're very close.  They don't move.  RAILLY looks like she can barely breathe.
+[MALE] No. He has the advantage down there. Bring me a hostage. A woman. 
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Down in the forward baggage hold, wrapped in the cool, isolated dark, Marshall reached the stairway hatch only to find it firmly, silently sealed. In the lower galley just beyond, he pressed the button for the small dumbwaiter. The motor whined softly, the metal box beginning its descent before it abruptly snagged against a service cart. The motor groaned, strained for a fraction of a second, and ground to a complete halt. 
 
-[MALE] You smell so good.
+Marshall slumped slowly down against the bulkhead, his breath pluming faintly in the cooler air, his hopes momentarily dashed. There was nothing left to do now in this quiet, enclosed space but wait. Seated on the floor, surrounded by the gentle vibrations of the flight, his eyes drifted to a nearby cabinet. Stacked neatly inside were dozens of packs of complimentary cigarettes, each bearing the heavy, embossed gold seal of the President of the United States. 
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] What the hell... 
 
-[MALE] You have to give yourself up, you know. A beat.  The spell is broken.  He reaches for his pants, then turns back to her, suddenly grim.
+[NARRATOR] He opened a pack, pulled a cigarette free, and placed it between his lips. Snagging one of the presidential lighters, he flicked the wheel several times, but it produced only a faint, useless shower of sparks. He gave the lighter a gentle shake, realizing the inevitable truth in the quiet air. It was entirely out of fuel. He tossed the lighter aside and reached blindly for a small book of matches, but his hand froze midway through the motion. A sudden, quiet thought drifted into his mind, cutting through the exhaustion. 
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] Out of fuel. 
 
-[MALE] I have to do something now.  Something I don't want to do.  I'm so sorry. RAILLY reacts, sudden fear in her eyes.  He looms over her.  He's cold now, steeled.
+[NARRATOR] In the dim, cavernous expanse of the forward baggage hold, lacking the proper tools, Marshall pressed the cold steel barrel of his gun into the seam of the hatch, leveraging it open with a soft, metallic click as he slipped into the dark sanctuary of the avionics compartment. Rows upon rows of quiet, glowing panels, intricate labyrinths of piping, bundled wiring, and delicate electronics stretched out into the shadows, humming with low-frequency serenity. 
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Come on, where are you... 
 
-[MALE] I have a mission.  It's important. RAILLY steps back...horrified, realizing she's going to die. EXT.  MASON MANSION - NIGHT A SECRET SERVICE AGENT ambles vigilantly among the rows of luxury cars parked beside the brightly-lit rural mansion.  Encountering another AGENT, he pauses.
+[NARRATOR] He searched up and down, his eyes tracing the complex machinery in the hush of the compartment. Meanwhile, back in the mission communications center, Serge led Maria Mitchell up the metal stairway into the harsh, fluorescent glow. Korshunov nodded, a cold, calculating calm washing over his features. 
 
-[NARRATOR] First Agent whispers gently into the still air:
+[MALE] Ms. Mitchell. Hello again. 
 
-[MALE] They find him?
+[NARRATOR] Maria stood frozen, her breath coming in shallow, frightened gasps, enveloped by the tense, quiet air of the room. She glanced helplessly toward the First Lady and Alice, who sat huddled together in the corner. 
 
-[NARRATOR] Second Agent offers quietly, watching the shadows drift across the room:
+[FEMALE] Maria. 
 
-[MALE] Who??
+[NARRATOR] Korshunov reached out and switched on the aircraft's public address system, the faint, electronic hiss of the speakers carrying his voice through every quiet corner of the massive plane. 
 
-[NARRATOR] First Agent responds with gentle reassurance:
+[MALE] Please tell me your name. 
 
-[MALE] That kid.  The one in the pipe.
+[FEMALE] Maria... Maria Mitchell. 
 
-[NARRATOR] Second Agent responds with gentle reassurance:
+[MALE] And what is it you do, Ms. Mitchell? 
 
-[MALE] You believe this?  They're dropping a monkey down there with a miniature infra-red camera strapped on him and a roast beef sandwich wrapped in tinfoil.
+[NARRATOR] Maria Mitchell's voice echoed softly, floating through the intercom and reverberating gently throughout the quiet expanse of Air Force One. Far away in the hidden depths of the avionics compartment, Marshall paused his search, standing completely still as her words drifted to him through the metal bulkheads. 
 
-[NARRATOR] First Agent responds with gentle reassurance:
+[FEMALE] I'm responsible for Press Relations for the Flight Office. 
 
-[MALE] You're making that up! ANGLE UNDER A PARKED MERCEDES, where COLE is hiding, listening to the receding VOICES of the AGENTS. SECOND AGENT  I shit you not. ... Man, life is weird! A monkey and a sandwich.  Wonder who thought that one up. FIRST AGENT  Probly give the sonafabitch a Nobel Prize! Quickly, COLE rolls to the next car and under it.  He doesn't see...the pistol fell out of his pocket, under the Mercedes. INT.  MASON MANSION/DINING ROOM - NIGHT A formal dinner for forty.  Desert has been served.  DR. MALCOLM MASON rises to the enthusiastic applause of the GUESTS.
+[MALE] How are your fellow hostages feeling, Ms. Mitchell? 
 
-[NARRATOR] Dr. Mason adds in a relaxed, peaceful voice:
+[FEMALE] Scared. We're scared. 
 
-[MALE] Would that I could enjoy this opulent dinner and this excellent and stimulating company for itself, with no sense of purpose.  But alas, I am "burdened" with the sense that with all this excess of public attention and this cacophony of praise, there comes great responsibility.  Indeed, I practically feel a soapbox growing under my feet whenever I stand for more than a few seconds. While GUESTS laugh at DR. MASON'S last remark, SECRET SERVICE AGENT #3 enters the room, scowling, looking for someone. DR. MASON  The dangers of science are a time worn threat, from Prometheus stealing fire from the Gods to the Cold War era of the Dr. Strangelove Terror. AGENT #3 spots who he's looking for.  JEFFREY MASON! DR. MASON  But never before, not even at Los Alamos when the scientists made bets on whether their first atomic bomb test would wipe out New Mexico, has science given us so much reason to fear the power we have at hand. ANGLE ON JEFFREY, as AGENT #3 whispers in his ear.
+[NARRATOR] In the communications center, Rose cradled Alice tightly in her arms, both of them turning their faces away from the cold glare of the captors, while Korshunov slowly raised his hand, commanding the silent, heavy air.
 
-[NARRATOR] Jeffrey responds with gentle reassurance:
+[NARRATOR] The cabin air hung heavy and still, bathed in the dim, amber glow of emergency lighting that cast long, sleepy shadows across the bulkheads. Somewhere in the vast night sky, high above the quiet earth, a cold weapon drifted, catching the faint luminescence. The man with the shadowed eyes turned the barrel slowly toward the woman who sat trembling in the quiet gloom.
 
-[MALE] What are you talking about?  What friend?  I'm not expecting anyone. ANGLE ON DR. MASON, reacting with irritation to the disturbance.
+[MALE] And why are you scared?
 
-[NARRATOR] Dr. Mason speaks with a quiet, measured softness:
+[NARRATOR] Maria Mitchell swallowed hard, her breath catching softly in the hushed, cooling air of the compartment.
 
-[MALE] Current genetic engineering as well as my own work with viruses has presented us with powers as terrifying as any... ANGLE ON JEFFREY, following the AGENT out of the dining room, grumbling loudly enough to disturb his father's audience.
+[FEMALE] Because... because I don't want to die.
 
-[NARRATOR] Jeffrey whispers gently into the still air:
+[NARRATOR] The captor tilted his head, a quiet, methodical stillness settling over him as he surveyed the tense room where the other captives listened in breathless silence.
 
-[MALE] This is ridiculous.  My father is making a major address. INT.  HALLWAY/MASON MANSION The conversation continues as JEFFREY and AGENT #3 enter the hall. AGENT #3 Normally if we caught a guy sneaking around like this with no I.D., we'd bust his ass, excuse the French, but this one said he knows you...  -- and, since you seem to have had some...uh...unusual...uh..."associates", we certainly didn't want to arrest one of your, uh, closest...pals. INT.  LIBRARY/MASON MANSION COLE, smudged with dirt and car grease, sitting in the shadows in a wingback chair, looks up as JEFFREY and AGENT #3 enter the room.  A FOURTH AGENT looms beside the wingback chair.
+[MALE] And what am I doing at this very moment?
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[NARRATOR] Down in the hidden depths of the avionics compartment, wrapped in deep shadows and the steady, low hum of machinery, the agent listened, helpless against the ticking seconds.
 
-[MALE] Never saw him before in my life.  Go ahead and shoot him or torture him or whatever it is you do.
+[FEMALE] You're pointing a gun at me.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] The voice echoed softly back into the communications center, steady and chilling in the muted dark.
 
-[MALE] You do know me.  You helped me once.
+[MALE] Very good. Thank you, Ms. Mitchell. Did you hear her? She said I'm pointing a gun at her. Now, to the secret service agent in the baggage deck. I'm giving you ten seconds to surrender, or this woman will die.
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[NARRATOR] In the dim cavern of the baggage hold, the agent's eyes widened in the dark, the weight of the night pressing down upon his shoulders like a blanket of lead.
 
-[MALE] That would be totally out of character. Helping people is against my principles.  See, he definitely doesn't know me.  Now, I'm going to go back and listen to my father's very eloquent discourse on the perils of science WHILE YOU TORTURE THIS
+[MALE] One...
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] A quiet breath hitched in the stillness.
 
-[MALE] I'm here about some monkeys. Halfway out the door, JEFFREY freezes.  A beat.
+[MALE] Two...
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[NARRATOR] The agent hesitated, his limbs frozen in the half-light, weighing the heavy cost of every possible choice.
 
-[MALE] Excuse me -- what did you say?
+[MALE] Three...
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] Up in the main cabin, shadows shifted softly as the guards waited by the stairway hatch in the quiet twilight of the corridor.
 
-[MALE] Monkeys.  Twelve of them. JEFFREY frowns, turns, considers COLE.  Then, suddenly, JEFFREY rushes to COLE and embraces him.
+[MALE] Four...
 
-[NARRATOR] Jeffrey offers quietly, watching the shadows drift across the room:
+[NARRATOR] In the main conference room, the hostages pressed close together, holding their breath in the dim, flickering light.
 
-[MALE] Arnold...Arnold. COLE is astonished.  The AGENTS are, too.
+[MALE] Five...
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[NARRATOR] Down in the front baggage hold, the agent remained motionless near the foot of the steps, caught between duty and the quiet ache of his conscience.
 
-[MALE] My God, Arnie, what's happened to you? You look like shit AGENT #3  You know this man?
+[MALE] Six...
 
-[NARRATOR] Jeffrey responds with gentle reassurance:
+[NARRATOR] Far away in mission control, quiet tears tracked warm down Maria Mitchell's face as she fought to keep her composure, shielding Rose and little Alice in the protective circle of her arms.
 
-[MALE] Of course I know him.  What do you think -- I act like this to strangers? Listen -- you fellas are terrific.  I thought you were pulling a number on me.  What a terrible thing if you'd thrown old Arnie out.  I owe you guys the big apologia!  Mea culpa, fellas.  Christ, Arnie, it's black tie!  I mean, I said, "drop by," but, like, this is Dad's big "do"...vips, senators, secret service, and...and everything. JEFFREY throws an arm around COLE'S shoulder and starts leading him toward the door as the two AGENTS exchange narrow-eyed looks. AGENT #4 "Arnie?"
+[MALE] Seven...
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[NARRATOR] The seconds drifted by like falling dust motes in a beam of moonlight, heavy and agonizingly slow.
 
-[MALE] Arnold Pettibone.  Old Arnie Pettibone. Used to be my best friend.  Still is. What've you lost, Arnie -- forty pounds? No wonder I didn't know you. You hungry? Lots of dead cow, dead lamb, dead pig. Real killer feast we're putting on tonight. The AGENTS watch JEFFREY lead the limping, disheveled COLE out. AGENT #4 These people -- all of 'em -- are true weirdoes! AGENT #3  I'm gonna call in a description of this "Pettibone" character.  You go keep an eye on him.  Make sure he doesn't do one of the guests with a fork. INT.  HALLWAY/MASON MANSION GUESTS pouring from the dining room into the hall meet JEFFREY and a very disconcerted COLE.
+[MALE] Eight...
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] A quiet struggle played across the agent's face, etched in shadow and exhaustion, before he took one heavy, reluctant step toward the stairs.
 
-[MALE] Hey, nice ta see ya.  Lookin' good!  Hi, there.  Yes, it has been a long time. In the b.g., too far away to hear them, AGENT #4 trails JEFFREY and COLE as they maneuver through the GUESTS toward the grand staircase.
+[MALE] Nine...
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[NARRATOR] The captor’s gaze rested calmly down the dark barrel of the weapon.
 
-[MALE] County Hospital, right?  1989.  The "Immaculate Escape" -- am I right?  Why, thank you -- you look wonderful, too.
+[MALE] Ten...
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] A long, breathless beat of absolute silence hung in the pressurized air. Then, a sharp, deafening fracture of sound pierced the quiet night.
 
-[MALE] Listen to me -- I can't do anything about what you're going to do. I can't change anything.  I can't stop you.  I just want some information...
+[MALE] BAAAAM!
 
-[NARRATOR] Jeffrey responds with gentle reassurance:
+[NARRATOR] The sharp echo faded into a profound, mournful hush.
 
-[MALE] We need to talk.  Come on.  Upstairs.  I am a new person!  I'm completely adjusted.  Witness the tux.  It's Armani.  Who chattered?  Goines?  Weller?
+[MALE] NO!
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] The agent sank slowly down to his knees, the fight draining from his frame into the cold floorboards.
 
-[MALE] I just need to have access to the pure virus, that's all!  For the future! JEFFREY studies COLE.  COLE doesn't just talk crazy.  He looks crazy!
+[MALE] Aw, Jesus.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] In the main conference room, the hostages held one another tighter still, wrapped in a blanket of shared sorrow as a heavy quiet settled over them. Down in the dim baggage hold, the agent sat silhouetted in the faint amber light, cradling his head in his hands as the heavy cabin hatch slowly closed, sealing him off once more in the quiet dark.
 
-[MALE] Come on, follow me.  You don't lock so good. JEFFREY starts guiding COLE up the grand staircase as COLE, glancing back, spots AGENT #3 and AGENT #4, both keeping an eye on him now.
+[MALE] I'll give you a few minutes to think about that one and then we'll try again. Perhaps soon I will choose somebody important.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[NARRATOR] The agent whispered into the empty shadows around him.
 
-[MALE] I don't have time to go upstairs.  The police are looking for me.  I need to know where it is and exactly what it is.
+[MALE] She was important.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[NARRATOR] In the communications center, the guards dragged the fallen form away into the dimness, while little Alice buried her face and sobbed softly into the quiet. Rose looked up, her voice trembling with a weary, sorrowful plea against the coldness of the room.
 
-[MALE] I get it!  This is your old plan, right?
+[FEMALE] Do you have to be so brutal?
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] The captor did not blink.
 
-[MALE] Plan?  What are you talking about?
+[MALE] Yes.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[FEMALE] Why? Do you enjoy it?
 
-[MALE] Remember?  We were in the dayroom, watching TV, and you were all upset about the...desecration of the planet. And you said to me, "Wouldn't it be great if there was a germ or a virus that could wipe out mankind and leave the plants and animals just as they are?"  You do remember that, don't you?
+[MALE] I neither enjoy nor dislike. I do what is necessary.
 
-[NARRATOR] Cole whispers gently into the still air:
+[FEMALE] How can you? I mean, they're people.
 
-[MALE] Bulishit!  You're fucking with my head!
+[MALE] But they are not my people. You look at me as if I am a monster, but answer me this—when your planes bombed the oil fields of Iraq, did you cry for those dark-skinned—
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] High above the quiet clouds, in the soft, shadowed expanse of the main conference room, a heavy stillness settles over the room. The ambient light is dim and cool, casting long, peaceful shadows against the polished wood and soft leather. Outside the heavy windows, the vast, starry night stretches on into infinity, a dark velvet blanket speckled with distant, twinkling diamonds of light. The air is still, carrying only the faint, rhythmic hum of the great engines vibrating gently through the floorboards.
 
-[MALE] And that's when I told you my father was this famous virologist and you said, "Hey, he could make a germ and we could steal it!"
+[FEMALE] Alice’s voice is a soft whisper, weighted with grief and exhaustion, barely breaking the quiet. The woman you shot. She was my friend.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Korshunov replies in a low, steady tone, his voice smooth and devoid of malice, like the steady rolling of a distant tide in the night. That's the way of the world, little one. Didn't they teach you that in school?
 
-[MALE] Listen, you dumb fuck!  The thing mutates We live underground!  The world belongs to the fucking dogs and cats.  We're like moles or worms.  All we want to do is study the original... AGENT #4'S VOICE Okay -- take it easy.  We know who you are, Mr. Cole. COLE feels a firm grip on his shoulder, turns and sees AGERT #4 AGENT #4 Let's go somewhere and talk this thing over. Okay? Just come with me...
+[NARRATOR] Far beneath the cabin, deep within the humming metal heart of the aircraft, the forward baggage hold is cast in deep shadows. A soft, amber glow from emergency panels paints the metallic walls in warm, subdued hues. Marshall stands alone in the quiet avionics compartment, holding a small satellite phone to his ear, listening to the gentle crackle of static that sounds like the distant rustle of autumn leaves.
 
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
+[VOICE] Through the hum of interference, the voice of the Chief Mechanic comes through, thin and distant. Chief Mechanic, 87th Air. How can I help you?
 
-[MALE] You're right!  Absolutely right.  Me's a nut case, totally deranged.  Delusional! Paranoid.  HIS PROCESSOR'S ALL FUCKED UP, HIS INFORMATION TRAY IS JAMMED. AGENT #4 is wishing JEFFREY would chill out even as the THIRD AGENT is climbing up the staircase to help. COLE is like a trapped animal. He's being led down the staircase now with JEFFREY, right on his heels, yelling so EVERYONE can hear.
+[MALE] Marshall speaks in a low, calm murmur, blending into the background hum of the machinery. You can talk me through an emergency fuel dump.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] Down on the ground, miles below in the quiet warmth of the maintenance hangar at Andrews Air Force Base, a desk lamp casts a focused pool of golden light over large, sprawling schematics of the massive aircraft. The Chief Mechanic leans over the paper blueprints, surrounded by a tight circle of quiet, attentive colleagues. The room is peaceful, smelling faintly of paper and clean metal.
 
-[MALE] YOU KNOW WHAT IT IS, THE "ARMY OF THE TWELVE MONKEYS"?  IT'S A COLLECTION OF NATURE KOOKS WHO RUN A STORE DOWNTOWN. SPACE-CASE DO-GOODERS SAVING RAIN FORESTS. I HAVE NOTHING TO DO WITH THOSE BOZOS ANYMORE. I QUIT BEING THE RICH KID FALL GUY FOR A BUNCH OF INEFFECTUAL BANANAS. SO MUCH FOR YOUR GRAND PLOT! COLE stares back at JEFFREY as both AGENTS hustle COLE down the stairs.  It sounds true!  JEFFREY'S so confident. AGENT #3 Take it easy, Mr. Mason, we've got him. Everything's...
+[MALE] Do you see the maintenance panel?
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[MALE] Marshall replies quietly from the dim confines of the plane, his breath rising in a faint, cool mist. Got it.
 
-[MALE] MY FATHER HAS BEEN WARNING PEOPLE ABOUT THE DANGERS OF EXPERIMENTATION WITH VIRUSES AND DNA FOR YEARS. YOU'VE "PROCESSED" THAT INFORMATION THROUGH YOUR ADDLED PARANOID INFRA-STRUCTURE AND LO AND BEHOLD, I'M FRANKENSTEIN AND THE "ARMY OF THE TWELVE MONKEYS" BECOMES SOME SORT OF SINISTER REVOLUTIONARY CABAL. THIS MAN IS TOTALLY BATSHIT! YOU KNOW WHERE HE THINKS HE COMES FROM??? Suddenly, COLE, catching the AGENTS by surprise, wrenches free, shoves them aside, and stumbles down the rest of the staircase. INT.  FOYER/MASON MANSION COLE heads for the front door, but there's an AGENT there!  COLE turns and limps madly toward the dining room, pushing his way through the crowd of amazed GUESTS. INT.  DINING ROOM/MASON MANSION SERVANTS, clearing the table, look up astonished as two AGENTS burst into the room. AGENT #4 Did a man just come through here...limping? INT.  KITCHEN/MASON MANSION COOKS stare, amazed, as two OTHER AGENTS burst into the kitchen and look about urgently. INT.  DEN/MASON MANSION A large projection TV is on and a knot of GUESTS is gathered in front of it...watching the spooky VIDEO IMAGES. TV REPORTER  These pictures we are seeing are coming to us live from deep inside the pipe. You can just make out the metal wall behind those roots and I guess those must be spider webs. MRS. McCANN, a guest, watching the TV, expresses concern... MRS. McCANN Well, if you ask me, I think that monkey is going to eat the sandwich himself. Just then, two AGENTS burst into the den. The GUESTS turn from the TV, startled, stare open-mouthed, but the AGENTS have spotted an open window and are hurrying to it. AGENTS POV OUT THE WINDOW:  the rows of expensive parked CARS. ON THE TV SCREEN, RAILLY'S photograph appears. TV ANCHOR  This just in:  Police say that the body of a woman found strangled in the Knutson state Park could be kidnap victim, Dr. Kathryn Railly. As the AGENTS run out of the room, a photo of RAILLY'S abandoned Acura comes up on the TV screen. TV ANCHOR  Earlier in the day, police located Railly's abandoned car not far from a building where three animal rights activists were found bound and gagged... EXT.  MASON MANSION - MINUTES LATER  Pistols drawn, AGENTS move cautiously among the rows of parked luxury cars, checking inside and under the vehicles. AN AGENT'S VOICE  COME ON OUT, MR COLE -- WE'RE NOT GOING
+[MALE] Pop it open. There should be a red switch, toggle it up.
 
-[NARRATOR] To Hurt You. adds in a relaxed, peaceful voice:
+[MALE] Marshall’s fingers move slowly in the half-light, tracing the metal seams. Okay, it's on. We've got some indicator lights here.
 
-[MALE] INT.  PARKED GREEN JAGUAR COLE, scrunched down on the floor next to the driver's seat, spots the key dangling from the ignition, then lifts his head slightly to study the shift mechanism, trying to figure it out. EXT.  PARKED CARS/MASON MANSION AGENTS continue to move cautiously among the parked cars. INT.  PARKED GREEN JAGUAR COLE eases himself into the driver's seat, tentatively slides the shift into "Drive", then turns the key.  Nothing happens. Panic.  COLE studies the shift again. EXT.  PARKED CARS/MANSION AGENT #5 approaches the row where the Jaguar is parked. INT.  PARKED GREEN JAGUAR COLE slides the shift from D  to N .  He twists the key again.  The engine ROARS...SEVEN THOUSAND RPM! EXT.  LAWN/MANSION AGENT #5 whirls at the sound. SMASH.  The JAGUAR clips the Mercedes parked in front of it and accelerates right at him! AGENT #5 dives aside just as the speeding JAGUAR whizzes past him, slams into a parked Cadillac, bounces off, grinds between two other parked vehicles with a fierce scream of tearing metal. INT.  MOVING JAGUAR Caught between two cars, COLE can only lean on the gas pedal. The JAGUAR comes free with a great SCCCREEEEECH... COLE sees the driveway ahead in the moonlight.  Steering madly, he plows through shrubs and gardens heading for the driveway. EXT.  MASON MANSION - NIGHT Lights off, veering wildly, the JAGUAR reaches the driveway. AGENTS are leaping into cars and a HELICOPTER is coming to life, its rotors whipping around. INT.  SPEEDING JAGUAR/OUTERHRIDGE ?OAD - NIGHT COLE turns onto the road, careening crazily from one side to the other, unable to see ahead with no headlights.
+[MALE] The Chief Mechanic nods into his headset, his voice a steady drone. Okay, you're aerated. To dump the fuel you have to close the circuit for the pump. There's no switch in Avionics so you'll have to cross the wires. There should be five wires, just to your left. Do you see them?
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] In the dim, enclosed sanctuary of the avionics bay, the darkness is broken only by the faint, pulsing glow of tiny indicator bulbs. Marshall reaches out, his hand moving softly along the cool panel.
 
-[MALE] LIGHTS!  LIGHTS! He starts hitting switches.  The wipers come on, the RADIO BLARES. RADIO REPORTER'S VOICE/RADIO  ---when they pulled the monkey out, it was still clutching the tinfoil wrapped sandwich. Rounding a bend, an ONCOMING CAR heads straight at COLE. COLE yanks the wheel as the OTHER CAR, horn BLARING, just misses him. Recovering, COLE loses the road, speeds crazily along the shoulder. INT.  FLYING HELICOPTER - NIGHT The PILOT, an agent, steers the chopper while the CO-PILOT pans a spotlight over the two lane road beneath them. Just then, the PILOT sees headlights below.
+[MALE] Got 'en.
 
-[NARRATOR] Pilot adds in a relaxed, peaceful voice:
+[NARRATOR] Suddenly, a thick blanket of white noise rolls over the line, hissing softly like a gentle summer rain against a windowpane.
 
-[MALE] There!  He's showing lights. INT.  SPEEDING JAGUAR - NIGHT COLE can see the road now in his headlights as the windshield wipers scrape frantically and the RADIO BLARES... RADIO REPORTER'S VOICE/RADIO  We don't know what to think.  They didn't locate him and they don't know how much longer he can last, that's assuming the boy is still alive. A spotlight hits the car and COLE hears the sound of the HELICOPTER as it lowers over him! EXT.  OUTERBRIDGE ROAD The HELICOPTER maneuvers over the speeding JAGUAR. INT.  SPEEDING JAGUAR COLE can see the underbelly of the HELICOPTER a few feet above his front windshield. Desperate, he yanks the wheel hard, veering off the road. COLE'S POV THROUGH THE WINDSHIELD:  dense woods ahead. EXT.  HELICOPTER/WOODS The chopper pulls up sharply, avoiding the trees, then levels out. INT.  HELICOPTER The PILOT skims the top of the trees while the CO-PILOT rakes the forest below with his spotlight.
+[MALE] Okay, hang on. Let me double check here, because if you get the wrong ones, you'll cut the engine feeds and stall the plane.
 
-[NARRATOR] Pilot speaks with a quiet, measured softness:
+[MALE] I'll wait.
 
-[MALE] Goddamnit!  Where is he? The CO-PILOT gets a brief glimpse of headlights through the leaves.
+[NARRATOR] The static deepens, swelling into a rhythmic, lulling wave of sound.
 
-[NARRATOR] Co-Pilot answers in a low, calming tone:
+[MALE] First... cut... green wire.
 
-[MALE] There!  Over there.
+[NARRATOR] With a slow, careful motion, using a small, unassuming blade, Marshall slices through the green wire. The phone gives a faint, mournful beep as its small battery begins to fade away into the quiet.
 
-[NARRATOR] Pilot murmurs with a warm, steady cadence:
+[MALE] It's cut.
 
-[MALE] Where?
+[MALE] cross it...
 
-[NARRATOR] Co-Pilot responds with gentle reassurance:
+[NARRATOR] The voice of the mechanic dissolves entirely into a soft, rushing ocean of static, before winking out into absolute silence.
 
-[MALE] Eight o'clock!  He was right there. The headlights are gone.  Nothing but darkness below.
+[MALE] Hello? Hello? Goddamnit.
 
-[NARRATOR] Pilot offers quietly, watching the shadows drift across the room:
+[NARRATOR] For a brief moment, garbled fragments of sound dance on the edge of hearing, like voices carried on a distant midnight breeze, and then—nothing. The line is quiet. Marshall’s thumb presses the receiver, but the little screen fades to black. He lets the dead phone fall softly from his hand, tumbling away into the shadows. He stands completely still, surrounded by the hum of the aircraft, staring at the remaining wires resting against the cool metal panel—red, white, blue, and yellow. 
 
-[MALE] He musta turned his lights of if.
+There is a profound peace in the quiet cabin. His choice is clear. With slow, deliberate grace, he cuts the yellow wire and gently twists it together with the green, leaving the red, white, and blue untouched in the dim light. He closes his eyes and waits, enveloped by the deep, steady vibration of the great engines outside. A soft, contented smile touches the corners of his mouth. 
 
-[NARRATOR] Co-Pilot whispers gently into the still air:
+An emergency landing in friendly territory... there's your goddamn miracle.
 
-[MALE] Couldn't drive down there without lights.  We just can't see 'em.
+Far out in the cool, silent night, away from the warmth of the cabin, the exterior of Air Force One glides effortlessly through the moonlight. Beneath the sleek wing, a tiny trickle of fuel appears, catching the pale silver light, growing into a long, steady, graceful stream that drifts away into the vast, empty sky, dissolving into the peaceful mist.
 
-[NARRATOR] Pilot answers in a low, calming tone:
+Inside the darkened flight deck, bathed in the soft, amber glow of instrument clusters, a single red warning light begins to pulse with a slow, hypnotic rhythm.
 
-[MALE] Maybe he's not driving! EXT.  WOODS - LATER  A weather forecast BLARES from the radio of the steaming Jaguar, crumpled into a tree, the driver's door open. A POLICE OFFICER, pistol drawn, approaches the car cautiously, as OTHER OFFICERS and AGENTS stay behind trees, weapons ready. The POLICE OFFICER lunges forward, pointing his weapon into the Jaguar.  He inspects the car, then turns and calls out...
+[MALE] Gibbs stares at the console, his voice a low, tired murmur. Goddamnit. We're losing fuel.
 
-[NARRATOR] Police Officer responds with gentle reassurance:
+[NARRATOR] The amber lights of the flight deck cast a warm, fading glow across the shadowed panels, their steady rhythm matching the slow, heavy breathing of the night. Outside the reinforced glass, the endless expanse of the dark sky rolls by, vast and silent, cradling the giant aircraft in a blanket of cool, nocturnal mist. 
 
-[MALE] He's not in here. EXT.  WOODS/CLEARING - NIGHT Limping, bleeding from various cuts, COLE CRASHES through underbrush as he follows a stream through the woods. Suddenly, he sees what he's looking for. The FORD...barely visible in the moonlight, parked in the trees beside the stream.  The car looks empty. INT.  TRUNK/FORD Total blackness!  The sound of keys in the lock. Then, the trunk swings open and COLE stands in the moonlight, looking down RAILLY is in the trunk, tears of rage and frustration in her eyes.
+[MALE] How?
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Korshunov steps closer to the console, his silhouette dark against the instrumentation. Gibbs does not turn, his eyes fixed on the bleeding dials.
 
-[MALE] You bastard!  You total bastard! EXT.  FORD COLE backs away, as RAILLY scrambles out of the trunk, swinging. He slips, falls, and she starts kicking him as she rants hysterically.
+[MALE] Avionics compartment! It's the only place. You better get Zedeck down there fast. Unless, of course, you'd rather be a martyr than a savior.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[NARRATOR] A tense quiet settles over the flight deck, broken only by the low, distant hum of the engines. Korshunov glances toward the cabin door, his voice sharp and commanding as he addresses his subordinate.
 
-[MALE] I could have died in there.  If something had happened to you I would have died. COLE is lying on the ground, looking up, his lip caked with blood.
+[MALE] Go! Take Serge... and watch your backs.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] Zedeck nods, turning quickly to disappear through the hatch and down into the dimly lit lower levels of the aircraft. Serge follows close behind him, their footsteps muffled by the carpeted floor, descending into the cool, shadowed belly of the plane. 
 
-[MALE] I...I...I'm really sorry. Noticing his cuts and torn clothes, she stops kicking him.
+The forward baggage compartment is wrapped in deep, velvety shadows, quiet save for the gentle, rhythmic vibration of the fuselage. Zedeck pauses, his senses heightened, feeling the heavy stillness of the space around him.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] He's down here. I can feel it.
 
-[MALE] What have you done?  Did you...kill someone?
+[MALE] Shut up and do your job.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[NARRATOR] They move cautiously through the maze of cargo and storage, weapons raised, stepping softly over the metal flooring. A distant, hollow metallic clank echoes through the compartment, reverberating softly against the curved walls. They check left, then right, their eyes straining against the gloom. 
 
-[MALE] No!  I...don't think so.  I stole a car and they chased me.  I hit a tree.
+Hidden behind a large, shadowed water storage tank, Marshall holds his breath, watching through the dim light. The tangled equipment makes a clear shot impossible, and the men are heavily armed. Instead of firing, his gaze shifts quietly toward the distant stairway, calculating a safer path.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+Zedeck slips into the narrow doorway of the avionics compartment, while Serge takes a defensive stance just outside, guarding the threshold. From within the small room, Zedeck's voice drifts out, muffled by the equipment.
 
-[MALE] See -- you can drive after all!
+[MALE] The valve is shut. This guy sure knew what he was doing.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[NARRATOR] A sudden, sharp noise breaks the quiet. Startled, Serge fires a burst into the shadows, the sound loud and startling in the enclosed space.
 
-[MALE] Yeah, sort of, I guess.  I...I'm sorry I locked you up.  I thought...I thought... I think maybe I am crazy! She looks at him.  Breakthrough?  Very calm now, the doctor.
+[MALE] You see him?
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[MALE] Erring on the side of caution.
 
-[MALE] What made you think that?
+[NARRATOR] Inside the cramped avionics compartment, Zedeck reaches behind a control panel, his fingers finding the cluster of wires. With a firm pull, he yanks them free, disabling the system.
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] I'm going to deactivate the by-pass pump. It'll take a minute.
 
-[MALE] Jeffrey Mason said it was my idea about the virus.  And suddenly, I wasn't sure.  We talked when I was in the institution, and it was all...fuzzy. The drugs and stuff.  You think maybe I'm the one who wiped out the human race?  It was my idea?
+[NARRATOR] Back on the flight deck, the amber illumination flickers gently over the master controls. Gibbs leans in, watching the cascading numbers on the fuel gauges as they finally come to a rest.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[MALE] We've stopped dumping... but we've only got about twenty minutes of fuel left.
 
-[MALE] Nobody is going to wipe out the human race.  Not you or Jeffrey or anybody else.  You've created something in your mind, James -- a substitute reality. In order to avoid something you don't want to face.
+[NARRATOR] Korshunov steps forward, his expression tight as he weighs the narrowing margins of their flight.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[MALE] We're not going to make it.
 
-[MALE] I'm..."mentally divergent".  I would love to believe that.
+[MALE] Not even close. Hell, we can't even make Syria or Iraq.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] Where are we now?
 
-[MALE] It can be dealt with, but only if you want to.  I can help you. COLE reacts to the sound of VOICES in the woods, dogs BARKING.
+[MALE] Over the Black Sea. I can probably get us to Turkey or Georgia.
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] No! If we land this plane anywhere else, we will end up another Entebe. The Americans built a super plane that flies through mushroom clouds, evades missiles and... refuels in mid-air. Call the White House.
 
-[MALE] I need help all right.  They're coming after me.
+[NARRATOR] Thousands of miles away, inside the quiet, secure gloom of the White House Situation Room, the tactical map glows softly on the central display, tracking the tiny icon of Air Force One as it drifts southward over the dark waters of the Black Sea. An aide steps forward quietly, holding out a secure satellite phone.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[FEMALE] It's him again.
 
-[MALE] First, it's important that you surrender to them instead of them catching you running.  Okay?
+[NARRATOR] In the distant mission communication center, Korshunov accepts the receiver, his voice carrying clearly through the encrypted line.
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] Gentlemen, forgive me for diverting you from your little wargames, but I've just added another demand to my very short list. I assure you it's quite reasonable.
 
-[MALE] It would be great if I'm crazy.  If I'm wrong about everything...the world will be okay.  I'll never have to live underground.
+[NARRATOR] In the Situation Room, the phosphorescent glow of the monitors casts a pale light over the tense faces gathered around the table.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] We need fuel, gentlemen. And we need it right now.
 
-[MALE] Give me the gun.
+[NARRATOR] Lee leans in close to the Vice President, speaking in a low, conspiratorial murmur.
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] Finally, we can bargain.
 
-[MALE] The gun! ... I lost it
+[MALE] I'm sure we can strike some sort of arrangement. Land the plane and we'll trade you hostages for fuel.
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] Korshunov's voice replies through the speaker, steady and uncompromising against the faint background hum of the aircraft.
 
-[MALE] You're sure?
+[MALE] No. The plane lands when I say, or it will crash. The hostages are released when I...
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The cabin of the massive aircraft holds a heavy, pressurized quiet, broken only by the steady, hypnotic thrum of the jet engines outside. Inside the mission communications center, the blue glow of monitors washes over the tense faces as Korshunov stands near the radio, his expression carved from absolute resolve. The faint, ghostly murmur of voices drifts through the open airwaves, suspended in the vast expanse of the midnight sky. A long, profound silence stretches over the room, heavy as a settling fog, before Korshunov slowly turns his gaze toward Alice, who sits bound in the dim, cool shadows.
 
-[MALE] No gun!  Stars!  Air!  I can live here.  Breathe! RAILLY starts around to the front of the car.
+[MALE] [KORSHUNOV] Tell me what I want to hear or I will execute a member of the senior staff, and will continue killing one hostage every minute until we crash or until a refueling plane arrives. Shall I begin by executing the President's daughter? She's right here.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[FEMALE] [ROSE] No.
 
-[MALE] I'm going to attract their attention, let them know where we are, okay? RAILLY gets in the driver's seat...and starts to HONK the horn.
+[MALE] [KORSHUNOV] Say something dear.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[FEMALE] [ALICE] Fuck off, you stupid asshole.
 
-[MALE] They'll tell you to put your hands on top of your head.  Do what they tell you.  You're going to get better, James -- I know it! ANGLE ON COLE, spotting something on the ground.  An insect!  He reaches down to grab it, but, instead, grins, grabs some grass, stands, and starts rubbing it happily all over his face.  The HORN BLARES as COLE looks up at the sky. ANGLE ON THE NIGHT SKY, the moon full, the sky rich with stars. ANGLE ON COLE, tears of joy running down his face.
+[MALE] [KORSHUNOV] It would be a pity to squander such a strong personality.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Another several beats of hushed murmuring drift through the comms, light as rustling leaves in a distant autumn wind. Korshunov waits, the rhythmic ticking of time echoing softly in the quiet air of the cabin. 
 
-[MALE] I love this world! ANGLE ON RAILLY, in the driver's seat, hearing near-by SHOUTS from the woods.  The police are almost here.  She gets out of the car, starts around toward COLE.
+[MALE] [KORSHUNOV] Well? What do you say?
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] [V.P. CHANDLER] Fuel's on its way.
 
-[MALE] Remember, I'm going to help you.  I'll stay with you.  I won't let them... She breaks off mid-sentence...stares, stunned! COLE is gone.  Disappeared. INT.  POLICE STATION OFFICE - MORNING RAILLY is being "debriefed" by POLICE OFFICERS and FBI AGENTS.
+[NARRATOR] Farther down the aisle, in the shadows of the main cabin, Serge and Zedeck move with quiet, practiced efficiency. They lower the heavy hatch to the baggage compartment, sealing it with a dull, muffled thud, before quietly ascending the carpeted stairs toward the mission communications center. Inside that dim room, Korshunov paces in slow, measured steps, rhythmically weighing the cold steel of his pistol in his hand, letting the metal drift from palm to palm in the soothing semi-darkness.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] [KORSHUNOV] We trained for months. Everything should've gone like clockwork.
 
-[MALE] Then I said something to him about cooperating and he said he would do that, so I got in the car and started honking the horn.  When I got out, he was gone.
+[MALE] [ZEDECK] We have the hostages, we're getting more fuel.
 
-[NARRATOR] Lieutenant Halperin speaks with a quiet, measured softness:
+[MALE] [KORSHUNOV] He's already killed three of us, and we haven't even seen him. He's also shown that he can hurt us. I need to think. What the hell are you doing up here? Get back to the conference room.
 
-[MALE] You lucked out.  For a while we thought you were a body they found down state... mutilated. A COP enters, hands a photo to LIEUTENANT HALPERIN who studies it.
+[NARRATOR] Serge turns and walks back down the dim corridor, taking up a quiet position by the wooden door of the conference room. The ambient lighting of the cabin casts long, gentle shadows against the bulkheads. Across from him, standing silently against the cabin divider, Marshall steps out from the gloom, his eyes calm and focused as he peers down the dark sight of his weapon. Serge freezes instantly, caught in the stillness of the midnight air.
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] [MARSHALL] Don't make the same mistake your friend did earlier... Show me your hands.
 
-[MALE] He wouldn't do something like that -- he...
+[NARRATOR] Serge slowly raises his hands into the soft, diffuse light. Marshall steps closer, reaching out to deftly pull the clip from the MP5 with a quiet, metallic click.
 
-[NARRATOR] Lieutenant Ralperin speaks with a quiet, measured softness:
+[MALE] [MARSHALL] Open the door.
 
-[MALE] This the man he attacked? RAILLY looks at the photo, an 8 x 10 of the FIRST THUG, slumped against the alley wall, obviously dead.
+[NARRATOR] Inside the dark sanctuary of the conference room, Caldwell, Shepherd, and the remaining aides listen intently as the key turns smoothly in the lock. They group together in the shadows, their muscles coiled and ready. As Marshall marches Serge inside, the group surges forward, tackling them both in a swift, smothered rush. In the sudden scuffle, they wrest the weapons away and pull the heavy door shut, sealing it tightly against the quiet corridor outside. Marshall struggles against the arms holding him, his breath coming in warm, hurried gasps in the enclosed space.
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] [MARSHALL] It's me goddamnit. Let me go.
 
-[MALE] I'd like to be clear about this.  That man and the other one were..."severely" beating us.  James Cole didn't start it.  In fact -- he saved me!
+[NARRATOR] Surprised to hear the familiar, grounding voice of their leader, the aides and advisors immediately release their grip, stepping back into the dimness of the room. 
 
-[NARRATOR] Lieutenant Ralperin offers quietly, watching the shadows drift across the room:
+[MALE] [SHEPHERD] Mr. President, how the hell did you get on board?
 
-[MALE] Funny thing, Doctor, maybe you can explain it to me, you being a psychiatrist -- why do kidnap victims almost always try to tell us about the guys who grabbed 'em and try to make us understand how kind these bastards really were?
+[MALE] [MARSHALL] I never left. Where's my wife and daughter?
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] [MAJOR CALDWELL] They took 'em out. They're probably on the upper deck.
 
-[MALE] It's a normal reaction to a life- threatening situation.  He's sick.  He thinks he comes from the future.  He's been living in a carefully constructed fantasy world and that world is starting to disintegrate.  He needs help! INT.  AIRPORT CONCOURSE/THE DREAM YOUNG COLE stares, eyes wide. He sees the BRUNETTE, cradling the head of the BLONDE MAN as he sprawls on the concourse...
+[MALE] [SHEPHERD] Mr. President, Major Caldwell here has a plan to get these hostages off the plane.
 
-[NARRATOR] Astrophysicist'S Voice responds with gentle reassurance:
+[MALE] [MARSHALL] I dumped most of the fuel. They'll land soon and Delta will take its shot.
 
-[MALE] Wake up! Wake up!
+[MALE] [SERGE] A refueling plane is already on it's way so we won't be landing until we reach Turkmenistan. Your best course of action is to release me. I will be merciful.
 
-[NARRATOR] Geologist'S Voice speaks with a quiet, measured softness:
+[MALE] [MAJOR CALDWELL] Sir, maybe we can use this. Turn it to our advantage.
 
-[MALE] I think we gave him too much.
+[MALE] [MARSHALL] Mr. Caldwell, the ground's a few miles away. How do you propose getting us from here to there?
 
-[NARRATOR] Microbiologist'S Voice whispers gently into the still air:
+[MALE] [MAJOR CALDWELL] Gravity.
 
-[MALE] WAKE UP, PRISONER! INT.  SCIENTISTS' CHAMBER - ETERNAL NIGHT COLE blinks awake. All he can see are blurry faces hovering over him, hammering him with questions.
+[NARRATOR] Miles away, bathed in the cool, pale glow of wall-sized monitors in the White House Situation Room, satellite pictures of various distant landing strips cast shifting patterns of light across the silent, watchful room.
 
-[NARRATOR] Astrophysicist offers quietly, watching the shadows drift across the room:
+[NARRATOR] Within the dim, hushed expanse of the Situation Room, the air hung heavy and still, touched only by the faint, rhythmic hum of cooling fans and the soft, steady glow of tactical displays. A red beam from a laser pointer danced gently across the cool blue light of a satellite map, tracing the remote contours of distant lands.
 
-[MALE] Come on, Cole, cooperate!
+[MALE] [GENERAL NORTHWOOD] Out of a dozen airports in Turkmenistan, only five have sufficient runways for a 747. Of those five, only these three have shown any activity. But this one here, see this. It's a satellite dish and it wasn't there two weeks ago. Basic communications uplink, which suggests extensive communications ability. I'd say this was the one.
 
-[NARRATOR] Geologist offers quietly, watching the shadows drift across the room:
+[NARRATOR] The subdued whispers of the room settled into a profound, reverent quiet as leadership weighed the heavy hours ahead, illuminated by the ghostly phosphorescence of the screens.
 
-[MALE] Spit it out... you went to the home of a famous virologist...
+[MALE] [V.P. CHANDLER] Are you confident you can take the facility?
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[MALE] [GENERAL NORTHWOOD] It's night there for a few more hours. That's a real plus. But I won't lie. As far as special ops go, this one's a bear, but I think we squeeze it out.
 
-[MALE] You...don't...exist!  You're in my mind... SCIENTISTS  What?  What's that?  What did he say?  His brain's fried.  Give him another shot! SPEAK UP, COLE.  WHAT DID YOU DO NEXT? INT.  RAILLY'S APARTMENT - EVENING The TV shows film of RAILLY leaving the police station. TV REPORTER  The kidnap victim seemed exhausted but apparently unharmed by her 30 hour ordeal as she left the police station in Philadelphia this morning.  So far she has refused to make a public statement. RAILLY'S friends, MARILOU and WAYNE, are watching the TV. A door opens and KATHRYN RAILLY, wearing a robe, comes out of her bedroom.  She still looks exhausted   Followed by her cat, she enters the kitchen area and turns on the kettle as WAYNE hastily turns down the TV.
+[MALE] [V.P. CHANDLER] Let's get it going.
 
-[NARRATOR] Wayne whispers gently into the still air:
+[NARRATOR] A soft rustle of papers and quiet movement stirred the periphery of the room as an aide stepped close to the edge of the light.
 
-[MALE] Sorry.
+[MALE] [AIDE] The Press Secretary's about to go on.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[NARRATOR] Miles above the earth, inside the shadowed, pressurized cradle of the main conference room, the air was thin and cool, carrying the steady, muffled roar of distant jet engines cutting through the stratosphere. Major Caldwell stood near the bulkhead, his voice low and measured against the rush of the wind outside.
 
-[MALE] No -- I'm in a state of hyper- alertness.  I can't sleep.
+[MALE] [MAJOR CALDWELL] If we can get to a lower altitude, we can use parachutes, but at this altitude, we'll pass out from oxygen deprivation.
 
-[NARRATOR] Marilou murmurs with a warm, steady cadence:
+[NARRATOR] Marshall stood firm, his gaze steady, his breathing slow and even in the pressurized cabin.
 
-[MALE] Did you take the sedative?
+[MALE] [MARSHALL] We've already played our cards, Major. There's no turning back.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[MALE] [MAJOR CALDWELL] We can't jump from here or at this speed. But if we could get a message out - tell the refueling plane...
 
-[MALE] I hate those things.  They mess my head up. The old mug shot of COLE appears on the screen and RAILLY remotes the volume up. TV REPORTER  Along with the kidnapping of the Baltimore woman, James Cole is now also wanted in connection with the brutal slaying of Rodney Wiggins, an ex-convict from... RAILLY goes to the window, pushes aside the drape, and sees... HER POV:  ACROSS THE STREET...A COP keeps watch. RAILLY  Do they really expect him to come here? RAILLY returns to the kitchen area where MARILOU is getting the tea things out. TV REPORTER on air And in Fresno, California...
+[MALE] [MARSHALL] They've cut communication, and I spent a good bit of time looking for alternatives. My only solution ran out of batteries.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] From the quiet shadows of the room, a young secretary in her late twenties leaned forward, her voice soft yet piercing the heavy air.
 
-[MALE] He's dead, isn't he -- that little boy?
+[FEMALE] [SECRETARY] The fax machines.
 
-[NARRATOR] Wayne answers in a low, calming tone:
+[NARRATOR] Marshall paused, turning his head with a gentle, quizzical frown.
 
-[MALE] He's fine.  It was just a "prank" he and his friends pulled. CLOSE ON RAILLY'S FACE... SHOCKED. ANGLE ON THE TV SCREEN, showing footage of a sheepish nine year old boy being led out of a barn by the police.  The cops look grim. TV REPORTER  Authorities have so far been noncommittal about whether they will try to file charges against the families of the children involved in the hoax. RAILLY stares at the TV, stunned. INT.  "HOSPITAL" ROOM - ETERNAL NIGHT VOICES!  SINGING!  COLE blinks awake, looks around, confused, then stares in disbelief.... Crowded around COLE'S bed, the SCIENTISTS are concluding a ragged, out of tune, rendition of "BLUEBERRY HILL."
+[MALE] [MARSHALL] Excuse me?
 
-[NARRATOR] Scientists murmurs with a warm, steady cadence:
+[FEMALE] [SECRETARY] The fax machines.
 
-[MALE] ---found my thrills on Blueberry Hill... Seeing he's awake, SCIENTISTS break off the song and applaud.
+[MALE] [MARSHALL] No good. I said they disabled the communications system.
 
-[NARRATOR] Scientists whispers gently into the still air:
+[FEMALE] [SECRETARY] No. I thought about this, Mr. President. Voice lines and faxes are on two completely different systems of encryption. It'd be easy to overlook the data systems. What do they have to lose?
 
-[MALE] Well done, James!  Well done!  Nice going!  Congratulations!  Good for you!
+[NARRATOR] A quiet resolve settled over Marshall's features as he nodded slowly, turning to the Major before gesturing to the young woman.
 
-[NARRATOR] Botanist answers in a low, calming tone:
+[MALE] [MARSHALL] Get 'em ready. You... come with me.
 
-[MALE] During your "interview," while you were..."under the influence," you told us you liked music! COLE, confused, looks around, sees he's in a one-bed windowless room adorned with cheap reproductions of 19th and 20th century landscapes. The BOTANIST responds to COLE'S obvious disbelief with a friendly smile and the others join in rapid fire, overlapping.
+[MALE] [MAJOR CALDWELL] Eighteen thousand feet, sir. And two hundred knots... otherwise it's suicide.
 
-[NARRATOR] Zoologist answers in a low, calming tone:
+[MALE] [MARSHALL] Got it.
 
-[MALE] This isn't the prison, James.
+[NARRATOR] The heavy metal door slid open to the dim corridor, casting a long, slanted beam of amber light across the floor. Caldwell, holding the captured weapon with a steady hand, took his position by the front stairway, his silent gesture guiding the other hostages forward. They moved as gentle shadows, their footsteps muffled against the carpeted floor as they vanished toward the stairway. Meanwhile, Marshall and the secretary hurried in the opposite direction, their soft footsteps echoing faintly down the corridor toward the quiet stillness of the equipment room. Down on earth, inside the brilliant, blinding lights of the White House Press Room, a sea of journalists pressed forward in a restless wave of muted murmurs and flashing cameras. The Press Secretary stepped up to the wooden podium, resting gentle hands upon the polished surface as a hush rolled over the crowd.
 
-[NARRATOR] Botanist offers quietly, watching the shadows drift across the room:
+[FEMALE] [PRESS SECRETARY] Please. Quiet please... First let me... Please... I have a prepared statement... The White House confirms that the President's aircraft, Air Force One, has been hijacked and is currently controlled by foreign nationals.
 
-[MALE] This is a hospital.
+[NARRATOR] A wave of heavy sighs and rising shouts rippled through the seated reporters, voices overlapping in the bright, warm air.
 
-[NARRATOR] Astrophysicist offers quietly, watching the shadows drift across the room:
+[MALE] [REPORTER] Is the President onboard? What about the First Family? What are their demands?
 
-[MALE] But just until you recover your, uh,... equilibrium.
+[FEMALE] [PRESS SECRETARY] Please... please... For security reasons I can not comment on any specifics except to say that the Vice-President is doing everything within her power to resolve the situation.
 
-[NARRATOR] Engineer speaks with a quiet, measured softness:
+[NARRATOR] The camera pulled back slowly, fading from the bright lights of the press room to the quiet, glowing screen of a television monitor broadcasting the endless news cycle, casting a soft blue flicker against the dark walls of the mission communications center. Korshunov turned slowly toward the screen, his brow furrowing as the quiet night pressed in from the windows.
 
-[MALE] You're still a little... disoriented.
+[MALE] [KORSHUNOV] And you are almost out of time. Where is the President?
 
-[NARRATOR] Geologist responds with gentle reassurance:
+[NARRATOR] High above the clouds, enveloped in the quiet, shadowed solitude of the aircraft's belly, Marshall and the secretary slipped silently down the corridor, stepping softly over the quiet floor on their way toward the glowing green light of the fax machine, surrounded by the gentle, hypnotic thrum of endless flight.
 
-[MALE] Stress!  Time travel!
+[NARRATOR] The ambient glow of the green fax machine cast a soft, emerald illumination over their faces, cutting through the dim shadows of the aircraft’s interior. The air hummed with the steady, vibration of the massive engines, a white-noise lullaby that muffled the distant anxieties of the world. In the quiet refuge of the corridor, Marshall reached out with deliberate, unhurried movements, his fingers wrapping around a smooth pen and a crisp sheet of blank paper. With slow, thoughtful strokes, he began to scribble a message, the scratching of the ink against the paper blending harmoniously with the deep, rhythmic breathing of the plane. 
 
-[NARRATOR] Astrophysicist whispers gently into the still air:
+[SECRETARY] Where are we sending it?
 
-[MALE] You stood up very well, considering...
+[NARRATOR] The secretary’s voice was a low murmur, barely audible over the endless, hypnotic rushing of wind outside the hull. Marshall lifted his eyes, steady and calm, before signing his name with a fluid flourish.
 
-[NARRATOR] Geologist responds with gentle reassurance:
+[MALE] White House Situation room.
 
-[MALE] Superior work!  Superior!
+[NARRATOR] He handed the warm paper to her, and with practiced, gentle motions, she slid it into the waiting maw of the machine. Her fingers danced lightly over the buttons, checking the numerical sequence before pressing dial, sealing their quiet hope into the electronic pulse of the wire. 
 
-[NARRATOR] Botanist responds with gentle reassurance:
+[MALE] Someone should give you a raise.
 
-[MALE] You connected the Army of the 12 Monkeys to a world famous virologist and his son...
+[FEMALE] Actually, sir, you could be that someone.
 
-[NARRATOR] Microbiologist adds in a relaxed, peaceful voice:
+[NARRATOR] A faint, weary smile touched the edges of the quiet space between them. They waited, suspended in the gentle roll of the altitude, enveloped by the vast, starry night. A few beats passed, heavy with anticipation, and then a few beats more. With a mechanical sigh, the machine caught the edge of the paper, pulling it inward with a low, rhythmic whir, scanning the ink in a soft pulse of light.
 
-[MALE] Others will take over now...
+[NARRATOR] It's yours.
 
-[NARRATOR] Zoologist murmurs with a warm, steady cadence:
+[NARRATOR] Far away, in the brightly lit labyrinth of the White House Situation Room, the fax machine hummed to life, gently spitting out the rolled paper amidst the quiet flurry of late-night activity. But in the dense, hurried rhythm of the room, would anyone pause to notice? Meanwhile, deep in the underbelly of the aircraft, the rear emergency pressure door spun open under Caldwell's steady hand, releasing a soft rush of chilled, thin air as he led the quiet group of hostages onward. They moved softly toward the tailcone parachute launch platform, a long cargo hold stretching up the tapered, shadowed edge of the plane's rear. 
 
-[MALE] We'll be back on the surface in a matter of months....
+[NARRATOR] In the dim, amber-tinted light, the hostages began pulling heavy parachute packs down from the overhead storage bins, helping one another with quiet, reverent cooperation. Up front, in the mission communications system, Korshunov stood motionless, listening to Zedeck's harsh voice barking rapid Russian into the telephone receiver. Zedeck slammed the phone down, frustration radiating from his posture.
 
-[NARRATOR] Geologist speaks with a quiet, measured softness:
+[ZEDECK] Still no movement on Stravanavitch.
 
-[MALE] We'll retake the planet.
+[NARRATOR] Korshunov turned his cold gaze toward Alice and Rose, who sat bound yet resolute in the dim cabin light. 
 
-[NARRATOR] Astrophysicist whispers gently into the still air:
+[ROSE] Nor will there be. My husband does not negotiate with terrorists.
 
-[MALE] We're very close!  Because of you!
+[KORSHUNOV] You will be the first to pay for that mistake.
 
-[NARRATOR] Engineer answers in a low, calming tone:
+[NARRATOR] Back in the cool, drafty expanse of the emergency parachute launch ramp, Major Caldwell moved among the people, his hands moving with calm reassurance as he helped each person strap into their bulky harnesses. He paused, addressing the first group—mostly women and senior staff—who were already belting themselves securely into the larger, automated chutes.
 
-[MALE] This is it, James...what you've been working for.
+[MAJOR CALDWELL] These chutes are designed for a safe slow descent. They'll deploy off the line automatically as you step from the plane.
 
-[NARRATOR] Botanist offers quietly, watching the shadows drift across the room:
+[NARRATOR] He turned gracefully to the second group, composed mostly of younger men who watched him with wide, attentive eyes.
 
-[MALE] A full pardon!
+[MAJOR CALDWELL] You guys'll have to pull your own rip cords. Wait until you're clear from the plane, but not any longer. 
 
-[NARRATOR] Microbiologist speaks with a quiet, measured softness:
+[NARRATOR] His hands checked every strap, every buckle, ensuring everything was snug against the cold air. 
 
-[MALE] You'll be out of here in no time.
+[MAJOR CALDWELL] Once I check you, go stand behind the yellow line. You're good. You're good. You're good.
 
-[NARRATOR] Astrophysicist adds in a relaxed, peaceful voice:
+[NARRATOR] Two neat, orderly lines formed silently in the shadows, waiting for the moment to jump—one line tethered to the steady deployment wire, the other poised for freefall. It was then that Marshall and the secretary stepped quietly into the launch ramp area.
 
-[MALE] Women will want to get to know you...
+[MAJOR CALDWELL] Mr. president?
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] The fax went through. We can only wait.
 
-[MALE] I DON'T WANT YOUR "WOMEN," YOU BRAINLESS TWIT! I WANT TO BE WELL! Unseen until now, two guards, TINY and SCARFACE, suddenly break through the ring of SCIENTISTS, push COLE down, and tighten the loose restraints, already in place, but unnoticed before.
+[MAJOR CALDWELL] Your chute.
 
-[NARRATOR] Astrophysicist adds in a relaxed, peaceful voice:
+[MALE] I'm not going without my family.
 
-[MALE] Of course you want to be well, James. And you will be...soon. COLE bursts into hysterical laughter.
+[MAJOR CALDWELL] Yes, sir.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] Caldwell nodded, turning away to cross the metallic floor and prepare the launch ramp controls. Up front in the cockpit, the gas gauges hovered dangerously near empty, their little red needles resting on the edge of depletion. Korshunov stood like a silent shadow behind Gibbs, while Zedeck kept a watchful eye on the First Lady.
 
-[MALE] YOU DON'T EXIST, YOU SILLY BOZOS! YOU'RE NOT REAL! HA HA HA! PEOPLE DON'T TRAVEL IN TIME! YOU AREN'T HERE. MADE YOU UP!  YOU CAN'T TRICK ME! YOU'RE IN MY MIND! I'M INSANE AND YOU'RE MY INSANITY! INT.  PSYCHIATRIST'S OFFICE - DAY CLOSE ON KATHRYN RAILLY, insisting fiercely to someone,
+[GIBBS] Where's that goddamn plane?
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] Back in the launch ramp, everybody waited in the quiet stillness of the cabin. Caldwell watched the glowing altimeter numbers tick downward slowly. Thirty thousand feet. Outside, in the vast, velvet darkness of the night sky, a KC-135—the United States Air Force's flying gas station—descended gracefully, breaking through the clouds to fly in formation just ahead of Air Force One.
 
-[MALE] He not only used the word "prank" -- he said the boy was hiding in a barn. RAILLY's talking to her former boss, DR. OWEN FLETCHER, psychiatrist sitting across from her in his office, tapping his pen.
+[KC-135 PILOT] Air Force One, this is AF-135-RA. We have been instructed to refuel your plane.
 
-[NARRATOR] Dr. Fletcher whispers gently into the still air:
+[NARRATOR] On the flight deck of Air Force One, a collective sigh of relief seemed to lighten the heavy air.
 
-[MALE] He kidnapped you, Kathryn.  You saw him murder someone.  You knew there was a real possibility he would kill you, too.  You were under tremendous emotional stress.
+[GIBBS] About goddamn time.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[KC-135 PILOT] Please change course to Zero Seven Four and drop to eighteen thousand feet. Over.
 
-[MALE] For God sakes, Owen, listen to me -- he knew about the boy in Fresno and he says three billion people are going to die!
+[GIBBS] Air Force One, acknowledged.
 
-[NARRATOR] Dr. Fletcher answers in a low, calming tone:
+[NARRATOR] Down in the emergency parachute launch ramp, the altimeter numbers continued their steady, soothing descent. A palpable wave of relief washed over the waiting group, softening the lines of worry on their faces. Outside in the freezing, starlit expanse, the KC-135 smoothly extended its rigid refueling boom into the night.
 
-[MALE] Kathryn, you know he can't possibly know that.  You're a rational person. You're a trained psychiatrist.  You know the difference between what's real and what's not.
+[NARRATOR] High above the slumbering earth, suspended in the quiet, velvety vastness of the midnight sky, the great flying tanker glided through the air like a silver ghost. The cabin of Air Force One was bathed in a dim, amber glow, casting long, peaceful shadows across the instrument panels. Out in the freezing, starlit expanse, the KC-135 smoothly extended its rigid refueling boom toward them, a long metallic appendage drifting through the moonlight. The voices over the radio hummed with a quiet, steady rhythm, cutting through the low, hypnotic thrum of the jet engines.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[MALE] Air Force One, please reduce speed to 250 knots.
 
-[MALE] And what we believe is what's accepted as "truth" now, isn't it, Owen?  Psychiatry -- it's the latest religion.  And we're the priests -- we decide what's right and what's wrong --we decide who's crazy and who isn't. ... I'm in trouble, Owen.  I'm losing my faith. INT. "HOSPITAL" CELL - ETERNAL NIGHT Alone in his "hospital" room, COLE struggles without success to free himself from his restraints. RASPY VOICE  You sure fucked up, Bob! Startled, COLE freezes, then ignores the RASPY VOICE and continues his feverish struggle. RASPY VOICE  But I can understand you don't want your mistakes pointed out to you. I can relate to that, old Bob. COLE looks around in spite of himself.  Nothing to see but the walls and the landscape paintings. RASPY VOICE  Hey, I know what you're thinking.  You're thinking I don't exist except in your head.  I can see that point of view.  But you could still talk to me, couldn't you? Carry on a decent conversation?
+[NARRATOR] The pilot’s voice drifted back through the radio waves, calm and unhurried.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] Roger.
 
-[MALE] I saw you! In 1995!  In the real world! You were a bum!  You pulled out your teeth. RASPY VOICE  Why would I pull out my teeth, Bob? They don't like that.  That's a no-no. And when did you say you saw me? In...1872?
+[NARRATOR] Inside the warm, dimly lit flight deck, the crew moved with gentle, practiced precision, bathed in the soft emerald luminescence of the dials.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Okay, now. Vent your fueling system. It's the yellow lever on the upper control panel. And next to that there's a toggle switch to open your intake. Got it?
 
-[MALE] FUCK YOU! RASPY VOICE  Yelling won't get you what you want.  You have to be smart to get what you want.
+[MALE] Roger.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Air Force One, do you see the fueling arm?
 
-[MALE] Oh, yeah?  What do I want? RASPY VOICE  You don't know what you want?  Sure you do, Bob.  You know what you want. COLE, agitated, rocks back and forth.  Then...
+[NARRATOR] Through the curved glass of the cockpit window, the long, metallic bridge hung suspended in the dark, swaying ever so slightly on the cushions of the night air.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] That's affirmative.
 
-[MALE] Tell me.  Tell me what I want. RASPY VOICE  To see the sky -- and the ocean -- to be topside -- breathe the air -- to be with her. ... Isn't that right?  Isn't that what you want? Completely shaken, COLE hesitates for a long moment.  When he speaks, it comes out of him like air...a whisper.
+[MALE] Go get it.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[NARRATOR] With infinite gentleness, Air Force One edged its nose upward toward the waiting appendage. The metal met metal with a soft, sliding whisper, finding its groove and resting securely in place, tethering the two aircraft together in the quiet dark. Down in the tailcone parachute launch platform, the altimeter numbers continued their steady, soothing descent. A palpable wave of relief washed over the waiting group, softening the lines of worry on their faces.
 
-[MALE] More...than...anything. INT.  RAILLY'S BEDROOM - MORNING RAILLY'S in bed, asleep, having a very bad dream.  Suddenly, the bedside phone RINGS.  Her eyes snap open.  A beat to orient herself.  RING.  She reaches for the phone. INTERCUT LIEUTENANT HALPERIN'S OFFICE/RAILLY'S BEDROOM CLOSE ON HALPERIN, at his desk, talking into the phone.
+[MALE] That's it, eighteen thousand feet. We're ready.
 
-[NARRATOR] Lieutenant Halperin answers in a low, calming tone:
+[NARRATOR] Marshall looked out across the small gathering, his gaze resting upon the four men who stood without parachutes—two air force crew members, Major Caldwell, and Shepherd.
 
-[MALE] Dr. Railly?  Jim Halperin, Philly P.D.. Sorry to call so early but... CLOSE ON RAILLY, eager, concerned. into the phone,
+[MALE] What about them?
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[MALE] Sir, we stay with the President.
 
-[MALE] You found him?  Is he all right? CLOSE ON HALPEPIN, noting her reaction with raised eyebrows giving an "I told you so" look to the BLACK PLAINCLOTHES cop across his desk, then continuing into the phone,
+[MALE] That isn't necessary.
 
-[NARRATOR] Lieutenant Halperin whispers gently into the still air:
+[NARRATOR] None of them changed his mind. The quiet loyalty hung in the air like a soft blanket.
 
-[MALE] Au contraire, Doctor.  No sign of your good friend, the kidnapper.  However, the plot thickens.  I have a ballistic report on my desk that says the bullet you claim you removed from Mr. Cole's thigh is an antique...and all indications are it was fired...sometime prior to 1920. ANGLE ON RAILLY, reacting, stunned. ANGLE ON HALPERIN, continuing soberly now,
+[MALE] Thank you.
 
-[NARRATOR] Lieutenant Ralperin murmurs with a warm, steady cadence:
+[NARRATOR] A silent beat passed, filled with a few gentle, forced smiles in the tense, hushed room.
 
-[MALE] So what I was thinking was, maybe if I sent a detective down there to talk with you, you could maybe revise or amplify on the circumstances.... Hello?  Hello?  Dr. Railly? HALPERIN considers the dead phone, glances at the COP again. INT.  RAILLY'S BEDROOM/STUDY Her hand still on the receiver, RAILLY looks shocked.  Then, she hurries into her study and starts frantically pulling neatly arranged piles of papers and books from a bookcase until she finds a copy of her book.  She leafs through it hurriedly, locates the picture of the Puerto Rican KID  in WWI. Peering closely, she tries to see everything in the picture. Then, she turns and reaches for a research folder of old photographs and rummages through it until she finds...!!!
+[MALE] Relax everybody. I used to do this for a living.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Caldwell reached out and pulled a heavy switch upon the wall, the metal clicking softly.
 
-[MALE] No! It's an uncropped shot of JOSE being carried on the stretcher in the trenches.  And there in the corner with no helmet, no gas mask, and just a bit of bare shoulder showing...it's COLE!!! INT.  SCIENTISTS' CHAMBER - ETERNAL NIGHT Clean shaven, clear eyed, COLE sits before the frowning SCIENTISTS.
+[MALE] Depressurizing compartment. This'll take a moment.
 
-[NARRATOR] Astrophysicist adds in a relaxed, peaceful voice:
+[NARRATOR] The President crossed the carpeted floor toward one of his aides, a quiet weariness in his stride.
 
-[MALE] The food, the sky, the certain, uh, sexual temptations -- you haven't become "addicted" have you, Cole?  To that "dying" world'
+[MALE] Hey, by the way... who won the Duke game?
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] Find out for yourself, sir. I'll have it waiting at the White House.
 
-[MALE] No, sir!  I just want to do my part. To get us back on top...in charge of the planet.  And I have the experience, I know who the people are...
+[NARRATOR] Marshall smiled faintly, the tension easing just a fraction. Outside in the freezing night, the KC-135 flew just above them, connected by the invisible, humming umbilical cord of fuel. Inside the emergency ramp platform, Caldwell struck the safety glass, shattering it with a muffled crunch. He reached into the recess and pulled the heavy lever.
 
-[NARRATOR] Biologist murmurs with a warm, steady cadence:
+[MALE] Here we go.
 
-[MALE] He really is the most qualified...
+[NARRATOR] A deep mechanical hum and a heavy clank gave way to a sudden, rushing breath of wind as the tail section of Air Force One hinged open on its hydraulic struts, extending like a wide wooden plank out into the open sky. Beyond the threshold, the dark night rolled by, filled with swirling, high-altitude clouds rushing past at two hundred knots, yet somehow feeling distant and dreamlike. On the flight deck, a low, persistent warning buzz began to hum.
 
-[NARRATOR] Geologist murmurs with a warm, steady cadence:
+[MALE] What's that?
 
-[MALE] But all that..."behavior"...
+[NARRATOR] A amber warning light flashed softly on the control panel. The Tactical Video Display illuminated, showing the emergency parachute ramp activating. Farther back in the main cabin, Zedeck rose and moved quickly toward the conference room, bursting through the double doors into the empty space. He turned and sprinted down the lower galley toward the rear of the plane, his footsteps muffled by the thick carpeting. Outside, the tail cone section of the aircraft opened wide, and the great orange and white parachutes began to blossom from the stern like giant autumn flowers unfurling in the slipstream. Miles back in the trailing F-15 Eagle, Carlton watched through the canopy as the silken chutes emerged into the moonlight.
 
-[NARRATOR] Astrophysicist adds in a relaxed, peaceful voice:
+[MALE] Here they come.
 
-[MALE] You said we weren't "real," Cole...
+[NARRATOR] Far away in the White House Situation Room, the radio traffic echoed softly through the vaulted, quiet space.
 
-[NARRATOR] Cole speaks with a quiet, measured softness:
+[MALE] We got... okay... so far ten chutes deploying off the line. Dropping signal flares for search and rescue.
 
-[MALE] Well, sir, I don't think the human mind was built to exist in two different... whatever you call it..."dimensions." It's stressful, you said it yourselves, it gets you confused.  You don't know what's real and what's not.
+[NARRATOR] Deep in the rear baggage hold, Zedeck reached the heavy emergency pressure door. Through the circular glass porthole, he watched the faint shapes of the hostages getting away into the slipstream. He rattled the door hatch, but it remained firmly locked. With a frustrated glance around the dim hold, Zedeck turned and plunged deeper into the shadows.
 
-[NARRATOR] Microbiologist speaks with a quiet, measured softness:
+[NARRATOR] The heavy metal of the aircraft's lower galley was cool to the touch, shadowed and still, save for the low, rhythmic thrum of the engines. Zedeck moved through the quiet dimness with a quiet, deliberate grace. He reached the heavy metal stove set into the bulkhead, his fingers finding the latch of the lower access panel. With a sharp, sudden kick, the panel gave way, swinging open into the dark recess. 
 
-[MALE] But you know what's real now?
+[NARRATOR] From within the warm, metallic housing, his hands worked with practiced calm, loosening and wrestling free a heavy propane tank. The air around him smelled faintly of old metal and the cool draft of high altitude. He hoisted the cylinder and carried it swiftly back toward the thick emergency door. With a firm push, he wedged the rounded tank securely into the heavy locking mechanism, creating a makeshift barrier of intense potential. 
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] He stepped backward, pacing off fifty feet into the hushed aisle of the cargo hold. The shadows danced softly around him as he turned, bringing his weapon up, and fired. 
 
-[MALE] Yes, sir. The SCIENTISTS start to confer openly among themselves
+[NARRATOR] The resulting concussive blast of the propane tank was instantaneous and blinding. The heavy door blew outward with a deafening roar, yielding to the expanding fury. Instantly, the emergency parachute launch platform was flooded with a blinding rush of pressurized air. A great, roaring gale tore through the open portal, carrying the remaining parachutes out into the waiting slipstream in a flurry of white nylon that bloomed like flowers in the dark. 
 
-[NARRATOR] Geologist answers in a low, calming tone:
+[NARRATOR] The sudden violence of the decompression knocked Marshall and Serge down the slick metal ramp, tumbling them toward the edge of oblivion. Just as Marshall was about to slide over the sheer corner into the empty night, his hand shot out, finding the cold steel of a hydraulic strut. His fingers wrapped around it, gripping with every ounce of his remaining strength. That single, desperate hold was all that separated his dangling body from the long, silent drop below. 
 
-[MALE] He'd have to bone up, catch up to our research, the latest clues...
+[NARRATOR] Beside him, Serge tumbled in a blur of motion, limbs flailing against the wind. With a faint, echoing cry that was instantly swallowed by the roar of the slipstream, his fingers slipped. He slid off the lower edge of the ramp, disappearing smoothly into the jet-black sky, falling endlessly downward into the quiet dark. 
 
-[NARRATOR] Zoologist murmurs with a warm, steady cadence:
+[NARRATOR] Farther up the ramp, Shepherd and Caldwell managed to secure themselves, weaving their arms and legs deep into the heavy safety webbing as the wind whipped wildly around them. Two other crew members, lacking parachutes, found purchase and held on for dear life. As the massive aircraft continued to depressurize, it bucked and rolled like a wild thing beneath the starlit canopy. 
 
-[MALE] He's proved to be a quick study... The ASTROPHYSICIST fixes COLE with a sharp, penetrating look.
+[NARRATOR] Marshall hung suspended in the howling wind, looking down into the vast, indifferent expanse of the night. Far below his dangling boots, white parachutes drifted peacefully, like dandelion seeds on a midnight breeze. His muscles strained, trembling with the quiet agony of exertion; he knew he could not hold on forever. 
 
-[NARRATOR] Astrophysicist adds in a relaxed, peaceful voice:
+[NARRATOR] Up forward, inside the shadowed calm of the cockpit, Gibbs fought the heavy control wheel with both hands. With a soft, mechanical hiss, yellow oxygen masks sprang from their overhead compartments, dangling silently as the air thinned. The great plane shuddered and jumped violently against the invisible currents of the upper atmosphere. 
 
-[MALE] You can't trick us, you know.  It wouldn't work.
+[MALE] Air Force One, back off. I repeat, back off.
 
-[NARRATOR] Biologist whispers gently into the still air:
+[NARRATOR] The radio crackled with urgent static, the voice small against the immense scale of the sky. Gibbs wrestled with the heavy yoke, his arms corded with tension, but the aircraft refused to yield. 
 
-[MALE] And why would you want to?  It'll be dangerously close to the end.
+[MALE] She's bucking. I can't hold her!
 
-[NARRATOR] Cole whispers gently into the still air:
+[MALE] What are you doing? Back off! Back off!
 
-[MALE] I understand.  There'd be no point.
+[NARRATOR] Outside, in the freezing, starlit dark, Air Force One gave a sudden, uncontrollable jerk upward. The movement was sharp and final, snapping the heavy metal fueling arm connecting it to the tanker aircraft. 
 
-[NARRATOR] Astrophysicist responds with gentle reassurance:
+[MALE] LOOK OUT!
 
-[MALE] We're going to think about it, Cole. Among ourselves.  We'll get back to you. INT.  DR. MASON'S OFFICE - DAY Standing in front of a wall of glass in his office, overlooking a hi-tech lab below where WORKERS in white "space suits" work methodically, DR. MASON speaks angrily into a phone.  His male ASSISTANT, whose features we don't see, stops writing a formula on a blackboard and listens.
+[NARRATOR] The jagged, broken edge of the heavy aluminum fueling arm scraped violently across the curved spine of Air Force One, metal screeching against metal in a shower of brilliant, golden sparks. One stray spark caught the mist of the pressurized gasoline spraying from the tanker's ruptured belly. 
 
-[NARRATOR] Dr. Mason speaks with a quiet, measured softness:
+[NARRATOR] Inside the cockpit, Gibbs watched the fiery trail trace its way back toward the aircraft's fuel intakes. There was no mistaking the orange glow reflecting off the instrument panel. 
 
-[MALE] You have reason to believe that my son may be planning to do what?!!! INT.  RAILLY'S APARTMENT/STUDY RAILLY, trying to stay calm, is talking to Dr. Mason on the phone.
+[MALE] Holy shit.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] With desperate swiftness, Gibbs pushed the control column forward, and the massive silhouette of Air Force One tipped its nose downward, diving steeply toward the safety of the lower atmosphere. 
 
-[MALE] Please, I know it sounds insane but... INT.  DR. MASON'S OFFICE Dr. Mason on the phone.
+[NARRATOR] Outside, a ribbon of fire streamed behind the trailing tanker, slowly, inevitably rolling downward into the primary fuel tanks like a glowing fuse. 
 
-[NARRATOR] Dr. Mason murmurs with a warm, steady cadence:
+[NARRATOR] The explosion was a magnificent, silent bloom of light that painted the entire horizon in the brilliant, momentary white of daylight. A massive firecloud expanded across the sky, and from the heart of that glowing inferno, the burned skeleton of the great aircraft emerged, descending in a slow, hypnotic spiral toward the quiet earth far below. 
 
-[MALE] I'm afraid this doesn't seem very professional to me, in fact it's distressingly unprofessional for some- one who treated my son briefly  to take a sudden unsolicited interest in his mental health six years later, and to telephone a parent to express opinions that would be inappropriate...  I don't know anything about "Monkey armies", Doctor.  Nothing whatsoever. If my son ever was involved in...  It would be doubly inappropriate to discuss matters of security with you, Dr. Railly, but if it will put you at ease, neither my son nor any other unauthorized person has access to any potentially dangerous organisms in this laboratory.  Thank you for your concern. DR. MASON hangs up angrily and glares. DR. MASON'S ASSISTANT  Dr. "Kathryn" Railly????
+[NARRATOR] Nearby, the escort fighters banked sharply away, their afterburners flaring like fallen stars against the dark. 
 
-[NARRATOR] Dr. Mason responds with gentle reassurance:
+[MALE] Everybody break. Now! Now! Now!
 
-[MALE] The psychiatrist who was kidnapped by that man who broke into my house.  She seems to have been suddenly struck by the most preposterous notion about Jeffrey. DR. MASON'S ASSISTANT  I attended a lecture once...Apocalyptic visions. We see Dr. Mason's ASSISTANT now.  It's DR. PETERS, the red- haired man who insisted to Dr. Railly you didn't have to be insane to think the world was coming to an end. DR. PETERS  Has she succumbed to her own theoretical..."disease"? But DR. MASON is lost in thought, not listening.
+[NARRATOR] Back at the emergency launch ramp, Marshall clung desperately to the hydraulic strut. The air rushed past him in a steady, roaring current, carrying away everything loose, leaving only the dark, sweeping wind and the quiet promise of the night below.
 
-[NARRATOR] Dr. Mason offers quietly, watching the shadows drift across the room:
+[NARRATOR] The sky above tore open in a sudden, blinding roar, raining blinding ribbons of fire across the vast and midnight-blue expanse, transforming the heavens into a slow, hypnotic dream of glowing embers and dark shadows. A massive wave of pressurized air swept across the roaring expanse, washing over the metal frame of the great aircraft like a deep, heavy sigh from the sleeping earth. The turbulence gently rolled away, leaving behind a profound and settling quiet as the darkness reclaimed the night sky, wrapping everything in a soft, velvety blanket of calm.
 
-[MALE] Given the nature of our work, we can't ever be careful enough.  I think we should review our security procedures, perhaps upgrade them. INT.  SCIENTISTS' CHAMBER - ETERNAL NIGHT COLE is facing the BOTANIST who's using a pointer to indicate various fading photos and newspaper clippings tacked on the wall.
+[NARRATOR] On the open ramp, exposed to the cool, rushing altitude wind, the tension eased into a slow stillness. The metallic pressure door swung shut with a muffled, echoing thud, sealing them inside the quiet sanctuary of the cabin. Far below, bathed in the soft, fading light of evening, the white marble of the capital caught the last long streaks of pink and amber sunshine. The dusk settled gently along the Potomac River, and the warm lights of the historic estate flickered on one by one, illuminating the grand, ancient pillars in a peaceful, amber glow. 
 
-[NARRATOR] Botanist responds with gentle reassurance:
+[NARRATOR] Inside the warm, dimly lit depths of the Situation Room, the low murmur of exhausted voices drifted like a quiet river over smooth stones, rising and falling in a slow, rhythmic cadence. 
 
-[MALE] Let's consider again our current information -- if the symptoms were first detected in Philadelphia on June 28, 1995, that makes us know that...?
+[MALE] They still have the President, it's past their deadline and they haven't called. What do you think it means?
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] General Northwood stood by the silent phone, his gaze steady, his breathing slow and measured as the evening shadows stretched across the floor.
 
-[MALE] It was released in Philadelphia, probably on June 14, 1995.
+[MALE] Like any good poker player, they're checking over their hand seeing which cards to play and which to discard.
 
-[NARRATOR] Botanist answers in a low, calming tone:
+[NARRATOR] Deep within the humming belly of the aircraft, the heavy metal door slid open to reveal the quiet warmth of the communication center. Through the soft haze of cabin light, two pairs of eyes met across the room, sharing a silent, overwhelming wave of relief that washed away the lingering chill of the storm.
 
-[MALE] And it appeared sequentially after that in...? With a quick glance at the panel of SCIENTISTS staring at him from behind the long table, COLE replies like a good pupil,
+[FEMALE] He didn't leave us.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] A slow, quiet respect softened the hard angles of the room as the quiet rustle of adhesive tape broke the silence, securing hands with methodical, gentle precision. 
 
-[MALE] San Francisco, New Orleans, Rio de Janeiro, Rome, Kinshasa, Karachi, Bangkok, then Peking.
+[MALE] You are a resilient man, Mr. President. You must forgive the tape, but we were starting to feel outnumbered... Gibbs!
 
-[NARRATOR] Botanist offers quietly, watching the shadows drift across the room:
+[NARRATOR] Footsteps padded softly against the carpeted floor as the pilot approached, his eyes cast downward in the dim, amber-tinted light. 
 
-[MALE] Meaning...???
+[NARRATOR] The President was guided gently toward the communication chair, the soft hum of the engines vibrating soothingly through the floorboards, singing a low, hypnotic lullaby that urged the weary world to rest. 
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Special Agent Gibbs. You helped do this?
 
-[MALE] That the virus was taken from Philadelphia to San Francisco, then to New Orleans, Rio de Janeiro, Rome, Kinshasa, Karachi, Bangkok, then Peking.
+[MALE] Yes, Mr. President.
 
-[NARRATOR] Botanist offers quietly, watching the shadows drift across the room:
+[MALE] Why?
 
-[MALE] And your only goal is...???
+[MALE] Because it is my duty.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] You're duty to what? The country you served doesn't exist anymore.
 
-[MALE] To find out where the virus is so a qualified scientist can travel back into the past and study the original virus.
+[MALE] My loyalty was never to my country.
 
-[NARRATOR] Botanist whispers gently into the still air:
+[NARRATOR] The words faded softly into the background hum of the aircraft, lost in the gentle, rhythmic sway of the flight, as the night outside grew darker, deeper, and infinitely more peaceful.
 
-[MALE] So that...???
+[NARRATOR] The heavy, pressurized air of the cabin felt thick and slow, the ambient hum of the engines vibrating gently against the floorboards, lulling the senses into a deep, heavy slumber. Shadows lengthened across the walls as the flickering overhead lights cast a warm, amber glow over the strained faces in the room. A soft, cool draft drifted in from somewhere unseen, carrying the quiet stillness of the high-altitude night, whispering through the tension and smoothing the sharp edges of the world. 
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] I serve my commanding officers. You don't think the leaders of the KGB would allow perestroika to ruin years of infiltration? No, when the Soviet Union collapsed, we took our sleepers with us.
 
-[MALE] Uh, so that a vaccine can be developed that will, uh, allow mankind to reclaim the surface of the earth. COLE glances nervously at the suspicious SCIENTISTS as the BOTANIST switches on a slide projector and projects... a magazine photo of wall graffiti:  "ATTENTION!!!  POLICE ARE WATCHING!  IS THERE A VIRUS?  IS THIS THE SOURCE?  3 BILLION DIE?" BOTANIST  This is from a magazine printed in late September, 1995.  The writer speculated that this graffiti might be related to the epidemic that by that time had already killed thirty million people world-wide and was getting worse.  He says, certain people, unnamed, were questioned, but what came of that is not known.  But it is a clue you should pursue. COLE stares at the picture. EXT.  FAA STOREFRONT - DAY LOUD BANGING!  The storefront window, completely covered with posters, quivers violently.  Images of MONKEYS covered with electrodes, BABY SEALS being viciously clubbed, DOGS jammed into tiny cages quiver as somebody beats on the window.  It's RAILLY.
+[NARRATOR] A heavy black telephone was held up in the dim light, the coiled cord dangling like a sleeping vine, while the silence of the cabin stretched out endlessly, patient and unyielding.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[MALE] Now since we've had very little luck getting Washington or Moscow to cooperate, I wondered if you would be so kind.
 
-[MALE] IS ANYBODY IN THERE?  HELLO?  IS SOMEONE IN THERE?  IF YOU'RE IN THERE,
+[MALE] Over my dead body.
 
-[NARRATOR] I Need To Talk To You. offers quietly, watching the shadows drift across the room:
+[MALE] No. But since I only have a few of your staff left to kill, perhaps I will start with your family instead... Gibbs.
 
-[MALE] INT.  FAA STORE JEFFREY, BEN, TEDDY, and two of JEFFREY'S youthful cohorts, SANDY and KWESKIN, wait motionless beside a heap of cardboard cartons as FALE peeks out the front window through a slit between posters.
+[NARRATOR] In the dim, flickering light, motion stirred the quiet shadows. Heavy footsteps padded softly against the carpet as the guard reached out, grabbing a young woman and forcefully shoving her down into a chair. She struggled against the sudden weight, her breath catching in the quiet air, before a sharp sound echoed softly, followed by the cold, heavy steel of a weapon pressed gently against the delicate skin of her neck. Across the room, bound figures strained silently against their ropes, their breathing ragged and shallow in the hushed gloom.
 
-[NARRATOR] Fale responds with gentle reassurance:
+[MALE] The world is such a dangerous place and we can't always protect our children.
 
-[MALE] It's the kidnap woman -- the one who was with the guy who tied us up.
+[FEMALE] Please. You can kill me but leave my daughter alone.
 
-[NARRATOR] Ben whispers gently into the still air:
+[NARRATOR] A slow finger traced down the young girl's cheek, moving as softly as a falling feather in the quiet room.
 
-[MALE] What's she doing?
+[MALE] She isn't a part of this. This is between you and me.
 
-[NARRATOR] Fale speaks with a quiet, measured softness:
+[MALE] Call up Petrov and order Stravanavitch's release.
 
-[MALE] She's drawing attention to us, that's what she's doing. ... I don't know what you're up to this time, Mason, but you're gonna get us in deep shit!
+[NARRATOR] Eyes darted back and forth through the dimness, searching for a way out, lingering on familiar faces, finding only the heavy, oppressive stillness of the night.
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[MALE] This administration does not negotiate with terrorists.
 
-[MALE] Whine, whine, whine.  What about walkie talkies?  We used to have walkie talkies. EXT.  FAA STOREFRONT From littered doorways, DERELICTS sneak peeks at RAILLY as she, seemingly mad, shakes the doorknob, then hammers on the door.
+[MALE] Pity. Mr. Gibbs.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] A pistol was withdrawn from its holster with a faint, metallic whisper, sliding smoothly into position against the temple, resting there like a cold, midnight star.
 
-[MALE] I SAW YOU!  I SAW SOMEONE MOVING.  I KNOW YOU'RE IN THERE! RASPY VOICE  Secret experiments! RAILLY whirls, sees LOUIE, the raspy-voiced toothless derelict.
+[MALE] Perhaps a President does not negotiate, but does a father? An interesting choice. Your daughter versus your world vision. The implicit trust of a family against your oath of office.
 
-[NARRATOR] Louie responds with gentle reassurance:
+[NARRATOR] Tears tracked silently down the young girl's face, shimmering faintly in the amber lamplight as she locked her gaze with the man who had sworn to protect her.
 
-[MALE] That's what they do -- secret weird stuff!
+[FEMALE] Daddy...
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] Alice... I...
 
-[MALE] You!  I know you! But LOUIE is studying the pictures of the tortured animals now.
+[MALE] And once the trigger is pulled, she is gone forever. Then, I wonder, how do you live, knowing you could've saved her? And could you ever forget the look on her face as she ceases to exist... Late at night, when you think about her, will Stravanavitch really matter anymore?
 
-[NARRATOR] Louie adds in a relaxed, peaceful voice:
+[NARRATOR] An attempt was made to turn away from the unbearable sight, but heavy hands intervened, forcing the gaze to remain fixed on the quiet tragedy unfolding in the center of the room.
 
-[MALE] Not just on them.  Do 'em on people, too -- down at the shelters.  Feed 'em chemicals 'n take pictures of 'em.
+[FEMALE] Daddy. Daddy, please...
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[FEMALE] Jim... for god's sake!
 
-[MALE] Have you seen James Cole?  The man...?
+[MALE] Look inside your heart. No one will think you weak. Five...
 
-[NARRATOR] Louie murmurs with a warm, steady cadence:
+[NARRATOR] The young face tried to hold onto bravery, tightening its features against the encroaching darkness.
 
-[MALE] They're watchin' you.  Takin' pictures. RAILLY follows his look. ANGLE ON AN OLD CHEVY, parked across the street, the PLAINCLOTHES COP slouched at the wheel, pretending to read a newspaper.
+[MALE] Four...
 
-[NARRATOR] Railly answers in a low, calming tone:
+[FEMALE] Jim...
 
-[MALE] The police.  I know.  Listen, I need to talk to James, but he has to be careful how he contacts me.  He mustn't get caught.  Do you understand me?
+[MALE] Three.
 
-[NARRATOR] Louis speaks with a quiet, measured softness:
+[NARRATOR] Eyes turned away from the final, fleeting moments, unable to bear the weight of the ticking seconds.
 
-[MALE] Uh, yeah, sure.  Uh...who's James?
+[MALE] Two.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[NARRATOR] The young girl looked upon her father for the very last time, the soft sigh of her breath catching in her throat as she closed her eyes tightly, surrendering to the quiet.
 
-[MALE] He was with me, he spoke to you. Several weeks ago.  He said you were from the future...watching him. LOUIS gives her a look that says, "I'm outta here!" But just then, RAILLY spots two TEZNAGE PUNKS surreptitiously "tagging" their way along the street with cans of spray paint. RAILLY stares at the PUNKS. INT.  FAA STORE FALE watches JEFFREY go over a check list while KWESKIN, SANDY, and TEDDY organize materials, and BEN peeks out the small opening between posters at the front window.
+[MALE] One...
 
-[NARRATOR] Jeffrey answers in a low, calming tone:
+[NARRATOR] The finger began to slowly, inexorably curl inward, applying pressure to the cold metal.
 
-[MALE] You get the bolt cutters?
+[MALE] NO!
 
-[NARRATOR] Kweskin responds with gentle reassurance:
+[NARRATOR] A triumphant, slow smile touched the corners of a mouth in the dimness.
 
-[MALE] One dozen.  They're in the van.
+[MALE] Stop.
 
-[NARRATOR] Fale answers in a low, calming tone:
+[MALE] You'll do it?
 
-[MALE] One dozen bolt cutters!  Whadda you gonna do with one dozen bolt cutters?
+[MALE] Yes, I'll do it. Just leave my family alone.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[MALE] Good. Good.
 
-[MALE] You really want to know?
+[NARRATOR] The pistol was slowly withdrawn from the temple, returning to its rest, while the young woman opened her eyes, gasping softly for the cool, sweet air as it filled her lungs once more.
 
-[NARRATOR] Fale murmurs with a warm, steady cadence:
+[MALE] Bring him the phone... You are true to your nature, Mr. President.
 
-[MALE] No!  Absolutely not. Don't tell me anything.
+[MALE] Someday, you'll regret my nature.
 
-[NARRATOR] Ben responds with gentle reassurance:
+[MALE] You don't like seeing people get hurt. Now in morality, that is a virtue. In politics, however, that is weakness. You were a hostage to everyone else long before you were a hostage to...
 
-[MALE] Hey!  Do you know what she's doing? Everybody freezes, looking toward 3EN, who's peeking outside. Then, except for JEFFREY, they all crowd around BEN to get a look. POV THROUGH SLIT:  a glimpse of RAILLY, spray painting the front of the store!
+[NARRATOR] Far away, deep within the quiet sanctuary of a distant bedroom bathed in the silver glow of the late-night moon, a solitary figure paced back and forth across the floorboards, a wisp of smoke curling slowly upward into the tranquil, undisturbed air.
 
-[NARRATOR] Teddy answers in a low, calming tone:
+[NARRATOR] The solitary figure continued pacing within the quiet, shadowy sanctuary of the room, holding a burning cigarette as a delicate, pale tendril of smoke curled slowly upward into the undisturbed, slumberous air. 
 
-[MALE] What's it say?
+[NARRATOR] Suddenly, the harsh, metallic trill of the telephone shattered the heavy silence. He paused in mid-stride, his gaze lifting expectantly toward the desk as his aide moved swiftly to answer the heavy receiver. 
 
-[NARRATOR] Ben answers in a low, calming tone:
+[MALE] Sir, the President of the United States wishes to speak with you.
 
-[MALE] I can't see it.
+[NARRATOR] Petrov stopped his restless pacing entirely. He looked down, considering the glowing ember of his cigarette for a quiet, contemplative moment before slowly walking across the room to take the heavy instrument in his hand.
 
-[NARRATOR] PSYCHIATRIST AND DEAL WITH THE TASK AT
+[PETROV] Mr. President.
 
-[NARRATOR] Fale whispers gently into the still air:
+[NARRATOR] Far away, within the icy, vaulted depths of a forgotten prison, a lone guard walked softly down a cold steel hallway, the sole sound being the rhythmic, heavy clink of his boots against the floor. He paused before a darkened cage, his hand rattling the iron bars before he pulled a heavy ring of iron keys from his belt and slid one into the lock. The mechanism turned with a muffled, heavy thunk, and the heavy door drifted open.
 
-[MALE] Your psychiatrist?  Did you just say, "your psychiatrist"?
+[GUARD] Stravanavitch.
 
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
+[NARRATOR] The man within the shadows stirred, blinking slowly against the sudden intrusion of light, and leaned forward. He and the guard traded a long, silent look—a quiet understanding passing between them in the chilly air. After a slow beat, the guard turned without a word and retreated down the damp hallway. Stravanavitch rose languidly from his narrow bunk, his footsteps unhurried as he approached the open door, leaning his weight against it until it swung fully outward into the corridor.
 
-[MALE] Ex-psychiatrist!  Now, what about flashlights?  How many flashlights...?
+[NARRATOR] Meanwhile, bathed in the dim, amber glow of the aircraft's internal lights, Rose stared across the quiet cabin at Marshall. Her expression was difficult to read, shadowed and distant, carrying the quiet chill of the high-altitude night.
 
-[NARRATOR] Fale answers in a low, calming tone:
+[ROSE] Can my husband sit next to me?
 
-[MALE] That woman is...was...your... psychiatrist?  And now she's spray- painting our building? EXT.  FAA STOREFRONT/SECOND AVENUE ANGLE ON SLACK PLAINCLOTHES COP, across the street in the CHEVY, amazed, watching RAILLY spray painting.  He shakes his head wearily. ANGLZ ON STREET TYPES, inching closer, watching RAILLY with amazement, too.  They include... an IRISH DRUNK, white haired, red-faced, bloated... a NATIVE AMERICAN with tormented eyes and a mangled ear... an AFRICAN AMERICAN with one eye... the TEENAGED PUNKS... a WHITE MAN, shabbily dressed, joining the knot of ONLOOKERS, reacting at the sight of RAILLY.  It's COLE!  He pushes toward her.
+[NARRATOR] Korshunov considered the pair for a long, silent moment. Their hands were securely bound behind their backs by coarse strips of duct tape; they were entirely harmless, floating helplessly above the sleeping world. With a slow gesture, Korshunov nodded his assent. Marshall rose from his place and moved quietly, joining her on the narrow pilot's rest bunk.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[ROSE] I don't know why you stayed.
 
-[MALE] Kathryn! RAILLY stops spraying, whips around at the sound of his VOICE.
+[MARSHALL] Please... don't start with me.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Rose shifted closer to him in the dim, trembling cabin, her voice dropping to a low, intimate murmur that barely rose above the steady, hypnotic drone of the distant engines.
 
-[MALE] James! With a quick glance toward the PLAINCLOTHES COP, RAILLY takes urgent charge of the situation.
+[ROSE] There's something I need to tell you... and God knows if I'll ever get another chance.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] From behind them, in the protective shadows, she pressed her bound hands against his back, nudging him gently. Marshall looked at her quizzically, his brow furrowed in the soft light.
 
-[MALE] James!  That's a policeman.  Pretend you don't know me.  If he sees you...
+[ROSE] No matter what happens, you have been and always will be my hero.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] As she spoke, his fingers searched the surface behind him, brushing against the rough, cold metal of the cabin wall where the jagged edge of a twisted panel protruded slightly from the earlier explosion in the cockpit. In an instant, a quiet wave of understanding washed over him.
 
-[MALE] No, I want to turn myself in.  Where is he?  Don't worry -- it's all okay now.  I'm not crazy any more!  I mean, I am crazy, mentally divergent, actually, but I know it now and I want you to help me.  I want to get well... ANGLE on RAILLY, desperately pulling COLE'S hands off his head as she tries to block the COP'S view of COLE.
+[MARSHALL] And you have always been my guardian angel.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] Rose smiled back at him, her eyes shining softly in the dimness.
 
-[MALE] James -- put your hands down and listen to me.  Things have changed! ANGLE ON THE PLAINCLOTHES COP, checking the mug shot of COLE on his clipboard, then reaching for his radio mike. ANGLE ON RAILLY, reacting to the COP speaking into his mike:  she tosses the spray paint can aside, grabs COLE and tries to pull him along...but COLE isn't moving.  He's staring at the front of the FAA Store with disbelief!
+[ROSE] I will never regret my life with you.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[NARRATOR] Shielded by the angle of their bodies and the deep shadows of the bunk, Marshall pressed his bound wrists against the sharp, jagged edge of the metal wall, beginning to saw steadily at the thick layers of duct tape.
 
-[MALE] James, come on!  We have to get out of here! COLE looks from the wall to the can rolling on the sidewalk, then back to the wall where RAILLY has sprayed the huge words: ATTENTION!!!  POLICE ARE WATCHING! IS THERE A VIRUS?  IS THIS THE SOURCE?  THREE BILLION DIE? It's the graffiti COLE saw in the future, in the picture!
+[NARRATOR] Back upon the frozen ground of Moscow, Ivan Stravanavitch walked down the endless, echoing corridor of the central prison. Along the walls, other prisoners stirred in the gloom, catching sight of him and beginning to strike their iron bars in a deep, rolling rhythm. As he paraded slowly down the corridor, the rhythmic banging multiplied, growing louder and heavier until it echoed like thunder against the stone walls. Yet Stravanavitch only smiled a slow, cocky smile, entirely undisturbed by the noise. One by one, heavy guard doors swung open before him as if by magic, and a few of the prison guards even offered him a respectful salute as he passed them by.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] High in the freezing skies aboard the airborne fortress, the communication console beeped softly. Zedeck reached out and picked up the receiver, exchanging a series of crisp, efficient words in Russian before lowering the device back onto its cradle with a quiet click.
 
-[MALE] I've seen that...before. But RAILLY'S total attention is on their dilemma.
+[SERGE] It's confirmed. Stravanavitch is on his way out. Our men are waiting outside.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Korshunov smiled thinly, resting a heavy hand upon Zedeck's shoulder in quiet satisfaction. Rose looked up at him, her voice steady despite the tension in the air.
 
-[MALE] James, trust me.  We're in terrible trouble.  We have to run. Very confused, COLE lets her drag him along the sidewalk, past ONLOOKERS.  She looks crazier than he does. ANGLE ON THE CHEVY, making a sudden, urgent u-turn, almost colliding with a passing car.  BRAKES SQUEAL and a HORN BLARES. INT.  FAA STORE - DAY ANGLE ON BEN, peeking out, reacting to the drama.
+[ROSE] You got what you wanted. You going to release us now?
 
-[NARRATOR] Ben murmurs with a warm, steady cadence:
+[KORSHUNOV] You're very valuable. And our nation needs so many things.
 
-[MALE] Wow, a guy in a Chevy is chasing her and some other guy I can't see.
+[NARRATOR] Marshall leaned his head back against the cold bulkhead, letting out a soft, weary breath. It was precisely what he had expected.
 
-[NARRATOR] Fale murmurs with a warm, steady cadence:
+[MARSHALL] Could I... Could I have some water?
 
-[MALE] Hey, no problem, it's probably just another kidnapping featuring Jeffrey's shrink, pardon me, make that ex-shrink.  This is your leader, a certifiable lunatic who told his former psychiatrist all his plans for God knows what whacko irresponsible schemes, and now who knows what she's painted out there on our wall?
+[NARRATOR] Korshunov nodded slowly, gesturing for Zedeck to attend to the request. With a sullen scowl, Zedeck turned and reluctantly descended the narrow steps toward the main cabin, leaving them in the quiet glow of the upper deck.
 
-[NARRATOR] Jeffrey responds with gentle reassurance:
+[KORSHUNOV] The taste of defeat is bitter, no?
 
-[MALE] WHO CARES WHAT PSYCHIATRISTS WRITE ON WALLS?  You think I told her about the Army of the 12 Monkeys?  Impossible!  Know why, you pathetically ineffectual and pusillanimous "pretend-friend-to- animals"?!  I'll tell you why:  because when I had anything to do with her six years ago, there was no such thing -- I hadn't even thought of it yet!
+[NARRATOR] Marshall raised his head slightly, his voice calm, steady, and filled with a quiet, enduring strength born from a lifetime of quiet resilience.
 
-[NARRATOR] Fale offers quietly, watching the shadows drift across the room:
+[MARSHALL] One thing I've learned as President... all defeats are temporary and all victories
 
-[MALE] Then how come she knows what's going on? JEFFREY abruptly switches from rage to good humor, adopting a supercilious smile and a patronizing tone.
+[NARRATOR] The cabin of the massive aircraft hummed with a low, steady, hypnotic vibration, a rhythmic cradle swaying against the cold, quiet expanse of the night sky. The ambient light was a muted, shadowy amber, casting soft glimmers over the metal bulkheads and the weary faces of those suspended high above the world. Outside, the immense dark ocean of the atmosphere drifted by in silence, undisturbed and eternal.
 
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
+[KORSHUNOV] Very poetic.
 
-[MALE] Here's my theory on that.  While I was institutionalized, my brain was studied exhaustively in the guise of mental health. I was interrogated, x-rayed, studied thoroughly.  Then, everything about me was entered into a computer where they created a model of my mind. They all stare, mesmerized, at the strutting JEFFREY.  Is he serious?  Is he crazy?  Doesn't matter -- he's charismatic. JEFFREY  Then, using the computer model, they generated every thought I could possibly have in the next, say ten years, which they then filtered through a probability matrix to determine everything I was going to do in that period.  So you see, she knew I was going to lead the Army of the Twelve Monkeys into the pages of history before it ever even occurred to me.  She knows everything I'm ever going to do before I know it myself.  How about that? JEFFREY smiles smugly into FALE'S flabbergasted face.
+[NARRATOR] A soft rustle broke the stillness as Zedeck moved through the dim shadows, approaching with a simple glass of water, the liquid catching a faint, pale beam of cabin light. 
 
-[NARRATOR] Jeffrey offers quietly, watching the shadows drift across the room:
+[MARSHALL] And there's one thing I've learned from being a sports fan.
 
-[MALE] Now I have to get going -- do my part. You guys check all this stuff out and load up the van.  Make sure you have everything.  I'm outta here. JEFFREY exits.  The others stare at the door.
+[NARRATOR] Zedeck tilted the cup toward the President, but in the clumsy motion, cool water spilled over Marshall's face, droplets catching the light like tiny diamonds before he calmly shook them away.
 
-[NARRATOR] Fale answers in a low, calming tone:
+[MARSHALL] It ain't over, 'til it's over.
 
-[MALE] He's seriously crazy -- you know that. EXT.  SKID ROW ALLEY - DAY An overflowing dumpster squats near the mouth of an alley. The unmarked CHEVY crawls slowly past the alley, the PLAINCLOTHES COP'S eyes searching everywhere. Trash stirs in the dumpster and RAILLY'S eyes peer up out of the torn cardboard boxes, rotting food, and styrofoam litter. HER POV:  the POLICE CAR passes from view. ANGLE ON RAILLY, emerging from the refuse, hissing,
+[NARRATOR] With the sudden, silent grace of a resting shadow, Marshall rose, his movement fluid and unexpected, wrapping an arm around Zedeck's throat with swift, absolute precision, letting the tension dissolve into the quiet air as the threat faded away. Sparks danced across the control panel like falling stars as gunfire echoed briefly, a sharp contrast to the deep, enveloping peace that quickly tried to reclaim the cabin. Korshunov’s weapon leveled, aiming through the dim haze, but Major Caldwell moved like a sigh, stepping into the path of the storm, before sinking down into a profound, enduring rest. 
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[KORSHUNOV] Don't be hasty.
 
-[MALE] James!  Come on. A confused COLE emerges from the opposite end of the dumpster, bits of lettuce in his hair.
+[NARRATOR] Marshall stepped forward, his eyes steady, watching as Korshunov retreated into the shadows of the staircase, the heavy air settling once more into a hushed, watchful calm.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MARSHALL] Shepherd.
 
-[MALE] I don't understand what we're doing.
+[NARRATOR] Shepherd stood up slowly from the quiet floorboards.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[MARSHALL] Call Petrov... I'll be back.
 
-[MALE] We're avoiding the police until I can....talk to you.
+[ROSE] Both of you.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Marshall descended into the lower cabin like a ghost fading into the mist, while Rose knelt beside the fallen, her hands gentle and tender in the quiet dark. Shepherd reached for the communications panel, dialing through the silent waves of the night. Far below, inside a dimly lit Moscow bedroom, the heavy stillness of the night was broken by the ringing of a telephone, cutting through the shadows.
 
-[MALE] You mean, treat me?  Cure me?  Kathryn, those words on the wall -- I've seen them before...  I...I...dreamed them. But she's not listening.  She's peeking out the alley entrance. RAILLY'S POV:  across the street is a run-down skid row hotel, THE GLOBE, ROOMS WEEKLY, DAILY. INT.  GLOBE HOTEL/LOBBY - MINUTES LATER The DESK CLERK, an old alkie who hates trouble but finds it often, stares across the counter suspiciously at RAILLY and COLE.
+[PETROV] Petrov.
 
-[NARRATOR] Desk Clerk adds in a relaxed, peaceful voice:
+[NARRATORS] Across the slumbering city, outside the heavy stone walls of a Moscow prison, the night air was biting and crisp, illuminated only by the stark, sterile glare of security lights cutting through the fog. A massive iron gate swung open, and Stravanavitch stepped out into the courtyard, the crisp wind rustling his coat as he walked toward a waiting limousine. Suddenly, the quiet was shattered by the sharp wail of a siren, and blinding floodlights washed over the yard, turning the night into day. Panic rippled through the shadows. Stravanavitch broke into a run, his footsteps echoing against the stone, while guards shouted from the towers and the air filled with the distant pop of sudden friction. Caught between the shadows and the light, the hurried footsteps faded into the vast, indifferent quiet of the Russian night.
 
-[MALE] Twenty five bucks an hour.
+[NARRATOR] Out in the vast, shadowed expanse of the Russian night, the heavy velvet silence settles once more. The chaotic rush of pursuit dissolves into the quiet stillness of the earth, where the cool wind gently brushes against the ancient cobblestones. Far away, inside a quiet, dimly lit bedroom, the gentle glow of a bedside lamp casts a soft amber warmth across the heavy drapes and polished wood. 
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[NARRATOR] Petrov slips beneath the heavy, comforting layers of down covers, his body sinking gratefully into the softness of the mattress. A gentle, cautious knock echoes softly against the wooden door, disturbing the peaceful room for only a moment.
 
-[MALE] An hour?!
+[MALE] What is it?
 
-[NARRATOR] Desk Clerk offers quietly, watching the shadows drift across the room:
+[NARRATOR] The aide steps just inside the threshold, his voice lowered to a respectful whisper.
 
-[MALE] You want quarter hours, go someplace else.
+[MALE] It's about Stravanavitch.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Petrov rests his head against the pillow, his eyes heavy with the deep, enveloping fatigue of the late hour.
 
-[MALE] Here's ninety eight.  For the night.  Deal? The DESK CLERK squints warily at this turn of events.  Then, he turns, gets a key, turns back and hands it to her.
+[MALE] What about him?
 
-[NARRATOR] Desk Clerk answers in a low, calming tone:
+[NARRATOR] The aide pauses, letting the quiet of the night settle between them.
 
-[MALE] Forty four.  Fourth floor, turn right. Elevator's busted. RAILLY turns, COLE follows, and they walk quickly to the stairs passing the stares of gloomy RESIDENTS sitting on torn sofas chairs in front of an old TV with hideous color. ANGLE ON THE DESK CLERK, watching RAILLY and COLE climb stairs.  As they disappear from view, he picks up the phone, punches a number, speaks into the phone.
+[MALE] He's dead, sir. Shot while trying to escape.
 
-[NARRATOR] Desk Clerk adds in a relaxed, peaceful voice:
+[NARRATOR] A slow, lingering beat passes, filled with the quiet rustle of linen and the steady ticking of a clock on the mantle. 
 
-[MALE] Tommy?  This is Charlie at the Globe. You know if Wallace has a new girl? Sort of a rookie type?  Blonde? INT.  GLOBE HOTEL ROOM 44 - MINUTES LATER  COLE sits on the lumpy bed in the dingy room, watching RAILLY pace back and forth like a mad woman.
+[MALE] So be it. The world will sleep easier.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] With a slow, languid motion, Petrov reaches out and clicks off his bedside light, letting the comforting blanket of darkness wash over the room, lulling the world into a deep and profound rest. 
 
-[MALE] Okay...you were standing there looking at the moon...you were eating grass... then what?
+[NARRATOR] High above the sleeping clouds, inside the vast, cavernous cabin of Air Force One, a gentle, rhythmic hum vibrates through the metal frame. The lighting is dimmed to a soft, amber glow, casting long, peaceful shadows across the carpeted aisles. Marshall moves quietly through the upper deck, his footsteps muffled, stepping down into the subdued tranquility of the aircraft. Up ahead, near the forward stairway, the shadows shift. The atmosphere is thick with a quiet tension, soon broken by sudden, hurried movement as shadows merge and drift toward the lower levels. 
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[NARRATOR] Farther down, deep in the belly of the plane, the autopilot maintains its steady vigil. A tiny shower of blue-white sparks briefly illuminates a bullet-holed panel, hissing softly before fading into the dark. The directional compass shimmers under the instrument lights, slowly, lazily drifting off its northern heading, turning its nose southward into the velvet void of the night sky.
 
-[MALE] I thought I was in...prison again.
+[NARRATOR] Outside, the faithful squadron of F-15 fighters glides silently alongside the massive aircraft, their silver wings catching the pale moonlight as Air Force One gently, imperceptibly banks to one side, rocking like a cradle in the high-altitude wind.
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] They've changed their bearing. Air Force One. Air Force One. Over... Air Force One, please respond... Sir, this new bearing. We're headed for Iraq, sir.
 
-[MALE] Just like that?  You were in prison?
+[NARRATOR] Inside the quiet sanctuary of the pilot's rest area, far removed from the turbulence of the flight deck, Shepherd and Rose lift the weary frame of Major Caldwell onto a soft, waiting bunk. The air here is still, cool, and quiet.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] Easy, Major. Easy.
 
-[MALE] No, not really.  It's...it's in my mind.  Like you said.
+[NARRATOR] Major Caldwell rests his head against the pillow, his breathing slow and shallow, accompanied by the gentle, rhythmic hum of the engines.
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[MALE] The President?
 
-[MALE] You disappeared!  One minute you were there, the next minute you were gone. Did you run through the woods?
+[MALE] You saved his life.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] A faint, peaceful smile touches the corners of Caldwell's mouth. He settles completely, heavily, into the comforting embrace of the cot, his muscles finally unclenching, letting go. He drifts off into an endless sleep. Rose reaches up with a tender, steady hand, gently shutting the Major's eyes, leaving him to rest in eternal peace.
 
-[MALE] I don't know -- I don't remember.
+[NARRATOR] Down in the lower galley, the lighting is dim and shadowy, painted in hues of deep indigo and amber. Marshall moves carefully through the shadows, a quiet ghost navigating the metal corridors. Suddenly, a sharp crack rings out, and a bullet richochets off a steel pipe with a metallic ping just above his head. Yet Marshall does not waver; his voice is calm, steady, and low, cutting through the ambient hum of the ventilation.
 
-[NARRATOR] Railly murmurs with a warm, steady cadence:
+[MALE] It's over. You won. Now let her go.
 
-[MALE] The boy in the well.  How did you know that was just a hoax?
+[NARRATOR] He pauses, listening to the soft scrape of footsteps echoing ahead in the narrow gangway. Through the crimson glow of auxiliary lighting, thick, heavy white steam billows from a punctured cooling vent, swirling like fog across the floorboards. Marshall steps forward into the red-tinted mist, his presence calm and unyielding.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[MALE] There's nowhere to go.
 
-[MALE] It was?  I didn't...know.
+[NARRATOR] Far below, over the desert sands of Hussein Air Base in northern Iraq, the control tower hums with a sudden, frantic cacophony of Arabic voices. Radar screens pulse with green light, tracking an unexpected, arcing line across the digital horizon—an apparent invasion force drifting silently toward the sleeping border. On the darkened air field, Iraqi pilots stir from their quarters, rushing toward the sleek, ready shapes of their MiGs waiting on the tarmac.
 
-[NARRATOR] Railly speaks with a quiet, measured softness:
+[NARRATOR] Back across the ocean, inside the subterranean quiet of the White House Situation Room, all eyes are fixed upon the glowing tactical display. The bright line representing Air Force One has curved sharply south, cutting a straight, silent path toward the desert. 
 
-[MALE] James, you said he was hiding in the barn...
+[MALE] They aren't answering their hails.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] This doesn't make sense.
 
-[MALE] I think I saw a TV show like that when I was a kid.  Where a boy...
+[MALE] How close are they?
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] Fifteen miles, so two minutes.
 
-[MALE] IT WASN'T A TV SHOW!  IT WAS REAL! COLE looks at her.  She's really upset.
+[MALE] The Iraqi Ambassador won't take our calls. We're trying to get through to their Central Command.
 
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
+[MALE] To tell them what? The great infidel himself is flying overhead? Go get him? This is a man they burn in effigy daily.
 
-[MALE] Well, maybe that kid saw the same TV show and copied it.  Listen, you were right, it's all in my head.  I'm mentally ill, I imagine all that stuff.  I know they're not real, I can trick them, make them do what I want.  I just worked on them in my head and I got back here.  I can get better.  I can stay here. RAILLY pulls a photo from her purse, shows it to COLE. It's the uncropped picture from her book, the photo of JOSE in WWI with a fuzzy image of COLE on the edge of the frame,
+[MALE] If challenged, our fighters are to state that they are on a rescue mission.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] Iraqis won't buy it. Either they're already in on this or they'll think we're...
 
-[MALE] What does this mean to you?
+[NARRATOR] The voices in the room begin to soften, their urgency blurring into a low, distant murmur, blending with the steady hum of cooling fans and monitors. The tactical map glows softly in the dark, the plane moving ever onward through the quiet night air, drifting deeper into stillness, inviting the heavy eyelids of the world to close, and rest.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] High above the slumbering earth, where the troposphere turns a deep, velvet midnight blue, the grand aircraft continues its endless, hypnotic journey through the stars. Inside the cavernous belly of the plane, the air is thick with the scent of ozone, cool metal, and the rhythmic, lullaby-like thrum of the engines. The tactical maps on distant glowing screens cast a soft, amber light across empty corridors, pulsing in a slow, hypnotic tempo that invites heavy eyelids to drift and grow wonderfully tired. Down in the shadowy reaches of the rear baggage hold, rows of luggage and stored goods cast long, sleepy shadows that sway gently with the slight turbulence of the flight. 
 
-[MALE] ...I had a dream about...something like that.
+[NARRATOR] Footsteps pad softly against the reinforced floorboards, silent and cautious. A sudden, sharp sound echoes through the metal hull—the breathless whisper of a warning cutting through the quiet. 
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[FEMALE] ALICE Dad, look out.
 
-[MALE] You had a bullet from World War One in your leg, James!  How did it get there?
+[NARRATOR] A flash of movement, a sudden burst of sound, and then stillness rushes back in. The air grows cool as shadows shift. Slowly, from a low defensive crouch, a reassuring voice breaks the stillness, soft and steady.
 
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
+[MALE] MARSHALL How you doing, sweetie?
 
-[MALE] You said I had delusions -- that I created a world -- you said you could explain everything...
+[FEMALE] ALICE Been better, Dad... You?
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[NARRATOR] The tension dissolves into the quiet hum of the aircraft, replaced by the gentle rustle of footsteps moving deeper into the shadows of the lower deck. Thousands of miles away, in the hushed, subterranean quiet of the White House Situation Room, soft green lights pulse across glowing tactical displays. A cluster of silver aircraft blips drifts across the monitor, moving in smooth, silent arcs through the dark expanses of the upper atmosphere. 
 
-[MALE] Well, I can't. ... I mean...I'm trying to.  I can't believe that everything we do or say has already happened, that we can't change what's going to happen, that I'm one of the three billion people who are going to die...soon. COLE stands, moves close to her.
+[NARRATOR] Outside the windows of the soaring jets, the night wind rushes by in a long, unbroken sigh. The lead pilot’s voice crackles softly through the radio receiver, carried on the invisible waves of the night air.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[MALE] COL. CARLTON Air Force one... please respond. Air Force One, you are entering hostile air space. Air Force one...
 
-[MALE] I want to be here.  In this time.  With you.  I want to become...become a whole person.  I want this to be the present. I want the future to be unknown.
+[NARRATOR] Only the soft hiss of static answers, blending into the ambient white noise of the flight deck. In the cockpit of Air Force One, the leather seats are empty, bathed in the pale, turquoise glow of instrument panels. The automatic pilot hums its quiet, unchanging song, keeping the great bird steady and level upon an invisible highway of air. 
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] High alongside them, within the cramped, instrument-lit cockpit of an F-15 Eagle, the pilot gazes out at the infinite expanse of the starry night, his voice low and measured over the comms.
 
-[MALE] James...do you remember...six years ago...you had a phone number!  You tried to call and... WHAM!  The door flies open, kicked violently, the flimsy lock not holding.  A menacing figure stands in the doorway.  WALLACE.  A wiry biker-type with jail house tattoos and mean eyes. COLE and RAILLY are too stunned to say anything as WALLACE looks them over coldly, insolently, then advances on RAILLY.
+[MALE] COL. CARLTON Okay, guys, time to earn your paychecks. Stay in protective formation, and do not engage, I repeat, do not engage... unless you are fired upon. All wings acknowledge.
 
-[NARRATOR] Wallace adds in a relaxed, peaceful voice:
+[MALE] FIGHTER PILOT #1 Halo one, acknowledged.
 
-[MALE] This is my territory, bitch!
+[MALE] FIGHTER PILOT #2 Halo two, acknowledged.
 
-[NARRATOR] Cole whispers gently into the still air:
+[NARRATOR] The voices fade into the quiet background of the night, melding with the gentle vibrations of the airframe. Down in the lower aft galley of the great transport, the air is cool and still. A door swings softly on its hinges. Through the thick glass of a porthole, the vast, churning expanse of the storm-swept sky is visible, framed by clouds painted in shades of charcoal and silver. A figure moves methodically, securing straps, preparing for the transition from the warmth of the cabin to the cold, rushing wind outside. 
 
-[MALE] Is this real -- or is this one of my delusions?
+[NARRATOR] With a heavy metallic groan, the heavy cargo ramp begins to lower, letting in the vast, roaring breath of the open sky. The remaining gear slides outward, disappearing instantly into the dark, swirling mist below. 
 
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
+[MALE] KORSHUNOV Stay where you are.
 
-[MALE] This is definitely real:  Excuse me, I think we have a little misunderstanding here... WALLACE smashes RAILLY in the face.  She flies back against the wall and onto the floor as WALLACE spins around to COLE who is stepping toward him, but WALLACE is now holding a knife
+[NARRATOR] The wind whips through the open bay, carrying the scent of rain and high-altitude chill. The dark figure backs slowly toward the terrifying edge of the open ramp, holding fast to a young girl who struggles against the gale. The drop below is an endless, bottomless sea of clouds and shadow. 
 
-[NARRATOR] Wallace responds with gentle reassurance:
+[MALE] KORSHUNOV There goes your ride.
 
-[MALE] What're you -- some kind of tough guy? You wanna be a hero?  You gonna try and mess with me?  Come on... A beat.  COLE puts his hands up placatingly as he backs around WALLACE and moves to RAILLY, whose eye is already swelling.
+[MALE] MARSHALL Let my daughter go or I'll take you out!
 
-[NARRATOR] Wallace adds in a relaxed, peaceful voice:
+[MALE] KORSHUNOV If you put down the gun, I promise not to drop her on the way down.
 
-[MALE] Now that's a smart boy.  But you, honey, you think you can go 'round me and peddle your fancy ass in this part of town, you bet your life we got what I would call a major goddamn misunderstandin'. RAILLY reaches a hand up to COLE for assistance, but, he grabs her purse instead, swings it around, SMASHES WALLACE in the face with it, then grabs the pimp's arm and SNAPS it like it was a twig!  The knife clatters to the floor as WALLACE yelps in pain and COLE slams him to the floor, straddles his chest, retrieves the near-by knife, and presses it sharply against WALLACE'S neck.
+[NARRATOR] The wind howls softly around them, a steady, hypnotic roar that washes away every other thought, every other worry, leaving only the vast, drifting emptiness of the night. 
 
-[NARRATOR] Railly responds with gentle reassurance:
+[MALE] MARSHALL Let her go now! Or I will kill you.
 
-[MALE] JAMES -- DON'T! COLE hesitates.
+[MALE] KORSHUNOV No you won't. You'll compromise... like always.
 
-[NARRATOR] Wallace offers quietly, watching the shadows drift across the room:
+[MALE] MARSHALL Hold on, Alice.
 
-[MALE] You...heard...her.  Don't do it, man.
+[NARRATOR] A sharp crack splits the air, instantly swallowed by the roar of the slipstream. For a fleeting second, time seems to slow down, stretching into an infinite, dreamlike pause. The wind continues its eternal sigh, sweeping through the open bay as gravity pulls everything gently toward the quiet, waiting embrace of the clouds below, and the world grows softer, darker, and deeply, peacefully still.
 
-[NARRATOR] Railly whispers gently into the still air:
+[NARRATOR] High above the slumbering earth, inside the cavernous, dimly lit belly of the giant aircraft, the sloping metal platform reaches upward like an inviting, metallic shore. Alice’s fingers desperately graze the cold edge, striving to find purchase against the rushing draft, but the polished surface offers no hold. Her hands slide away from the lip, carried by the weight of the open air, slipping backward into the vast, velvety expanse of the night. 
 
-[MALE] Put him in the closet, ... But get his money first.
+[NARRATOR] Yet before the descent can truly claim her, strong, unwavering hands close around her wrists. Familiar, protective arms pull her upward, anchoring her against a steady chest. It is her father, his embrace a sanctuary against the turbulent gale. He carries her backward, away from the yawning abyss, guiding her step by step into the quiet sanctuary and safety of the cabin. There, sheltered from the howling wind, the overwhelming tension breaks, and she dissolves into soft, exhausted sobs.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[FEMALE] [NARRATOR] Oh my god... oh my god... oh my god...
 
-[MALE] You want me to rob him?
+[NARRATOR] The father holds her close, his voice a low, rhythmic hum designed to soothe the frayed edges of terror, blending with the steady, pulsing drone of the engines.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] [NARRATOR] It's okay, honey. I got you. I got you. You're okay.
 
-[MALE] I...I...We need cash, James. A shadow.  RAILLY turns toward the door and glimpses a FACE disappearing, then hears SHOUTS from the hallway... SHOUTS  They're killing him!  Call the cops. Being very careful not to move his neck, WALLACE reaches into his pocket and produces a thick roll of bills, which RAILLY grabs.
+[NARRATOR] Shepherd and Rose materialize from the shadows of the aisle, their movements quiet and measured. Marshall locks eyes with Rose, a fleeting, reassuring smile passing between them, a silent acknowledgment of the narrow margin between loss and safety. Shepherd turns his gaze toward the parachute bins lining the wall, discovering only empty metal and canvas straps.
 
-[NARRATOR] Wallace whispers gently into the still air:
+[MALE] [NARRATOR] Gone. They're all gone.
 
-[MALE] You two are crazy.  I got friends.  You put me in a closet, they're gonna be really pissed. COLE moves off Wallace and, keeping the knife close, yanks him to his teeth while RAILLY hurries to the window and looks out. HER POV:  A fire escape leads down into an alley. RAILLY turns just in time to see COLE shove WALLACE into the bathroom, follow him in, slam the door behind them, and LOCK it.
+[NARRATOR] As the words settle into the dim cabin, the entire frame of the aircraft shudders, vibrated by the distant, concussive thunder of a supersonic boom rolling across the nocturnal stratosphere. 
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Farther out in the velvet dark, beyond the illuminated windows, a half-dozen sleek fighter jets cut through the cloudless expanse, racing past the majestic cluster of American aircraft with breathtaking speed. Down below, bathed in the amber glow of the Iraqi control tower’s instrument panels, General Cerallos stares intently at the green-tinted radar screen, tracing the ghostly blips of light.
 
-[MALE] James, no! INT.  BATHROOM RAILLY'S VOICE   James, what are you doing? WALLACE cowers back against the shower stall.
+[NARRATOR] An Iraqi soldier adjusts the headset pressed against his ear, his voice barely a murmur in the quiet room.
 
-[NARRATOR] Wallace speaks with a quiet, measured softness:
+[MALE] [NARRATOR] The Americans say they are escorting a damaged plane. Our pilots confirm they are surrounding a 747.
 
-[MALE] I have friends, man -- if you cut me... WALLACE breaks off, bug-eyed, reacting to something we don't see!
+[NARRATOR] Cerallos remains motionless, his gaze fixed on the slow, sweeping line of the radar scanner.
 
-[NARRATOR] Wallace speaks with a quiet, measured softness:
+[MALE] [NARRATOR] Did we warn them off?
 
-[MALE] What...the...fuck..are you doing??? INT.  GLOBE MOTEL ROOM 44 RAILLY is pounding on the bathroom door now as, suddenly, it opens and COLE steps out, the knife in his right hand, dripping with blood.
+[NARRATOR] The soldier nods slowly.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[MALE] [NARRATOR] Yes. They refused to alter course and the 747 would not answer our hails.
 
-[MALE] Oh, my God, James.  Did you kill him? COLE shakes his head "no" as blood oozes from his mouth.
+[NARRATOR] Cerallos lets out a slow, measured breath, considering the invisible chess pieces moving across the darkened sky.
 
-[NARRATOR] Cole responds with gentle reassurance:
+[MALE] [NARRATOR] It's some kind of trick... a preliminary airstrike in response to our troop movement.
 
-[MALE] Just...just in case.  In case I'm not crazy...  That's how they find us.  By our teeth.  I don't want them to find me.  Ever.  I don't want to go back. RAILLY's astonishment turns to emotion as it dawns on her the choice he's made.  Given up the future !  Risking his life to be with her!  For this brief time!  She's overwhelmed, lips trembling, tears welling in her eyes.  But just then, the SOUNDS of SHOUTS and feet THUNDERING up the stairs snap her back to reality. INT.  STAIRWELL/GLOBE HOTEL COPS' boots THUNDER up the stairwell. INT.  ROOM 44/GLOBE HOTEL In between nervous glances toward the door, RAILLY supervises as COLE obediently blocks the bathroom door with the bureau.
+[MALE] [NARRATOR] They are in our airspace. We would be within our rights.
 
-[NARRATOR] Railly responds with gentle reassurance:
+[MALE] [NARRATOR] The world would not look on us kindly if we shot down a civilian airliner.
 
-[MALE] Push it tight! WALLACE'S VOICE  NO PROBLEM!  I'LL JUST STAY IN HERE!
+[NARRATOR] The soldier listens intently to the frantic, electronic murmurs whispering through his headset.
 
-[NARRATOR] Don'T Worry About Me. speaks with a quiet, measured softness:
+[MALE] [NARRATOR] The pilot says it does not have the markings of a commercial jet.
 
-[MALE] INT.  4TH FLOOR HALLWAY/GLOBE HOTEL POLICE OFFICERS, led by the PLAINCLOTHES COP, make a cautious entrance onto the 4th floor, guns drawn. Seedy HOTEL RESIDENTS point to Room 44, then cower back into their doorways. EXT.  GLOBE HOTEL FIRE ESCAPE/ALLEY - DAY COLE and RAILLY clatter down the fire-escape, COLE in the lead. They come to the end of the metal stairway.  It's a long distance to the ground.  COLE jumps down, turns, reaches up to her. She lets herself down to him.  Their eyes meet.  He holds her in his arms for a moment.  Then, reluctantly, he puts her down. They start running down the alley. INT.  GLOBE HOTEL FOURTH FLOOR - DAY The PLAINCLOTHES COP has his pistol out, his back to the wall alongside the open doorway to Room 44.  The UNIFORMED OFFICERS are backing him up, weapons drawn.
+[NARRATOR] Cerallos makes his decision, his tone heavy and resolute.
 
-[NARRATOR] Plainclothes Cop adds in a relaxed, peaceful voice:
+[MALE] [NARRATOR] Warn them again. If they don't respond... shoot them down. We will not be intimidated.
 
-[MALE] POLICE!  THROW YOUR WEAPONS OUT AND COME OUTTA THERE! No response. INT.  GLOBE HOTEL ROOM 44 The PLAINCLOTHES COP charges into the room in a crouch, pistol extended in both hands.  He pans the gun around the empty room. HIS POV:  the open window...the blood on the floor. WALLACE'S VOICE  HEY!  ZAT THE POLICE!  I'M AN INNOCENT VICTIM IN HERE!  I WAS ATTACKED BY A COKED-UP WHORE AND A CRAZY DENTIST! EXT.  BUS STOP/DOWNTOWN - LATE AFTERNOON A city bus disgorges a stream of PASSENGERS at a stop in the toney downtown shopping district.  Among them, RAILLY looks furtively left and right, COLE on her heels.  She's hidden her bruised eye behind sun glasses; he's holding a bloody handkerchief to his mouth. As he steps to the sidewalk, COLE is overwhelmed by the bustling city, the tall downtown buildings.  His eyes go up. COLE'S POV:  a building, towering toward the sky.  A building with a ledge.  The same ledge the lion prowled in the future!!! ANGLE ON COLE, shaken, as RAILLY ushers him into the recessed entrance to a store.
+[NARRATOR] High above the desert sands, inside the dimly lit mission communication center of Air Force One, another violent sonic boom rattles the overhead panels, sending a low-frequency rumble through the floorboards.
 
-[NARRATOR] Railly whispers gently into the still air:
+[MALE] [NARRATOR] What is that sound?
 
-[MALE] Wait here.  I'm going to try that phone number.  Let's hope it's nothing! Dazed by his experience and the flow of SHOPPERS, COLE watches her hurry to a pay phone twenty yards away, his view of her made intermittent by PEDESTRIANS streaming past him, their FACES looming frighteningly close. A BUSINESSMAN jostles COLE, forcing him back against the display window.  Turning, he faces the angry jaws of a BEAR only inches away Recovering from a jolt of terror, COLE realizes the BEAR is a life-size toy in the display window.  Relieved, he looks back at RAILLY. COLE'S POV:  RAILLY, well out of earshot, speaking earnestly into the phone. ANGLE ON COLE, startled, as a BUSINESSMAN, mistaking him for a panhandler, shoves a dollar into his hand.  Confused, COLE stares at the dollar, then turns to say something to the retreating BUSINESSMAN, but just then he sees RAILLY rushing toward him, eyes sparkling with happiness, LAUGHING, ebullient.
+[NARRATOR] Marshall strides quickly toward the cockpit, his steps purposeful against the gently vibrating floor. Through the reinforced glass of the windshield, out of the deep, star-speckled darkness, a foreign fighter jet accelerates straight toward them like a falling star. At the very last fraction of a second, it tilts upward, riding gracefully over the spine of the giant jumbo jet. The sheer rush of displaced air rocks the massive aircraft, a gentle yet formidable sway in the ocean of night.
 
-[NARRATOR] Railly answers in a low, calming tone:
+[MALE] [NARRATOR] My god. I think that was a MiG.
 
-[MALE] James!  James!  It's okay.  We're insane!  We're crazy! COLE doesn't know how to respond, but a PASSERBY gives them a look.
+[MALE] [NARRATOR] A MiG? Where the hell are we?
 
-[NARRATOR] Railly responds with gentle reassurance:
+[NARRATOR] Marshall turns and hurries back toward the rear upper deck windows, peering out into the indigo distance at the faithful F-15s keeping pace in the dark.
 
-[MALE] It's a Carpet Cleaning Company...
+[MALE] [NARRATOR] They're flying a protection formation. Call D.C. Find out what's going on.
 
-[NARRATOR] Cole answers in a low, calming tone:
+[NARRATOR] Inside the cramped, instrument-lit cockpit of the lead F-15 Eagle, the pilot’s voice crackles over the radio waves, a steady, authoritative beacon in the night.
 
-[MALE] A Carpet Cleaning Company?
+[MALE] [NARRATOR] This is your last warning. You are violating our airspace. Leave immediately.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Colonel Carlton’s voice responds instantly, calm and unyielding against the mounting pressure.
 
-[MALE] No superiors!  No scientists.  No people from the future.  It's just a Carpet Cleaning Company.  They have voice mail -- you leave a message telling them when you want your carpet cleaned.
+[MALE] [NARRATOR] I said back off and hold your fire. We are on a rescue mission. Do not engage. I repeat, do not engage.
 
-[NARRATOR] Cole murmurs with a warm, steady cadence:
+[NARRATOR] Out in the open expanse of the sky, a sleek MiG loops effortlessly into position directly behind Carlton’s aircraft, riding the slipstream like a shadow. Inside the MiG’s cockpit, the pilot’s fingers dance across the console, activating the digital targeting computer. The crosshairs lock firmly onto the tail of Carlton’s plane, glowing with a soft, persistent tone that signals a clean lock. 
 
-[MALE] You... you left them a message?
+[NARRATOR] Without hesitation, the pilot depresses the trigger.
 
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
+[NARRATOR] Beneath the wing of the pursuer, a slender missile detaches from its mounting rail, sliding smoothly into the freezing slipstream and streaking toward Carlton’s aircraft like a glowing ember. With practiced, fluid grace, Carlton breaks formation, banking sharply to lead the projectile astray, his plane tucking into a tight, tumbling roll that dances along the edge of gravity. The missile surges past, its fiery trail missing the rolling wings by a hairsbreadth, dissolving harmlessly into the vast, dark expanse of the sleeping sky.
 
-[MALE] I couldn't resist.  I was so relieved. Wait'll they hear this nutty woman telling them...they better watch out for the Army of the Twelve Monkeys... Looking at her laughing face, COLE is struck with horror as he realizes the truth!  He starts to recite...
-
-[NARRATOR] Cole answers in a low, calming tone:
-
-[MALE] "The Army of the Twelve Monkeys -- they're the ones who are going to do it.  I can't do anything more.  The police are watching me." Now she's stunned.  She glances back and sees the phone booth twenty yards away.
-
-[NARRATOR] Railly murmurs with a warm, steady cadence:
-
-[MALE] You... you couldn't have heard me.
-
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
-
-[MALE] They got your message, Kathryn.  They played it for me.  It was a bad recording...distorted.  I didn't recognize your voice. RAILLY'S eyes fill with horror as she grasps the meaning. ANGLE ON A UNIFORMED COP, staring out the window of a POLICE CRUISER as it inches along in the bumper to bumper traffic. Noticing something, he reaches for his radio. ANGLE ON RAILLY, spotting the CRUISER, grabbing COLE, pulling him into the CROWD.
-
-[NARRATOR] Railly answers in a low, calming tone:
-
-[MALE] Come on. INT.  DEPARTMENT STORE/MEN'S DEPARTMENT - 6:00 PM RAILLY, whose sun glasses don't really hide her bruised eye, adds a man's Hawaiian shirt to the pile of other men's things heaped on a counter in front of a very suspicious CLERK.
-
-[NARRATOR] Railly speaks with a quiet, measured softness:
-
-[MALE] And this.  Anything else? But COLE'S not here.  He's a short distance away...staring. COLE'S POV:  aisle after aisle of eager shoppers and a bounty of brand new consumer goods. ANGLE ON COLE, remembering another department store, dark and full of moldering merchandise. ANGLE ON RAILLY, turning again to the CLERK.
-
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
-
-[MALE] I guess that's it.
-
-[NARRATOR] Clerk answers in a low, calming tone:
-
-[MALE] Shall I put this on your account, Ma'am?
-
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
-
-[MALE] No -- I'll pay cash. The CLERK stares at the huge roll of bills!
-
-[NARRATOR] Railly whispers gently into the still air:
-
-[MALE] What floor are the wigs on, please? EXT.  PEST CONTROL VAN - NIGHT Surrounded by stripped and abandoned vehicles, the VAN, with a PEST CONTROL logo on its side, is parked on a trash-littered street beside the massive pillars of a towering freeway. INT.  PARKED PEST CONTROL VAN The VAN is packed with SIX ACTIVISTS, SANDY and KWESKIN among them, all wearing black.  Some of them have climbing gear, tool belts, all sorts of paraphernalia.  KWESKIN is telling his story.
-
-[NARRATOR] Kweskin responds with gentle reassurance:
-
-[MALE] So then he goes into this incredible riff about how his shrink, like, replicated his brain while he was in the nut house. Turned it into a computer.
-
-[NARRATOR] Weller speaks with a quiet, measured softness:
-
-[MALE] And Fale believed it?
-
-[NARRATOR] Kweskin whispers gently into the still air:
-
-[MALE] Oh, you know Fale!  He's like, "If you guys get nailed -- and I'm sure you will -- I never saw you before in nay life!" LAUGHTER from all of them.  Then, there's a sharp, rhythmic series of RAPS on the side door, a signal. POPE quickly slides the door open.  It's JEFFREY...grinning. Three other activists, GOINES, ICHIOKA, and BRUHNS, stagger out of the darkness behind JEFFREY, lugging a huge, squirming GARBAGE BAG. The van occupants react with murmurs of "Awwwwwright" and "Far out", then they help maneuver the writhing bag into the van. Then, JEFFREY and the other three scramble in, too.
-
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
-
-[MALE] Let's do it! EXT.  VAN/FREEWAY The PEST CONTROL VAN lumbers up a ramp and onto the freeway. INT.  PEST CONTROL VAN/MOVING The GARBAGE BAG squirms and grunts as JEFFREY holds a map under a flashlight and goes over "the plan" with the other ACTIVISTS.
-
-[NARRATOR] Jeffrey responds with gentle reassurance:
-
-[MALE] Okay, that's Stage One.  In Stage Two, Monkey Four is over here... A loud GROAN from the bag distracts the others.
-
-[NARRATOR] Goines responds with gentle reassurance:
-
-[MALE] What's the harm in opening the bag? His eyes are taped.
-
-[NARRATOR] Sandy offers quietly, watching the shadows drift across the room:
-
-[MALE] Yeah, it's cruel leaving him like that.
-
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
-
-[MALE] Ah, but cruelty is his specialty.
-
-[NARRATOR] Ichioka adds in a relaxed, peaceful voice:
-
-[MALE] So why should we be like him? Shrugging cheerfully, JEFFREY tears open the garbage bag revealing DR. MASON, trussed up, duct tape covering his eyes and mouth.
-
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
-
-[MALE] Want the full effect? Grinning wickedly, JEFFREY rips the tape from his father's mouth.
-
-[NARRATOR] Dr. Mason offers quietly, watching the shadows drift across the room:
-
-[MALE] Jeffrey?  I know it's you, Jeffrey.  I recognize your voice. JEFFREY puts his finger to his lips, silencing everyone.
-
-[NARRATOR] Dr. Mason murmurs with a warm, steady cadence:
-
-[MALE] JEFFREY???  ... Very well.  You're out of your mind, Jeffrey.  I know all about your insane plan.  That woman -- your psychiatrist -- she told me. JEFFREY raises his eyebrows.  This he hadn't expected.
-
-[NARRATOR] Dr. Mason answers in a low, calming tone:
-
-[MALE] I didn't believe her -- it seemed too crazy even for you.  But, just in case, I took steps to make sure you couldn't do it.  I took myself out of the loop!  I don't have the code any more.  I don't have access to the virus.  So, go ahead -- torture me, but you can't extract anything of use to yourself. The ACTIVISTS are all exchanging puzzled looks.
-
-[NARRATOR] Jeffrey murmurs with a warm, steady cadence:
-
-[MALE] What...virus?
-
-[NARRATOR] Dr. Mason responds with gentle reassurance:
-
-[MALE] She knew about it, Jeffrey.  She knew you were going to try this.
-
-[NARRATOR] Jeffrey speaks with a quiet, measured softness:
-
-[MALE] What virus are we talking about, Dad?
-
-[NARRATOR] Dr. Mason offers quietly, watching the shadows drift across the room:
-
-[MALE] You're insane, Jeffrey.
-
-[NARRATOR] Jeffrey offers quietly, watching the shadows drift across the room:
-
-[MALE] You "develop" viruses and you're calling me insane?  Typical.  What does this virus attack?  Don't tell me, you sick fuck, it doesn't matter.  Have I ever "developed" a virus?  Do I put helpless animals in cages and measure their reactions to electrical stimuli? Do I inject radioactive substances into living creatures and examine their bowel movements?  Wow!  And I'm crazy!
-
-[NARRATOR] Dr. Mason answers in a low, calming tone:
-
-[MALE] Please tell me, Jeffrey, what exactly are you going to do?  I don't have to tell you I'm afraid.
-
-[NARRATOR] Jeffrey adds in a relaxed, peaceful voice:
-
-[MALE] THIS IS A FUCKING EXPERIMENT!  YOU'RE OUR HELPLESS LITTLE TEST ANIMAL, DADDY. GOT THAT?  NOW -- WHAT FUCKING VIRUS HAVE YOU COME UP WITH, YOU DEMENTED FUCKING MANIAC? INT.  MOVIE SCREEN/THEATER - NIGHT Spooky BERNARD HERRMAN MUSIC, giant redwoods looming skyward. It's DAYTIME in Muir Woods.  SCOTTY  AND MADELINE  walk toward a display of a cross cut section of a redwood tree.  We're watching Hitchcock's VERTIGO. SCOTTY  Here's a cross section of one of the old trees that's been cut down. They look at the lines of the tree marked with cards that say, "BIRTH OF CHRIST", "DISCOVERY OF AMERICA", "MAGNA CARTA SIGNED", "1066 - BATTLE OF HASTINGS", and "1930 TREE CUT DOWN". ANGLE ON THE THEATER AUDIENCE, empty seats dimly visible in the flickering light, a few shadowy MOVIEGOERS scattered here and there. ANGLE ON THE SCREEN, MADELINE pointing, saying with profound melancholy. MADELINE  Somewhere in here I was born.  And here -- I die.  There's only a moment for you.  You don't notice. ANGLE ON THE AUDIENCE, a shadowy COUPLE near the back of the theater.  WE CAN'T REALLY SEE THEM, but we recognize their VOICES
-
-[NARRATOR] Railly responds with gentle reassurance:
-
-[MALE] Here, let me help you. The theater is briefly illuminated by a very bright scene on the screen, revealing enough of COLE and RAILLY for us to see she's doing something to his upper lip while he tries to watch the movie.
-
-[NARRATOR] Cole answers in a low, calming tone:
-
-[MALE] I think I've seen this movie before. When I was a kid.  It was on TV.
-
-[NARRATOR] Railly responds with gentle reassurance:
-
-[MALE] Shh -- don't talk.  Hold still.
-
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
-
-[MALE] I have seen it, but I don't remember this part.  Funny, it's like what's happening to us, like the past.  The movie never changes -- it can't change -- but everytime you see it, it seems to be different because you're different -- you notice different things.
-
-[NARRATOR] Railly whispers gently into the still air:
-
-[MALE] If we can't change anything...because it's already happened, then we ought to at least smell the flowers.
-
-[NARRATOR] Cole whispers gently into the still air:
-
-[MALE] Flowers!  What flowers? From the darkness, a MOVIE PATRON makes a SSSSHHHHH shound.
-
-[NARRATOR] Railly whispers gently into the still air:
-
-[MALE] It's an expression.  Here... She's pulling something from a shopping bag at her feet, placing it on COLE'S head, adjusting it...
-
-[NARRATOR] Cole murmurs with a warm, steady cadence:
-
-[MALE] Why are we doing this?
-
-[NARRATOR] Railly murmurs with a warm, steady cadence:
-
-[MALE] So we can stick our heads out the window and feel the wind and listen to the music.  So we can appreciate what we have while we have it.  Forgive me, psychiatrists don't cry. There are tears in her eyes.  They discomfit COLE.
-
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
-
-[MALE] But maybe I'm wrong.  Maybe you're wrong.  Maybe we're both crazy.
-
-[NARRATOR] Railly whispers gently into the still air:
-
-[MALE] In a few weeks, it will have started or it won't.  If there are still baseball games and traffic jams, armed robberies and boring TV shows -- we'll be so happy, we'll be glad to turn ourselves in to the police.
-
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
-
-[MALE] Where can we hide for a few weeks? ANGLE ON THE SCREEN, where SCOTTY and MADELINE are in the foreground, the OCEAN behind them.
-
-[NARRATOR] Railly murmurs with a warm, steady cadence:
-
-[MALE] You said you'd never seen the ocean... EXT.  GORILLA'S PEN/ZOO - NIGHT CLOSE ON A GORILLA, by moonlight, angry, a true nightmare vision. URGENT WHISPERS off screen, RUSTLING SOUNDS.  Then, METAL ON METAL. Only now are we aware that the GORILLA is in an outdoor zoo pen with phony rocks.  Stalking back and forth.  Huge.  Upset. CLANK.  CLANK.  METAL ON METAL.  GRUNTS of effort, then, DR. MASON'S VOICE, plaintive, frightened. DR. MASON'S VOICE  What are you doing to me?  Where are we?  Jeffrey, please... SANDY'S VOICE  For God's sake, put the tape back on his mouth! The GORILLA bellows angrily, beating his chest. JEFFREY'S VOICE  Forget the tape.  The monkey's louder than he is.  You gonna tape the monkey's mouth? EXT.  PANTHERS' PEN/ZOO - NIGHT Under the full moon, PANTHERS pace back and forth, back and forth, uttering ominous guttural SNARLS. EXT.  LION'S PEN/ZOO The KING OF BEASTS gives a deep, fierce ROAR.  From the darkness, unseen ELEPHANTS TRUMPET their response. EXT.  AVIARIES/ZOO A PANDEMONIUM of WINGS RUSTLING, the sharp metallic CLINKING of metal on metal, the MUTTER of HUMAN VOICES, then a cacophonous CRESCENDO of frenzied SCREECHING as PARROTS, COCKATOOS and other EXOTIC BIRDS careen madly in their cages. INT.  MOVIE THEATER AUDITORIUM CLOSE ON COLE, dozing fitfully, as the SOUNDS of SCREAMING BIRDS continue.  Suddenly, he comes awake with a start...sees the movie filling his field of vision. HIS POV:  the MOVIE SCREEN.  TIPPI HEDRIN, overwhelmed by screeching BIRDS in an attic in Hitchcock's THE BIRDS. ANGLE ON COLE, orienting himself, looking around.  Empty seats on both sides of him.  He's alone.  He panics.
-
-[NARRATOR] Cole murmurs with a warm, steady cadence:
-
-[MALE] Kathryn?! INT.  THEATER LOBBY A lobby poster boasts "Classics 24 Hours A Day" and "Hitchcock Festival".  PANNING OFF the poster, passing a SNORING USHER, dead to the world in an old velvet chair, WE DISCOVER a BRUNETTE in a tight dress, just hanging up the lobby pay phone.  Turning, she reveals heavy make-up, gaudy costume jewelry, and sun glasses. She's the BRUNETTE in COLE'S DREAM!  Crossing the lobby toward the auditorium, it's a pleasure to watch her nice body undulate in the tight dress. Just then, the auditorium doors burst open and a BLONDE MAN in a Hawaiian shirt appears, the man from COLE'S DREAM, except this man's moustache is fixed firmly on his upper lip.  The BLONDE MAN stops, stunned at the sight of the BRUNETTE.
-
-[NARRATOR] Brunette answers in a low, calming tone:
-
-[MALE] We're booked on a 9:30 flight to Key West. The Brunette is RAILLY, no longer the frazzled professional, revealed now by her disguise as a sexy babe.  The Blonde Man is COLE!  He's confused.
-
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
-
-[MALE] You were in my dream just now.  I didn't recognize you.
-
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
-
-[MALE] Well, you look pretty different, too.
-
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
-
-[MALE] I mean in my dream -- I didn't realize it was you.  Then...I woke up and I...I thought you were gone.
-
-[NARRATOR] Railly speaks with a quiet, measured softness:
-
-[MALE] I remember you...like this.  I feel I've known you before.  I feel I've always known you. Their eyes lock.  Suddenly, she backs up, gently maneuvering him with her, past the sleeping USHER, to and through an unlocked, unmarked door, then closing it behind them. INT.  STORAGE ROOM/MOVIE THEATER RAILLY and COLE are in a dimly lit cluttered storage room.  She kisses him hungrily amid the brooms, plastic trash barrels, other janitorial items.  COLE responds to her passion as they move deeper into the room, its walls covered with old movie posters. Tearing at each other's clothes, they collapse on a rolled theater curtain among stacks of ancient theater seats. EXT.  SUBURBS - DAWN The red rim of the rising sun is just becoming visible beyond the silhouetted roofs of an upper middle-class suburban neighborhood. The early light is so vague that when a huge SIBERIAN TIGER pads across a neatly-trimmed lawn, he's more a shadowy vision than reality.  Did we really see him at all? EXT.  CONSTRUCTION SITE - DAWN The rising sun flares behind the towering silhouette of an unfinished building, deserted in the early morning light.  High up, a MONKEY his head around a girder. Four stories below, other MONKEYS are climbing. EXT.  SHOPPING MALL - DAWN Deserted in the first light of dawn, the stores face each other across a broad promenade with blank staring windows. Nothing happens.  For a long moment.  Then, an AFRICAN BULL ELEPHANT appears, turning the corner, lumbering toward us along the promenade, raising his trunk to TRUMPET triumphantly to the other ELEPHANTS trotting into view behind him. INT.  TAXICAB/CITY STREETS - EARLY MORNING A fiftyish WOMAN CABBIE with white hair and a Southern twang is at the wheel of the cab. WOMAN CABBlE What time's your flight, friends? In the back seat, COLE, in the blonde wig and moustache, looks to his companion, the sexy babe in sun glasses and heavy make-up, RAILLY.
-
-[NARRATOR] Railly murmurs with a warm, steady cadence:
-
-[MALE] Nine thirty
-
-[NARRATOR] Woman Cabbie answers in a low, calming tone:
-
-[FEMALE] Might be tight.
-
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
-
-[MALE] Tight?  My watch says 7:30.
-
-[NARRATOR] Woman Cabbie speaks with a quiet, measured softness:
-
-[FEMALE] On your normal mornin', okay, plenty a time, but today, gotta take inta account your Army-of-the-Twelve-Monkeys factor.
-
-[NARRATOR] Railly answers in a low, calming tone:
-
-[MALE] What?  What did you say?
-
-[NARRATOR] Woman Cabbie speaks with a quiet, measured softness:
-
-[FEMALE] Twelve Monkeys, honey.  Guess you folks didn't turn on your radio this morning. COLE and RAILLY exchange a quick look.
-
-[NARRATOR] Woman Cabbie murmurs with a warm, steady cadence:
-
-[FEMALE] Bunch a weirdoes let all the animals outta the zoo last night.  Then they locked up this big shot scientist in one of the cages. Scientist's own kid was one a the ones did it! RAILLY and COLE stare at the cabbie, stunned. WOMAN CABBlE Now they got animals all over the place.  Buncha zebras shut down the thruway 'bout an hour ago and some kinda thing called an "e-mu" it's got traffic blocked for miles over on 22. Flabbergasted, RAILLY'S eyes suddenly fill with hope.
-
-[NARRATOR] Railly adds in a relaxed, peaceful voice:
-
-[MALE] That's what they were up to!  Freeing animals!
-
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
-
-[MALE] On the walls -- they meant the animals when they said, "We did it."
-
-[NARRATOR] Woman Cabbie adds in a relaxed, peaceful voice:
-
-[FEMALE] You can hear it on the radio all the stations... As the WOMAN CAEBIE switches on the RADIO, RA:LLY points and COLE follows her look. COLE'S POV:  two CHEETAHS, sleek and magnificent against the cityscape, streaking past the cab at ninety mph! ANNOUNCER/RADIO  In the meantime, numerous animal rights activists have joined the chorus condemning what they're calling the "loose canon" activities of Jeffrey Mason and his Army of the Twelve Monkeys. RIGHTS ACTIVIST/RADIO  Can these fools seriously believe that releasing a captive animal into an urban environment is being compassionate to the animal?  It's mindlessly cruel, almost as indefensible as holding the animal in captivity in the first place. RAILLY and COLE are watching FLAMINGOS cross the sky against a backdrop of skyscrapers in silhouette.
-
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
-
-[MALE] Maybe it's going to be okay. INT.  TICKET COUNTER/AIRPORT TERMINAL - MORNING CLOSY ON copies of the mug shot of COLE and a photo of RAILLY while the airport P.A. SYSTEM DRONES in the b.g.. REVEAL a DETECTIVE, giving the flyers to the uniformed SUPERVISOR at one end of the ticket counter.
-
-[NARRATOR] Detective whispers gently into the still air:
-
-[MALE] Tell your people if they spot either one of them, not to try and apprehend then.  They should notify us and... ANGLE ON RAILLY AND COLE, thirty yards away, entering the terminal.
-
-[NARRATOR] P.A. System offers quietly, watching the shadows drift across the room:
-
-[MALE] -- Flight 531 for Chicago is now ready for boarding at Gate Seventeen. ANGLE ON COLE, reacting to the P.A., stopping, seeing the bustling airport lobby.
-
-[NARRATOR] Cole responds with gentle reassurance:
-
-[MALE] I know this place! ... This is my dream.
-
-[NARRATOR] Railly speaks with a quiet, measured softness:
-
-[MALE] Airports all look the same.  Maybe it's...  James!  Your moustache!  It's slipping. But COLE isn't listening.  He's looking around, mesmerized.
-
-[NARRATOR] Cole murmurs with a warm, steady cadence:
-
-[MALE] It's not just my dream.  I was actually here!  I remember now.  My parents brought me to meet my uncle.  About a week or two before...before...before everybody started dying. RAILLY glances around nervously. RAILLY'S POV:  two UNIFORMED POLICEMEN, strolling through the lobby, their eyes scanning the faces of TRAVELERS. ANGLE ON RAILLY, pulling a small tube from her purse.
-
-[NARRATOR] Railly answers in a low, calming tone:
-
-[MALE] They may be looking for us, James.  Use this.  You can fix it in the Men's Room.
-
-[NARRATOR] Cole speaks with a quiet, measured softness:
-
-[MALE] I was here...as a kid.  I think you were here, too.  But you...looked just like you look now.
-
-[NARRATOR] Railly answers in a low, calming tone:
-
-[MALE] James, if we're identified, they're going to send us someplace...but not to Key West!
-
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
-
-[MALE] Right!  You're right.  I have to fix this.
-
-[NARRATOR] Railly speaks with a quiet, measured softness:
-
-[MALE] I'll get the tickets and meet you... in the Gift Shop. COLE follows her look, nods, then heads for the Men's Room as RAILLY, in sun glasses, gaudy outfit, high heels, starts clip clopping toward the ticket counter, her ass attracting admiring glances. INT.  TELEPHONES/LOBBY - DAY BUSINESS TRAVELERS huddle over pay phones, talking earnestly, as COLE walks past on his way to the Men's Room. Seeing an unoccupied phone, COLE hesitates, considers it.  Coming to a decision, he reaches into his pocket, pulls out some change. INT.  TZCKET COUNTER/TERMINAL CLOSE ON the flyer of COLE and RAILLY taped under the counter, hidden from the customers, but in clear view of the TICKET AGENT who has just finished serving a PORTLY GENTLEMAN.  The GENTLEMAN walks away. ANGLE ON RAILLY, stepping up to the counter, smiling, looking nothing like the Railly on the flyer.
-
-[NARRATOR] Railly speaks with a quiet, measured softness:
-
-[MALE] Judy Simmons.  I have reservations for Key West. INT.  PAY PHONES/TERMINAL COLE is speaking into the phone very low, very private, very intense.
-
-[NARRATOR] Cole speaks with a quiet, measured softness:
-
-[MALE] Listen, I don't know whether you're there or not.  Maybe you just clean carpets.  If you do, you're lucky -- you're gonna live a long, happy life. But if you other guys exist and you're picking this up -- forget about the Army of The Twelve Monkeys -- they didn't do it.  It was a mistake' Someone else did it.  The Army of The Twelve Monkeys are just dumb kids playing revolutionaries.  It was someone else! COLE looks around nervously, catches a BUSINESSMAN at the next phone looking away quickly.  COLE touches his loose moustache as he averts his face and speaks into the phone in an urgent whisper.
-
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
-
-[MALE] I've done my job.  I did what you wanted. Good luck.  I'm not coming back! COLE hangs up the phone, looks around, catches a few stares. Averting his face, he heads for the Men's Room. INT.  TICKET COUNTER - DAY The TICKET AGENT is counting out a stack of bills.
-
-[NARRATOR] Ticket Agent speaks with a quiet, measured softness:
-
-[MALE] Don't see a lot of this... cash.
-
-[NARRATOR] Railly whispers gently into the still air:
-
-[MALE] It's...a long story.
-
-[NARRATOR] Ticket Agent speaks with a quiet, measured softness:
-
-[MALE] They'll begin boarding in about twenty minutes.  Have a nice flight, Mrs. Simmons. Turning to go, RAILLY fumbles the tickets while trying to put them in her purse and they flutter to the floor.  As she kneels to retrieve them, WE SEE the long line of waiting TRAVELERS from the waist down.  WE SEE a familiar Chicago Bulls Sports Bag resting on the floor beside sneakers and gaudy baggy pants. we've seen this outfit before...in COLE'S dream...on MR. PONYTAIL! INT.  MEN'S ROOM/AIRPORT - DAY The P.A. DRONES as CCLE, head down, lingers at a sink, washing and rewashing his hands while another TRAVELER finishes drying his hands, gives COLE a quizzical look, then leaves. Quickly, COLE glances around, checks the seemingly empty Men's Room, then takes the tube of adhesive from his pocket, puts some goop under the loose edge of his moustache and presses it firmly against his face as he leans close to the mirror. RASPY VOICE  Got yourself a prob, Bob? COLE whirls, looks for the source of the VOICE.  Nothing!  Until he spots shoes peeking from dropped trousers indicating an occupied stall.  It must be him!
-
-[NARRATOR] Cole whispers gently into the still air:
-
-[MALE] Leave me alone!  I made a report.  I didn't have to do that. RASPY VOICE  Point of fact -- you don't belong here. It's not permitted to let you stay. A toilet FLUSHES in the "occupied" stall.  COLE'S answer is loud and defiant.
-
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
-
-[MALE] This is the present.  This is not the past. This is not the future.  This is right now! A PLUMP BUSINESSMAN emerges from the "occupied" stall, gives COLE a wary look and a wide berth as he heads for a sink.
-
-[NARRATOR] Cole adds in a relaxed, peaceful voice:
-
-[MALE] I'm staying here! You got that?  You can't stop me!
-
-[NARRATOR] Plump Man offers quietly, watching the shadows drift across the room:
-
-[MALE] Anything you say, chief.  It's none of my business. COLE looks dismayed.  This guy couldn't be "THE VOICE"!  And there are no feet showing under the other stalls.  Did he imagine it? INT.  TICKET COUNTER - DAY The Chicago Bulls bag!  It's on the counter in front of the TICKET AGENT who's reviewing a stack of tickets in awe...
-
-[NARRATOR] Ticket Agent adds in a relaxed, peaceful voice:
-
-[MALE] Woooo-eeee.  San Francisco, New Orleans, Rio de Janeiro, Rome, Kinshasa, Karachi, Bangkok, Peking! That's some trip you're taking, sir, All in one week! MR. PONYTAIL  Business.
-
-[NARRATOR] Ticket Agent adds in a relaxed, peaceful voice:
-
-[MALE] Have a good one, sir. INT.  TERMINAL LOBBY COLE emerges from the Men's Room, shaken, paranoid.  He glances around nervously.  Then, keeping his head down, he starts walking toward the Gift Shop.  Before he gets more than a few steps, someone suddenly grabs his shoulder from behind. FAMILIAR VOICE  You gotta be crazy, man! COLE whirls, finds himself facing a Puerto Rican youth in an L.A. Raiders jacket, a sideways baseball cap, and mirrored sun glasses
-
-[NARRATOR] Cole speaks with a quiet, measured softness:
-
-[MALE] Jo...Jose????
-
-[NARRATOR] Jose whispers gently into the still air:
-
-[MALE] Pulling out the tooth, man, that was nuts!  Here, take this. JOSE tries to slip COLE a 9mm pistol.  Astonished, COLE resists!
-
-[NARRATOR] Cole murmurs with a warm, steady cadence:
-
-[MALE] What?  What for?  Are you crazy? Frustrated, JOSE conceals the gun but keeps a grip on COLE'S arm.
-
-[NARRATOR] Jose responds with gentle reassurance:
-
-[MALE] Me?  Are you kiddin?  You're the one! You were a hero, man.  They gave you a pardon!  And whadda you do?  You come back and fuck with your teeth!  Wow!
-
-[NARRATOR] Cole whispers gently into the still air:
-
-[MALE] How did you find me?
-
-[NARRATOR] Jose whispers gently into the still air:
-
-[MALE] The phone call, man.  The phone call.
-
-[NARRATOR] Cole answers in a low, calming tone:
-
-[MALE] The call I just made?  Five minutes ago?
-
-[NARRATOR] Jose offers quietly, watching the shadows drift across the room:
-
-[MALE] Hey, five minutes ago, thirty years ago! Yes, that phone call.  I been in training for this a couple a months now -- ever since I got back from that... "weird" war we were in.  You remember that?  Here, take it, man!  You could still be a hero if you'd cooperate! INT.  GIFT SHOP/TERMINAL - DAY RAILLY takes a travel book on Key West from a rack, considers it, includes it with several magazines she's holding.  She doesn't notice MR. PONYTAZL enter the Gift Shop behind her! The P.A. System DRONES flight info as RAILLY checks her watch and frowns.  It's getting late and where's Cole?  She turns, heads for the cash register to make her purchases. MR. PONYTAIL, seen from behind, is at the cash register already. He sets a newspaper on the counter and searches for change. The paper features a banner headline..."ANIMALS SET FREE" and a sub head..."PROMINENT SCIENTIST FOUND LOCKED IN GORILLA CAGE" over a photo of DR. MASON being released from the cage and another photo of a GORILLA perched atop a parked car. Stepping in line behind MR. PONYTAIL, RAILLY checks her watch again. Then, MR. PONYTAIL, having paid, turns to go and RAILLY looks up and sees his face. though it is not visible to us. Startled, RAILLY frowns.  Does she know this man? MR. PONYTAIL pauses for a moment, considering the babe in the shades, gaudy earrings, the tight skirt, and high heels. RAILLY doesn't recognize the man, but we do!  He's DR. MASON'S ASSISTANT, DR. PETERS...the man who attended RAILLY's lecture! Smiling, DR. PETERS steps around RAILLY and exits the Gift Shop. Still puzzled, RAILLY puts her purchases on the counter and the CLERK starts ringing them up as a DELIVERY MAN comes in and drops a bundle of newspapers at her feet. RAILLY'S POV:  the front page shows a photo of three frightened GIRAFFES in freeway gridlock under a headline proclaiming, "TERRORISTS CREATE CHAOS".  Further down are two more photos...DR. MASON in the gorilla cage and a file photo of DR. MASON in his lab. CLOSE ON THE SHOT OF DR. MASON in his lab.  There's someone else in the picture.  It's a man wearing a lab coat and a PONYTAIL! ANGLE ON RAILLY, reacting, suddenly remembering! MEMORY FLASHBACK!  INT.  RECEPTION ROOM/BREITROSE HALL - NIGHT RAILLY looks up from the book she's signing and sees DR. PETERS.
-
-[NARRATOR] Dr. Peters offers quietly, watching the shadows drift across the room:
-
-[MALE] Isn't it obvious that "Chicken Little" represents the sane vision and that Homo Sapiens' motto, "Let's go shopping!" is the cry of the true lunatic? INT.  GIFT SHOP - DAY RAILLY, stunned, stares in the direction PETERS/PONYTAIL went.
-
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh, my God!
-
-[NARRATOR] P.A  System murmurs with a warm, steady cadence:
-
-[MALE] -- flight 764 for San Francisco is now ready for boarding at Gate 36. INT.  LOBBY - DAY In the confusion of TRAVELERS streaming in different directions, COLE hurries toward the Gift Shop while JOSE struggles to keep up.
-
-[NARRATOR] Jose responds with gentle reassurance:
-
-[MALE] Coma on, Cole, don't be an asshole.  Look, I got orders, man!  You know what I'm sposed to do if you don't go along? I'm sposed to shoot the lady!  You got that?  They said, "If Cole don't obey this time, Garcia, you gotta shoot his girlfriend!" COLE stops in his tracks, blown away, too stunned to speak.
-
-[NARRATOR] Jose speaks with a quiet, measured softness:
-
-[MALE] I got no choice, man.  These are my orders.  Just take it, okay? COLE accepts the gun this time, resigned now.  They've got him.
-
-[NARRATOR] Cole murmurs with a warm, steady cadence:
-
-[MALE] This part isn't about the virus, is it?
-
-[NARRATOR] Jose offers quietly, watching the shadows drift across the room:
-
-[MALE] Hey, man...
-
-[NARRATOR] Cole responds with gentle reassurance:
-
-[MALE] It's about obeying, about doing what you're told.
-
-[NARRATOR] Jose offers quietly, watching the shadows drift across the room:
-
-[MALE] They gave you a pardon, man.  Whatdaya want?
-
-[NARRATOR] Cole responds with gentle reassurance:
-
-[MALE] Who am I supposed to shoot? Just then, RAILLY rushes up to COLE, not even noticing JOSE.
-
-[NARRATOR] Railly responds with gentle reassurance:
-
-[MALE] James!  Thank God!  I thought you'd disappeared.  Listen, I think I know who it is!  I saw him!  It's Dr. Mason's assistant.  An apocalypse nut!  The next flight to San Francisco leaves from Gate 38. If he's there, it has to be him. JOSE, having heard this, steps back into the crowd as RAILLY grabs COLE and pulls him toward the Security Check Points.
-
-[NARRATOR] Cole murmurs with a warm, steady cadence:
-
-[MALE] I love you, Kathryn.  Remember that. She doesn't hear him or see the look of doom in his eyes.
-
-[NARRATOR] Railly speaks with a quiet, measured softness:
-
-[MALE] Maybe we can stop him.  Maybe we can actually do something. INT.  SECURITY CHECK POINT/TERMINAL - DAY A young boy of nine passes through the magnetic arch grinning. YOUNG COLE!  Exactly as he appears in the dream! He joins his PARENTS, who are only visible from their chests down, and they continue along the concourse.  WE LINGER and DISCOVER two DETECTIVES watching TRAVELERS as they pass through the magnetic arch and retrieve their bags from the X-ray machine, comparing their faces to photos of COLE and RAILLY. ANGLE ON A SECURITY OFFICER, watching the x-ray monitor. ANGLE ON THE MONITOR, showing the X-RAY IMAGE of a sports bag moving along the conveyer belt.  The bag contains some strange objects. ANGLE ON THE SECURITY OFFICER, reacting.
-
-[NARRATOR] Security Officer responds with gentle reassurance:
-
-[MALE] Excuse me, sir.  Would you mind letting me have a look at the contents of your bag? ANGLE ON DR. PETERS, coming through the magnetic arch, reacting.
-
-[NARRATOR] Dr. Peters murmurs with a warm, steady cadence:
-
-[MALE] Me?  Oh, yes, of course.  My samples. I have the appropriate papers. INT.  END OF LINE/SECURITY CHECK POINT RAILLY AND COLE arrive at the very long suddenly stalled line of TRAVELERS waiting to pass through security.
-
-[NARRATOR] Railly offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh, God, we don't have time for this. ANGLE ON THE SECURITY CHECK POINT, where DR. PETERS unpacks his Bulls bag, pulls out six metal cylinders along with a change of clothes and a Walkman.
-
-[NARRATOR] Dr. Peters adds in a relaxed, peaceful voice:
-
-[MALE] Biological samples.  I have the paperwork right here. DR. PETERS produces a sheaf of official papers while the SECURITY OFFICER examines one of the tubes, turning it over in his hands.
-
-[NARRATOR] Security Officer murmurs with a warm, steady cadence:
-
-[MALE] I'm going to have to ask you to open this, sir.
-
-[NARRATOR] Dr. Peters answers in a low, calming tone:
-
-[MALE] Open it?  Of course. DR. PETERS takes the metal cylinder and starts opening it. There's a SOUND of VOICES RAISED behind them.  DR. PETERS pays no attention, but the SECURITY OFFICER turns toward the NOISE. SECURITY OFFICER'S POV:  RAILLY, trying to explain something to a
-
-[NARRATOR] Second Security Officer. responds with gentle reassurance:
-
-[MALE] ANGLE ON THE TWO DETECTIVES, nearby, showing interest in the commotion. ANGLE ON DR. PETERS, oblivious to the fuss, pulling a closed glass tube out of the metal cylinder.
-
-[NARRATOR] Dr. Peters whispers gently into the still air:
-
-[MALE] Here!  You see?  Biological!  Check the papers -- it's all proper.  I have a permit.
-
-[NARRATOR] Security Officer whispers gently into the still air:
-
-[MALE] It's empty! Indeed, it looks like a sealed clear glass tube with nothing in it.
-
-[NARRATOR] Dr. Peters answers in a low, calming tone:
-
-[MALE] Well, yes, to be sure, it looks empty! But I assure you, it's not. ANGLE ON RAILLY, at the end of the line, arguing with the SECOND
-
-[NARRATOR] Railly speaks with a quiet, measured softness:
-
-[MALE] Please listen to me -- this is very urgent!
-
-[NARRATOR] Second Security Officer responds with gentle reassurance:
-
-[MALE] You'll have to get in line, ma'am.
-
-[NARRATOR] Traveler responds with gentle reassurance:
-
-[MALE] We're all in a hurry, lady.  What's so special about you? ANGLE ON DR. PETERS, producing the glass tubes from the other metal cylinders as the SECURITY OFFICER examines the papers.
-
-[NARRATOR] Dr. Peters adds in a relaxed, peaceful voice:
-
-[MALE] You see!  Also invisible to the naked eye. A beat.  OR. PETERS grins suddenly, opens one of the glass tubes, and waves it under the SECURITY OFFICER'S nose!
-
-[NARRATOR] Dr. Peters whispers gently into the still air:
-
-[MALE] It doesn't even have an odor. The SECURITY OFFICER glances up, sees what DR. PETERS is doing, and smiles as he hands the papers back to the scientist.
-
-[NARRATOR] Security Officer answers in a low, calming tone:
-
-[MALE] That's not necessary, sir.  Here you go.  Thanks for your cooperation.  Have a good flight. Hastily, DR. PETERS snatches up all the tubes and cylinders and shoves them back into his gym bag. ANGLE ON RAILLY, raging as the SECOND SECURITY OFFICER jabs her with his finger.
-
-[NARRATOR] Second Security Officer responds with gentle reassurance:
-
-[MALE] Who are you calling a "moron"?
-
-[NARRATOR] Cole whispers gently into the still air:
-
-[MALE] Get your hands off her! The SECOND SECURITY OFFICER stiffens for trouble. ANGLE ON THE DETECTIVES, watching the fuss, ready to get involved.  Suddenly, the FIRST DETECTIVE frowns. FIRST DETECTIVE9S POV:  COLE'S moustache is slipping.  COLE senses it, reaches up to touch it, catches the DETECTIVE'S look. For half a second their eyes meet, then COLE looks away. ANGLE ON DR. PETERS, hurrying away. SECURITY OFFICER'S VOICE (o.s.} HOLD IT!  JUST A MOMENT. DR. PETERS freezes, turns, ashen. The SECURITY OFFICER is retrieving a pair of jockey shorts from the floor beside the search table.  He waves them at DR. PETERS. DR. PETERS hurries back for his underpants. ANGLE ON COLE, trying to keep his head turned away as he confronts the SECURITY OFFICER.
-
-[NARRATOR] Cole offers quietly, watching the shadows drift across the room:
-
-[MALE] I said, get your hands off her.  She's not a criminal.  She's a doctor...a psychiatrist. RAILLY looks alarmed at that. ANGLE ON THE DETECTIVES, coming this way.  The FIRST DETECTIVE has the photos in his hand. ANGLE OW DR. PETERS, bagging his jockey shorts, then starting hastily down the windowed concourse toward the gates. ANGLE ON RAZZLY, suddenly spotting DR. PETERS!
-
-[NARRATOR] Railly answers in a low, calming tone:
-
-[MALE] THERE HE IS!  HE'S CARRYING A DEADLY VIRUS!  STOP HIM! ANGLE ON COLE, following RAILLY'S look, seeing MR. PONYTAIL, THE MAN FROM HIS DREAM! ANGLE ON DR. PETERS, frightened, glancing back, walking faster. RAILLY  PLEASE, SOMEBODY -- STOP HIM! ANGLE ON DETECTIVES, reaching RAILLY and COLE.
-
-[NARRATOR] First Detective whispers gently into the still air:
-
-[MALE] Police Officers.  Would you step over here, please. ANGLE ON COLE, spotting something behind the DETECTIVES! COLE'S POV:  SCARFACE, dressed like a "businessman"!  He gives COLE a cold look. A beat.  COLE lunges at the SECOND DETECTIVE, knocking him off balance, then sprints toward the magnetic arch and through it. The ALARM goes off!!!! The FIRST SECURITY OFFICER tries to stop COLE, but COLE knocks him aside like a rag doll. ANGLE ON DR. PETERS, fifty yards up the concourse, glancing back. ANGLE ON COLE, pulling his pistol. ANGLE ON THE SECOND SECURITY OFFICER.
-
-[NARRATOR] First Security Officer murmurs with a warm, steady cadence:
-
-[MALE] HE'S GOT A GUN! ANGLE ON THE FIRST DETECTIVE, raising his pistol at COLE.
-
-[NARRATOR] First Detective whispers gently into the still air:
-
-[MALE] STOP OR I'LL SHOOT! ANGLE ON COLE, gun in hand, sprinting along the concourse toward DR. PETERS as frightened TRAVELERS SCREAM and dive for cover. ANGLE ON YOUNG COLE, standing at a concourse window, watching a plane land, flanked by his parents whose faces we don't see. IT'S SUDDENLY AS IF THE DREAM IS HAPPENING IN REAL LIFE!!!  THE SAME MOKENTS INTERSPERSED WITH "NEW" MOMENTS FROM THE POV OF YOUNG COLE who, hearing the commotion, turns just as DR. PETERS hurries by.  DR. PETERS bumps into YOUNG COLE and reacts by pulling his Bulls bag close to his body and calling...
-
-[NARRATOR] Dr. Peters murmurs with a warm, steady cadence:
-
-[MALE] WATCH IT! ANGLE ON YOUNG COLE, wide eyed, watching... YOUNG COLE'S POV:  a BLONDE MAN. dashing up the concourse, his moustache slipping over his lip, a pistol in his hand. YOUNG COLE'S POV:  the FIRST DETECTIVE aims, looking for a clear shot in the crowded passageway. YOUNG COLE'S POV:  a BRUNETTE in flashy clothes, gaudy earrings, high heels, and sun glasses SCREAMS...
-
-[NARRATOR] Brunette offers quietly, watching the shadows drift across the room:
-
-[MALE] N0OOOOO0O!!!!!! YOUNG COLE'S POV:  the FIRST DETECTIVE, firing!  CRACK! YOUNG COLE'S POV:  the BLONDE MAN, shuddering, staggering, falling. ANGLE ON YOUNG COLE, stunned, as his PARENTS try to shield him. MOTHER'S VOICE  My God!  They shot that man! Mesmerized, YOUNG COLE watches the BRUNETTE rush to the BLONDE MAN, kneel beside him, minister to his bloody wound. YOUNG COLE'S POV:  the BLONDE MAN, fatalistically reaching up and tenderly touching the BRUNETTE'S cheek, touching her tears.  ANGLE ON YOUNG COLE, not able to hear their words, but he can see emotion as the BLONDE MAN tries to tell the sobbing BRUNETTE something. YOUNG COLE'S POV:  PARAMEDICS, breaking the spell, pushing the BRUNETTE aside as they crouch beside the BLONDE MAN. FATHER'S VOICE  Come along, son, this is no place for us. ANGLE ON YOUNG COLE, as his FATHER'S ARM drapes over his shoulder, steering him.  YOUNG COLE turns to look back as he's led away. YOUNG COLE'S POV:  the PARAMEDICS, exchanging glances, shrugging helplessly.  It's too late.  The BLONDE MAN is dead. YOUNG COLE sees the BRUNETTE, her face streaked with tears, suddenly turn and look around, scanning the crowd, searching for something.  POLICE OFFICERS approach her, say something to her. Even as she responds, her eyes continue to scan the concourse. ANGLE ON YOUNG COLE, being hurried toward the lobby by his PARENTS .  He can't help sneaking another look back. YOUNG COLE'S POV:  POLICE, handcuffing a distracted, unresisting RAILLY.  Even now, she continues to look around almost frantically. Suddenly, her gaze falls on YOUNG COLE and she reacts...she's found what she's looking for! ANGLE ON YOUNG COLE, reacting to the intensity of her look. ANGLE ON RAILLY, her eyes speaking to the boy across the crowded concourse. ANGLE ON YOUNG COLE, overwhelmed by the look. FATHER'S VOICE  Hurry up, son. With a last lingering look toward the mysterious BRUNETTE, YOUNG COLE turns away, tears welling in his eyes.  WE MOVE IN...CLOSE... CLOSE...CLOSER...on his eyes.  WE WANT TO KNOW WHAT THE TEAR MEANS, BUT THERE IS NO WAY TO TELL.  WE DON'T KNOW WHAT HE IS THINKING, BUT WE KNOW VERY WELL WHAT HE WILL REMEMBER! MOTHER'S VOICE  Pretend it was just a bad dream, Jimmy. INT.  747 CABIN - DAY DR. PETERS closes the door to the overhead luggage rack containing his Chicago Bulls bag and takes his seat.  Next to him, a FELLOW TRAVELER, unseen, says... FELLOW TRAVELER'S VOICE  It's obscene, all the violence, all the lunacy.  Shootings even at airports now. You might say...we're the next endangered species...human beings! CLOSE ON DR. PETERS, smiling affably, turning to his neighbor.
-
-[NARRATOR] Dr. Peters responds with gentle reassurance:
-
-[MALE] I think you're right. sir.  I think you've hit the nail on the head. DR. PETERS' POV:  the FELLOW TRAVELER, a silver haired gentleman in a business suit, offering his hand congenially.  DR. PETERS doesn't know who this man is, but we do.  It's the ASTROPHYSICIST!
-
-[NARRATOR] Astrophysicist adds in a relaxed, peaceful voice:
-
-[MALE] Jones is my name.  I'm in insurance. EXT.   PARKING LOT/AIRPORT As YOUNG COLE'S PARENTS  usher YOUNG COLE into their station wagon, the boy hesitates, looks back, watches a 747 climb into the sky. FADE OUT:
-
-[NARRATOR] The narrative softly draws to a close, and the world outside settles into pure, uninterrupted quiet. The shadows lengthen across the room, wrapping you in a cocoon of warmth, safety, and deep peace. Every breath you take now is slower, softer, and deeper. There is nothing more to do, nowhere else to be. Surrender completely to the gentle pull of sleep. Drifting... floating... sleeping deeply and peacefully through the night.

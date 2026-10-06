@@ -1,3539 +1,1373 @@
-[NARRATOR] Welcome to tonight's peaceful sanctuary of deep, restorative slumber. Take this moment to settle into your bed, softening your posture, letting your head sink gently into the pillow, and releasing all the residual tension of the day. Inhale slowly and deeply... feeling the cool, tranquil air fill your lungs... and gently exhale, letting go of all effort. Tonight, we journey through an expansive, atmospheric sleep story inspired by the world of The Second Bloom of Autumn Gold. Allow the calming rhythm of the narrative to carry you effortlessly into stillness and deep rest.
+[NARRATOR] The screen remains in a state of absolute, velvet blackness, quiet and still, save for a single, distant point of crimson light. It is a tiny ember, glowing softly in the dark. Unseen bellows gently breathe upon it, a steady, rhythmic sigh of air. 
 
-[NARRATOR] 17 Again offers quietly, watching the shadows drift across the room:
+[NARRATOR] Within the great glass furnace, the embers begin to glow with a deep, pulsing warmth. A flame awakens, growing steadily larger, casting a comforting, amber hue across the silent space. 
 
-[MALE] Written by Jason Filardi October 2007 EXT. FITCH SENIOR HIGH SCHOOL - DUSK A few cars scatter the parking lot. WE hear GRUNTS followed by the distinct sound of basketballs shredding net. INT. FITCH SENIOR HIGH SCHOOL/GYM - CONTINUOUS An empty gymnasium except for a shirtless MIKE O'DONNELL, 17. Mike stands feet BEYOND the 3 point line, grabs balls from a hopper and rapidly shoots, shoots, shoots. SWISH...SWISH...SWISH. This kid's automatic. Mike's hair, a pompadour mullet a la `21 Jump Street' and short shorts circa 1989. Mustached and curly haired COACH HARVEY, 40, enters.
+[NARRATOR] A slow, mesmerizing river of molten glass flows through the heart of the chamber, heated by the mighty furnace to over thirteen hundred degrees Fahrenheit. It is a blindingly bright, white-hot current, moving with hypnotic, liquid grace. 
 
-[NARRATOR] Coach Harvey responds with gentle reassurance:
+[NARRATOR] Inside the ancient glass factory, flickering tongues of flame cast long, dancing shadows upon heavy wooden walls. The timbers are coarsely grained, their inner moisture blasted out by countless years of intense, abiding heat. The wood is split and weathered, patched lovingly with newer planks that have themselves grown old and dry beneath the vaulted roof. 
 
-[MALE] Hey, O'Donnell, save some for the game. Mike sinks one last jumper, turns to the Coach.
+[NARRATOR] Thick, gentle tendrils of smoke billow slowly up the ancient walls, hanging like a soft, dark cloud amongst the high rafters and massive wooden beams, partially obscuring the space above. 
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[NARRATOR] High above the bustling floor, twenty feet up on a narrow stone ledge, stands a solitary man. He wears the rough-textured, medieval cassock of a humble monk, blending seamlessly into the quiet shadows of the vaulted ceiling. 
 
-[MALE] Just warming up, Coach. Coach Harvey hands Mike a towel.
+[NARRATOR] The wooden louvers are set deep into the stone wall. Reaching out, the monk gently angles them open, allowing the gathering smoke to quietly escape into the cool night air beyond. 
 
-[NARRATOR] Coach Harvey whispers gently into the still air:
+[NARRATOR] The monk turns away from the window, raises his arms toward a taut hemp rope, and softly leaps from his lofty perch, gliding downward on a flowing fox—a primitive, hand-held wooden pulley that sighs along the line. 
 
-[MALE] First game of the season and the scouts are already lining up. You have half the season I know you're capable of, you can play anywhere you want, Mike.
+[NARRATOR] He lands soundlessly upon the worn stone floor next to the great glass furnace, surrounded by others of his order. They move with quiet reverence, armed with blowing irons and pontils, shaping the incandescent glass by hand, the old way. 
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[NARRATOR] One particular monk, with dark skin and kind, weathered features in his early fifties, stirs his five-foot-long blowing iron within the molten river, though his gaze is drawn to something else. The quiet scene moves him, and a lilting, gentle tenor song lifts high into the warm, smoky air. This is Brother Kyle. 
 
-[MALE] That's the plan coach. The rest of the FITCH FALCONS basketball team jogs out from the locker room followed by a PHOTOGRAPHER.
+[NARRATOR] BROTHER KYLE
+Well would he guess the ascending of the star, Wherein his patient's fortunes settled were. He knew the course of every malady, Were it of cold or heat or moist or dry. Brother John, would-be Doctour of Physick.
 
-[NARRATOR] Coach Harvey murmurs with a warm, steady cadence:
+[NARRATOR] Brother Kyle's song drifts toward the object of his gentle verse. Brother John stands nearby, a man not yet forty with strong, capable features, though a quiet, lingering shadow of worry rests deep behind his eyes—the gentle, human fear of a fragile heart. Yet, it is a deeply good face, calm in its quiet diligence. 
 
-[MALE] Round up, Jock Straps! Picture time. The Team assembles in the middle of the court. A PLAYER kneeling in front holds a sign, `FITCH FALCONS, 1989'.
+[NARRATOR] Brother John stands over a heavy stone mortar, stirring a thick, aromatic mixture with slow, rhythmic motions. Next to him, another monk sits in quiet patience, holding his arm outstretched. His rough cassock sleeve is rolled up, revealing a painful, angry burn upon his skin. 
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[NARRATOR] BROTHER KYLE
+Tend you quickly he will, with bottles from a shelf. But heals not, so easily, The ills which plague himself.
 
-[MALE] Hold on.   Ed's not here yet. DOM, 17, handsome, tall, long rat tail, scoffs-
+[NARRATOR] Brother John pauses his slow stirring, his hand resting quietly against the edge of the stone. 
 
-[NARRATOR] Dom speaks with a quiet, measured softness:
+[BROTHER JOHN]
+Enough.
 
-[MALE] Who cares?      He's the water boy.
+[NARRATOR] With deliberate care, he scoops a thick, soothing salve from the mortar with his fingers and gently applies the cool mixture to the burned monk's arm. 
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[NARRATOR] The injured monk inhales sharply as the cool, restorative salve makes contact with the tender skin, a soft hiss of relief escaping his lips. 
 
-[MALE] And you suck, Dom, but we're letting you in the picture. A shoving match breaks out between Mike and Dom.
+[BROTHER JOHN]
+Relax. Put those lungs of yours to better use.
 
-[NARRATOR] Coach Harvey speaks with a quiet, measured softness:
+[BROTHER KYLE]
+Yes, Doc Tor.
 
-[MALE] Hey!   Hey!     Knock it off. Coach Harvey pulls the Players apart just as the gym doors burst open. ED FREEDMAN, 17, sporting a jacket over a WIZARD costume, runs in, trips on his robe, gets up, peels his clothes off.
+[NARRATOR] Brother Kyle laughs softly, a warm, resonant sound, and carefully lifts his blowing iron from the molten river. At the end of the long iron rod hangs a glowing, heavy glob of white-hot glass, radiating a gentle, sleepy warmth into the fading evening.
 
-[NARRATOR] Ed responds with gentle reassurance:
+[NARRATOR] The heavy, incandescent mass of molten glass is guided steadily toward the marver, a flat and polished slab of dark iron resting upon a heavy wooden trestle. Brother Kyle rolls the glowing, ductile material back and forth with a rhythmic, mesmerizing grace, smoothing its fiery edges before raising the long iron pipe to his lips. With a slow, measured exhalation, he begins to breathe life into the glowing vessel, shaping the molten breath into a delicate, rounded container that catches the amber light of the fading day.
 
-[MALE] Sorry I'm late. I was locked in a life and death battle with the dark wizard...
+[NARRATOR] Nearby, amidst the scent of cooling earth and resin, John works with practiced, unhurried care. He takes a length of fray-edged cloth bandage and wraps it securely around the injured monk's burn, his fingers moving with a soothing, practiced gentleness that invites stillness and rest.
 
-[NARRATOR] Coach Harvey responds with gentle reassurance:
+[MALE] Keep this from getting wet. Go home at late afternoon mealtime and don't come back to work today.
 
-[MALE] ...Fall in, Freedman. Hurry up. Ed takes a spot next to Dom.
+[MALE] But John...
 
-[NARRATOR] Photogrpaher answers in a low, calming tone:
+[MALE] I'll tell the Abbot. Just rest today. You're lucky you only burned yourself on the side of the furnace. If some of that glass had gotten on your arm...
 
-[MALE] And 3, 2, 1- WE see Dom reach behind Ed, grab hold of his underwear...RRRRIIIPP...FLASH. And with the flash WE cut to: INT. FITCH SENIOR HIGH SCHOOL/GYM - NIGHT The Falcons run, pass and shoot on one end of the court.    On the opposite end, a TEAM in BLUE warms up. Lights dim. Cue MC Hammer's `Can't Touch This'. CHEERLEADERS at center court perform the Hammer DANCE ROUTINE. PAN around the gym, everybody's doing the Hammer dance. Ed awkwardly tries to imitate Mike. Coach shakes his head in disgust and when the routine ends-
+[NARRATOR] John pauses, pointing calmly to the top of his own forearm, tracing a silent, heavy line downward.
 
-[NARRATOR] Coach Harvey whispers gently into the still air:
+[MALE] ...it would've burned clean through to the other side.
 
-[MALE] Alright, Ladies, bring it in! The Falcons swarm to the bench, take seats.     Ed hands waters to the Players, skips Dom, stops at Mike.
+[NARRATOR] The burned monk shudders faintly at the thought, his shoulders sinking as the heavy tension of the day begins to drift away from him. Suddenly, from the stone tower above, deep bronze bells begin to toll, their rich, resonant chimes echoing across the quiet monastery grounds, washing away the remnants of worry in slow, concentric waves of sound.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] That's late afternoon. Now get on.
 
-[MALE] Ed, I can't help you with the girls if you keep showing up places dressed like the Cookie Crisp guy. Okay? Dude, don't look now but I think Muffy Campanella is scopin' you hard.
+[MALE] Thank you, John. I...
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[MALE] You're welcome. Go!
 
-[MALE] For real? Ed jerks around to blatantly stare at her.
+[NARRATOR] The injured monk trundles off into the deepening shadows, holding his bandaged arm softly against his chest, cradled in safety. John gathers his apothecary tools—the heavy stone mortar, the worn pestle, and the soft, smelling rolls of extra bandages—and tucks them safely into the folds of a coarse burlap sack. Kyle steps over quietly, his boots clicking softly against the flagstones.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[MALE] Good work.
 
-[MALE] Smile, pud. Ed flashes a goofy smile.   MUFFY mimes puking.
+[MALE] All right, but I'm no Father Anselm.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[MALE] You're yourself, that's better...
 
-[MALE] My bad. GIRL'S VOICE  Mike? SCARLET, 17, an 80's beauty, stands at the end of the bench.
+[NARRATOR] With a gentle, urging touch, Kyle guides John toward the heavy oak door and out into the vast, dim interior of the monastery hallway. The corridor is alive with the gentle rustle of heavy brown cassocks. A low, continuous chanting reverberates softly throughout the ancient stone building, a soothing, hypnotic drone that vibrates gently through the heavy wooden floorboards beneath their sandaled feet.
 
-[NARRATOR] Mike whispers gently into the still air:
+[MALE] The Abbot will be pleased.
 
-[MALE] Who's that stone cold fox? Oh, it's my girlfriend.  I'm glad you're here, Scar. This whole scout thing's got me wicked nervous. Dom dribbles past, smiles at Scarlet.
+[MALE] Don't.
 
-[NARRATOR] Dom answers in a low, calming tone:
+[MALE] Don't what?
 
-[MALE] I'm dedicating my first basket to you, Scarlet.
+[MALE] Please don't tell him. At least until I know if there's an infection.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] You want to be the Abbey's Physician, and you haven't learned the first rule: Don't worry about the patient.
 
-[MALE] Way you shoot that might be mid- season!  Everything cool? She smiles nervously, lies...
+[NARRATOR] John's expression softens, his gaze dropping to the floor in quiet contemplation.
 
-[NARRATOR] Scarlet answers in a low, calming tone:
+[MALE] I shouldn't have. Sorry. Look, I know how you must...
 
-[MALE] Oh yeah. Everything's totally copacetic.
+[MALE] You don't, but thanks anyway.
 
-[NARRATOR] 4. offers quietly, watching the shadows drift across the room:
+[NARRATOR] At the far end of the long hallway lies a wide, curving stairwell, filled with a steady, quiet stream of monks moving downward in a slow migration toward the evening meal. Kyle joins the flowing current, while John turns in the opposite direction, beginning a quiet, solitary ascent against the tide.
 
-[MALE] MIKE                              SCARLET Totally?                           Totally. REFEREE blows the whistle.
+[MALE] Not coming down?
 
-[NARRATOR] Coach Harvey adds in a relaxed, peaceful voice:
+[MALE] I have someone waiting for me.
 
-[MALE] Let's go! Remember, Boys, winners get the girls. Losers please themselves!
+[NARRATOR] Kyle disappears gently into the sea of brown wool. John continues upward, moving past the river of monks running downstream, until he reaches the upper floor. Here, a narrow, quiet corridor is lined with heavy wooden doorways, bathed in the amber glow of tallow candles guttering in iron sconces. Without breaking his stride, John reaches out and grasps the worn brass knob of his door, slipping inside the quiet sanctuary of his room.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[NARRATOR] An old, weary dog stirs upon a makeshift bed fashioned from a discarded, threadbare cassock. At the sight of his master, the faithful animal stands, stretching its legs with a soft, contented sigh.
 
-[MALE] Excellent. Gotta run. He kisses her cheek, starts off, turns back-
+[MALE] Come on, Mattias.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[NARRATOR] The old dog joins John at the threshold, and together, master and pet ascend another flight of quiet stairs, passing a final dozen monks descending into the evening peace. They slip quietly into the vast library, a cavernous, cathedral-like room filled with endless rows of heavy wooden tables and towering, floor-to-ceiling shelves that stretch upward into the dim shadows, packed to the very brim with ancient, leather-bound books resting in profound and timeless silence.
 
-[MALE] What's wrong? LONG SHOT: We hear nothing but see Mike's body deflate. He steps away from Scarlet towards center court. Muffy and her friends mock Ed and laugh hysterically
+[NARRATOR] The vast library stands in profound and cathedral-like silence, a cavernous sanctuary where the air smells of old parchment, aged leather, and beeswax. Towering shelves of dark, heavy oak stretch upward into soft, velvety shadows, packed with countless ancient volumes. From the spine of each sacred book hangs a long, gleaming iron chain, securely fastened to the heavy shelves, allowing the knowledge within to travel only as far as the nearest wooden table. 
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[NARRATOR] Behind a broad, time-worn oak desk sits Brother Philip, the corpulent librarian in his fifties. His stern affect is softened only by the growing quiet of the evening. A large, heavy iron key daggers from his thick belt, clinking softly as he rises to watch the last few stragglers return their chain-bound volumes to their proper places. With slow, measured footsteps, Philip joins them, guiding them gently toward the heavy oak doors that lead out into the corridor. 
 
-[MALE] Do you really think Muffy's in to me? Mike, in a daze walks right past Ed. Takes his place for the jump ball. The Crowd stomps and cheers LOUDLY. The Ref is about to toss the ball. Mike looks up at the stands, sees a crushed Scarlet heading for the exit. Mike's torn. Play or go after her. He goes after her.
+[NARRATOR] Just outside the heavy wooden doors, in the quiet, dim corridor, John leans his back against the cool stone wall as Philip steps out into the hallway. Mattias, the small and loyal dog, is nowhere to be seen, hidden safely beneath the folds of the heavy woolen cassock. 
 
-[NARRATOR] Coach Harvey offers quietly, watching the shadows drift across the room:
+[MALE] Brother John.
 
-[MALE] Where you going!? O'Donnell!? INT. FITCH SENIOR HIGH SCHOOL/TUNNEL - NIGHT Mike rushes in.
+[NARRATOR] John nods softly, his voice a gentle murmur in the quiet stone passage.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] Brother Philip.
 
-[MALE] Scar!    Wait. She turns, slumps against the wall.    Mike catches up to her. Mike leans in and kisses Scarlet. CUT TO:
+[NARRATOR] Philip pauses, his gaze sweeping over John with familiar scrutiny. 
 
-[NARRATOR] 5. adds in a relaxed, peaceful voice:
+[MALE] Feeding the mind instead of the body again?
 
-[MALE] EXT. PALISADES NEIGHBORHOOD. PRESENT DAY - MORNING Opulent HOMES.   OCEAN views.   Luxury CARS.   Manicured LAWNS. The sound of an alarm clock shatters the silence as WE settle in on a large, MEDITERRANEAN STYLE HOUSE. INT. ED'S HOUSE/MIKE'S BEDROOM - MORNING MIKE O'DONNELL, now 36, angrily slaps the alarm off...6 AM. He climbs out of bed, bones creaking, stiff, groans. INT. BATHROOM - MORNING A showered, suited Mike stands before the mirror, knots a tie around his neck.
+[MALE] My training has taught me to feed what's hungry.
 
-[NARRATOR] Today is going to be a good day.     I
+[NARRATOR] Philip lets out a low, good-natured chuckle, patting his broad stomach with a slow, contented motion before turning to head down the dimly lit hallway. 
 
-[NARRATOR] love my job. I am a lucky man.
+[MALE] As did mine. As long as you're alone. Enjoy yourself -- and remember, no book leaves the library.
 
-[NARRATOR] Who's lucky? Mike O'Donnell.
+[MALE] How could I forget? Have a good meal.
 
-[NARRATOR] Mike yanks his tie straight up as if he were hanging himself.
+[NARRATOR] John watches quietly as the corpulent librarian's heavy footsteps fade down the distant stone stairs. When the sound has vanished entirely into the quiet monastery, John lifts the heavy hem of his woolen cassock. Out slips Mattias, tail wagging softly against the stone floor.
 
-[NARRATOR] The atmosphere shifts into quiet stillness. inside, within ed's house/living room under morning, the ambient light settles with a soft, peaceful glow over the surroundings.
+[MALE] Perfect.
 
-[NARRATOR] ED FREEDMAN, now 36, lies on a portable table in his boxers.
+[NARRATOR] Together, they slip back into the cool, shadowed sanctuary of the library, moving silently toward the medieval section, where the oldest and most forgotten books rest in perpetual slumber. John drifts toward the towering stacks, while Mattias trots steadily across the open floor to a familiar wooden bench, curling up in his regular, comforting place. 
 
-[NARRATOR] ACUPUNCTURE NEEDLES protrude from every inch of his body,
+[NARRATOR] Standing on his tiptoes, John reaches upward to retrieve a particularly ancient tome. His fingertips trace the worn, familiar leather binding with a gentle, affectionate reverence. A quiet, peaceful smile plays across his lips. He carries the heavy volume to the edge of the table, resting it carefully so that the iron chain has just enough slack. He sits down on the bench beside the faithful dog, clears his throat softly to clear the dust from his voice, and opens the heavy cover. The pages whisper like falling leaves as he begins to read aloud, his voice low and soothing.
 
-[NARRATOR] neck and face...at least 5000 needles.
+[MALE] In the year of our Lord 1348 I, Brother Gerhado of the Minorite Abbey helped bury the Abbot and my sixty fellow monks...
 
-[NARRATOR] A HOT, YOUNG ACUPUNCTURIST adds more to him.
+[NARRATOR] A soft voice floats from the shadows just out of sight, warm and resonant.
 
-[NARRATOR] Acupuncturist adds in a relaxed, peaceful voice:
+[FEMALE] Sometimes, I think you'd like that.
 
-[MALE] Can you feel your Qi flowing freely?
+[NARRATOR] John pauses, startled, and turns to find the Abbot standing nearby. The leader of the monastery is in his seventies, yet he carries himself with a timeless grace that makes him look much younger. His simple cassock is adorned not with a rope belt, but with a large, ornately carved wooden chain. The Abbot crosses the quiet floor toward the table. John immediately closes the book and stands, bowing his head deeply in respectful silence.
 
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
+[MALE] Abbot, I -- I didn't think anyone would --
 
-[MALE] I'm not sure if its my Qi or internal bleeding. Mike enters, shakes his head in amusement.
+[ABBOT] Mind? Just Philip, if he knew. I passed him on the way up. He said you'd come in alone. I knew better.
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] The Abbot steps closer, reaching down with a gentle hand to scratch behind Mattias's floppy ears. The little dog responds with a soft, contented snuffle.
 
-[MALE] What are you doing now? Ed looks over, sees Mike watching.
+[ABBOT] Hello, Mattias. How are you, boy? 
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[ABBOT] You know what Philip says about Mattias' hair and his breathing. You'll have to take him out of here.
 
-[MALE] There he is. There's Mr. Sunshine. Fei Jing Acupuncture. It's all the rage. Makes you look five years younger. Ed climbs slowly off the table, shuffles over, groaning in pain the entire way. He pours himself a shot of BROWN LIQUID from a pitcher, throws the shot back and immediately SPITS it all over the place.
+[NARRATOR] John looks down sheepishly at the floor. Though he is nearly forty years old, the presence of the wise Abbot makes him feel almost adolescent, caught in a quiet transgression. The Abbot's lips curve into a gentle, knowing smile as he reaches into his pocket and withdraws a large, gleaming key.
 
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
+[ABBOT] Someone must have left this one unlocked. Take the book with you.
 
-[MALE] What's this brown stuff again?
+[NARRATOR] The Abbot extends his hand, placing the heavy iron key softly into John's receptive palm.
 
-[NARRATOR] Acupuncturist responds with gentle reassurance:
+[NARRATOR] The weight of the heavy iron key rests in John’s palm, cool and reassuring against his skin. A profound wave of astonishment washes over him, parting the quiet haze of the abbey library like a sudden breath of wind. This is an honor far greater than he had dared to imagine, a quiet trust bestowed by hands that have weathered decades of solitude and prayer.
 
-[MALE] Rhinoceros urine. Pure protein.
+[MALE] Father, I...?
 
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
+[NARRATOR] The Abbot’s gaze is steady, carrying the warmth of a hearth fire on a chilly eve. A faint, knowing smile touches the corners of his mouth.
 
-[MALE] Delish!  The girl has absolutely no clue what she's doing.
+[MALE] Kyle tells me you did a good job at the glassworks today.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[NARRATOR] John shakes his head slightly, a humble resistance to praise, his mind still anchored to the heavy burdens of the infirmary below.
 
-[MALE] Then why are you letting her stick needles in you?
+[MALE] I'll reserve judgement until the patient lives.
 
-[NARRATOR] Ed murmurs with a warm, steady cadence:
+[NARRATOR] With soft, deliberate steps, John crosses the polished wooden floor to the tall, shadowed shelf. He slides the large key into the iron lock, turning it with a satisfying, muffled click. The leather-bound volume yields to his touch. Gently, he slides the book free, then returns the key to the Abbot with a respectful dip of his head. The Abbot accepts it, his robes whispering softly against the floorboards.
 
-[MALE] Because she's hot. But today's not about me. It's about you becoming the new regional sales manager.
+[MALE] It will get easier. Father Anselm was... an unexpected loss. You'll do fine.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] The Abbot turns, his footsteps carrying him slowly toward the heavy oak door of the library, the low lantern light catching the amber threads of his cloak.
 
-[MALE] I better be. I've invested 18 years of my life in that miserable company.
+[MALE] Just have it back before the end of lunch. Oh -- And I didn't see you in here.
 
-[NARRATOR] Ed answers in a low, calming tone:
+[NARRATOR] A soft breath of gratitude escapes John’s lips as the door begins to gently close, sealing them in their quiet sanctuary.
 
-[MALE] No negativity. Negativity's for the 800 pound fat lady who needs to be airlifted out of bed. You, Michael Shawn O'Donnell, are a winner.
+[MALE] Thank you. Let's go upstairs, boy.
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] Tucking the precious book securely beneath his arm, John turns toward the rear of the chamber where a spiral wooden staircase winds upward into the shadows. Young Mattias is right at his heels, his soft claws clicking a gentle, steady rhythm against the timber steps. They ascend into the bell tower, a quiet world of thick hemp ropes, massive wooden cogs, and ancient beams that cast long, peaceful shadows in the gloom. 
 
-[MALE] A winner doesn't have to crash at his best friend's house because he was kicked out of his own house.
+[NARRATOR] Pushing open a heavy, iron-strapped door, they step out into the open night air. The roof of the abbey is thick with sandy dust, the worn wood showing in pale, thin patches beneath their sandals. But as they move forward, the familiar world dissolves into something vast and boundless. They are no longer merely upon a roof; they stand upon the surface of Arceon. 
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[NARRATOR] Arceon, a magnificent manmade orbiter, stretches out in a sweeping, five-mile curve of lightweight foamed steel, neatly sheathed in weathered wood. Only the very top of the abbey bell tower pokes through from the habitable levels below. Gentle wisps of white smoke curl peacefully from quiet vents set into the terrain, and sunken valleys hold the calm, obsidian waters of inland seas. 
 
-[MALE] Are you kidding?! It doesn't get any better than this!
+[NARRATOR] John walks slowly to the shore of one such quiet sea, his footsteps light upon the bare wooden expanse. He sits down, letting his weight settle, and looks up into the magnificent dome of the night sky. His eyes grow accustomed to the infinite velvet dark, freckled with tiny, brilliant dots of celestial light. The stars spread across the inky void, bathing Arceon’s curved surface in a soft, silvery glow. 
 
-[NARRATOR] Ed responds with gentle reassurance:
+[NARRATOR] A quiet smile touches John’s lips as he draws in a deep, long breath. The atmosphere up here is thin, crisp, and remarkably fresh, carrying the faint, clean scent of deep space and ancient timber. Beside him, Mattias settles onto the wood, resting his chin on his paws. John opens the heavy book, the yellowed parchment rustling softly in the gentle night breeze. He begins to read aloud, his voice low, rhythmic, and soothing.
 
-[MALE] I gotta get back. My legs just went numb. Good luck today. Ed drags painfully back to the Acupuncturist. EXT. SAN FERNANDO VALLEY - MORNING Mike wheels his Audi A4 below a nondescript, two level building. Sign reads, `Wyatt Pharmaceuticals'. INT. WYATT PHARMACEUTICALS/CONFERENCE ROOM - MORNING PHARMACEUTICAL DRUG POSTERS cover the walls.    Smiling faces, happy couples...little pills. Surrounding a conference table are Mike's colleagues...HOT WOMEN, 20 to 35, in skimpy business suits, chatting away. Mike sits amongst them, the only male present. A glum look on his face. WENDY, bubbly, ditsy, 22, leans over to him.
+[MALE] In the year of our Lord 1348, I, Brother Gerhado of the Minorite Abbey, helped bury the Abbot and my sixty fellow monks, day by day, one by one, until I am the only one left. I stayed as long as I could bear it, then with my dog...
 
-[NARRATOR] Wendy offers quietly, watching the shadows drift across the room:
+[NARRATOR] At the familiar mention, Mattias lifts his ears, his dark eyes bright and content, for this is his absolute favorite part of the tale. John continues, his voice blending effortlessly with the quiet hum of the orbiter.
 
-[MALE] Congratulations, Mike. You deserve it. You're like a totally amazing salesman.
+[MALE] ...fled. I have put this to parchment lest this pestilence -- this Black Death -- stay my hand.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] John pauses for a quiet beat, his thumb tracing the ink where another hand had finished the chronicle long ago. He gently closes the cover of the book, the sound soft and final in the stillness. Then, something among the myriad points of light catches his eye. Millions of miles away, drifting across the infinite ocean of space, one of the stars is burning brighter than the rest. It is moving, gliding fast enough to leave a faint, luminous trail across the constellations, slowly descending toward them. A comet.
 
-[MALE] Thanks, Wendy. That like totally means so much to me. ROGER, 23, boss, strides through the door.
+[NARRATOR] John stands up slowly, his gaze fixed on the heavens as the star grows brighter, drawing steadily nearer in the peaceful silence of the night. Beside him, three other monks—older, wiser, their faces softened by decades of contemplation—step quietly out of the shadows. The four men stand shoulder to shoulder upon the wooden world, watching the quiet majesty of the sky above.
 
-[NARRATOR] Roger offers quietly, watching the shadows drift across the room:
+[NARRATOR] High above the quiet curvature of the world, the light continues to grow, casting a soft, amber glow across the weathered wooden planks beneath tired feet. Brighter still, closer now, the silent expanse of the heavens shifts and stirs. 
 
-[MALE] Good morning, peeps. As you all know, today I'll be naming the new regional sales manager. What's it take to be an RSM? Leadership skills, a comprehensive knowledge of today's prescription pharmaceuticals and most importantly a dedicated soldier. Mike straightens his tie, buttons his suit jacket.
+[NARRATOR] From the shadowed architecture of the planet’s surface, more figures emerge. A dozen, then a hundred, rising quietly through hidden wooden trap doors, their heavy wool robes brushing against the grain as they join the silent assembly. Days pass in a tranquil blur of waiting. Now three hundred souls stand shoulder to shoulder, their necks bowed backward, their faces upturned and mouths slightly agape in silent awe. 
 
-[NARRATOR] Roger whispers gently into the still air:
+[NARRATOR] The vast sky darkens as a subtitle quietly forms against the peaceful void: Religious Colony Arceon, population three hundred and fifty exiles, their crime simply political heresy. 
 
-[MALE] All being said, congratulations-  Wendy. Dumbfounded, Mike slumps back into his seat.    Wendy springs up out of hers, SCREAMING and BOUNCING.
+[NARRATOR] The star fills the entire canopy of heaven, burning brighter and hotter still as it plunges downward, kissing the upper edges of the atmosphere. 
 
-[NARRATOR] Roger responds with gentle reassurance:
+[NARRATOR] Upon the peaceful surface of Arceon, hundreds of monks instinctively raise their hands to shield their weary eyes as the massive ship—a false star roaring with ancient fury—sweeps low over their heads. It trails a magnificent ribbon of fire across the twilight air. John lifts his own hands upward, reaching as if to touch the glowing embers of the descending star. The intense heat kisses his skin, blistering his palms as the vessel rushes overhead. He turns slowly, his eyes following the fiery arc as it plummets downward, crashing straight into the calm, deep embrace of the sea. 
 
-[MALE] Now go out there and sell some drugs peeps! The Women stream out.
+[NARRATOR] A heavy, resonant thud echoes across the water, followed by a long, hissing sigh as massive plumes of white steam billow gracefully into the cool night air. The ocean churns and boils, the surface growing still again as the ripples slowly fade into the dark distance. 
 
-[NARRATOR] Mike answers in a low, calming tone:
+[NARRATOR] John is the first to reach the rocky shore. Small leather and wood fishing boats are tossed gently upon the sudden, rolling wake. His little coracle is the first to touch the water, the others running close behind him, their footsteps muffled by the sand. The air is filled with frantic shouts of warning, but the sound seems far away, muffled by the rush of the sea and the steady rhythm of his own breathing. 
 
-[MALE] How could you do this to me? I've been a salesman here 18 years. Wendy's only been here 2 months!?
+[NARRATOR] Dawn breaks slowly over the black, glassy water, painting the horizon in bruised shades of lavender and silver. John’s hands grip the rough wooden oars, pulling steadily against the tide. His blistered palm tears open, and a slow, warm trickle of blood flows down his wrist. With quiet resolve, he tears a loose piece of his dark cassock, ripping the fabric with his teeth, and clumsily wraps his wounded hand before returning to the oars. 
 
-[NARRATOR] Roger adds in a relaxed, peaceful voice:
+[NARRATOR] The fallen star—a ship, a genuine star ship—rests upon the water, its white metal skin charred and blackened by the fierce heat of re-entry. It rocks gently in the choppy surf. 
 
-[MALE] Look, your sales are admittedly better but she has the college degree. What can I do?
+[NARRATOR] John rows his small boat directly toward it. The coracle pitches precariously in the restless waves. He scrambles clumsily onto the ship's cracked, heat-fused tile surface, teetering for a breathless moment to find his balance before moving toward the unmistakable outline of the main hatch. His eyes scan the metal surface, searching for a handle, a knob, anything to grant him entry. 
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] Right beside the heavy door, a small panel door marked with stark black and yellow stripes denotes immediate urgency. Hesitantly, John reaches out and opens the small door, revealing a gleaming metal lever. He stares at it for one quiet, suspended beat, then firmly and quickly pulls it downward. 
 
-[MALE] You can give me the promotion, Roger!
+[NARRATOR] With a sudden rush of displaced atmosphere, the hull door slides open. The doorway reveals a deep, consuming black maw. John slowly crosses himself, murmuring a silent prayer, and begins to lower his foot across the threshold. 
 
-[NARRATOR] Roger offers quietly, watching the shadows drift across the room:
+[MALE] Watch it! 
 
-[MALE] Things have changed. I couldn't even hire you now with only a high school diploma. My hands are tied, bro-ski. Mike swallows his pride and exits. EXT. FITCH SENIOR HIGH SCHOOL/PARKING LOT - DUSK Mike pulls into the empty parking lot, climbs out of his car and into the building. INT. FITCH SENIOR HIGH SCHOOL/HALL - DUSK Mike hurries down the hall, opens a door, peeks his head in. INT. FITCH SENIOR HIGH SCHOOL/GYM - DUSK Mike peers around...nobody.
+[NARRATOR] He nearly falls backward off the edge of the ship, catching his balance just in time. He looks back over his shoulder. 
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] The other monks are rapidly approaching across the water, their arms waving frantically in the morning light. 
 
-[MALE] Alex? No answer. A basketball sits in the middle of the floor. Mike enters, picks up the ball, begins dribbling...faster, between his legs, around his back, up to the 3 point line-
+[MALE] John! Wait! Don't go in! 
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[NARRATOR] John turns back to the open hatch. A gentle, machine-recirculated breeze flows outward from the dark interior. He feels it brush against the skin of his face—cool, artificial, carrying the crisp scent of another world. It seems to call to him from the shadows. Without another word, he steps across the threshold, wholly swallowed by the velvet blackness. 
 
-[MALE] 3, 2, 1-
+[NARRATOR] With a heavy, metallic resonance, the door closes firmly behind him, sealing out the world. 
 
-[NARRATOR] 9. adds in a relaxed, peaceful voice:
+[NARRATOR] Inside the dim interior of Sulaco escape pod number four, the air is thick with stillness. The room glows faintly with the pulse of dim red lights. John stands perfectly still in the shadows, waiting patiently as his eyes slowly adjust to the enveloping darkness. Before him, half-hidden in the crimson haze, he sees it: a hyper-sleep tube, resembling a delicate coffin fashioned of glass and metal, with intricate pneumatic piping twined gently around its base. 
 
-[MALE] Mike hits a perfect jumper at the imaginary buzzer, smiles.
+[NARRATOR] The heavy glass lid is shattered, fractured into a web of sharp lines. At the head of the tube, a small red light pulses with a steady, hypnotic rhythm, accompanied by a soft, repeating voice, low and gentle like a distant seatbelt warning. 
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[COMPUTER VOICE] Seal broken... seal broken... 
 
-[MALE] The kid's still got it. Mike dashes for the bouncing ball, scoops it up, goes for a reverse lay up, makes it but when he lands...he lands...CRACK...hard. Mike grabs his lower back, groans-
+[NARRATOR] Drawn by an invisible current, John finds himself moving slowly across the metal floor toward the fractured tube. He steps closer, peering cautiously through the jagged edges of the broken glass. Inside, resting in the quiet dark...
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[NARRATOR] The heavy silence within the fractured chamber holds the steady, rhythmic hum of ancient machinery, a low and soothing frequency that vibrates softly against the sterile white floor. John steps closer to the jagged remains of the glass tube, his gaze drifting inward, following the long, rust-brown stain that splatters the interior. The dark, oxidized drips trace a slow path down the curved walls, leading outward across the metallic deck in a series of faint drag marks that vanish into the shadows. His eyes follow the marks to a quiet pile of discarded clothing resting against a slumbering control panel—a child-sized jumpsuit, torn and weathered, accompanied only by the detached head of a porcelain doll, resting completely alone in the quiet dark. For a fleeting moment, a cool draft of unease brushes over his skin, whispering for him to turn back, to retreat into the safety of the world outside. But a deeper stillness holds him here. He is a healer, a seeker of mending, and if someone within these metal walls calls out for aid, he will answer. He lifts his gaze, letting the dark clothing fade from his mind as he looks up toward the vast canopy of instrument panels above him. Thousands upon thousands of tiny lights begin to pulse in the gloom, blinking and glowing in soft hues of amber, emerald, and sapphire, resembling a constellation of distant stars captured beneath a quiet sky. It has been decades since he has witnessed such intricate technology, and never this close, never this peaceful. He steps deeper into the vessel, letting his fascination guide his steps away from the shadows and toward the radiant glow. 
 
-[MALE] Ooooh.   That was stupid. INT. FITCH SENIOR HIGH SCHOOL/HALL - DUSK Mike limps out of the gym, wanders over to a wall covered in PHOTOGRAPHS...Fitch basketball teams of the past. Mike searches the pictures until he finds it...the photo WE saw being taken earlier...the team of 1989. Ed mid howl from Dom's wedgy. Mike stares at the photograph...lost in time and thought. The smiling, confident image of his youth stares back at him. MALE VOICE  You know someone in that picture? Mike startles from his daydream, turns. A kind-faced, old JANITOR, stands behind him, mop in hand.
+[NARRATOR] Nearby, a pale green LED screen casts a soft, ghostly illumination across the dim floor, casting long and gentle shadows. Pale numbers race in a hypnotic, endless sequence, ticking upward with the quiet precision of a timeless clock: 7,291.01.05...06...07. A faded legend glows faintly beside the digits, identifying the passage of an era: "Elapsed since separation." He moves on, his footsteps completely silent upon the grated floor, drawn toward a small video monitor flickering softly in the gloom. Through a gentle cascade of scanning snow, an image materializes out of the static. A woman stands there, her arms wrapped tightly, protectively around a young girl, holding her close against an unseen cold. The woman's lips move, her recorded voice drifting through the quiet air in a repeating, looping cadence that speaks of a distant past.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[FEMALE] ...taking pod four. The Crew of the SS Sulaco and all Marine commandoes are dead. Ship's sensors have interrupted the hyper sleep cycle. An overlooked alien egg has hatched. Bishop and Hicks have been killed. Xenomorphs have infested the cruiser. Newt and I are taking pod four. The Crew of...
 
-[MALE] I do. Me.     I'm in the center there. The Janitor leans in, takes a closer look at Young Mike.
+[NARRATOR] The repetitive, lingering cadence of the warning tone stirs a quiet echo of apprehension within John, making his movements softer, more hesitant as he skirts the periphery of the vast chamber. His fingers brush lightly against a metallic console, grazing a protruding button with the gentlest of touches. *Click.* Instantly, a heavy, flexible shape detaches from the shadows above, brushing softly across his shoulder like a lingering touch. John startles, his heart beating a quick, startled rhythm against his ribs, before he realizes it is merely a forgotten oxygen mask dangling from a tether. He pushes the plastic object aside with a slow breath, letting his heartbeat settle back into the quiet tempo of the room, and continues his cautious path around the curved hull of the shuttle. His hand grazes another hidden sensor, which instantly responds to his warmth, glowing with a soft, welcoming light. *HSSSSSSSS.* A sudden, harmless blast of cool freon bursts from an overhead pipe, catching him unaware. John utters a sharp, startled shout, stumbling backward into the comforting warmth of another structure—another hyper-sleep tube. It stands right beside the empty vessel, humming with a low, steady vibration, completely operational and warm to the touch. John approaches it with infinite slowness, peering through the condensation-layered lid into the interior darkness. There, resting beneath the frosted glass, lies an occupant. The woman from the flickering screen. Ripley. She slumbers peacefully in the profound quiet of deep sleep, dressed simply in a soft white cotton tank top and dark shorts, bathed in the tranquil blue luminescence of the life-support glow. John looks from the resting figure to the static-filled monitor, then back to the serene face beneath the glass. Overwhelmed by a quiet reverence, his knees touch the cool metal floor as he sinks down, all lingering fear entirely replaced by a profound, hypnotic awe. He leans forward, bringing his face closer to the transparent lid, watching the stillness, listening to the very pulse of the ship as time slows to a standstill around them. Suddenly, a bright shaft of white daylight spills across the dark floor, breaking the spell. John’s head whips around toward the source of the sudden illumination, his eyes adjusting to the brilliant intrusion. Standing in the open doorway, framed by the bright light of the day, are Kyle and the monks, their silhouettes quiet and steady against the outside world.
 
-[NARRATOR] Janitor answers in a low, calming tone:
+[MALE] John - what is it? Is...
 
-[MALE] Adolescence can be so cruel.
+[NARRATOR] The brilliant glare from the open doorway softens, diffusing into the cool, shadowed interior of the vessel. The air within the hull is thick with the scent of aged metal, quiet stillness, and the faint, rhythmic hum of dormant machinery. 
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[MALE] Is this a supply ship?
 
-[MALE] What are you talking about? (lost in the picture
+[NARRATOR] John stands near the shadowy depths of the chamber, his frame silhouetted against the encroaching light. He shakes his head slowly, his voice dropping to a low, calming murmur that echoes softly off the metallic bulkheads.
 
-[NARRATOR] Again) adds in a relaxed, peaceful voice:
+[MALE] No. No supplies. Kyle, there's someone in here--
 
-[MALE] I had life by the balls in that picture. Everything was possible. Then a few minutes later, pffffft, all gone.
+[NARRATOR] The second monk glances over his shoulder at Kyle, his expression shadowed beneath the heavy wool of his cowl. 
 
-[NARRATOR] Janitor offers quietly, watching the shadows drift across the room:
+[SECONDARY MONK] This is forbidden.
 
-[MALE] `For of all sad words of tongue and pen, the saddest are these: `It might have been...'
+[NARRATOR] Kyle steps slightly forward, his voice tight with a mixture of urgency and caution.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[KYLE] John. Just get the hell out of there--
 
-[MALE] That'll be my epitaph.
+[NARRATOR] John turns his gaze back toward the floor, refusing to abandon the shadowed alcove. The gentle sound of water lapping against the exterior hull provides a steady, hypnotic rhythm to the quiet room.
 
-[NARRATOR] Janitor offers quietly, watching the shadows drift across the room:
+[MALE] I don't want to stay. I have to get her out before this sinks. You come in, give me a hand--
 
-[MALE] We all have regrets.
+[KYLE] Her? Look, this is not the supply ship, so this is technology forbidden to us. Get out of there now!
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] John ignores the warning, his eyes fixed on the resting form of Ripley sealed within the translucent tube. Just above her head, a small keypad glows softly in the dim light. A solitary red button, clearly labeled with the word "EMERG-OPEN," waits in the quiet gloom.
 
-[MALE] Why's it have to be that way?
+[MALE] All right--
 
-[NARRATOR] Janitor adds in a relaxed, peaceful voice:
+[NARRATOR] With a steady hand, John presses the button. A sudden, sharp blast of compressed air releases with a heavy sigh, echoing through the empty corridors. The monks near the doorway recoil slightly at the sharp sound, their robes rustling in the stillness. 
 
-[MALE] Maybe it does, maybe it doesn't. Can't hurt to ask. You never know who's listening, Michael. Michael wistfully eyes the old photo, looks back to the
+Outside, the vast ocean stretches endlessly toward the horizon, painted in the pale, soft light of day. Ripley rests securely inside a large, wooden coracle, cradled safely in John's arms. She remains unconscious, her head tilting gently as the small boat rocks on the slow, soothing swells of the waves. The monks pull rhythmically at the oars, their wooden blades dipping into the water with a soft, hypnotic splash, guiding the boat back toward the quiet shore.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[FIRST MONK] A space ship...
 
-[MALE] How did you know...
+[SECOND MONK] A woman...
 
-[NARRATOR] Alex speaks with a quiet, measured softness:
+[KYLE] You shouldn't have gone in--
 
-[MALE] ...What are you doing, Dad? ALEX, 15, messy hair and slight, and MAGGIE, 17 and awkwardly pretty, appear at the other end of the hall.
+[MALE] I'm supposed to be a doctor.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[NARRATOR] Gently, John reaches out and pushes a stray lock of hair away from Ripley's forehead, his touch feather-light and comforting. 
 
-[MALE] Hey, Guys.     I was just talking to- Mike looks back to the Janitor...GONE.
+[MALE] She could've been lost.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[FIRST MONK] Been a long time since I saw either.
 
-[MALE] Never mind. Sorry I'm late. You ready to get some dinner then? They make their way towards the door.    Mike limping.
+[SECOND MONK] It isn't sinking. Look at it. What are we supposed to do with it?
 
-[NARRATOR] Alex responds with gentle reassurance:
+[KYLE] What was it like in there--?
 
-[MALE] Why are you limping?
+[MALE] Lights. So many lights--
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[THIRD MONK] Tow it in. Bring it in.
 
-[MALE] Tweaked my back pumping iron. Really, really heavy iron. INT. CHEESECAKE FACTORY - NIGHT Mike, Alex and Maggie sit before dinner.    Alex eats heartily. Maggie quietly pushes her food around.
+[SECOND MONK] It's evil.
 
-[NARRATOR] Mike whispers gently into the still air:
+[FIRST MONK] It's just technology.
 
-[MALE] I bet your chompin' at the bit for hoop season to start.
+[SECOND MONK] Evil technology. Look at these fish--
 
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
+[THIRD MONK] The Abbot will know what we should do with it--
 
-[MALE] Yeah, me and the guys are running drills, scrimmaging, getting in shape. Maggie stifles a laugh.
+[KYLE] Just lights?
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] Machines. Buttons. Metal.
 
-[MALE] That's my boy. Remember, it's not how big you are-
+[SECOND MONK] See? Just look at the fish.
 
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
+[THIRD MONK] The Abbot will know.
 
-[MALE] -it's how big you play. Father and Son touch fists.
+[SECOND MONK] They're boiled. These fish are boiled.
 
-[NARRATOR] Mike whispers gently into the still air:
+[MALE] Thousands of lights. Like the stars. Like Heaven on Earth.
 
-[MALE] And what about you, Mags?   What's new?
+[NARRATOR] In John's arms, Ripley begins to stir. A soft groan escapes her lips as she gently fights to emerge from the heavy fog of her deep sleep. Through half-lidded, weary eyes, she gazes around the small boat. The sea stretches out on all sides, framed by the quiet, cassocked figures of the rowing monks. 
 
-[NARRATOR] Maggie responds with gentle reassurance:
+For a moment, confusion clouds her expression. She blinks slowly, closing her eyes to clear the lingering remnants of her dream state. When she opens them again, the monks are still there, silent and steady. She looks down at the bloodied hands resting protectively around her waist, realizing with a start that she is sitting on someone's lap. Slowly, she turns her head to look back over her shoulder.
 
-[MALE] Nothing.
+John offers her a warm, reassuring smile—friendly, gentle, entirely devoid of threat. 
 
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
+Ripley shakes her head, her mind fighting against the heavy cobwebs of exhaustion. She tries to speak, but her lips form only soundless, fragile words. Turning her gaze over her other shoulder, she looks out across the water. 
 
-[MALE] She got into Georgetown.
+In the distance, the great ship bobs silently upon the surface of the sea, growing smaller and smaller with each steady stroke of the oars. 
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+Ripley's brow knits together in deep concentration. She tries desperately to focus on the vessel as the memory of what happened slowly drifts back to her. Turning back to John, she attempts once more to find her voice.
 
-[MALE] You did!?    That's fantastic!
+[RIPLEY] Wait. New...
 
-[NARRATOR] Maggie adds in a relaxed, peaceful voice:
+[NARRATOR] Her strength fades, and her eyes gently close as she slips back into the quiet sanctuary of unconsciousness. The world around her softens into complete darkness.
 
-[MALE] It's no big deal.
+Inside the ancient abbey, long streaks of daylight slowly move across the deep shadows of the room, painting tranquil patterns of light and shadow against the dark wooden walls.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[NARRATOR] Within the ancient stone walls of the sanctuary, there exists a sublime, enveloping stillness. Yet, filtering softly through the thick masonry come the muted, far-off sounds of the abbey—the gentle, rhythmic sawing of timber, the distant, muffled tapping of a hammer, the murmur of whispered prayers, and the faint, lilting notes of a song drifting on the air. 
 
-[MALE] It's a huge deal. That's a great university. I'm proud of you.  Am I missing something here?
+[NARRATOR] The eye moves slowly down the shadowed wall, coming to rest upon a hand-made wooden bed where Ripley lies in restless, fitful sleep. Outside, upon the Arceon Sea at dusk, the dark waters grow rough with the silent approach of night. A cool wind whips across the white-capped waves, casting a fine spray over a dozen monks who deftly lash their wooden boats to Ripley’s ship with thick, heavy hemp ropes, beginning the slow, steady task of towing it toward the shore.
 
-[NARRATOR] Maggie answers in a low, calming tone:
+[NARRATOR] Inside Ripley’s quiet room at night, she sleeps, struggling faintly against some unseen, heavy foe. She tries to sit up, but her limbs are leaden; she tries to shake off the lingering, numbing effects of deep suspended animation. Through half-lidded, weary eyes, she looks up and sees John sitting quietly beside her, fast asleep. His hands are swathed in clean white bandages, an open book resting peacefully on his lap. 
 
-[MALE] You wouldn't understand.
+[NARRATOR] She squints through the dimness toward the deep shadows standing behind him. A figure’s skin picks up and reflects tiny points of flickering candlelight, seeming to ripple softly as it moves. It is the alien. Its large, black, shiny-smooth head drifts slowly into the taper’s glow, moving inexorably toward her, its cable-like arms held out at its sides, swaying just out of sync with its footsteps. Ripley tries to move, tries to cry out, but her voice is trapped. She can only move her anxious eyes, glancing over at John, sleeping so peacefully beside her, entirely unaware. The alien draws closer still. She can feel its cold breath as it evaporates the thin film of sweat upon her forehead, a sudden chill running through her veins, yet her body remains entirely unresponsive. The alien stands directly alongside her bed, extends a six-fingered hand, and gently rests it upon her stomach, cocking its massive head as though listening to the quiet rhythm within. The terrifying implication hangs heavy in the air. Finally, a sudden, desperate strength breaks through her paralyzed throat.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[RIPLEY] AAAAAAAAAAAARGH!
 
-[MALE] Try me.
+[NARRATOR] Her eyes fly wide open, and she sits bolt upright. A gentle hand moves to her forehead, softly pressing her head back down against the comforting pillow. It is John.
 
-[NARRATOR] Maggie answers in a low, calming tone:
+[JOHN] You're out of it. Out of it...
 
-[MALE] I have a lot of emotional stress right now. My friends are all going to different schools, I'm not even sure...
+[NARRATOR] Ripley falls back against the linens, her wide eyes glued to the dark corner where the alien had just appeared. John notices her intense focal point, turning his head to look back over his shoulder. There is nothing there. Ripley’s eyes roll back into her head as exhaustion pulls at her once more. She tries to speak.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[RIPLEY] It was there.
 
-[MALE] That's not stress. Wait `til you get out into the real world, get a crappy job, have some smarmy twerp- boss calling you bro-ski... Maggie rolls her eyes.
+[NARRATOR] Her hand, resting at her side, tightens instinctively into a tense fist. John’s bandaged hand covers hers, softly easing her fingers open again. She feels the warm, coarse texture of the linen bandages pressing gently against her palm. He begins to read quietly from Saint Augustine's Confessions, his voice a steady, rhythmic murmur. She begins to drowse once more as his soft words flow over her like gentle waves lapping rhythmically against a quiet shore.
 
-[NARRATOR] Alex whispers gently into the still air:
+[NARRATOR] Outside upon the surface of the Arceon during the day, a howling dust storm has kicked up, swirling fine earth through the air. The monks wear small round goggles and have rags tied securely over their noses as they labor together at a massive block and tackle arrangement. Hundreds of thick ropes grow taut in the wind. Heavy timbers groan under the strain as they lift Ripley’s ship into the air, slowly swinging it toward a large, welcoming portal. Inside the quiet safety of her room by day, Ripley lies with her eyes closed in deep repose. Outside her heavy wooden door, muffled voices murmur in the corridor.
 
-[MALE] Did you get the promotion, Dad?
+[ABBOT] How is the woman, John?
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[JOHN] I
 
-[MALE] Still waiting to hear. Mike forces a smile hiding his disappointment. EXT. SAN FERNANDO VALLEY/MIKE'S HOUSE - NIGHT Mike pulls up behind a `Dom's Nursery' van. He, Alex and Maggie step out. Mike eyes the van with disdain.
+[NARRATOR] Outside the heavy wooden door of the quiet chamber, the muffled murmurs of the corridor continue, soft as the brushing of dry leaves. 
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[ABBOT] How is the woman, John?
 
-[MALE] Is your mom home?
+[JOHN] I don't think she's here yet.
 
-[NARRATOR] Alex whispers gently into the still air:
+[NARRATOR] At the gentle, familiar cadence of John's voice, the slightest, most fleeting smile plays across Ripley's sleeping lips, as though she is being coaxed toward the surface of wakefulness by a distant tide. 
 
-[MALE] She's probably out back.
+[JOHN] She is close, though.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] As their words drift away into the stillness, Ripley stirs from her profound slumber. Her eyelids flutter open, absorbing the soft, ambient morning light filtering into the room. She rolls slowly onto her side. Right beside her bed, a large, clear window opens outward to the world. Propping herself up on one elbow, she gazes out through the glass into a veritable garden of earthly delights. Beneath a brilliant, celestial blue sky, monks labor in a state of quiet, meditative industry. Some pick crisp, heavy apples from low-hanging branches, while others fish in tranquil silence upon small inland lakes that ripple with silver light. Further off, men work with rhythmic strokes of hammer and saw, constructing small, charming wooden cottages. The entire scene is drenched in a lyrical, soothing warmth, wrapping around Ripley's senses and making her feel deeply, unexpectedly at peace. She scans the rolling countryside with lazy curiosity. Flocks of gentle sheep graze peacefully around the bases of enormous wooden ladders that stretch upward, hundreds of feet into the hazy distance, reaching toward the heavens. Suddenly, her eyes widen in a double-take. High above, workers standing upon a vast network of scaffolding use crude, heavy brushes attached to long poles to painstakingly paint the sky a brilliant, uniform blue. A slow realization settles over her. The abbey, the cottages, the fields outside her window—all of it exists on a single, enclosed level, deep within the hollow interior of a massive planetoid. The vaulted ceiling overhead, painted masterfully to resemble the infinite sky, punctuated by huge glass windows that permit the warm sunlight to pour through, is actually the underside of the planetoid's thick, mechanical outer shell. Confused, Ripley looks back down at the monks on the ground. To her astonishment, they are no longer building; instead, they are methodically taking the cabins apart, carefully stacking the weathered wood onto wooden pushcarts. 
 
-[MALE] Hey, next week we'll have a barbecue at Uncle Ed's. Sound good?
+[RIPLEY] What the hell --?
 
-[NARRATOR] Maggie adds in a relaxed, peaceful voice:
+[NARRATOR] Suddenly, without a sound of warning, her old escape ship appears directly before her window, swinging slowly past like a great pendulum, suspended by thick, heavy ropes. Then, it drifts upward, disappearing entirely from her line of sight. Troubled, Ripley reaches out to check her own steady pulse against her wrist. 
 
-[MALE] I'm counting down the minutes. Maggie heads straight for the modest ranch house and inside.
+[RIPLEY] This must be a dream. A bad one.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[NARRATOR] She rolls back onto the mattress, staring up at the painted ceiling above her. High up, on the flat roof of the abbey, unseen monks scurry about the metal hull of the ship as it is carefully lowered into place. With a deeply resounding, heavy thud that vibrates gently through the stone floor, the vessel settles into its final resting place. The low sound reverberates, and is instantly followed by another—the soft, deliberate click of her chamber door opening. Ripley turns her head on the pillow to find two figures standing in the doorway: John, waiting respectfully at the threshold, and the Abbot, who crosses the quiet room and seats himself peacefully in the wooden chair beside her bed. 
 
-[MALE] What's with her?
+[RIPLEY] Who are you?
 
-[NARRATOR] Alex responds with gentle reassurance:
+[ABBOT] I am the Abbot. Leader of this Colony. And you?
 
-[MALE] We see you once a week for a couple hours. What do you expect? Alex follows Maggie into the house.   Mike makes his way around back. EXT. MIKE'S HOUSE/BACKYARD - DAY As Mike rounds the corner, he almost runs into a smiling Dom Johnson, 36. Don lugs 3 loaded trash bags.
+[NARRATOR] He offers a smile that is open, warm, and entirely disarming. 
 
-[NARRATOR] Dom adds in a relaxed, peaceful voice:
+[RIPLEY] Ripley. How did I get here?
 
-[MALE] Hey, Mike. Good to see you.    Tough break, you and Scarlet.
+[ABBOT] Your vehicle crash landed. Brother John found you and brought you here.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[RIPLEY] Where is here?
 
-[MALE] Bite me, Dom. Dom serves Mike a cocky wink, continues on.    Mike scowls. Scarlet, 36, slams a shovel into the ground, wedges it beneath a dying shrub and rips it out.
+[ABBOT] This is the Minorite Abbey within the manmade orbiter Arceon.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[RIPLEY] Can I use a radio to --
 
-[MALE] A little late for a delivery isn't it?
+[ABBOT] We have no radio here. We are a monastic order that has renounced all modern technology. We live the old way. The pure way.
 
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
+[NARRATOR] She shakes her head slowly, the fog of stasis still clinging to the edges of her mind. 
 
-[MALE] Dom was in the neighborhood. He offered to make a dump run for me.
+[RIPLEY] Uh, I - I still don't feel 100%. Whoever took me out of the stasis tube must not have run the full D-F program... Where's Newt?
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] The Abbot looks at her blankly, his expression serene and uncomprehending. 
 
-[MALE] Doesn't he live 30 miles from here?
+[RIPLEY] There was a little girl with me --
 
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
+[ABBOT] You were alone.
 
-[MALE] What's your point?
+[RIPLEY] No. She was with me. I put her in her stasis tube -- We launched when the --
 
-[NARRATOR] Mike answers in a low, calming tone:
+[ABBOT] You were the only living
 
-[MALE] Come on. He's been after you since 10th grade and he's after you now.
+[NARRATOR] The heavy silence of the monastic infirmary presses down like a warm, heavy blanket, filled with the soft, steady hum of ancient ventilation ducts and the dim, amber glow of dying lamps. Shadows stretch long and quiet across the rough stone floors, blurring the edges of the room into a deep, comforting dusk. A gentle draft stirs the heavy wool of the Abbot’s robes, carrying the faint, earthy scent of ancient metal and cool, subterranean air. The Abbot watches her, his gaze serene and uncomprehending, undisturbed by the swirling tempest of realization taking root within her. The terrible truth washes over Ripley, cold and absolute, freezing the breath in her chest as the silence deepens around them.
 
-[NARRATOR] Scarlet whispers gently into the still air:
+[FEMALE] Oh, God. Newt.
 
-[MALE] At least someone's after me. Mike smiles playfully and begins to serenade-
+[NARRATOR] She stops, a sudden, ice-cold shiver running up her spine, rippling through her weary muscles like a winter breeze over dark water. The pieces click together with a sickening certainty, and the heavy weight of a nightmare settles upon her shoulders. She realizes, with absolute, terrifying clarity, that she must have brought the creature with her across the silent, black void of space.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[FEMALE] It came with us.
 
-[MALE] `In touch with the ground, I'm on the hunt I'm after you.' Scarlet shakes her head-
+[NARRATORS] The Abbot leans in closer, his face shadowed in the amber light, his voice a soft, low murmur that barely disturbs the quiet air of the room.
 
-[NARRATOR] Scarlet whispers gently into the still air:
+[MALE] What came with you?
 
-[MALE] Please, Mike. This isn't high school. That's not gonna work.
+[FEMALE] Listen -- there is a danger here. It came with me. How long have I been here?
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[MALE] Almost two days --
 
-[MALE] `Smell like I sound, I'm lost in a crowd, and I'm hungry like the wolf.' Mike flirtatiously stalks her.   Scarlet fights smiling.
+[NARRATOR] Ripley’s eyes dart into the dark corners of the room, her mind calculating the ticking seconds, the silent passage of time in the dim, unbroken twilight of the facility.
 
-[NARRATOR] Scarlet answers in a low, calming tone:
+[FEMALE] Loose for two days. This planet could be overrun within the week.
 
-[MALE] You can stop now. It's not working.
+[NARRATOR] Driven by a sudden surge of desperate urgency, Ripley reaches out and grabs the Abbot by the rough fabric of his cassock, her knuckles whitening.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[FEMALE] Look, there's a xenomorph -- An Alien creature. A killer. A monster. And now it's here.
 
-[MALE] `Mouth is alive, with juices like wine, and I'm hungry like the wolf' Mike gets close to Scarlet's face. She smiles, stops herself and pushes him away.
+[NARRATOR] The Abbot simply looks at her, his expression softening into a mild, patient blankness, mirroring the quiet detachment of a weary soul listening to distant, incomprehensible winds. Seeing the utter lack of understanding in his eyes, the frantic energy drains from her grip, and her hand slowly releases her hold on his robes. She takes a slow, deep, trembling breath, willing her racing pulse to match the slow rhythm of the room.
 
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
+[FEMALE] Calm down, Ripley. Okay, I was with a platoon of Colonial Marines on a mission to planetoid LV426. We left Earth six months ago - maybe a year --
 
-[MALE] You no longer have the right to invoke the "wolf." A chastised Mike eyes the yard...it's a WRECK...holes and mounds of dirt everywhere, carcasses of dead plants, bushes and flowers strewn about.
+[MALE] Wait a moment --
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] The Abbot shifts his gaze, suddenly aware of a soft presence in the doorway where John lingers in the deepening shadows. He turns his head slowly over his shoulder, his voice a gentle, commanding whisper.
 
-[MALE] Why are you destroying the yard? Scarlet stops shoveling, wipes dirt from her face.
+[MALE] Leave us.
 
-[NARRATOR] Scarlet murmurs with a warm, steady cadence:
+[NARRATOR] John waits there for a quiet beat, the heavy wooden door hovering on its hinges, before he steps backward into the hall and the door clicks softly shut, sealing them in quiet isolation.
 
-[MALE] I'm gonna use it as a showpiece for clients. Thanks for asking.
+[MALE] Continue.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[FEMALE] We launched in the Cruiser Sulaco from Gateway sub-orbital space station --
 
-[MALE] Kind of a big undertaking isn't it?
+[MALE] Not possible.
 
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
+[FEMALE] What do you mean?
 
-[MALE] I am a landscape designer. Then again you barely took an interest in my work so I guess that's a fair question. An awkward silence.   Then-
+[MALE] When we left Earth seventy years ago, it was on the brink of a New Dark Age. Technology was on the verge of destroying the planet's environment. A computer virus was threatening to wipe away all recorded knowledge. There didn't seem to be any way it could be averted. In the almost forty years since we were towed out here in hypersleep, the news that came with occasional supply ships only got worse. Finally, the ships stopped coming. We had to resign ourselves to the fact that worst had come to pass, and the Earth no longer existed.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[NARRATORS] Ripley stares at him through the amber gloom, her eyes heavy with exhaustion, her mind adrift in the incomprehensible vastness of lost time. 
 
-[MALE] I didn't get it.
+[FEMALE] Uh...All right... Forget the Earth - How many people do you have here? Let's worry about them. Warn them --
 
-[NARRATOR] Scarlet whispers gently into the still air:
+[NARRATOR] A new, subtle shift overtakes the Abbot's features, a shadow of genuine fear flickering behind his serene mask as her words brush against the edges of his calm. He abruptly stands, his heavy robes rustling in the quiet air.
 
-[MALE] I'm sorry. But maybe this is what you needed. Maybe it's time you looked for something else?
+[MALE] Your mind is troubled. You need to rest some more.
 
-[NARRATOR] Mike whispers gently into the still air:
+[FEMALE] I don't need rest - I need to get to your people. You've got to get to them -- tell them about the alien --
 
-[MALE] That's a great idea, Scar. Because there are so many options out there for a 36 year old with only a high school diploma.
+[NARRATOR] He turns away, heading with measured, unhurried steps toward the heavy wooden door, eager to retreat into the safe, familiar stillness of the corridors.
 
-[NARRATOR] 15. offers quietly, watching the shadows drift across the room:
+[MALE] I have had enough for now.
 
-[MALE] Scarlet throws the shovel to the ground.
+[FEMALE] Enough? Didn't you hear what I said? It could wipe out the entire population of this planet. It may have started already - Have there been any unusual deaths since I got here?
 
-[NARRATOR] Scarlet whispers gently into the still air:
+[NARRATOR] The Abbot stops at the threshold, his silhouette framed by the dim, cool light of the hallway, his voice dropping to a final, undisturbed cadence.
 
-[MALE] And it's all my fault, isn't it?
+[MALE] No. And there won't be.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[NARRATOR] The heavy wooden door closes with a definitive, echoing thud, sealing the silence of the corridor outside. In the dim, amber-lit hallway, the Abbot stands tall, his heavy robes rustling softly as he turns to address the two burly monks standing at attention in the shadows. 
 
-[MALE] I didn't say that.
+[MALE] Bolt it.
 
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
+[NARRATOR] The guards move with heavy, deliberate steps, sliding the massive iron bolts into place with a deep, reverberating metallic groan. John steps forward from the edge of the torchlight, his brow furrowed in quiet confusion.
 
-[MALE] No, but it's what you think, right? Mike's silence says it all.    Scarlet fights back tears.
+[MALE] What is it—what's wrong?
 
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
+[MALE] Your patient is in a dangerous mental state. Nobody gets in or out until I say so.
 
-[MALE] I never asked you to marry me.
+[MALE] But I... Her meals—
 
-[NARRATOR] Mike answers in a low, calming tone:
+[MALE] Nobody.
 
-[MALE] But I did. Scarlet shakes her head in frustration.
+[MALE] Father, I don't understand—
 
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
+[NARRATOR] The Abbot does not look back, his retreating footsteps fading away down the long, cold stone corridor until the monastery settles once more into a profound, heavy stillness. John stands in the dimness, looking from the empty hallway to the two silent, unyielding guards, before turning away into the quiet night. 
 
-[MALE] I'm sorry you're not happy with the way your life turned out Mike, really, I am, but you're not the victim here. Scarlet goes back to shoveling.    Mike turns, steps, falls into a hole. INT. MIKE'S AUDI - NIGHT A somber Mike drives alongside the Los Angeles River. An old song plays low on the radio...static...then...BOOM. THUNDER roars scaring Mike and literally shaking the Audi. SPLASH. RAIN drops in buckets.
+Hours drift by in the deep, shadowy library. The candlelight has burned low, casting long, lazy shadows across the ancient leather-bound tomes and dusty wooden tables. John sits with his head buried in his crossed arms, breathing in a slow, steady, rhythmic cadence of deep slumber. At his feet, curled into a warm, soft ball, Mattias the dog sleeps just as peacefully, his quiet chest rising and falling in time with the quiet whispers of the night. 
 
-[NARRATOR] Mike responds with gentle reassurance:
+Suddenly, the library door flies open with a sharp, echoing slam. 
 
-[MALE] Jesus! Mike turns the wipers on high. Not much help. He slows the car to a crawl, straining to see out the windshield. LIGHTNING flashes. We see the Janitor leaning over the railing looking into the raging river. Mike brakes, throws his door open, jumps out into the pouring rain. EXT. ROAD - NIGHT
+John sits bolt upright, blinking away the heavy haze of sleep as a frantic, breathless monk rushes headlong into the room, his footsteps slapping wildly against the cold stone floor.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] Brother John! You're here! The Abbot said you'd—I need—you're the medic—
 
-[MALE] Hey!?     Get away from there!?
+[MALE] What?!
 
-[NARRATOR] 16. responds with gentle reassurance:
+[MALE] My Sandy—she's ill—
 
-[MALE] Mike, blinded by the rain makes his way to the railing. The Janitor's GONE.
+[NARRATOR] John rubs the remaining fatigue from his eyes, his voice thick and slow with the lingering warmth of dreams.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[MALE] Huh? A woman?
 
-[MALE] Oh no!!   Hello!? Mike leans over the rickety railing, looks down... The phosphorescent water swirls angrily...rising quickly. It's mesmerizing. Magical. Mike can't take his eyes off- LIGHTENING FLASHES Mike's 17 year-old face reflection stares back up at him.
+[MALE] Sandy. My ewe.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[NARRATOR] With a heavy sigh, John lets his head sink slowly back down onto the cool wooden table, seeking the comfort of sleep once more.
 
-[MALE] What the- CRACK. The railing BREAKS.    Mike FALLS...SPLASH...headlong into the river. CUT TO: EXT. ED'S HOUSE - NEXT MORNING Mike's Audi rolls into the driveway. The door swings open. A muddy, shoeless foot steps out followed by a shoed foot but in no better shape. WE follow the feet, tattered slacks dragging on the cement, to the door. 2 filthy hands dig into pockets, searching-
+[MALE] One of your sheep? Jesus Christ. Call a vet.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] Father Anselm was the vet.
 
-[MALE] Damn it.  Ed! Ed! I lost my key! INT. ED'S HOUSE - MORNING Ed, wrapped in a robe, tissue between his toes, wobbles to the door so as not to mess up his freshly polished nails.
+[NARRATOR] John turns his head slightly, peering sideways under his arm at Mattias. The dog merely blinks back, staring with quiet, sleepy indifference.
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[MALE] You're no help. Okay, let me get my bag. All creatures great and small...
 
-[MALE] Coming!   I've been worried sick!
+[NARRATOR] Moments later, the heavy wooden door of the animal barn creaks open, letting in a draft of crisp, freezing night air. Inside the small, rustic structure, a handful of sheep stir sleepily in their pens, and a few chickens rest quietly in wire cages. The wooden walls are weathered and worn, full of wide gaps where planks have long since been stripped away. The monk holds a flickering torch aloft, casting dancing, golden shadows across the hay-covered floor where one of his ewes lies resting on her side, breathing with a shallow, rapid rhythm.
 
-[NARRATOR] Where- whispers gently into the still air:
+[MALE] I just gave her dinner and she keeled over.
 
-[MALE] Ed opens the door...standing before him is Mike, covered in MUD. His ripped, grimy suit now hangs off of him because...HE'S 17 AGAIN. Ed's eyes widen with FEAR.
+[MALE] So would I. It's freezing in here.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[MALE] Been using the wood from the walls for the fire in my cabin.
 
-[MALE] I've had a really rough night.
+[MALE] Haven't we all...
 
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
+[NARRATOR] John kneels slowly in the straw beside the fallen animal, the chill of the earth seeping gently through his clothes. He plants his left hand flat upon the hay-strewn floor to steady himself, while his right fingers gently press against the ewe's neck to check her pulse. The animal lets out a soft, trembling, exhausted bleat.
 
-[MALE] AAAAAHHHHHHHHH!!!!! Ed slams the door, frantically wobbles away. The door opens, ANGLE ON the muddy feet as they enter and follow the trail of cotton balls up the stairs and to the bathroom door. INT. BATHROOM - DAY ANGLE ON Ed cowering against the back wall, brandishing an over-sized loofah. The door slowly swings open. Ed gasps-
+[MALE] Baa-ah.
 
-[NARRATOR] Ed responds with gentle reassurance:
+[MALE] May be pneumonia. Pitch some of that hay around her. Stop this damn cold breeze.
 
-[MALE] Don't come any closer!    I'll use it!
+[NARRATOR] The monk wedges the smoking torch securely into the wire of an empty bucket, then reaches up to pull a crude, heavy iron pitchfork from its resting place on the wall. He begins to gather loose straw, piling it gently around the shivering creature to block the creeping draught. John starts to shift his weight, reaching back toward the leather medical bag resting against his knee, when his movement suddenly freezes. He stares down at his left hand, resting in the straw. The fingers are coated in a thick, glistening, translucent layer of slimy, mucous-like substance. 
 
-[NARRATOR] Mike whispers gently into the still air:
+[MALE] Wait a minute...
 
-[MALE] What are you gonna do? Exfoliate me to death?  You got into my samples case again, didn't you? A whimpering Ed points to the mirror.
+[NARRATOR] The monk pauses mid-stroke, resting the tines of the pitchfork against the packed earth. John lifts his hand slowly, rubbing the strange, cool material between his thumb and forefinger. He brings it closer to his face, inhaling quietly to test the scent.
 
-[NARRATOR] Mike whispers gently into the still air:
+[MALE] What is it?
 
-[MALE] What's your problem, it's only mud. The muddy feet turn toward the mirror and-
+[MALE] I don't know. It's all over the ground. Some sort of—
 
-[NARRATOR] Mike answers in a low, calming tone:
+[NARRATOR] Suddenly, the ewe stiffens violently, a sharp, terrifying spasm shooting through her frame. 
 
-[MALE] AAAAAAAAHHHHHHH!!! ANGLE ON the mirror. Mike's 17. He turns on the water, splashes his face frantically. Mud gone. He's still 17.
+[MALE] BAAA-AAAH!!!
 
-[NARRATOR] Mike answers in a low, calming tone:
+[NARRATOR] The animal begins to shake and quiver uncontrollably against the straw. John lunges forward, his hands pressing down to steady her trembling body as the shadows close in around them.
 
-[MALE] AHHHHHHHHHHHH!!! Mike tears his suit jacket and shirt off...hairless chest. He yanks off his pants, peeks down his boxers-
+[NARRATOR] Within the dim, straw-strewn shadows of the ancient enclosure, the atmosphere shifts from deep quiet to sudden, frantic panic. The terrified monk loses all restraint, his voice cracking and echoing off the timber walls in a frenzy of absolute disbelief and raw terror.
 
-[NARRATOR] Mike whispers gently into the still air:
+[MALE] What?! WHAT?!
 
-[MALE] I'm dreaming right? Is this some kind of hallucination? Mike pulls Ed up by his robe.
+[MALE] Jesus! Help me—
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] The ewe shivers with such violent, unnatural force that John is physically hurled backward through the dim air. His hand strikes a wooden bucket, sending it clattering across the floorboards. The heavy torch slips from its resting place, tumbling down into the dry bedding below. For a brief, breathless moment, the flame nearly smothers in the dark, casting the barn into an even deeper, heavy gloom. Then, the dry hay catches, sparking a weak, flickering orange glow that illuminates the grotesque scene. 
 
-[MALE] Do something! Anything!    Pinch me! Ed throws a knee into Mike's nuts, bolts out the door SCREAMING. Mike crumbles.
+[MALE] BAAaa-Aha-SCLORTCH-H-!!
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] With a sickening, explosive rupture, the body of the ewe bursts open. A heavy, warm spray of dark entrails and blood drenches the two men, their voices rising together in desperate, unending screams. As the growing firelight flickers and dances against the wooden beams, something unimaginable emerges from the twitching remains. A terrible, alien creature forces its way out of the carcass, bearing the twisted, grotesque characteristics of the beast that birthed it. Tiny, razor-sharp teeth gleam within the dim light, and black, glass-like eyes peer outward from an elongated head covered in soft, gore-matted wool. It is a quadruped, its shrunken hind legs struggling feebly to pull itself free from the cooling morass of entrails. John can only stare, his throat tight with a silent scream, as the most horrifying nightmare imaginable tries to tear itself free from the shell of the mortal world. Overcome by a sudden, protective anger at the loss of his beloved animal, the monk steps firmly in front of the paralyzed, catatonic medic. With a swift, instinctive motion, he thrusts his heavy pitchfork forward.
 
-[MALE] I said pinch! INT. ED'S HOUSE/FOYER - DAY Ed reaches the door, fumbles with the locks. He just manages to open the door when Mike tackles him to the floor. The two buddies roll around, limbs intertwined.
+[MALE] Hyaaah!
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[NARRATOR] The sharp prongs pierce deeply into the forming body of the abomination. The creature lets out a high-pitched, agonizing shriek—a haunting sound, half-alien and half-sheep—as it is violently torn from its dark nesting place. The monk hefts the weapon upward. The creature twists desperately at the end of the tines, hissing as dark, acidic blood drips downward onto the wooden floor. Each droplet touches the timber and instantly bursts into a tiny, crackling pool of fire. Turning sharply toward the rapidly spreading blaze in the corner of the barn, the monk shoves the abomination straight into the heart of the flames. The strange hybrid pops and sizzles as long tongues of orange fire leap upward to consume its struggling body, its tiny tail whipping about in the heat. The creature's fading screams soon quiet, leaving the crackle of the fire as the only sound echoing through the timber barn. The monk holds the end of his fork steady within the flames, then glances back to check his companion. John sits frozen in the dim light, his face contorted in sheer horror, his eyes glued to the burning pyre. His heaving lungs push air through his diaphragm, but no sound escapes his open, trembling mouth. The young doctor in training has looked directly into the abyss and seen the face of the devil. Outside, beneath the quiet, velvet canopy of the night sky, the wooden walls of the barn begin to creak and collapse inward as the entire structure transforms into a towering pyre. Acrid, heavy black smoke curls upward toward the high ceiling, spreading in slow, darkening waves across the ancient rafters. The perspective drifts slowly backward, pulling away from the blazing wreckage and passing gently through a small, paned window. Inside a quiet, shadowy room, Ripley stands near her cot, watching the distant fire through the glass with a mixture of fatigue and frustration. On unsteady legs, she moves to the edge of the bed, wearing her simple tank top and shorts. She reaches for a coarse woolen cassock, slipping her arms into the heavy sleeves before tying the thick rope belt securely around her waist.
 
-[MALE] Calm down! We need to talk!     We can work this out! FEMALE VOICE  Aye dios mio! They stop wrestling, look up.   The LATINO MAID stands in the doorway genuflecting.
+[FEMALE] Idiots... I'll—
 
-[NARRATOR] Ed whispers gently into the still air:
+[NARRATOR] WHAM! The wooden door bursts open with a sudden, echoing crash, shattering the quiet stillness of the room.
 
-[MALE] Maria, we're just friends.   Really. The Maid hurries off muttering prayers in Spanish. CUT TO: EXT. ED'S HOUSE/BACKYARD - LATER
+[FEMALE] What the—?
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[NARRATOR] Four large, burly monks rush across the threshold before she can react, their heavy hands seizing her arms. They pull her roughly from the room, dragging her down the long, darkened stone hallway into the cool shadows of the night. Above the scuffling footsteps, a distant, solemn voice echoes through the vaulted corridors.
 
-[MALE] My theory is that you were transformed by a freak congruence of some of the planets most volatile elements. I've recreated the exact contents of the LA River. The toxic pollutants, the contaminants. REVEAL Mike in the gurgling green water of the hot tub.
+[MALE] An evil has come to Arceon...
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] The echoes fade softly away, carrying the listener deeper into stillness, toward a quiet, dreamless sleep.
 
-[MALE] Well, it obviously isn't working.
+[NARRATOR] High above the stone floors, the vaulted chamber breathes with the heavy, quiet silence of the night. Lantern light flickers softly against towering wooden walls that stretch thirty feet into the shadows, casting long, gentle shadows over a sea of solemn faces. Hundreds of monks sit in a vast, terraced gallery, their cowls draped in stillness, watching the center of the room where colored light from stained glass windows bleeds in pale blues and amber tones. Down upon the long wooden tribunal table, the Abbot sits flanked by the eldest members of the order. His voice drifts across the hushed room, calm and deliberate, cutting through the heavy air.
 
-[NARRATOR] Ed responds with gentle reassurance:
+[MALE] You heard Brother Graham tell of the devil inside sheep's wool. An evil brought by this woman in her vessel of technology.
 
-[MALE] That's because the cocktail's not complete. Ed picks up a TOASTER attached to an extension cord.
+[NARRATOR] The Abbot gestures slightly toward the assembly, where a single, trembling monk sits among the quiet crowd. In the center of the witness stand stands Ripley, her eyes scanning the sea of austere faces, finding only ripples of fear and rigid judgment. The weight of the moment presses down on her like a deep, heavy fog.
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[FEMALE] This can't be happening.
 
-[MALE] Last night we had the worst electrical storm of the last hundred years.
+[NARRATOR] Beside the table, one of the bald tribunal monks leans forward, his expression carved in unyielding stone.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] You have no voice in this tribunal.
 
-[MALE] Is that true?
+[NARRATOR] Ripley feels the chill of the high-ceilinged room settle against her skin, but urgency pushes her forward, compelling her to speak against the gathering dark.
 
-[NARRATOR] Ed responds with gentle reassurance:
+[FEMALE] You must listen to me! You're all in terrible danger! It came with me on the ship...
 
-[MALE] It was pretty bad. Ed raises the toaster-
+[NARRATOR] The Abbot nods slowly, his hands resting quietly on the polished wood before him.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] We know that. At first we believed its arrival was a good omen. But it has only brought pestilence. Dead sheep. Dead fish. Evil.
 
-[MALE] Wait!! Wait!! Wait!! Do you really think this'll work?
+[NARRATOR] Ripley turns her gaze directly to the Abbot, her voice desperate to pierce the ancient walls of misunderstanding.
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[FEMALE] Yes, the ship brought it. Not evil. It brought the Alien. I told you, it's here.
 
-[MALE] It could. Ed tosses it in. Mike screams.   Nothing happens.
+[NARRATOR] The Abbot replies, his tone steady and rhythmic, echoing gently against the high rafters.
 
-[NARRATOR] Ed whispers gently into the still air:
+[MALE] We know the name of the evil it brought. It brought technology. Technology to destroy our planet, as surely as it destroyed the Earth.
 
-[MALE] Oops. Came unplugged. Won't be a moment. Ed reaches down to plug it in.
+[NARRATOR] From the shadowed tiers of the audience, a single monk calls out into the quiet hall.
 
-[NARRATOR] Ed whispers gently into the still air:
+[MALE] Destruction!
 
-[MALE] What were you doing by the river anyway? CLOSE ON MIKE, Light bulb goes off.   He leaps out, runs for the house.
+[NARRATOR] Ripley shakes her head, the warmth of truth rising in her chest, pushing back against the cold certainty of the room.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[FEMALE] I was on the Earth less than a year ago. It's still there. People, cities, all still there!
 
-[MALE] The janitor! CUT TO: EXT. FITCH SENIOR HIGH SCHOOL/PARKING LOT - DAY The Audi screeches to a stop in front of the school.   Mike bounds out, wearing a robe, races inside.
+[NARRATOR] A soft murmur drifts through the gallery like wind through dry leaves. Some of the monks lean forward, listening, caught between ancient doctrine and the sound of her conviction. The Abbot looks around the room, sensing the shift, and quietly reasserts his steady, unyielding command.
 
-[NARRATOR] 20. speaks with a quiet, measured softness:
+[MALE] All dead.
 
-[MALE] INT. FITCH SENIOR HIGH SCHOOL/HALL - DAY Mike rushes past baffled STUDENTS, asking no one in
+[NARRATOR] The words hang in the heavy air, and frustration breaks through Ripley's calm, her voice rising in a sharp, echoing cry.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[FEMALE] It's still there!
 
-[MALE] Has anyone seen the janitor? Is the janitor here? Where's the janitor? Mike reaches the familiar wall of pictures.    Kids point, laugh, stare. A FEMALE JANITOR, steps from a room.
+[NARRATOR] The Abbot smiles faintly to himself, watching her fracture under the weight of their disbelief. He rises from his seat, beginning a slow, measured pace across the timbered floor.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[MALE] You could not have been on the Earth a year ago, because there is no Earth to be on—for at least twenty years.
 
-[MALE] Excuse me! Excuse me!? Can you tell me where I can find the night janitor?
+[NARRATOR] Ripley stares at him, disbelief washing over her weariness, her breath coming softly in the cool, drafty room.
 
-[NARRATOR] Janitor responds with gentle reassurance:
+[FEMALE] I haven't been floating in space for twenty years. Let me get to my ship and I'll prove it.
 
-[MALE] I'm the only custodial engineer currently employed here.
+[NARRATOR] The bald tribunal monk shakes his head, his hands folded deep within the sleeves of his robe.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[MALE] No. Who knows what new evils she'll release if allowed back into that infernal machine.
 
-[MALE] There was an old guy, white hair. I showed him this picture of me- Mike points to the 1989 team photo.
+[NARRATOR] From the distant shadows of the audience, another voice joins the chorus of hesitation.
 
-[NARRATOR] Janitor adds in a relaxed, peaceful voice:
+[MALE] No! Don't let her!!
 
-[MALE] -Of you?   That picture's from 1989. Mike backs away from the picture and the Janitor.
+[NARRATOR] A tribunal member leans forward, his voice a low, heavy warning that settles over the silent assembly.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] This woman is a danger. She denies The New Dark Age. She denies reality.
 
-[MALE] Right.   Forget it. Confused, Mike stumbles to the bathroom. He's about to enter, three letter jacket wearing JOCKS, STAN, JAZZ and KEVIN, burst out laughing, knocking Mike on the way by. INT. FITCH SENIOR HIGH SCHOOL/BATHROOM - DAY Mike enters, moves to a sink, turns the water on- VOICE  Can I get a little help in here? Mike turns, sees what appears to be UNDERWEAR stretched over the corner of a closed stall door.
+[NARRATOR] Ripley looks from face to face, realizing the vast, unbridgeable chasm between her world and theirs. She swallows hard, the memory of the ship and the terror within pressing close.
 
-[NARRATOR] 21. offers quietly, watching the shadows drift across the room:
+[FEMALE] This is reality. There is a Xenomorph loose on this planetoid—an alien—it must have stowed away on my ship—must have killed... Newt. Killed the girl I brought with me. You can't stop it. It goes inside you like an egg—grows—explodes out of you—keeps growing into some sort of monster. Kills you... Kills all of you...
 
-[MALE] Mike approaches the door, swings it open...there HANGS Alex, sneakers dangling 3 feet off the ground. The back of his underwear wrenched up over the corner of the door.
+[NARRATOR] She gazes out at the medieval figures surrounding her, their expressions blank and uncomprehending. To them, her words are the wandering thoughts of a restless dream. In the quiet dimness of the sanctuary, she looks upon them with a quiet, lingering wonder.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[FEMALE] Who are you people? Look at you—all of you—the way you're dressed. This...
 
-[MALE] Alex?   What are you doing up there?
+[NARRATOR] The sanctuary air hangs heavy with the scent of old tallow candles and centuries of dust, undisturbed by the mechanical hum of the artificial world beating faintly far beyond the stone walls. Shadows stretch long and indigo across the flagstones, swaying gently in a draft that smells of cool metal and ancient earth. The woman stands amidst the robed figures, her voice echoing softly against the vaulted ceiling, dissolving into the quiet stillness of the room.
 
-[NARRATOR] Alex murmurs with a warm, steady cadence:
+[FEMALE] This isn't the Middle Ages. You're in space—on an artificial planet. What are you doing out here?
 
-[MALE] I wanted to see if I could get my nuts into my esophagus. What do you think I'm doing!? Get me down!
+[NARRATOR] Her gaze sweeps upward, bypassing the sea of blank, uncomprehending faces, searching the shadowed tiers above until her eyes find him. John stands silently in the upper gallery, bathed in the amber glow of a single lantern. Their eyes meet across the vertical expanse of the hall, a silent plea hanging heavy in the dim air between them. She looks at him, her expression softening with a tired, desperate hope.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[FEMALE] Isn't there anyone here who will listen?
 
-[MALE] Okay.   Okay. I'll get you down. Mike pulls the underwear off the door.   Alex drops, reaches down his pants, adjusts his underwear.
+[NARRATOR] John looks from her to the Abbot. The Abbot’s dark, unyielding gaze meets his, holding him in place with the silent weight of absolute authority. John hesitates, the warmth of doubt flickering in his chest, before he slowly turns his head away, yielding to the profound, unbroken quiet of the sanctuary. 
 
-[NARRATOR] Alex answers in a low, calming tone:
+[FEMALE] I guess not. I can't believe this...
 
-[MALE] How do you know my name?
+[NARRATOR] A heavy wooden gavel strikes the desk, a dry, flat crack that shatters the hushed atmosphere, followed by the Abbot sitting in a profound, heavy moment of quiet contemplation. 
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[ABBOT] Then there is no choice.
 
-[MALE] I'm...Mark...Freedman. Your Uncle Ed's son. He told me to look out for you.
+[NARRATOR] Four monks step forward from the shadows, their movements methodical and silent as their rough woolen robes brush against the stone. They take her arms, binding them securely with hemp rope that smells of salt and age. 
 
-[NARRATOR] Alex whispers gently into the still air:
+[ABBOT] The evil is inside you. I cast you down. To be sealed away. And God have mercy on your soul.
 
-[MALE] Uncle Ed has a son?
+[NARRATOR] The scene dissolves into the dim cavernous depths of the shaft room, lit only by pale, horizontal bars of filtered daylight slicing through the high grates. A primitive wooden cage hangs suspended over a vast, echoing abyss, swaying slightly on thick, rough-hewn ropes that creak with a low, rhythmic sigh. Ripley is guided toward the cage, her bound arms held carefully by the monks. Before the door is shut, she casts one final look back at the gathering of silent watchers.
 
-[NARRATOR] Mike whispers gently into the still air:
+[FEMALE] You won't be able to fight it... You don't know what it is...
 
-[MALE] Believe me, it's gonna be a surprise to him too. Did those guys do this to you?
+[NARRATOR] The wooden door latches shut with a hollow, echoing thud. Two monks take hold of the heavy ropes, their muscles straining as the cage lifts smoothly, drifting out over the immense, dark emptiness of the chasm. The other monks crowd close to the stone edge, looking down into the gloom. Through the gaps in the wood, John pushes his way through the cluster of robed bodies, pressing right to the precipice. He watches as the wooden cage is slowly, methodically lowered into the swallowing darkness below. Ripley looks up, her eyes finding his one last time through the fading light.
 
-[NARRATOR] Alex answers in a low, calming tone:
+[FEMALE] You've sentenced yourselves to death!
 
-[MALE] Goons from the basketball team.
+[NARRATOR] John watches in silence as she vanishes entirely into the velvety blackness of the shaft. He turns away abruptly, pushing back through the quiet crowd, walking down the long, dim hallway toward the Tribunal room. The chamber is empty now, save for the Abbot and a few senior members murmuring in low, hushed tones that barely stir the dust motes floating in the afternoon light. John pauses in the doorway, his breathing quiet, straining to catch the fragments of their conversation.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[BALD TRIBUNAL MONK] ...they'll have started before she gets down to the Hermitage level.
 
-[MALE] But why?
+[ABBOT] No trouble?
 
-[NARRATOR] Alex answers in a low, calming tone:
+[BALD TRIBUNAL MONK] Only finding the wood for the ship. But Anderson's hut was about that big, and he's dead three months now.
 
-[MALE] Because they can and so they do on a daily basis.
+[ABBOT] I had that wood earmarked for the Cloister next winter. Well, we might not get to the winter if we don't take care of this. By winter time we can start taking the penitent cells apart. No one in them.
 
-[NARRATOR] But you're one of them.
+[ANOTHER TRIBUNAL MONK] The wood isn't going to last forever.
 
-[NARRATOR] Alex responds with gentle reassurance:
+[ABBOT] Neither are we...
 
-[MALE] No, I'm not. Nice robe, guy. Gotta go. Alex walks out bowlegged.   A devastated Mike watches him go.
+[NARRATOR] The Abbot raises his eyes, becoming quietly aware of John standing in the doorway. With a subtle motion of his hand, he dismisses the remaining tribunal members, who file out silently into the corridor, their sandals whispering against the stone. John steps forward into the room, crossing the floor toward the Abbot, who stands waiting by his table, already knowing the words that are about to come.
 
-[NARRATOR] 22. answers in a low, calming tone:
+[ABBOT] Go ahead.
 
-[MALE] INT. AUDI - MOMENTS LATER Mike drives off out of the parking lot. To his left he spies- ANGLE ON: Stan and Maggie making out against Stan's Mustang. Mike pounds on the horn, scaring them apart.   Drive's off. INT. ED'S HOUSE/KITCHEN - NIGHT Ed sits at the island, a laptop in front of him. On the screen WE see he's perusing www.spellscursesincantations.com. The sound of the front door opening and closing. Mike enters.
+[JOHN] This woman. Ripley. I tended her...
 
-[NARRATOR] Ed answers in a low, calming tone:
+[ABBOT] Yes, and you did a good job. You shouldn't feel responsible. You couldn't have known...
 
-[MALE] Did you find the janitor?
+[JOHN] Please, sir, let me finish. I feel that there may be something to what she says.
 
-[NARRATOR] Mike whispers gently into the still air:
+[ABBOT] There isn't.
 
-[MALE] He doesn't exist.   Nothing makes sense.
+[NARRATOR] The Abbot moves deliberately to his table, his fingers gently gathering up his wooden gavel and leather-bound notebook in the quiet, dim room. John follows him closely, a persistent shadow seeking answers in the twilight.
 
-[NARRATOR] Ed answers in a low, calming tone:
+[JOHN] I don't understand what you are doing.
 
-[MALE] Did he ask you for your soul?
+[ABBOT] This colony is my responsibility.
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] The heavy silence of the monastic study hung suspended in the amber glow of a solitary brass lamp, casting long, wavering shadows against the ancient stone walls. Outside, the night wind whispered softly over the bleak, remote landscape, brushing against the weathered glass with a rhythmic, soporific sigh. 
 
-[MALE] No?
+[MALE] I am protecting the colony.
 
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
+[NARRATOR] John shifted his weight slightly, the floorboards groaning beneath him in the quiet room, his eyes fixed on the steadfast silhouette of the leader.
 
-[MALE] That's a good sign. We can eliminate Satan.  I think what we're dealing with here is a spell of enlightenment.  "Spell affect"..."casting procedure"...yada, yada, yada. Basically it's a learning spell. There's something you need to figure out and until you do you'll stay a kid. My guess is that janitor was probably a war...
+[MALE] From what? This woman? You never gave her a chance. How can you be so sure you're right?
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[NARRATOR] The Abbot paused, the gentle rustle of his coarse garments echoing softly in the still air, his gaze steady and unyielding.
 
-[MALE] ...I'm going back to high school.
+[MALE] A better question is what makes you think I'm wrong?
 
-[NARRATOR] Ed answers in a low, calming tone:
+[MALE] You didn't see this thing -- this demon -- Brother Graham and I -- we both saw it.
 
-[MALE] ...lock. I'm sorry. Could you repeat that? Because I thought you just said you were-
+[NARRATOR] A slow realization softened the edges of the Abbot's expression, a quiet weight settling over his features like dusk falling across the courtyard.
 
-[NARRATOR] Mike whispers gently into the still air:
+[MALE] That's right. You both did. And what was it?
 
-[MALE] Going back to high school. Mike grabs a beer from the fridge, cracks it. As Mike is about to take a sip, Ed swipes the beer from his hand...CHUGS it down.
+[MALE] I -- I don't know what it was. But I don't think Ripley was a party to it.
 
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
+[MALE] She admits she brought it.
 
-[MALE] Are you out of your freaking mind!?
+[MALE] But she tried to warn us --
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] You know that's how the devil works. Deception.
 
-[MALE] My son was hanging by his underwear from a bathroom stall door and my daughter was being mauled by a smarmy gorilla. They need me.
+[MALE] But I believe her. I don't know how to describe it -- A feeling.
 
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
+[NARRATOR] A cool draft slipped beneath the heavy wooden door, carrying the faint scent of rain and old parchment. The Abbot tilted his head, studying the earnest face of his companion.
 
-[MALE] What about your job?
+[MALE] You haven't seen a woman in thirty years. Where does this feeling originate, John?
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] John slowly raised a hand, touching his temple with a quiet, certain gentleness as the shadows danced lazily along the wall.
 
-[MALE] Email and telephone.   I got it covered.
+[MALE] Here.
 
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
+[NARRATOR] A profound hush settled over the room, broken only by the distant, rhythmic ticking of a clock and the sigh of the wind outside.
 
-[MALE] Well, Scarlet, then.   What are you gonna tell her?
+[MALE] I believe you. But your feelings are fooling you.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[MALE] It's - It's her conviction. I just think --
 
-[MALE] Nothing.
+[NARRATOR] The Abbot’s voice cut through the stillness, sharp and sudden, shattering the quiet like a pebble falling across still water.
 
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
+[MALE] Don't think.
 
-[MALE] You're just gonna disappear?
+[NARRATOR] John drew back a step, a ripple of quiet surprise washing over him as he absorbed the unfamiliar tone. The Abbot exhaled a long, tired breath, running a calloused hand through his thinning hair before offering a fleeting, weary smile.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] It's been a long night. For all of us. You really don't understand what you're dealing with here.
 
-[MALE] To be honest, I think she'd rather have it that way. What's with the attitude?
+[MALE] That's what she said.
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[NARRATOR] A shadow of annoyance crossed the Abbot's features, fleeting and heavy.
 
-[MALE] Because I know you're going to suck me into this and I'm not going back there, Mike. You'll never get me to go back to Fitch. Never! CUT TO: INT. FITCH SENIOR HIGH SCHOOL/OFFICE - DAY
+[MALE] These are ideas which threaten the very system we live under. The creature is dead and the woman is gone. Forget them. Both. Go read. Go fishing. Go anywhere, but leave this alone.
 
-[NARRATOR] Ed whispers gently into the still air:
+[MALE] But I --
 
-[MALE] I hate you.
+[MALE] Alone. I'll get Philip to let Mattias into the Library, all right? For your own good, just stay out of this.
 
-[NARRATOR] 24. responds with gentle reassurance:
+[NARRATOR] John hesitated, his lips parting to speak, but the stillness in the room silenced him.
 
-[MALE] PULL BACK TO REVEAL Ed and Mike sit outside Principal's office. Mike is dressed in an overly exaggerated hip style, .
+[MALE] I mean it.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[MALE] Yes, Father.
 
-[MALE] Take a deep breath. All you have to do is enroll me and say as little as possible. Ed calms.   Mike pulls a manila folder out of his book bag.
+[NARRATOR] With slow, hesitant steps, John turned and faded into the dim corridors, leaving the Abbot alone with his thoughts and the flickering amber light. 
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[NARRATOR] Down in the deep, subterranean levels of the prison, the air was cool, damp, and heavy with the scent of wet stone and ancient timber. A single, flickering bulb cast a weak, yellow glow over the scene. With a sharp, metallic ring, an iron nail was driven into a thick, twisted board. *Bam. Bam. Bam.* The heavy thud of the hammer echoed softly through the cavernous hall, steady and hypnotic. 
 
-[MALE] Are you sure these look legit?
+[NARRATOR] Two ancient workers, draped in drab, frayed gray garments, labored in slow, methodical unison. They lifted another splintered plank, holding it firmly against the open gap in the wall. *Bam-bam-bam.* The hammer struck again, sealing the darkness bit by bit. 
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[NARRATOR] Standing quietly in the dimness, Ripley watched them work. *Bam-bam-bam.* The relentless rhythm felt distant now, wrapped in an overwhelming sense of finality and rest.
 
-[MALE] Please. I created software used to launch the space shuttle. I think I'm capable of forging some report cards. What's up with the gear?
+[NARRATOR] Far above, high upon the windswept roof of the abbey, a dozen monks moved like shadows against the starry night sky. They, too, raised heavy wooden planks around the sleek hull of the stranded Sulacco escape ship, framing it in timber, walling it away from the world, enclosing the fallen vessel in a fortress of quiet wood. 
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[NARRATOR] Down in the prison level, the workers continued their quiet carpentry. The wooden barrier rose higher, covering more of the opening, sliding slowly across Ripley's silent form with every stroke of the hammer. *Bam-bam-bam.* 
 
-[MALE] This is hip teenage apparel. I got it right off the mannequin at Ed Hardy.
+[NARRATOR] Up on the roof, the wooden walls grew taller, sealing away the omen of the stars, hiding it beneath layers of heavy timber and silent shadows.
 
-[NARRATOR] Secretary whispers gently into the still air:
+[NARRATOR] In the quiet warmth of the library, John and Mattias sat side by side before an open book. The pages remained unturned. Through the thick stone walls and the deep foundations of the planet, the muffled, rhythmic pounding of the distant hammers reverberated softly, pulsing like a slow heartbeat right through the quiet air and into the stillness of John's thoughts. He closed his eyes, letting the heavy, rhythmic echoes lull him into a deep, untroubled peace as the night wrapped softly around the world.
 
-[MALE] Ms. Goodwin will see you now. Mike and Ed stand, head for the door marked `Principal'.
+[NARRATOR] The heavy, rhythmic pounding of the hammers echoed like a fading pulse against the ancient wooden timbers, slowly sealing away the last traces of the outside world. The shadows deepened within the narrow, curved alcove, wrapping around the quiet air in a soft, impenetrable blanket of velvet black. 
 
-[NARRATOR] Ed responds with gentle reassurance:
+[MALE] Here you go, woman. Something from your ship. Something to keep you company.
 
-[MALE] First sign this old hag is on to us
+[NARRATOR] The heavy plank slid into place, cutting off the final sliver of the outside light, leaving only the faintest amber threads filtering through the rough, splintered wood. In the sudden, profound quiet, fingers closed around a small, forgotten relic tossed gently into the dark. Slowly, the eyes adjusted to the midnight stillness, catching the pale, silent features of a doll's head resting in the palm of a hand. The silence stretched, heavy and unbroken, save for the slow, quiet rhythm of breathing in the enclosed space. Then, a sudden, sharp realization broke the stillness like a falling stone.
 
-[NARRATOR] I'M- murmurs with a warm, steady cadence:
+[FEMALE] You fucking idiots! You're dead! You're all dead!
 
-[MALE] Mike and Ed step through the door- INT. PRINCIPAL'S OFFICE - DAY MS. GOODWIN, 35, sits behind her desk...she's no hag. She's an attractive, buttoned-up professional. Ed's face lights up and without missing a beat-
+[NARRATOR] The fury flared briefly against the walls, echoing in the confined darkness with the sound of desperate motion, before gradually settling back into the quiet gravity of the room. The warmth of a single drop of crimson touched the fingers, a quiet reminder of life persisting in the deep, slumbering dark. Sliding down the curved wall, the weight of the day finally settled into the wooden floorboards, inviting a long, exhausted stillness.
 
-[NARRATOR] Ed answers in a low, calming tone:
+[FEMALE] Christ. Jesus Christ. It's here. Here. Shit. Here. I can't get rid of it... Newt. This isn't what I wanted... Don't stare at me!
 
-[MALE] -so glad we chose this school.   I'm Ed Freedman. Ed steps in front of Mike, shakes Ms. Goodwin's hand.
+[NARRATOR] The small plastic head rolled softly across the timber floor, coming to rest with a gentle stillness, its painted eyes gazing into the shadows. From the very base of the rotting wall, where the shadows pooled the thickest, a quiet breath stirred the dust.
 
-[NARRATOR] Julie murmurs with a warm, steady cadence:
+[MALE] Sorry.
 
-[MALE] Nice to meet you. I'm Julie Goodwin, principal here at Fitch Senior High. And you behind there? You are? Mike tries to peer around Ed.   Mike finally physically moves Ed steps aside.
+[NARRATOR] Bright, wrinkled eyes peered through a small opening in the timeworn boards, illuminated by a faint, distant glow. High above, on the sprawling roof of the ancient monastery, the cool night breeze whispered over the newly sealed timbers, carrying the scent of salt and ancient stone into the quiet expanses of the library below. Inside, surrounded by towering stacks of leather-bound volumes and tangled iron chains, the flickering candlelight danced lazily across centuries of parchment. The illustrations of old slumbered beneath the heavy pages—depictions of ancient myths and midnight creatures resting quietly in the deep, undisturbed hush of the library. Footsteps drifted softly over the wooden floorboards, navigating the silent sea of open books, as the night wrapped its quiet arms around the massive stone abbey, lulling the entire world into a deep, peaceful sleep.
 
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
+[NARRATOR] The heavy, ancient silence of the night slowly melted away as the first gentle, golden rays of dawn began to filter through the towering stained glass windows of the abbey. Dust motes danced lazily in the shafts of amber and sapphire light, warming the cold stone floor and casting a peaceful, cathedral glow over the sleeping sanctuary. 
 
-[MALE] Oh, right. Sorry. This little chicken pock here is Mark. Say hello, Mark. Ed smiles, rubs Mikes head vigorously.   Mike slaps his hand.
+[NARRATOR] In the heart of the library, surrounded by towering stacks of forgotten knowledge, John sat hunched over a massive medieval tome. His fingers moved with a quiet, practiced urgency, rapidly turning the heavy parchment pages. He passed an illustration of the medieval world’s shadowed lore—an archaic drawing of Satan, rendered with bizarre and curious detail—and flipped further still into the heart of the manuscript. 
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[NARRATOR] And then, he stopped. 
 
-[MALE] Nice to meet you, Julie.
+[NARRATOR] The heavy pages lay still beneath his fingertips. Though the image remained hidden from view, John’s reaction told the entire story. His eyes widened into saucers, mirroring a sudden, profound shock. With a swift, decisive motion, he slammed the heavy book shut, the dull thud echoing softly against the stone walls, as if the very sight upon the page might strike him blind. 
 
-[NARRATOR] Julie whispers gently into the still air:
+[NARRATOR] He turned his gaze toward his faithful dog, curled up and sleeping deeply in a patch of morning warmth, almost parting his lips to speak before thinking better of it. He decided not to disturb the peaceful slumber of the animal. 
 
-[MALE] Around here you're going to have to use Ms. Goodwin. Please, sit. Mike and Ed sit.
+[NARRATOR] Instead, John reached down, wrapping the heavy iron chain of the book securely around his hand. He placed one foot firmly against the wooden shelf for leverage and pulled with all his might. 
 
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
+[NARRATOR] *Spankt!* 
 
-[MALE] Before we get started I want you to know that Mark's a bastard.
+[NARRATOR] The ancient, rusted chain finally gave way with a sharp, echoing snap. With his jaw set in quiet determination, John looped the worn shoulder strap of his burlap medical bag over his shoulder. He clutched the heavy book tightly to his chest, paused to gently stroke the soft fur of his sleeping dog one last time, and turned to walk into the quiet corridor.
 
-[NARRATOR] Julie whispers gently into the still air:
+[NARRATOR] The hallway outside the abbot’s office was cool and dim, smelling faintly of old paper and beeswax. John strode down the stone corridor with a quiet, purposeful gait, but froze abruptly, flattening his back against the cold wall as the heavy wooden door to the abbot’s office suddenly swung open. 
 
-[MALE] Excuse me!?
+[NARRATOR] Out spilled a flurry of motion. Brother Graham, known to all as the hysterical monk, was being forcibly and sternly led down the corridor by two burly, silent monks. Graham’s mouth was tightly gagged, muffling his frantic, restless sounds as he was guided away into the shadows. 
 
-[NARRATOR] Ed murmurs with a warm, steady cadence:
+[NARRATOR] A third burly monk stepped out into the doorway, standing beside the imposing figure of the Abbot. 
 
-[MALE] I had him out of wedlock.   So the answer is yes, I'm very single...and very rich.
+[ABBOT] Now find John and have him brought to me immediately.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[THIRD BURLY MONK] Yes, Father.
 
-[MALE] Dad met mom in Thailand. She's a very successful prostitute. Ed's smile fades.
+[ABBOT] Start in the library. And keep it quiet.
 
-[NARRATOR] Julie answers in a low, calming tone:
+[NARRATOR] The third burly monk gave a solemn nod and hurried off down the stone corridor. The Abbot watched him go for a long, quiet moment before turning back inside and pulling the heavy wooden door shut, sealing himself away. 
 
-[MALE] O-Kay. Did you bring your transcripts? Mike hands Julie the folder. As Julie browses through it, Ed and Mike get into a pinching, elbowing fight. When she looks up, the friends stop. Both smiling.
+[NARRATOR] John stared at the closed door for a single, breathless heartbeat, his mind racing. Then, making up his mind with absolute certainty, he turned on his heel and hurried back down the hallway, his footsteps soft and swift against the flags.
 
-[NARRATOR] Julie whispers gently into the still air:
+[NARRATOR] Farther into the abbey, the warm, cavernous interior of the glass factory began to stir with the new day. The first early-rising monks straggled in for the morning shift, their heavy woolen robes brushing softly against the stone. Kyle was among them, his breath pluming slightly in the cool morning air as he lifted his long blowing iron from the wall-mounted rack. He moved steadily toward the great glass furnace, where two other monks were already at work, rhythmically stoking the glowing, roaring fires that cast a soft, orange, hypnotic flicker across the room.
 
-[MALE] So the last school you went to was Cutler High in Connecticut. And you were a straight A student. Very impressive.
+[NARRATOR] Suddenly, the heavy doors burst open, and John entered. 
 
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
+[NARRATOR] He looked frantically around the vast, glowing room, his eyes scanning the workers until, for a breathless moment, he could not find the face he was searching for. 
 
-[MALE] I help him with his homework...a lot.
+[KYLE] At the glass furnace. 
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] Kyle stood before the blinding heat of the molten glass, about to dip his iron into the glowing, liquid orange heart of the furnace. 
 
-[MALE] Oh, dad, the doctor called.     You were right. It is herpes. Ed's jaw drops.   Julie rises abruptly.
+[NARRATOR] John rushed over, moving with such desperate speed that he almost knocked Kyle off his footing. 
 
-[NARRATOR] Julie speaks with a quiet, measured softness:
+[KYLE] Hey! Watch it!
 
-[MALE] I think it's time we got Mark to class. Lisa! Lisa! The door opens, in steps LISA, 18.
+[NARRATOR] Kyle spun around, the retort dying on his lips as he saw the profound agitation etched deeply across John’s face. 
 
-[NARRATOR] Julie speaks with a quiet, measured softness:
+[KYLE] What? What is it?
 
-[MALE] Lisa, will you print out a schedule for Mark and show him to class?
+[NARRATOR] All around them, the other monks began to notice the sudden commotion, slowly lowering their tools and turning their heads, beginning to close in for a curious look.
 
-[NARRATOR] Lisa speaks with a quiet, measured softness:
+[JOHN] I -- Abbot. Must --
 
-[MALE] Sure.   Come on, Mark. Mike stands.   Ed addresses him as fatherly as he knows how-
+[NARRATOR] John doubled over slightly, trying desperately to catch his ragged breath, his hands gesturing wildly toward the doors he had just fled. Kyle carefully lowered his blowing iron, resting it safely against the rack.
 
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
+[KYLE] John - relax. Take a deep breath - Christ, now I sound like you --
 
-[MALE] Be a good boy now.   And sit up straight. Mike glares at Ed, follows Lisa out.    Ed turns to Julie.
+[NARRATOR] Kyle’s eyes dropped, locking onto the ancient, leather-bound volume clutched tightly in John’s white-knuckled hands. 
 
-[NARRATOR] Ed whispers gently into the still air:
+[KYLE] Is that it, John? Is it the book --?
 
-[MALE] They grow up so fast. Mojito?
+[JOHN] (panting) Yes. Devil.
 
-[NARRATOR] Julie murmurs with a warm, steady cadence:
+[NARRATOR] Kyle took a slow, cautious step closer, his eyes searching John’s face. But the movement had already drawn an audience. The surrounding monks were gathering closer now, forming a tight, whispering circle around the two men. Their low voices murmured like the rustle of dry autumn leaves in a dark forest.
 
-[MALE] I beg your pardon.
+[WHISPERING MONK] He's got it...
 
-[NARRATOR] Ed answers in a low, calming tone:
+[SECOND WHISPERING MONK] Like the Comet Woman...
 
-[MALE] You strike me as a Mojito gal. I know this little Cuban place, great
+[THIRD WHISPERING MONK] He found her...
 
-[NARRATOR] Julie offers quietly, watching the shadows drift across the room:
+[WHISPERING MONK] He's infected...
 
-[MALE] -Yeah, no. I don't date my students' parents. It's a rule of mine.
+[NARRATOR] The heavy, ancient air of the chamber pressed against the skin like a warm, velvet blanket. Torches flickered in iron sconces, casting long, lazy shadows that danced slowly across the rough-hewn stone walls. Dust motes drifted lazily in the amber shafts of light, rising and falling in an unbroken, peaceful rhythm. 
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[NARRATOR] In the center of the hushed circle, the shadows parted as a robed figure darted toward the heavy wooden exit, moving swiftly to bear the heavy news to the Abbot. John turned his gaze downward, searching the features of his companion, Kyle. The ambient glow of the corridor caught the pale hesitation in Kyle’s eyes, a quiet tremor of fear masked by a soft, reassuring whisper.
 
-[MALE] I'll enroll him somewhere else.
+[MALE] Everything's gonna be fine. Now, let's see the --
 
-[NARRATOR] Julie adds in a relaxed, peaceful voice:
+[NARRATOR] John’s breath hitched in the cool, drafty hall. He pulled back, his voice ragged against the stone arches.
 
-[MALE] I really need to get back to work. Julie ushers Ed to the door.
+[MALE] Don't humor me -- I'm --
 
-[NARRATOR] Ed speaks with a quiet, measured softness:
+[MALE] Sure. Everything's gonna be fine...
 
-[MALE] See you at the next bake sale then? Julie shuts the door, shakes her head in disbelief. INT. FITCH SENIOR HIGH SCHOOL/CALCULUS CLASS - DAY Mike steps in. Scattered giggles at his appearance. Mike takes a seat, eyes three sexy girls wearing next to nothing, SAMANTHA, LAUREN and JAMIE, busy texting on their phones.
+[NARRATOR] Without another word, John pulled the ancient volume tight against his chest, spun on his heel, and pushed forcefully through the murmuring crowd. 
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] Wait -- JOHN!
 
-[MALE] Do their mothers know they dress like that? A GIRL next to him leans over-
+[NARRATOR] The damp chill of the shaft room embraced him as he crossed the threshold. The iron cage rested silently at the bottom, its thick ropes vanishing into the bottomless, echoing abyss below. John hurried forward, gently setting the book upon the worn wooden floor. He reached out, his scarred hands gripping the heavy hempen fibers, his mind racing through the dark corridors of thought. The woman below would know. She would know what this burden was, and how to fight the encroaching dark. 
 
-[NARRATOR] Girl adds in a relaxed, peaceful voice:
+[NARRATOR] He pulled. But there was no resistance. No answering weight from the depths. 
 
-[FEMALE] Those are the Wonder Bras.    Beware. The Jocks, Stan, Jazz and Kevin strut in. Mike's eyes narrow. Stan stops before Mike, looks him up and down-
+[NARRATOR] John tumbled backward onto the cold floor. Above him, the rusted iron pulley whirred softly as the ropes unspooled, collapsing in a limp, tangled heap at his feet. He reached out a trembling hand, lifting the severed end of the rope. The fibers were cleanly sheared, bitten through by an unseen malice.
 
-[NARRATOR] Stan answers in a low, calming tone:
+[NARRATOR] A swift transition carried him through the labyrinthine heart of the monastery. Series upon series of quiet chambers rushed past in a dreamlike blur. John ran through the upper hemisphere of the world, descending level by level, passing brethren who remained blissfully unaware of the creeping peril. Monks sat in quiet rhythm at their looms, the gentle *clack-clack* of wooden shuttles lulling the air into a trance. Others labored in the warm, steamy tanning rooms, or knelt in solemn, whispered morning prayer. 
 
-[MALE] What did you did do? Mug the mannequin at the Ed Hardy store?
+[NARRATOR] Deeper he fled, down into the abbey basement workroom, where the scent of old paper and damp earth hung thick. Breathing heavily, his hair wild around his brow, he shoved the heavy tome deep into his medical bag. With a sweeping motion, he pushed aside a pile of dry kindling, revealing a small wooden door inset into the floorboards. He pulled it open, exposing a vertical ladder descending into the vast, cool darkness beneath. Below lay the great underground viaducts, held aloft by ancient wooden rafters, and beneath them, the silent, glass-still surface of a subterranean sea that formed the beating heart of the planet. And deeper still, the isolation cells. And Ripley.
 
-[NARRATOR] Jazz offers quietly, watching the shadows drift across the room:
+[NARRATOR] John inhaled the damp, mineral-rich air rising from the abyss. He knew he had to descend. The hard way. He swung his legs over the threshold and slipped silently into the welcoming embrace of the dark.
 
-[MALE] Tool! Laughter from the class. Mike shies. The Jocks sit, Stan behind Mike. Just as the last bell rings, Maggie rushes in, sits with the Bras.
+[NARRATOR] Hours later, in the vast expanse of the abbey lavatory, the air was cool and still. The colossal room stretched out like an underground cavern, lined with a hundred open stalls and an equal number of porcelain sinks. Time had worn its mark upon the facility; the distant stalls were draped in thick, silvery cobwebs, their wooden partitions long since harvested for winter fires. Of the original sinks, only a scattered few remained operational, a quiet monument to a larger, forgotten age.
 
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
+[NARRATOR] A solitary, skinny monk stood by one of the functioning basins, gently washing his hands in the tepid water, the soft splashing echoing against the tiled walls. Down the long row of chest-high stalls, figures huddled against the creeping draft. In the second-to-last stall, the Abbot leaned against the partition, shivering slightly in the damp air.
 
-[MALE] Oh thank God he's not here.    I ran all the way from- Something catches Maggie's eye.   It's Mike waving to her.
+[MALE] Cold tonight --
 
-[NARRATOR] Maggie responds with gentle reassurance:
+[NARRATOR] Further down, in the very last stall, the Bald Tribunal Member pulled his heavy woolen robes tighter around his narrow shoulders.
 
-[MALE] Why's that freak waving at me. Maggie places a hand over her face, looks down.
+[MALE] Gets colder every night.
 
-[NARRATOR] 28. speaks with a quiet, measured softness:
+[NARRATOR] The Abbot exhaled, a faint plume of mist curling upward in the chilled air.
 
-[MALE] MALE VOICE  Take your seats. Stop the talking. MR. ADAMS, 45, prissy, strides in carrying a stack of papers.
+[MALE] And every day. Never this bad. Taken so much wood out of the structure the surface wind blows right through the colony. Right under the floor --
 
-[NARRATOR] Mr. Adams murmurs with a warm, steady cadence:
+[NARRATOR] A sudden, biting draft swept silently across the stone floor of the abbey, tracing the contour of the narrow waste trough and slipping upward to chill the porcelain bowl. 
 
-[MALE] Here are yesterday's tests.    Let's see how you all did. Moans from the class. Adams walks up and down the aisle slapping them down on the desks..
+[MALE] Right up your bloody backside. Nights like this make me miss plumbing -- Ack --!
 
-[NARRATOR] Mr. Adams responds with gentle reassurance:
-
-[MALE] C-, C, B-, D, D-, F Adams reaches Maggie, drops the test on her desk...
-
-[NARRATOR] Mr. Adams answers in a low, calming tone:
-
-[MALE] D for O'Donnell. Humiliated, Maggie lowers her head.
-
-[NARRATOR] Mr. Adams offers quietly, watching the shadows drift across the room:
-
-[MALE] Let me guess. Early acceptance?  Where are we going?
-
-[NARRATOR] Maggie adds in a relaxed, peaceful voice:
-
-[MALE] Georgetown.
-
-[NARRATOR] Mr. Adams whispers gently into the still air:
-
-[MALE] If you flunk senior calculus you'll be lucky to get into beauty school, missy. So, if you plan on slacking your way through my class, don't. Save your parents tuition money and pick up a blow dryer... Mike angrily stands-
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Enough! Mr. Adams turns to Mike.
-
-[NARRATOR] Mr. Adams murmurs with a warm, steady cadence:
-
-[MALE] Excuse me?
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Do you think humiliating a 17 year- old in front of her peers is helpful or do you just get off on it?
-
-[NARRATOR] Mr. Adams adds in a relaxed, peaceful voice:
-
-[MALE] And you are?
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Mark Freedman. It's my first day. Adams turns, walks back towards the front of the room.
-
-[NARRATOR] Mr. Adams responds with gentle reassurance:
-
-[MALE] Well, Mr. Freedman- Stan signals his friends, takes out a LIGHTER, flicks it, leans forward and places the flame BETWEEN Mike's legs. The flame GLOWS RED against Mike's jeans.   The Jocks and Bras pull out their cells and begin VIDEOING. Adams scribbles on a pad-
-
-[NARRATOR] Mr. Adams adds in a relaxed, peaceful voice:
-
-[MALE] -you've earned yourself a trip to the principal's office. Welcome to Fitch. Adams rips the paper off, holds it out towards Mike.   Mike sniffs at the air-
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Is someone barbecuing?
-
-[NARRATOR] YYYYEEEEOOOOOWWWWWWW!!!!
-
-[NARRATOR] Mike LEAPS out of his shoes. A FLAME runs up his crotch.
-
-[NARRATOR] LAUGHTER. Mike, SCREAMING, runs around the room fanning his
-
-[NARRATOR] package.
-
-[NARRATOR] Mr. Adams offers quietly, watching the shadows drift across the room:
-
-[MALE] Get out, Mr. Freedman! Mike snatches the slip from Adams and out the door. INT. FITCH SENIOR HIGH SCHOOL/CAFETERIA - DAY A packed lunchroom. The CLIQUES sit amongst themselves. WE notice all the KIDS hunched over STARING AT THEIR PHONES. Mike enters carrying a bag lunch. A BLACK BURN MARK on the crotch of his pants. A GAYSIAN spots him, yells-
-
-[NARRATOR] Gaysian adds in a relaxed, peaceful voice:
-
-[MALE] Go Hot Pants! Do your dance, Girl!
-
-[NARRATOR] 30. speaks with a quiet, measured softness:
-
-[MALE] The entire cafeteria turns to Mike and erupts in laughter. As Mike passes each table, WE see the kids are watching his `fire dance' on their phones. Mike approaches a table of the 3 BIGGEST LOSERS in school, unkempt hair, fat, acne. Mike begins to sit when-
-
-[NARRATOR] Biggest Loser murmurs with a warm, steady cadence:
-
-[MALE] Look, we feel your pain. We really do. But life's hard enough, Brother. Mike nods, continues on past the snickering and catcalls until he sees Maggie and the Wonder Bras. ANGLE: Wonder Bra Table. Maggie, Samantha, Jamie and Lauren pick around plates of cafeteria food.
-
-[NARRATOR] Maggie whispers gently into the still air:
-
-[MALE] What's the big deal? He stuck up for me in class. It was a nice thing to do.
-
-[NARRATOR] Samantha offers quietly, watching the shadows drift across the room:
-
-[MALE] He was totally sexing on you.
-
-[NARRATOR] Lauren answers in a low, calming tone:
-
-[MALE] He's coming. Pretend you're not here. Mike approaches, big smile. The Wonder Bras look off in every direction except Mike's.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Hi, Maggie. Hi, girls.     I'm Mark- The Girls continue looking away, ignoring Mike.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Girls?    Hello? Anyone home?
-
-[NARRATOR] Lauren adds in a relaxed, peaceful voice:
-
-[MALE] Oh my God.     Can't you see we're not here?
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Good.    So there's plenty of room then. Mike drops down next to Samantha and across from Maggie.
-
-[NARRATOR] Jamie offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh, look. He brought a bag lunch. How sped.  Mike hides his lunch.
-
-[NARRATOR] Samantha murmurs with a warm, steady cadence:
-
-[MALE] Look, this table is V.I.P.     You're a NIP.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] What's a NIP?
-
-[NARRATOR] Lauren murmurs with a warm, steady cadence:
-
-[MALE] Not Important. Go away.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Maggie, why are you friends with these horrible girls?
-
-[NARRATOR] Maggie answers in a low, calming tone:
-
-[MALE] Listen, I appreciate what you did in class but, I already have a boyfriend.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] You have a boyfriend?  Excuse me a second. Mike pulls out an OLDER Blackberry phone, looks at the caller ID...Scarlet. He sends it to voice mail.
-
-[NARRATOR] Jamie speaks with a quiet, measured softness:
-
-[MALE] He still gets calls.    How 2007.
-
-[NARRATOR] Samantha offers quietly, watching the shadows drift across the room:
-
-[MALE] I think my grandfather has that phone.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Maggie, could we talk somewhere
-
-[NARRATOR] Else- whispers gently into the still air:
-
-[MALE] The sound of a bouncing ball interrupts. MALE VOICE  Yo! Mike turns.   Stan, Jazz and Kevin swagger over.
-
-[NARRATOR] Stan murmurs with a warm, steady cadence:
-
-[MALE] Bro-ski, what are you doing at our table?
-
-[NARRATOR] Maggie speaks with a quiet, measured softness:
-
-[MALE] Nothing.   He was just leaving. Maggie nods for Mike to go.
-
-[NARRATOR] We should do this again sometime.
-
-[NARRATOR] Mike stands. Stan pulls Maggie up, starts making out with
-
-[NARRATOR] her, hands all over her. WE can see Mike's blood BOIL until-
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Get your hands off her, you little punk! Oops. Stan stops groping, steps over to Mike, a solid foot taller than him.
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] You gotta problem with me, `bra? Mike looks around...the entire cafeteria watches.   Defeated-
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] No, no, I don't. Stan takes Mike's hat off, picks up an ice cream from Maggie's tray, puts the ice cream in the hat, places it back on Mike's head and SMUSHES it down.
-
-[NARRATOR] Stan whispers gently into the still air:
-
-[MALE] Now make like Tom and Cruise. Flush with humiliation and ice cream dripping down his face, Mike turns and walks out.
-
-[NARRATOR] Maggie whispers gently into the still air:
-
-[MALE] That was so not cool.
-
-[NARRATOR] Stan adds in a relaxed, peaceful voice:
-
-[MALE] What? I'll buy you another ice cream. WE see Alex, seated by himself at a back table, shake his head in disgust.
-
-[NARRATOR] 33. murmurs with a warm, steady cadence:
-
-[MALE] INT. RESTAURANT/BAR - NIGHT A beaten down Mike sits alongside Ed at the bar.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] It was terrible. The place is evil, Ed. That building needs to be exorcised.
-
-[NARRATOR] Ed speaks with a quiet, measured softness:
-
-[MALE] Come on. It couldn't have been that bad.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] My beanbag was lit on fire, videoed and sent to every member of student body.
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] Yeah, I caught it on youtube. Funny stuff.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] They mocked my clothes and phone. My daughter got a tongue bath in front of me and I have mint chip in my ears.
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] High school's great, isn't it? The BARTENDER approaches.
-
-[NARRATOR] Bartender murmurs with a warm, steady cadence:
-
-[MALE] What can I get you?
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Double scotch neat.
-
-[NARRATOR] Bartender offers quietly, watching the shadows drift across the room:
-
-[MALE] Funny, kid.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Get the boy a Shirley Temple. Extra cherries. The Bartender nods serves up the drinks.   Mike miserably plucks a cherry off his pink drink.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] I'm not going back there.
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] Mike, you're an adult sitting on 36 years of experience. You should be dominating these kids, ripping their hearts out. An OLDER WOMAN takes a seat next to the boys.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] I know why you're encouraging me all of a sudden.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Because I'm a supportive dad.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Because you want to nail my principal.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Did she ask about me?
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] She's not your type. She's smart.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] As far as I can tell that's her only flaw. I need a reason to see her again. You could flunk your classes, start a fight, vandalise the place. You'll figure it out. Then I can rush in, a teary eyed, helpless, single dad who can't handle his angry, kitten killing son. What do you think? The Older Lady, having listened to it all, turns to Ed-
-
-[NARRATOR] Older Lady offers quietly, watching the shadows drift across the room:
-
-[MALE] I think you should be reported to child services!
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] Mind your business, Lady.   This is a family matter. The Lady turns away in disgust.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] I can't do it. I don't have it in me.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Hey, no sweat off my sack. Tell Alex to stop wearing underwear all together. He'll be fine. That's what I did. Mike eyes Ed, considers just how "well adjusted" Ed is. A determined look comes over Mike. He pounds the bar.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] You're right! My kids need me.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] At'a boy. Now what you need is a crash course on being a teen in
-
-[NARRATOR] 2008. answers in a low, calming tone:
-
-[MALE] A MONTAGE OF MIKE'S CRASH COURSE EXT. MAGAZINE STAND - NIGHT The Boys gather a stack of TEEN MAGAZINES and TABLOID RAGS. Ed slips a MELONS Magazine into the pile. INT. TRENDY HAIR SALON - NIGHT A picture of a YOUNG, POPULAR STAR torn from one of the teen mags hangs on the mirror. A HAIRDRESSER cuts away and highlights Mike's long locks.     Ed sits beside Mike sipping wine, enjoying a manicure. INT. TRENDY CLOTHES STORE - NIGHT It's the PRETTY WOMAN scene. 2 hip SALESGIRLS pull clothes from racks. A clean cut Mike tries on sneakers, jeans, T- shirts, hoodies, shirts, jewelry. Ed nods with his approval or disapproval. At the register, the Girls hand Mike his bags of clothes.     Ed takes out his cell to put their numbers in it. The Girls frown and go back to work. INT. VIRGIN MEGA MUSIC STORE - NIGHT Mike and Ed stand before the wall of 100 top albums.   Both wear headphones listening and moving to the music.
-
-[NARRATOR] 36. offers quietly, watching the shadows drift across the room:
-
-[MALE] INT. ED'S HOUSE/OFFICE - NIGHT Mike and Ed, surrounded by the magazines and music discs, sit before the computer. Ed TEACHES Mike how to create a MYSPACE page. Bogus About Me and Interests. Photoshopped pictures of Mike in exotic locations. All the `now' movies, music and books. They fill his Friends section with only hot girls. The Boys view the flashy, finished product, tap fists.   This page makes `Mark Freedman' look like a playboy. INT. MAC STORE - NIGHT A SALESMAN hands a smiling Mike his new iPhone. INT. ED'S HOUSE/MIKE'S BEDROOM - NIGHT Mike sits on the bed, types away on his laptop. A knock on the door. Mike looks up and YELLS. Ed stands in the doorway, his entire body and head wrapped in SEAWEED.
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] Before you ask, it's a seaweed wrap. I'm detoxifying as well as losing an inch or 2 from my problem areas.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] There must be a very hot girl downstairs.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] There is.    What are you doing?
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] I forwarded my calls to my new phone, sent some work emails and just lobbed one to Scarlet, told her I was in Peru finding myself. Think she'll buy it?
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Probably not because when she called earlier I told her you were being detained at Guantanamo. Ready for tomorrow?
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] I am so ready. Ed flips Mike a set of keys.     Mike's eyes light up.
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] That ought'a put you over the top. And don't forget to hook me up son. Ed plods off.   Off Mike's huge smile. EXT. FITCH SENIOR HIGH SCHOOL/PARKING LOT - MORNING The usual pre-school ritual. Stan, Jazz, Kevin, the Wonder Bras and Maggie all hang around Stan's `stang. Stan and Maggie wrapped in a heated embrace, kissing. HONK.   A horn blares.    Stan and Maggie jump out of the way. An ASTON MARTIN VANQUISH stops next to the crew. The tinted window rolls down revealing the new and improved Mike. Mike winks then rolls on past.
-
-[NARRATOR] Samantha adds in a relaxed, peaceful voice:
-
-[MALE] Oh my god.     Was that-
-
-[NARRATOR] Jamie responds with gentle reassurance:
-
-[MALE] Did you see-
-
-[NARRATOR] Lauren offers quietly, watching the shadows drift across the room:
-
-[MALE] I told you he was cute. INT. FITCH SENIOR HIGH SCHOOL/HALL - DAY It's the MOMENT.   Mike walks the hallway, handsome and hip. Samantha, Lauren and Jamie text by their lockers.    Mike struts up to them. The Bras smile.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] So I've been here a couple days now and I think I got it figured out. You girls are lesbians, right? The Bras' jaws hit the floor. Mike walks off, a huge grin on his face. Man, that felt good.
-
-[NARRATOR] 38. whispers gently into the still air:
-
-[MALE] INT. FITCH SENIOR HIGH SCHOOL/CAFETERIA - DAY Mike steps from the kitchen area carrying a TRAY, scans the crowded room, finds Alex seated at a table ALONE. It's a heartbreaking image. Mike approaches-
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Mind if I sit here?
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] Mark?    You look totally different. Mike sits across from Alex.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] I got rid of the bull's eye on my forehead.
-
-[NARRATOR] Alex responds with gentle reassurance:
-
-[MALE] Could you move to the left a little? Mike inches left, peeks behind him...2 girls eat lunch together. The one facing them is a cute Latino, NICOLE, 16. Nicole smiles.    Alex quickly shies away.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Who's she?
-
-[NARRATOR] Alex speaks with a quiet, measured softness:
-
-[MALE] Nicole Lopez. She's in my Spanish class.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Have you spoken to her?
-
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
-
-[MALE] No. I get all stupid so I just stare.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] I'll tell you a funny story. The first time I met your mother I was so nervous-
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] My mother?
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[NARRATOR] The bald tribunal member stiffened, his breath catching in his throat as a strange, unexpected sensation pulled at his core. For a brief moment, the quiet of the monastery held its breath.
 
 [MALE] What?
 
-[NARRATOR] Alex speaks with a quiet, measured softness:
+[MALE] I don't -- AAH --
 
-[MALE] You said, `the first time I met your mother I was so nervous...'
+[NARRATOR] The sudden, piercing scream echoed off the damp masonry as an unseen force seized him from below. Something slick and impossibly swift snaked upward, its hidden hooks catching fast within the quiet shadows. A heavy, tearing sound broke the stillness, and in a fraction of a second, the monk vanished downward, dragged entirely out of frame into the dark recesses beneath the floorboards. 
 
-[NARRATOR] Mike whispers gently into the still air:
+Along the row of stalls, the remaining monks sat frozen in horrified silence, watching the empty space where their companion had just been, feeling the terrible tremor of the unseen predator slipping away through the subterranean dark. In his stall, the Abbot struck the dividing wall with a heavy, frantic palm.
 
-[MALE] I did?    That's weird.   Is your mom hot?
+[MALE] Matthew? Matthew? Jesus, what's wrong?
 
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
+[NARRATOR] Farther down, near the washing basins, a skinny monk stared in wide-eyed terror, losing all control as crimson water burst violently from the brass faucet. Across the hall, the communal stalls shuddered as the plumbing rejected a sudden, dark torrent, splashing rich crimson against the pale stone walls and transforming the ancient sanctuary into a quiet, shadowed nightmare.
 
-[MALE] Dude.
+Far above the drifting world, against the serene and timeless tapestry of the celestial sea, the wooden orbiter Arceon drifted in absolute, peaceful silence. 
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[FEMALE] Death...
 
-[MALE] What's going on tonight?    You wanna hang out? Do something?
+[NARRATOR] Deep within the gloom of the lower levels, the night rested in heavy shadow. Somewhere in the dark, a single drop of water fell in a slow, rhythmic cadence into a shallow puddle. Ripley lay upon her side against the cold stone floor, her cheek resting near a small aperture in the timber. Her eyes were closed, breathing softly in the stillness.
 
-[NARRATOR] Alex speaks with a quiet, measured softness:
+[FEMALE] Wherever I go.
 
-[MALE] Really?
+[NARRATOR] A pale hand slid a dry crust of bread through the floor opening. Ripley’s eyelids fluttered open, her gaze resting quietly upon the simple offering as the head of the white-haired man appeared in the dim aperture.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[MALE] Take it.
 
-[MALE] Yeah you could show me around.
+[FEMALE] Thanks, but no thanks, Anthony.
 
-[NARRATOR] Alex whispers gently into the still air:
+[MALE] You waiting for meat? They don't bring me meat because they know I'm an android. Really don't need it. Bread's better for you anyway. Harder to digest, so it makes you feel fuller than you are.
 
-[MALE] Cool. The Wonder Bras sway in, take seats at the VIP table.
+[FEMALE] Not hungry.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[NARRATOR] Anthony broke off a small piece of the crust and chewed it slowly, the faint sound of the dry bread echoing in the confined space.
 
-[MALE] I'll swing by your house around 7. Mike rises.
+[MALE] Mmmm. Just a little crunchy.
 
-[NARRATOR] Alex responds with gentle reassurance:
+[NARRATOR] Ripley turned away from the hole, rolling gently onto her back to stare up at the shadowed ceiling above.
 
-[MALE] I wouldn't go over there. Stan and his Baboons have lunch this period.
+[FEMALE] Waste of time.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] You don't eat, you'll starve to death, girl.
 
-[MALE] Don't worry. I'll see you tonight. Mike strolls over to the Bras' table, plunks himself down.
+[FEMALE] That was the plan when they put me down here. And why should you care?
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] Because I'm a synthetic person -- you don't think I can care?
 
-[MALE] Did you girls catch Ellen yesterday? Rosie was on. Melissa Etheridge jammed-
+[FEMALE] Believe me, that's a discussion you don't want to have with me.
 
-[NARRATOR] Samantha offers quietly, watching the shadows drift across the room:
+[MALE] You told me you had a bad experience and a good one with androids --
 
-[MALE] -You're so rude!? We're not gay. We like boys.
+[FEMALE] That's one of each. That means you could go either way. I'm tired of talking about this.
 
-[NARRATOR] Jamie answers in a low, calming tone:
+[NARRATOR] Anthony pushed the crust a fraction closer across the stone.
 
-[MALE] Yeah, Samantha's a total slu... Samantha's jaw drops.
+[MALE] You've still gotta eat. You gotta fight the bastards --
 
-[NARRATOR] Lauren murmurs with a warm, steady cadence:
+[FEMALE]
 
-[MALE] Last New Year's Samantha made it with my boyfriend.
+[NARRATOR] The heavy silence of the penal colony settled back over the stone floor, thick with the scent of damp earth, old iron, and lingering exhaustion. The dim, amber glow of a distant wall-lamp flickered lazily, casting long, wavering shadows that crawled across the rough-hewn masonry. Outside, in the endless, howling dark of the desolate world, the wind murmured a low, monotonous lullaby against the reinforced hull of the facility.
 
-[NARRATOR] Samantha murmurs with a warm, steady cadence:
+[FEMALE] I'm tired of fighting. Maybe I'll be dead before he finds me. Maybe he won't get the satisfaction.
 
-[MALE] I was on like 5 Red Bulls! I can't believe you keep bringing that up. The Bras' begin to bicker amongst themselves. Mike pulls out his new iPhone, plugs the earphones in his ears. The Bras immediately stop bickering, ogle the phone.
+[NARRATOR] Anthony shifted slightly in the quiet, his breathing slow and measured in the shadowed enclosure of his stone cell. The ambient hum of the facility's ancient life support vibrated softly through the floorboards, a steady, hypnotic pulse.
 
-[NARRATOR] Jamie speaks with a quiet, measured softness:
+[MALE] He? You make it sound like this Alien has a personal score to settle with you. The biology you describe: Queen laying eggs, larvae, drone -- that's very insectoid. Insects usually don't bear grudges.
 
-[MALE] Rad phone.
+[NARRATOR] Ripley leaned her head back against the cool wood of the partition, her eyes closing for a brief moment as she listened to the rhythmic, distant dripping of water somewhere down in the subterranean dark. 
 
-[NARRATOR] Mike responds with gentle reassurance:
+[FEMALE] And Androids usually aren't the prisoners of lunatics that believe they're ancient Greeks.
 
-[MALE] I know. I'll text you...NOT. Later...much. Mike rises from the table.
+[MALE] Medieval Monks.
 
-[NARRATOR] Samantha offers quietly, watching the shadows drift across the room:
+[FEMALE] Whatever.
 
-[MALE] Like we'd ever give you our numbers. Stan, carrying a basketball, his goons and Maggie come up behind Mike.
+[MALE] And they've only chose to live the life style, they don't believe they're -- 
 
-[NARRATOR] Stan speaks with a quiet, measured softness:
+[NARRATOR] Anthony froze, tilting his head toward the heavy door as a faint, irregular sound drifted down the vaulted corridor. 
 
-[MALE] Heads up! Stan whips the ball at Mike. Mike, cat-quick, spins around, catches the ball. The whole cafeteria turns their attention on Mike and Stan. Mike points to the name `Stan' on Stan's letter jacket, reads-
+[MALE] What's that?
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] Far off in the labyrinthine depths of the prison level, a dull, rhythmic echo rolled through the stone. A hollow, heavy knocking against the walls. Someone was moving through the dark, striking the cold metal and rock every few paces, a solitary traveler navigating the sleeping corridors of the night. 
 
-[MALE] Stan. Did mommy sew that on there so you wouldn't forget your name? Laughter from the Students.
+A hoarse, weary voice called out into the shadows, drifting closer with every passing heartbeat.
 
-[NARRATOR] Stan adds in a relaxed, peaceful voice:
+[MALE] Ripley!
 
-[MALE] You think `cause you got a haircut and new clothes people'd forget what a fag you are?
+[NARRATOR] The footsteps dragged slowly along the stone floor. Another heavy thud of a fist against the reinforced panels, a brief, lingering pause in the silence, and then the shuffling continued onward into the dimness.
 
-[NARRATOR] Maggie murmurs with a warm, steady cadence:
+Inside his cell, Anthony rose from the floor, his movements unhurried and soft against the stone. He stepped toward the iron-grated door, the walls around him completely covered in intricate charcoal sketches of imagined demons and shadowed phantoms, their dark contours smudged softly in the low light. He peered through the narrow eye-level slot out into the corridor.
 
-[MALE] Cut it out, Stan.    Let's eat.
+Outside, the figure drifted closer, moving from one boarded-up cell to the next, rapping against the wood. Anthony watched the silhouette approach through the gloom, leaning closer to the opening as recognition slowly dawned in his eyes.
 
-[NARRATOR] Stan answers in a low, calming tone:
+[MALE] Hey -- you knocking -- cut it out -- You're going to wake everybody up.
 
-[MALE] Gimme my ball back, bee-yotch. Mike ignores him and starts dribbling.
+[NARRATOR] The figure stopped directly before the heavy door, a face drawing close to the observation slot. Anthony caught his breath, the years falling away in the quiet air.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] Brother John? Thought you dead fifteen years.
 
-[MALE] You know, Stan, I feel sorry for you.
+[NARRATOR] John reached down with trembling hands, fumbling with the heavy iron bolts. With a metallic clatter that echoed softly down the corridor, the door swung open, and John pulled Anthony forward by the rough fabric of his cassock.
 
-[NARRATOR] Stan adds in a relaxed, peaceful voice:
+[MALE] I -- I'm looking -- the Abbot --
 
-[MALE] You don't know me. Mike speaks loudly now, playing to the cafeteria.
+[MALE] What? You look like you've seen the devil.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[FEMALE] He has.
 
-[MALE] Oh but I do. All too well. You're the man. Captain of the basketball team. Dates the pretty girls. High school is your kingdom. Stan and his Posse tap fists. Mike dribbles between his legs.
+[NARRATOR] Anthony turned his head, glancing back into the shadows toward Ripley, then stepped aside to let the priest look through the opening into her cell. 
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[MALE] You mean he --
 
-[MALE] But, People, Stan's a bully. Why? It would be way too easy to say Stan preys on the weak because he's simply a dick. No, Stan's more complex than that. According to leading psychiatrists Stan is a bully for 1 of 3 reasons. 1, under all that male bravado there's an insecure little girl banging on the closet door trying to get out. 2, like a caveman, Stan's brain is underdeveloped. Therefore Stan is unable to use self-control so he acts out aggressively. And the third reason- Mike holds up his pinky then spins the ball on it.
+[NARRATOR] Anthony turned back to face the corridor, but the space was entirely empty. John had vanished into the shadows as silently as a wisp of smoke. 
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+Instantly, the sound of tearing wood and wrenching metal erupted from the darkness just beyond the wall. John had begun to furiously pull the outermost planks away from Ripley's enclosure, desperate to reach her.
 
-[MALE] I'd argue that Stan suffers from all 3. The entire cafeteria LAUGHS HYSTERICALLY. Mike feigns whipping it back at Stan, who recoils, then gently rolls the ball back to Stan.
+[FEMALE] I was right, wasn't I? You've seen it, you've seen the Alien?
 
-[NARRATOR] Don't hurt yourself big boy.
+[NARRATOR] John paused, his hands frozen against the splintered wood, his eyes tightening as the terrifying memory washed over him in the dim light.
 
-[NARRATOR] 42. answers in a low, calming tone:
+[FEMALE] I can tell you have. I was right. It came with me. Go away.
 
-[MALE] Some students, including Alex, ERUPT. The Wonder Bras eye Mike with new found lust. ANGLE ON Mike's face as he walks away.
+[NARRATOR] John stopped his frantic work, staring blankly at the wooden barrier. Ripley's voice carried clearly, calm and steady through the cracks in the partition.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[FEMALE] Listen, priest, or whatever you are, I know what you want. I can't help you. I couldn't help any of the others. Just stop what you're doing. Go away. Do you understand?
 
-[MALE] 3, 2, 1... Mike ducks just as the ball whizzes overhead, rockets across the cafeteria landing on Miss Goodwin's tray, splattering her with food. She glares at Stan. Mike's iphone buzzes...ANGLE ON SCREEN: the Wonder Bras digits appear. INT. FITCH SENIOR HIGH SCHOOL/COLLEGE CENTER - DAY Mike enters, approaches MRS. MENCER, 60.
+[NARRATOR] With a final heave, John managed to pry open a narrow crack in the wall, exposing Ripley's dark, piercing eyes. He stared at her for a long, quiet beat, searching for words in the heavy silence, before slowly returning his hands to the wood to resume his work.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[FEMALE] You going to stay, Father? But you're not going to talk. Okay. Then you can listen. You should listen. Your Abbot was right. I am guilty. But not of heresy. Of murder.
 
-[MALE] My guidance councilor made me come, but just so you know I'm not planning on going to college.
+[NARRATOR] John stopped all motion, the silence of the night wrapping entirely around them like a deep, velvet cloak.
 
-[NARRATOR] Mrs. Mencer adds in a relaxed, peaceful voice:
+[NARRATOR] The heavy silence of the night settled softly over the damp stone walls, pressing in like a slow-moving fog. The flickering amber glow of the torch cast long, languid shadows that danced lazily against the cold architecture, painting the air with a million drifting specks of golden dust. 
 
-[MALE] A lot of kids feel that way. Don't be intimidated. It doesn't hurt to take a look. Mrs. Mencer hands Mike a hefty book.
+[FEMALE] The murder of the crew of the Nostromo. That was when I first met the Alien.
 
-[NARRATOR] Mrs. Mencer whispers gently into the still air:
+[NARRATOR] He paused his desperate labor, his hands resting against the rough surface of the control board as her words hung heavily in the quiet air. She looked away, her gaze drifting into the dim recesses of the room, lost in the slow-moving currents of memory.
 
-[MALE] A good place to start is here... this book has information on every college and university in the country.
+[FEMALE] No, not the same one that's here now. Or maybe it is. Maybe they're all the same one. I couldn't save my crew then. I should have been able to. But I couldn't. When I went the second time...
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] Her eyes grew soft, the hard edges of her exhaustion melting away into a quiet, sorrowful haze, like rain gently falling upon a placid lake.
 
-[MALE] Thanks. Mike sits, starts paging through the book and gets lost in the bright colored pictures...smiling STUDENTS, CAMPUSES and LECTURE HALLS...THE OPTIONS HE LOST YEARS AGO. INT. ASTON MARTIN - NIGHT A pumped-up Mike dials...ringing. On the seat beside him rests a stack of college applications. Ed answers.
+[FEMALE] Then I met Newt. Newt. I fought... stayed alive to keep Newt alive. Hoped maybe that would make up for...
 
-[NARRATOR] 43. murmurs with a warm, steady cadence:
+[NARRATOR] Her voice trailed off into a whisper, dissolving into the gentle hum of the distant machinery. Slowly, she let herself slide down the cold stone wall, her knees drawing up as she yielded to the overwhelming tide of fatigue.
 
-[MALE] ED  Hello?
+[FEMALE] Now he got her too. What's the point? Just go away. Leave me in here. If you let me out you'll want me to help you and it will start all over again. Let it end.
 
-[NARRATOR] Mike whispers gently into the still air:
+[NARRATOR] Outside, the rhythmic sound of heavy breathing broke the stillness. With a final, determined effort, John broke through the barrier, a sudden flood of flickering torchlight streaming into the mote-filled air around him. Ripley slowly raised her head, her eyes meeting his through the haze.
 
-[MALE] It was incredible! I was incredible! You should'a seen me! I humiliated Stan in front of the entire lunchroom. Everyone was clapping. The popular girls were begging to give me their numbers!
+[FEMALE] I can't help you.
 
-[NARRATOR] Ed murmurs with a warm, steady cadence:
+[NARRATOR] John stood heaving and panting from the exertion, the cool air of the corridor rushing into his lungs as he swallowed hard, trying to steady the rhythm of his breath.
 
-[MALE] See what happens when you put a little lipstick on the pig? Did you manage to get sent to the principal's office?
+[MALE] Puh... Please.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[FEMALE] It never ends.
 
-[MALE] Man, I feel great! I even shot some hoops after school. No aches. No pains. Gotta run, Buddy. Mike hangs up. EXT. MIKE'S HOUSE - NIGHT The Aston Martin pulls up. Mike climbs out, walks to the door, takes a deep breath and rings the bell. SCARLET  Coming! The door opens revealing Scarlet in her dirty yard attire.
+[NARRATOR] The scene shifted, drifting softly down a long, twisted-plank-floored corridor of the prison level, lit only by a solitary torch every twenty feet. The shadows stretched and sighed in the quiet draft. In the distance, a subtle movement rippled through the gloom—something shifting effortlessly between light and shadow, quiet and slow.
 
-[NARRATOR] Scarlet whispers gently into the still air:
+[FEMALE] Sheep?
 
-[MALE] I've been dying to meet you. I've known your father since... Scarlet...SPEECHLESS...visibly stunned by the resemblance...
+[NARRATOR] They were running together now through the dim expanse: Ripley, John, and Anthony. Anthony carried a long wooden staff like a spear, its tip catching the faint amber light. John clutched his bag tightly, while Ripley held the guiding torch, casting a warm, flickering halo around them as they moved in rhythmic unison.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[ANTHONY] It must be able to take on some of the characteristics of the animal it grows in. Maybe they are from some sort of aggressive soldier race... warring parties drop the eggs on opposing planets...
 
-[MALE] Is something wrong?
+[FEMALE] And the alien takes on the form of the creature that finds it, assuming that animal is the dominant life form on the planet. So when it gestates in a man...
 
-[NARRATOR] No. It's just...you look
+[NARRATOR] Ripley shudders softly at the memory, a cold shiver passing over her as swiftly as a midnight breeze rustling through autumn leaves.
 
-[NARRATOR] like...No. I'm fine. Come in.
+[ANTHONY] It's a biped. In a sheep or cow, a quadroped.
 
-[NARRATOR] Please.
+[FEMALE] Shit. I just didn't think it could do that to animals.
 
-[NARRATOR] 44. responds with gentle reassurance:
+[MALE] Wait a minute - I thought you were the expert on this monster.
 
-[MALE] INT. MIKE'S HOUSE/LIVING ROOM - NIGHT Scarlet and Mike sit across from one another. Scarlet stares at Mike as if examining every pore on his face.
+[FEMALE] Is that the only reason you came to get me out? Because I knew about this thing?
 
-[NARRATOR] Scarlet whispers gently into the still air:
+[MALE] Yes. I mean no. I mean, that was part of it. Look. I never thought you were wrong. I was wrong not to say anything. I was afraid to speak up. It's hard to be a monk, you know?
 
-[MALE] And you say Ed Freedman is your father?
+[NARRATOR] Ripley came to a gentle halt, her footsteps quieting against the floorboards. She turned to look at him, letting the long, quiet beat of the night settle between them like a lullaby.
 
-[NARRATOR] Mike whispers gently into the still air:
+[FEMALE] Thank you. If anything, you're honest.
 
-[MALE] That's my dad. All 68 inches of him.
+[MALE] We all are. Took vows.
 
-[NARRATOR] Scarlet whispers gently into the still air:
+[FEMALE] I don't know about the Abbot.
 
-[MALE] You don't look anything like him. If you don't mind me asking, who's your mother?
+[MALE] I'm sure he thinks what he did was right.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[FEMALE] Is that speaking up for someone?
 
-[MALE] My mother...she...she was...a... Mike spies Dostoevsky's Crime and Punishment on a table.
+[MALE] No. Charity.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[NARRATOR] A quiet smile touched the corners of her mouth, soft and fleeting as starlight. Together, they turned the corner into the sloping corridor, their steady footsteps carrying them downward into the deep, peaceful hush of the night.
 
-[MALE] -a convict. In New Jersey. They met while dad was at Princeton. She was on parole. B&E, fist fighting, shanking. Nothing major. But she's dead now.
+[NARRATOR] The gradient of the corridor dipped more steeply now, drawing them down into a deeper, cooler strata of the station. The overhead strip lights were few and far between, casting long, lazy shadows that stretched and compressed with every measured stride. A faint, rhythmic hum vibrated through the bulkheads, a low-frequency pulse that felt less like machinery and more like the steady, sleeping heartbeat of some massive, metallic creature. The air grew stiller, carrying the scent of old paper, cold stone, and the faint, dry musk of dust undisturbed by passing drafts. They leaned back slightly against the slope, easing their weight into the descent, moving with the quiet grace of nocturnal wanderers traversing an endless cavern. 
 
-[NARRATOR] Scarlet answers in a low, calming tone:
+[FEMALE] All right, let's forget about the past and get on to our survival. No more prisoners behind us?
 
-[MALE] Oh?   I'm sorry.
+[MALE] Not for years.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[NARRATOR] The reply came softly, swallowed almost instantly by the vaulted acoustics of the passageway. The ambient light caught the metallic sheen of a bulkhead rivet here, the weathered texture of a floor plate there, creating a subdued chiaroscuro effect that soothed the eyes. 
 
-[MALE] I warned her about kite surfing during hurricane season. So how are things with you? Doing anything exciting? Dating? Flirting with Dom Johnson maybe?
+[FEMALE] Okay. If the Alien's had a few days to lay his eggs, our only hope is to get off this—what is this?
 
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
+[MALE] Arceon.
 
-[MALE] Why would you ask about Dom? Did Ed tell you to say that?
+[MALE] Satellite.
 
-[NARRATOR] Mike murmurs with a warm, steady cadence:
+[FEMALE] Get to my ship and get off this satellite.
 
-[MALE] I mean do what you want. You're a grown woman but, word on the street is Dom's been spreading gingivitis all over town.
+[MALE] We can't.
 
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
+[FEMALE] We can't what?
 
-[MALE] I'll keep that in mind, Mark.
+[MALE] Leave Arceon. Can't leave the library.
 
-[NARRATOR] 45. adds in a relaxed, peaceful voice:
+[FEMALE] A tape library?
 
-[MALE] Scarlet can't take her eyes off Mike.
+[MALE] Books.
 
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
+[FEMALE] So?
 
-[MALE] It's crazy how much you like my husband when he was a teenager. Mike switches subjects, points to her dirty clothes-
+[MALE] The reason we are out here. Like the monks who guarded monastery libraries on remote islands off England during the first plague—
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[NARRATOR] A soft draft sighed through an overhead vent, carrying the phantom chill of ancient stones and damp sea air, though they were suspended millions of miles above any ocean, adrift in the vast, velvet quiet of deep space.
 
-[MALE] You doing some gardening?
+[FEMALE] There must be books on other colonies.
 
-[NARRATOR] Scarlet murmurs with a warm, steady cadence:
+[MALE] Some of these books survived the burning of the libraries of Alexandria. They contain knowledge that exists in no other record. Their value is unestimable.
 
-[MALE] I am. I'm a landscape designer. I'm actually redoing the backyard. I'll show you. Scarlet stands, leads Mike to the french doors.
+[NARRATOR] A hand moved through the dimness, brushing with infinite tenderness along the concealed spine of a leather-bound volume tucked securely within a canvas bag. The gesture was reverent, slow, and hypnotic, a silent devotion performed in the dark.
 
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
+[MALE] We're supposed to protect them.
 
-[MALE] It's a work in progress so you'll have to use your imagination some. Scarlet opens the doors, flips on the lights. The yard's been cleaned up. Fresh blankets of sod rest in piles next to stacks of limestone. HUNDREDS of unplanted plants, flowers, trees and shrubs sit around the yard in strategic positions. EXT. MIKE'S HOUSE/BACKYARD - NIGHT Mike and Scarlet step outside.
+[FEMALE] And what does an android have to do with all this?
 
-[NARRATOR] Mike answers in a low, calming tone:
+[MALE] He's a spy.
 
-[MALE] I almost don't even recognize it...er...if I had seen it before I probably wouldn't recognize it.
+[MALE] The Company planted me here.
 
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
+[FEMALE] The Company? What does the Company have to do with this?
 
-[MALE] You wouldn't have. It was a disaster back here a few days ago. Obviously I have a lot to do still. I'm laying the sod next and the limestone pathway will go here. Scarlet moves about the yard, pointing and explaining.
+[MALE] They built this prison.
 
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
+[MALE] Prison?
 
-[MALE] Then I'll plant all those, over a hundred different types of flowers and plants. I have an amazing fountain being delivered that'll go here and a bench over there.
+[MALE] Colony.
 
-[NARRATOR] Scarlet responds with gentle reassurance:
+[MALE] Prison. They are all political heretics.
 
-[MALE] And I'll string rows of tiny, white lights above it all so every night will be a starry one. It'll be a real sanctuary back here.
+[NARRATOR] Ripley paused, her gaze resting on the shadowed silhouette of her companion, absorbing the strange, melancholic weight of their isolated existence. The silence between them stretched, deep and undisturbed, broken only by the very faint hiss of recycled oxygen.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[FEMALE] You left that part out.
 
-[MALE] It seems like a lot'a work for one person, Scar. A chill runs up Scarlet's spine.
+[MALE] The order was more of a counterculture, a reaction to the technology that was beginning to take over everyone's lives. It was a simple enough idea—read, don't watch disk. Walk, don't pump more carbons into the air. The earliest members renounced technology. Started to collect the remaining books. Nobody would have noticed if it hadn't been for the virus.
 
-[NARRATOR] Scarlet responds with gentle reassurance:
+[FEMALE] Your abbot talked about that. The new plague.
 
-[MALE] My husband's the only one that ever calls me that. Alex appears at the doors interrupting-
+[MALE] A computer virus. A bad program. By this time the corporate structure was transglobal, all the world's data storage systems were linked. It spread through two countries before it was stopped.
 
-[NARRATOR] Alex responds with gentle reassurance:
+[NARRATOR] The darkness seemed to press in closer, a warm, woolen blanket of isolation. The hum of the station receded into the background, becoming nothing more than white noise, lulling the senses toward sleep.
 
-[MALE] Yo, Mark.    Let's do this.
+[MALE] After a scare like that, thousands flocked to our retreat. People started clamoring for written information. For our books. They abandoned the modern ways—
 
-[NARRATOR] Mike whispers gently into the still air:
+[FEMALE] I think I can see how this comes out. They gave up their possessions.
 
-[MALE] Good luck with the project.
+[MALE] This was a threat—
 
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
+[FEMALE] To the Company.
 
-[MALE] Nice to meet you. And, Alex, be home by 10:30. Mike heads back inside.   Scarlet stares after him. INT. ASTON MARTIN - NIGHT Mike and Alex step in.
+[MALE] They sold the technology. A movement to live simply was quickly twisted by federal agents into a political movement against the Company-controlled World Government. Too much was at stake.
 
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
+[FEMALE] Too much profit.
 
-[MALE] How's your mom doing? You know, with your dad not being around and all.
+[MALE] We were sentenced as political dissidents. This orbiter is our gulag. All the men were packed up with all our books, and towed into space. Ten thousand men. The eldest died very quickly.
 
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
+[FEMALE] The Company had such a sense of irony. Sending you out on this wooden tub.
 
-[MALE] She doesn't like to show it but I know she's bummed. I think it bothers her more that he hasn't called me or Maggie in a while. Whatever. BEEP. BEEP. Mike pulls out his iPhone, text message from Samantha. It reads:
+[MALE] I was placed among them as a sensor. Keeps tabs on the movement.
 
-[NARRATOR] Samantha'S Text whispers gently into the still air:
+[FEMALE] So how'd they find out about you?
 
-[MALE] Wat^? mobinit 2 zuma. soi! but w/e. brb. bk. gtg. ttyl. xo. sam.
+[MALE] I told them. After the supply—
 
-[NARRATOR] 47. adds in a relaxed, peaceful voice:
+[NARRATOR] The heavy, silent air of the corridor hummed with the quiet weight of isolation, carrying the slow, steady rhythm of fading echoes. The light was dim here, casting long, bruised shadows against the aged timber walls that felt more like the ribs of some ancient, fossilized leviathan than the corridors of a vessel. A draft, cool and faintly smelling of old dust and deep iron, brushed gently against their skin, offering a fragile respite from the stifling stillness. 
 
-[MALE] Mike stares at the screen as if it were in hieroglyphics.
+[FEMALE] The ships stopped coming, and I saw no point in keeping up the charade. Since I was a sort of walking reminder of technology, they cast me down.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] She looked across the subdued light, her expression soft yet unyielding, carrying the weariness of endless miles traveled through the cold dark.
 
-[MALE] I have no idea what this says? Alex takes the phone from Mike, reads-
+[FEMALE] Join the club. I figured this wasn't planned. You don't have to be a genius to see it wouldn't be prudent to try to preserve man's written works for generations without women.
 
-[NARRATOR] Alex whispers gently into the still air:
+[NARRATOR] John shifted in the dimness, the shadows swallowing the sudden warmth of embarrassment that colored his features, making him look away toward the rough-hewn floorboards beneath his boots.
 
-[MALE] It says `What up? Mobbing it to Zuma. So over it but whatever. Be right back. Back. Got to go. Talk to you later. kiss, hug. Sam.
+[FEMALE] And I don't know about your New Plague, but I was just on Earth and everything's fine.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[NARRATOR] John offered a doubtful look, his eyes narrowing slightly against the amber glow of the wall lamps, questioning a truth that seemed too distant to believe.
 
-[MALE] Let's hit the beach, wingman. The two touch fists. EXT. ZUMA BEACH - NIGHT A BONFIRE illuminates the night sky. MUSIC plays. KIDS lay on blankets, play football. Others splash in the ocean. WE find Maggie and the Wonder Bras seated by the fire.
+[FEMALE] I was right about the Alien, wasn't I? Means I must be right about the Earth.
 
-[NARRATOR] Samantha offers quietly, watching the shadows drift across the room:
+[NARRATOR] The quiet logic hung between them like a fragile web, heavy enough to draw a reluctant, thoughtful pause from the man beside her.
 
-[MALE] We were on his myspace page. There's a picture of him jamming with the Chili Peppers at Coachella.
+[MALE] Perhaps.
 
-[NARRATOR] Jamie offers quietly, watching the shadows drift across the room:
+[FEMALE] That's better than nothing. Come on.
 
-[MALE] I heard Timbaland wants to produce an album with him.
+[NARRATOR] They walked together down the narrowing passage, their footsteps falling in a soft, muffled cadence until the corridor abruptly opened, spilling them out into the vast, breathing expanse of the Transom Space. It was an enormous, cavernous void between towering cell blocks, where the distant walls were honeycombed with shadowy openings stretching upward for four dizzying stories. Aged, warped wooden ladders—reminiscent of ancient dwellings carved into forgotten cliffs—weaved a intricate network of vertical paths against the gloom. The room stretched ahead for the length of several silent fields, its far corners dissolving entirely into thick, velvety darkness. They stood together in silence, dwarfed utterly by the immense scale of the hall and the daunting journey that waited above them. 
 
-[NARRATOR] Lauren speaks with a quiet, measured softness:
+[FEMALE] At any rate, let's forget about the Earth completely—whether you're right or I'm right, what's important is getting the hell out of here. From here, my ship is...?
 
-[MALE] Yeah, but he turned him down to help orphans with Brangelina in Nambib-ib-bib...in Africa.
+[NARRATOR] John slowly raised a hand, pointing upward into the shadowed heights where the ceiling vanished into obscurity.
 
-[NARRATOR] Samantha murmurs with a warm, steady cadence:
+[MALE] In Heaven.
 
-[MALE] Oh my God!     I bet he knows Justin. ANGLE: Mike and a nervous Alex make their way down the sand.
+[FEMALE] Right. And this is...
 
-[NARRATOR] Alex whispers gently into the still air:
+[NARRATOR] Both Anthony and John nodded in unison, their faces touched by the pale, ambient glow filtering down from far above.
 
-[MALE] This looks boring. Let's go back to my house and play video games. Alex turns.   Mike grabs his arm, turns him back.
+[MALE] This orbiter was patterned after a medieval concept of the universe. They call the top half Heaven—the Abbey, the fields—and the bottom half is Hell. Where we are.
 
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
+[FEMALE] Aptly named. What's in the middle?
 
-[MALE] What are you so nervous about?
+[MALE] The sea.
 
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
+[FEMALE] Really. Work with me here. How far is it back to the surface of the planet?
 
-[MALE] The beach is for the older, cool kids. I don't belong here.
+[MALE] As a stone falls. Five miles through the center.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[FEMALE] And the elevator—the thing they lowered me down in?
 
-[MALE] What are you talking about? You're a basketball player. You're cool.
+[MALE] Ropes cut. It's smart. First he cuts their escape off, then works his way down through the monastery level by level until there isn't a thing left alive. Interesting...
 
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
+[FEMALE] Well, you start appreciating him more than me and I'll find a way to shut you down, capisce, Andy? How do we get up?
 
-[MALE] I don't play basketball. I mean, I can play, I just don't play on the team. Mike is stunned.
+[MALE] There are ladders.
 
-[NARRATOR] Mike responds with gentle reassurance:
+[NARRATOR] She stopped instantly, her boots halting against the wooden planks. John and Anthony continued on for a few quiet paces before realizing she was no longer beside them, turning slowly to walk back through the gloom.
 
-[MALE] But I thought you were getting ready for the season?
+[FEMALE] Five miles with the Alien between us and there? Good luck, boys.
 
-[NARRATOR] Alex whispers gently into the still air:
+[NARRATOR] She turned on her heel, her shoulders squared against the darkness, heading deliberately back toward the quiet safety of her cell. Before she could take more than a breath, John stepped forward, catching her shoulder with a gentle, arresting grip.
 
-[MALE] I never told you that. As a confused Mike and Alex approach the scene, BOYS call out to Mike, tap his fist. GIRLS fawn over him. Mike's become a celebrity...and he's eating it up. ANGLE: Lauren spots Mike with Alex.
+[MALE] You can't.
 
-[NARRATOR] Lauren offers quietly, watching the shadows drift across the room:
+[FEMALE] Can't what? Not help you go to your deaths? I've had my fill of that.
 
-[MALE] Here he comes! The Bras whip their heads around, get all dreamy.
+[MALE] I need you. I can't do it alone.
 
-[NARRATOR] Maggie responds with gentle reassurance:
+[FEMALE] I've fought these creatures twice before. It takes a lot to kill these things. Heavy.
 
-[MALE] Can he be any lamer? Using my little brother to get to me?
+[NARRATOR] The vast, quiet space around them seemed to hold its breath, heavy with the weight of ancient stone and the lingering chill of the deep, silent void outside. Shadows stretched long and soft across the floor, blurred at the edges by the dim, amber glow of distant, flickering lanterns. The air itself felt thick, moving in slow, measured currents that carried the faint, sweet scent of dry earth and quiet dust. 
 
-[NARRATOR] Samantha speaks with a quiet, measured softness:
+[NARRATOR] Anthony stood quietly nearby, his gaze shifting downward before he looked up, breaking the stillness of the subterranean hall.
 
-[MALE] If that boy was an apple he'd be delicious. Samantha leaps up, scurries over to Mike.      Lauren and Jamie chase after her. Maggie shakes her head. As Mike and Alex approach the gathering, Alex freezes up.
+[MALE] There is technology.
 
-[NARRATOR] Alex speaks with a quiet, measured softness:
+[NARRATOR] John and Ripley turned together to look at him, their movements unhurried in the tranquil gloom.
 
-[MALE] Oh, man.   It's her.   She's here.
+[MALE] A room. A Technology room. Fresh air and water come out.
 
-[NARRATOR] Mike answers in a low, calming tone:
+[FEMALE] An atmosphere processing plant.
 
-[MALE] Who? Alex nods towards the fire.   Seated with FRIENDS is Nicole. Alex BELCHES loudly.
+[MALE] The heart and lungs of Arceon.
 
-[NARRATOR] Alex speaks with a quiet, measured softness:
+[FEMALE] Where is it?
 
-[MALE] She's so pretty it makes me gassy.
+[MALE] One level beneath the underground sea.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] That's five levels up.
 
-[MALE] Calm down. Here's what you're gonna do. You're gonna go over there and introduce yourself-
+[NARRATOR] Anthony reached out, his hand extending into the deepening shadows, his finger pointing straight ahead into the vast expanse of the orbiter.
 
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
+[MALE] On the other side of the orbiter.
 
-[MALE] She won't like me, Mark.   I'm a loser. Mike grabs Alex by the shoulders.
+[NARRATOR] John looked slowly over at Ripley, his eyes reflecting a quiet, desperate hope in the dim light.
 
-[NARRATOR] Mike speaks with a quiet, measured softness:
+[MALE] A chance.
 
-[MALE] Why? Because Stan says so? You think Stan's a winner? He's going nowhere. You're a great kid. Any girl would be lucky to get your attention.
+[NARRATOR] Ripley looked from John’s earnest face out into the vast, dark emptiness and then back again, the gentle shadows playing across her tired features.
 
-[NARRATOR] Alex whispers gently into the still air:
+[FEMALE] All right. You've got me - so far. But here's the deal: I don't know how many of your brethren are going to be alive when we get up there, but if we make it to my ship, you're all coming with me. We'll take as many of your precious books as we can carry, but we're going. I'm not going to fight this thing again to end up alone again. Understand?
 
-[MALE] Really?
+[NARRATOR] John nodded his head slowly in the quiet dark.
 
-[NARRATOR] Mike whispers gently into the still air:
+[FEMALE] We're all dead anyway. We might as well go fi --
 
-[MALE] Really. And right now, there's a girl over there who's dying to meet you. A determined look comes over Alex.
+[NARRATOR] She suddenly stopped, her breath catching as a sharp twinge pulled at her midsection. She doubled over, the movement small and heavy with exhaustion. Instantly, Anthony and John each reached out, taking an arm to support her with gentle, steady hands.
 
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
+[FEMALE] Ugh - I'm all right.
 
-[MALE] Okay.   What do I say?
+[NARRATOR] She took a long, slow, deep breath, letting the coolness settle into her chest.
 
-[NARRATOR] Mike whispers gently into the still air:
+[FEMALE] Still thawing out. I hate hyper sleep... Come on.
 
-[MALE] Just introduce yourself. Then compliment her on something she never gets complimented on. Like if she has big, meaty, man hands tell her she should be a hand model.  And don't burp on her.
+[NARRATOR] Time slipped forward into the night, carrying them deeper into the quiet sanctuary of Arceon's monastery level. The landscape outside, once peaceful and idyllic, rested under a blanket of night, touched by the soft, distant glow of small, dying fires that dotted the darkened fields. The air was heavy with the faint, comforting scent of woodsmoke and quiet ash. 
 
-[NARRATOR] Alex speaks with a quiet, measured softness:
+[NARRATOR] Dozens of inhabitants moved across the countryside like quiet shadows, holding high the gentle, flickering light of tapers and torches. Their tools—scythes, pitchforks, and hoes—gleamed softly in the firelight. Some knelt to press sharpened wooden stakes deep into the dark earth, while others quietly pushed heavy carts into place to form protective barricades. 
 
-[MALE] I can do that.
+[NARRATOR] A small platoon gathered closely around open trapdoors set into the wooden ground, their hands reaching for the wooden ladders that led downward. One by one, they descended into the quiet earth, moving into the vast subterranean spaces below the monastery.
 
-[NARRATOR] 50. responds with gentle reassurance:
+[NARRATOR] Beneath the quiet surface stretched an underground wheatfield, where tall, golden stalks of grain reached upward for miles. The heavy, sweet scent of wheat filled the still air, swaying in a gentle, rhythmic motion around the massive wooden columns that supported the abbey fifty feet above. Overhead, a delicate lattice-work of suspended troughs and wooden pipes formed the hidden plumbing and understructure of the world resting above.
 
-[MALE] Alex takes a deep breath, marches off just as Samantha runs up and throws her arms around Mike.
+[NARRATOR] The figures descended the ladders in a single, quiet file. A soft ripple of apprehension passed through them, though most knew the old stories only as whispers in the dark. They moved cautiously, step by step, disappearing softly into the rustling, golden sea of wheat.
 
-[NARRATOR] Samantha speaks with a quiet, measured softness:
+[NARRATOR] The evening air grew heavy over the vast, undulating expanse of the golden wheat field. The monks spread out in a ragged, uneven line, moving like ghosts through the towering stalks. Standing atop an empty wooden wagon, the Abbot watched from his elevated vantage point. Dried blood stained his heavy cassock, a dark reminder of the trials left behind. Below him, the monks thrashed and poked their way forward, their initial discipline dissolving into the sea of amber. The high grass brushed against their wool garments, whispering a continuous, hypnotic lullaby in the evening breeze. 
 
-[MALE] You came! Why don't we take a walk somewhere private and play? Jamie and Lauren rush over.
+[ABBOT] Stay together. Together...
 
-[NARRATOR] Jamie murmurs with a warm, steady cadence:
+[NARRATOR] The Abbot’s voice was barely a breath, lost in the rustling ocean of grain. He watched them drift further apart, swallowed by the twilight. Then, a subtle disturbance caught his eye, far ahead of the lead monk. The wheat began to ripple against the natural current of the wind. A clear, distinct trail flattened the stalks, cutting a path through the harvest. Something unseen was moving through the long grass, gliding forward with terrifying speed toward the unsuspecting monk. The Abbot opened his mouth, his throat tightening as a wave of helpless stillness washed over him. Before a single sound could escape his lips, the distance vanished. A single, strangled cry echoed across the field as the lead monk vanished beneath the ocean of wheat. His lit taper slipped from his fingers, tumbling into the dry stalks where a thin wisp of smoke began to curl into the cooling air. The Abbot saw the hidden trail shifting again, racing toward the others before they could sense the danger. 
 
-[MALE] I don't think so, Sam. Mark promised me a walk on the beach.
+[ABBOT] Run! RUN!
 
-[NARRATOR] Lauren adds in a relaxed, peaceful voice:
+[NARRATOR] The monks in the field whirled around at the shout, turning their backs away from the rushing trail hidden just beneath the surface. 
 
-[MALE] Walk with me. I've got less miles on me. A full blown ARGUMENT breaks out between the Bras.    Mike sees Maggie sitting by the fire alone, slips out. ANGLE: Alex steps over to Nicole and suddenly loses confidence. As he turns to retreat, Nicole looks up-
+[ABBOT] No. NO.
 
-[NARRATOR] Nicole adds in a relaxed, peaceful voice:
+[NARRATOR] The unseen terror struck the skirmish line from the flank, moving through the men with effortless, terrifying precision. Limbs and tail whipped through the air, and the dry night snapped with the sound of breaking wood. Fallen torches ignited the parched stalks, and the field bloomed with sudden, consuming fire. Thick, white smoke rolled across the earth, turning the twilight into a hazy dreamscape. In the smoky commotion, panic took root. The monks broke rank, stumbling blindly through the haze with their weapons raised, crying out into the smoke. In the confusion, frightened shouts turned to tragic mistakes, weapons finding the wrong targets as panic blinded friend from foe. Through the chaos, the creature seemed to inhabit every corner of the field at once, utilizing the chalky smoke as a shroud while it moved like a phantom. The Abbot remained frozen upon his wagon, squinting through the stinging smoke to witness the decimation of his flock. The wails of the wounded rose like a melancholic wind, and the flattened grass signaled the approach of the shadow. Breaking free from his paralysis, the Abbot climbed down from the wagon. As his sandals touched the wooden bed, a massive shadow fell over him. The tiny hairs on the back of his neck prickled in the sudden stillness. He turned, his breath catching in his throat. Rising slowly from the sea of wheat, towering nearly three meters into the smoke-filled air, the great form revealed itself. Its smooth, elongated head, once dark and slick, now caught the amber glow of the surrounding flames in shades of gold, its cable-like arms resting in the heavy, drifting smoke.
 
-[MALE] Hi. Alex stops, turns back around and blurts out-
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] Hi, Alex.     I'm Nicole. Nicole and her Friends giggle.
-
-[NARRATOR] Nicole whispers gently into the still air:
-
-[MALE] You don't look like a Nicole.
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] You have big, meaty man hands.    You should be a hand model. The Girls' jaws drop.    Nicole hides her hands.
-
-[NARRATOR] Nicole offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh my God!     Seriously!? Alex rips a huge BURP.    The Girls duck for cover.
-
-[NARRATOR] Girl 1 responds with gentle reassurance:
-
-[FEMALE] I think he got some on me!
-
-[NARRATOR] Alex murmurs with a warm, steady cadence:
-
-[MALE] Wait. I'm sorry. I'm just real nervous and I've wanted to talk to you for so long. And Mark told me to compliment you on something you never get complimented on but I couldn't find anything because everything's so...perfect. Nicole and her Friends MELT.
-
-[NARRATOR] Nicole offers quietly, watching the shadows drift across the room:
-
-[MALE] Do you want to sit down, Nicole? Nicole scoots over making room next to her.    Alex smiles. ANGLE: Mike sits down beside Maggie.
-
-[NARRATOR] Maggie responds with gentle reassurance:
-
-[MALE] What do you want?
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Stan.   Why are you dating him?
-
-[NARRATOR] Maggie responds with gentle reassurance:
-
-[MALE] Get to the point why don't you?
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] I'm serious. He's not a nice guy. Matter of fact he's a jackass.
-
-[NARRATOR] Maggie murmurs with a warm, steady cadence:
-
-[MALE] Don't talk about him like that. You don't even know him.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] I know he bullies your brother.
-
-[NARRATOR] Maggie responds with gentle reassurance:
-
-[MALE] Stan barely knows Alex exists. We're moving in together after graduation.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Whoa. Whoa. Whoa. I thought you were going to Georgetown?
-
-[NARRATOR] Maggie speaks with a quiet, measured softness:
-
-[MALE] I'm going to Westwood Community College. Stan and I both are. Mike loses it, leaps to his feet shouting-
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] The hell you are, Young Lady! If you think I'm gonna let you throw your life away on some Sleestack you're crazy! I forbid you to see him anymore and that's final! Maggie jumps up.   Kids all stare.
-
-[NARRATOR] Maggie speaks with a quiet, measured softness:
-
-[MALE] Who do you think you are!?   My father?! Maggie stomps over to the still bickering Bras.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Don't you walk away from me, Margaret Sarah O'Donnell! Maggie and the Bras turn towards Mike and glare.   Maggie heads for the parking lot.
-
-[NARRATOR] Samantha offers quietly, watching the shadows drift across the room:
-
-[MALE] Who's Margaret?
-
-[NARRATOR] Lauren murmurs with a warm, steady cadence:
-
-[MALE] He doesn't even know her name.
-
-[NARRATOR] Jamie speaks with a quiet, measured softness:
-
-[MALE] He's so not into her. The Bras make the `text me' sign then hurry after Maggie. Mike kicks angrily at the sand and accidentally into the faces of a group of KIDS. EXT. ED'S HOUSE/POOL - MORNING A HOT GIRL wearing a `Lifeguard' bathing suit sits atop a high chair. Ed floats on a raft. A frozen drink next to him.    Scarlet looms over him, the 2 in a heated conversation-
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] I haven't heard from him in three weeks. Obviously he doesn't care.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] He cares.
-
-[NARRATOR] Scarlet whispers gently into the still air:
-
-[MALE] Then where is he? Mike steps from the house, sees Scarlet-
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] What's going on?
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] Nothing, Mark. I was just dropping something off. Scarlet tosses a manila envelope on the patio table.
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] Our court date is the 27th. If he has anything to say, he can say it then. Scarlet exits.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] What was that all about?
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] That envelope contains divorce papers. Mike eyes the envelope, in stunned silence.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] But what do you care? You're going to college, right? Life's one big panty raid for you. Mike feigns innocence.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] I don't know what you're talking about?
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] I saw the applications in your room.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] You went through my room!?
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] If you'd cleaned like I asked I wouldn't have had to. You can't be serious about this can you?
-
-[NARRATOR] 54. speaks with a quiet, measured softness:
-
-[MALE] Mike starts to argue then gives in-
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] I have to face the possibility that I might never turn back and if that's the case, I'm going to do it right this time around.
-
-[NARRATOR] Ed speaks with a quiet, measured softness:
-
-[MALE] Karmically speaking, in the next life you're coming back as a hemorrhoid. Mike scoffs, storms off.    Ed calls after him-
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] I'm not paying for college! INT. FITCH SENIOR HIGH SCHOOL/HALL - DAY Mike shoves books in his locker.   Stan approaches.
-
-[NARRATOR] Stan whispers gently into the still air:
-
-[MALE] You like her, don't you?
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] Who?
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] My girlfriend. She told me you were trashing me at the beach.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Leave her alone, Stan.    She's a good kid.
-
-[NARRATOR] Stan offers quietly, watching the shadows drift across the room:
-
-[MALE] I don't know how good she is yet but after I find out, she's all yours. Stan walks off.   Mike slams his locker shut. INT. FITCH SENIOR HIGH SCHOOL/CALCULUS CLASS - DAY Mike slips inside the empty classroom, slathers KRAZY GLUE all over Stan's DESKTOP and CHAIR. Mike sits just as the rest of the class files in. Stan kisses Maggie and takes his seat.
-
-[NARRATOR] 55. speaks with a quiet, measured softness:
-
-[MALE] Stan leans on his desk, placing a FOREARM and a HAND on the sticky desktop. He catches Mike looking back at him and gives him a cocky wink. Mike winks back knowingly. Mike's phone beeps. He checks it...A PIX MESSAGE...3 perfect ASSES in tiny bikini bottoms. A wide-eyed Mike spins in his seat to find the Wonder Bras smiling at him. Mr. Adams enters.
-
-[NARRATOR] Mr. Adams answers in a low, calming tone:
-
-[MALE] Settle, people. Adams scribbles a large equation on the blackboard.
-
-[NARRATOR] Mr. Adams adds in a relaxed, peaceful voice:
-
-[MALE] This was your homework. Who can come up here and solve this for me? Anyone? Blank, uninterested faces. Scattered giggles.   Adams tosses the chalk angrily on his desk.
-
-[NARRATOR] Mr. Adams responds with gentle reassurance:
-
-[MALE] Not one person. Fine. Miss O'Donnell. Come up here and dazzle us with your brilliance. Maggie rises nervously from her seat, shuffles to the front of the class. As she passes Stan WE see... Stan lifts his fingers from the desktop...it's WET...he places his wet fingers to the tip of his nose and smells. When Stan tries to remove his fingers from his nose...they STICK. Stan tries to raise his other arm...STUCK.
-
-[NARRATOR] Stan adds in a relaxed, peaceful voice:
-
-[MALE] Stuck!!!   I'm stuck!   My fingers! Stan stands, hunched...the CHAIR GLUED to his butt. The DESK ATTACHED to his forearm and his FINGERS STUCK to his nose. The Kids and Mike burst out laughing, break out their video phones as Stan fumbles around, dragging the desk, PANICKING.
-
-[NARRATOR] Mr. Adams murmurs with a warm, steady cadence:
-
-[MALE] Sit down, Stan! Sit down!
-
-[NARRATOR] Stan adds in a relaxed, peaceful voice:
-
-[MALE] It's glue! I'm glued to everything!
-
-[NARRATOR] 56. whispers gently into the still air:
-
-[MALE] Jazz bounds out of his seat, grabs hold of Stan's wrist.
-
-[NARRATOR] Jazz responds with gentle reassurance:
-
-[MALE] I'll get it off!
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] No!    No!   Don't pull--! RRRRIIIIPPPP.    Jazz yanks.   Stan's SCREAM echoes. INT. FITCH SENIOR HIGH SCHOOL/GYM - DAY Mike, wearing basketball gear and bouncing a basketball, stands in the middle of the court. Alex enters.
-
-[NARRATOR] Alex murmurs with a warm, steady cadence:
-
-[MALE] I got your text.     What's so important?
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] This year you're making the team. We practice everyday `til try outs. That gives us a week and a half.
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] Forget it.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Yeah, you're right. You probably don't have any skills anyway. Mike begins to walk out.
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] Hey!     I got skills. Mike turns back.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] So what's your problem?      Is it Stan and his friends?
-
-[NARRATOR] Alex speaks with a quiet, measured softness:
-
-[MALE] Just leave it alone.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] You don't need to be afraid of them, Alex.
-
-[NARRATOR] Alex answers in a low, calming tone:
-
-[MALE] I'm too small anyway.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] That's why we focus on your speed, dribbling and outside shot. Remember, it's not how big you are-
-
-[NARRATOR] Alex murmurs with a warm, steady cadence:
-
-[MALE] -it's how big you play.
-
-[NARRATOR] Where did you hear that?
-
-[NARRATOR] I don't know? Read it somewhere I
-
-[NARRATOR] guess. Be a sport. Show me what
-
-[NARRATOR] you got.
-
-[NARRATOR] Mike tosses Alex the ball. Alex begins to dribble. Mike
-
-[NARRATOR] steps up to defend. Alex dribbles quicker, through his legs.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Alright.   You got a little game. WHAM. The doors slam open. In walk Stan and his Posse.     A BLOOD speckled BAND-AID covers the tip of Stan's nose.
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] What are you 2 queers doing in my gym?
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Let's go, Alex. Alex stops dribbling. He and Mike move towards the door. Stan and his Posse block the way.
-
-[NARRATOR] Stan murmurs with a warm, steady cadence:
-
-[MALE] I don't think so. You girls wanna play with the boys then let's play. 2 on 2.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] We'll save you the embarrassment for try-outs. Stan takes the ball from Alex, turns his back, dribbles.
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] Come on, Ally. Embarrass me. While dribbling, Stan moves backwards, bumping into Alex's midsection, forcing Alex back.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Back off, Stan. Alex takes a deep breath, tired of being afraid-
-
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
-
-[MALE] It's okay.     I got him. Alex throws his hands up, tries to defend the much bigger Stan. Stan easily backs Alex down, faking left and right.
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] You ready?     Here it comes. Stan spins, elbows high...POW...Alex catches one to the head and DROPS. Stan shoots and scores.
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] 2 points!     And I was fouled! Stan high 5's Jazz and Kevin. Blind with RAGE, Mike RUSHES Stan...WHAM...tackles him hard to the floor. Jazz and Kevin throw Mike off Stan, punching and kicking him. COACH HARVEY, now 58, enters the gym, runs over to the fracas, pulls the boys apart.
-
-[NARRATOR] Coach Harvey answers in a low, calming tone:
-
-[MALE] Hey! That's enough! That's enough! INT. FITCH SENIOR HIGH SCHOOL/OFFICE - DAY Mike and a nervous Alex sit outside the principal's office. Mike holds an ice pack to his eye.
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] My mom's been in there a while. She's gonna be pissed.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Act like you're hurt and she won't be able to stay mad at you. The door swings open.    An elated Ed blows in.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Way to go, slugger! Get any shots in? The Secretary's jaw drops.
-
-[NARRATOR] Secretary murmurs with a warm, steady cadence:
-
-[MALE] Mr. Freedman, your son has a black eye.
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] Wuss! Ed sits between Mike and Alex.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Hey, Alex.     How you doin', buddy?
-
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
-
-[MALE] I'm okay I guess.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] Good. Good. (turns to Mike, nudges
-
-[NARRATOR] Him) speaks with a quiet, measured softness:
-
-[MALE] Nice goin'. How do I look? Anything in my teeth? How's my breath? Ed flashes his pearly whites then blows on Mike. The principal's door opens, an angry Scarlet steps out.
-
-[NARRATOR] Scarlet murmurs with a warm, steady cadence:
-
-[MALE] Ed.
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] Hey, Scarlet. Exciting, isn't it? My first parent/principal conference. Scarlet looks sternly to Alex-
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] Fighting?     What's gotten into you?
-
-[NARRATOR] Alex responds with gentle reassurance:
-
-[MALE] I can't talk, Mom.     My jaw.
-
-[NARRATOR] My poor baby. And how about you,
-
-[NARRATOR] Mark?
-
-[NARRATOR] Scarlet bends down so she's eye to eye with Mike.   She
-
-[NARRATOR] removes the ice pack...a purple shiner.
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] Ouch.   You poor thing. Does it hurt? Scarlet strokes Mike's face. Mike loses himself in her caring, gentle touch.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Not anymore. You smell great. Scarlet, a bit weirded out by Mike, stands.
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] Alex, I'll meet you at the car.     I need to talk to Uncle Ed for a second. Alex shuffles out of the office.   Scarlet turns to Ed, hushed-
-
-[NARRATOR] Scarlet responds with gentle reassurance:
-
-[MALE] Did you give him the divorce papers?
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] I sent them to him.
-
-[NARRATOR] Scarlet responds with gentle reassurance:
-
-[MALE] Is it another woman? I can handle it. Tell me the truth.
-
-[NARRATOR] Ed speaks with a quiet, measured softness:
-
-[MALE] I haven't heard from him, really. Scarlet looks down, fights back tears, unravels a bit...
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] Okay. If you do, please have him call home. For the kids...I'm running out of excuses-
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] I'll tell him.    I promise. Scarlet forces a smile. Mike watches her go. For the first time he's seen HER REALITY...hurt, pain, frustration. Mike places his head sadly in his hands. Julie the Principal pokes her head out the door.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] Ed, come on in. Ed whispers to Mike.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] I'll take it from here. As Ed passes Julie on the way in-
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] I'm heartbroken. The boy's incorrigible. INT. FITCH SENIOR HIGH SCHOOL/PRINCIPAL'S OFFICE - DAY Ed takes a seat across from Julie, puts on his best `troubled parent' look.
-
-[NARRATOR] Julie adds in a relaxed, peaceful voice:
-
-[MALE] Look, if it was only one isolated fight it wouldn't distress me all that much. Boys will be boys. But, it's also been brought to my attention that Mark may have Krazy glued a boy to his chair. Ed stifles a laugh, puts on a serious face.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] My son?     Mark!   Get in here!   Now! Mike slouches in, takes a seat.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] Did you glue a boy to his chair?
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] No. Ed throws his hands up in exasperation.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] See? The boy's out of control. He's acting up at home. He won't eat his vegetables- MIKE                                 ED He shaves his back.                He sucks his thumb. MIKE                                ED He wears girls underwear.          He wets his bed.
-
-[NARRATOR] Julie answers in a low, calming tone:
-
-[MALE] Enough! Mark, I know it's hard to be the new kid but if I have anymore trouble from you, you'll be facing detentions or worse. You can go now. Mike nods, exits.   Ed stands and with exaggerated sadness-
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] He's crying out for help and I don't know what to do. It hurts so bad. Maybe we could discuss this over margaritas?
-
-[NARRATOR] Julie adds in a relaxed, peaceful voice:
-
-[MALE] Let's give him time to figure it out on his own. If the situation gets worse then we'll take the next step.
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] You're the expert. I'm just a single dad out here blowing like dust in the wind. Ed shakes Julie's hand and exits, sniffling. EXT. MIKE'S HOUSE/BACKYARD - DAY A dirt covered Scarlet wrestles a roll of sod down. MIKE  Got an extra pair of gloves? Scarlet peers over her shoulder...Mike wanders in.    Scarlet stands, wipes her bare, dirty hands on her jeans.
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] Gloves are for sissies.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Yeah, but I just had a manicure.
-
-[NARRATOR] You're serious? You want to help?
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Are you kidding? I love landscaping!
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] It's right up there with watching "Sex and the City" and snuggling. Scarlet laughs, eyes him skeptically-
-
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
-
-[MALE] Mark, I'm 36 years old-
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] I'm just doing this to make a few bucks so I can buy Laker tickets.
-
-[NARRATOR] Embarrassing. Sorry.      I'll give
-
-[NARRATOR] you 10 dollars a day.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Wow. 10 whole dollars. At that rate I should be able to buy tickets in...2011.
-
-[NARRATOR] Scarlet responds with gentle reassurance:
-
-[MALE] Fine.   20.     Grab a roll. Mike and Scarlet, step over to the sod, lift a roll together, carry it over to the spot.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] What are the benefits like here?
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] I'll throw in a baloney sandwich.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Deal. Mike and Scarlet share a laugh. INT. FITCH SENIOR HIGH SCHOOL/LIBRARY - DAY Mike strolls in, sits at a back table, pulls a college application from his knapsack. He takes out a pen, places the tip to the paper where it says `name' when- WE hear the muffled sound of CRYING. Mike rises, follows the sobs through the maze of stacks until he finds-
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Maggie? -seated on the floor, head hidden between her knees.   Maggie looks up, sees Mike, quickly dries her eyes.
-
-[NARRATOR] Maggie adds in a relaxed, peaceful voice:
-
-[MALE] What do you want? To rub it in my face? Say I told you so?
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] You lost me? Maggie drops her head back between her knees.
-
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
-
-[MALE] Stan dumped me. Maggie BAWLS loudly.    Mike panics, fearing the worst-
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] What happened? What did he do? You didn't...
-
-[NARRATOR] Maggie murmurs with a warm, steady cadence:
-
-[MALE] My mom was working last night. Stan came over with a box of- Mike slaps his palms over his ears.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Your next word better be `cookies' or you're in big, big trouble!
-
-[NARRATOR] Maggie whispers gently into the still air:
-
-[MALE] What am I going to do?    I can't live without him. Maggie takes Mike's shirt, BLOWS her nose on it.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Maggie, did you two...you know...do...
-
-[NARRATOR] Maggie whispers gently into the still air:
-
-[MALE] Do what?
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] That thing...that rabbits do a lot of and that a girl your age should never do and should only do when she's married.
-
-[NARRATOR] Maggie speaks with a quiet, measured softness:
-
-[MALE] Sex?   No, that's why he dumped me! Maggie bawls again. Mike silently celebrates, sits beside her, awkwardly pats her on the back.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] There, there now.       It's okay.
-
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
-
-[MALE] Sure he was a jerk but he was there for me. Which is more than I can say for any other man in my life. Maggie sobs uncontrollably.      Mike takes a deep breath, calms-
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] When you're young everything seems like the end of the world. But it's not. It's just the beginning. And you might have to meet a few more jerks, but one day you'll meet a boy who treats you the way you deserve to be treated...like the sun rises and sets with you.
-
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
-
-[MALE] You really think so?
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] I know so. Maggie throws her arms around Mike, hugs him tight. Mike hugs her back. A moment he's never had with his daughter.
-
-[NARRATOR] Maggie whispers gently into the still air:
-
-[MALE] You're so sweet. ANGLE ON Maggie's face.       She's SMITTEN.
-
-[NARRATOR] Montage Of Life offers quietly, watching the shadows drift across the room:
-
-[MALE] EXT. BASKETBALL COURT - DAY Alex dribbles, using both hands, while running through a maze of cones. Whenever he messes up, Mike makes him start again. EXT. MIKE'S HOUSE/BACKYARD - DAY Mike and Scarlet settle the limestone rocks into the freshly laid sod creating a walkway. INT. FITCH SENIOR HIGH SCHOOL/CALCULUS CLASS - DAY Maggie solves a difficult problem on the board, much to Mr. Adam's chagrin.
-
-[NARRATOR] 66. whispers gently into the still air:
-
-[MALE] Maggie turns from the chalkboard and smiles flirtatiously at Mike. Stan catches this exchange and pops the back of Mike's head. EXT. BASKETBALL COURT - NIGHT Lights shine down. Alex stands behind the 3 point line. Mike feeds him balls. Alex shoots and moves. Shoots and moves. More misses than hits. INT. FITCH SENIOR HIGH SCHOOL/PRINCIPAL'S OFFICE - DAY Again, Mike and Ed sit before a stern Julie. EXT. MIKE'S HOUSE/DRIVEWAY - DAY Mike teaches Alex the cross over dribble. Scarlet brings the boys water. Mike checks her out as she goes back in the house. Alex bounces the ball off his head. INT. FITCH SENIOR HIGH SCHOOL/CALCULUS CLASS - DAY A muffled buzz. Mike reaches into his pocket, pulls out his phone. A PIX MESSAGE. Mike opens it. A close up of perfect
-
-[NARRATOR] Cleavage. murmurs with a warm, steady cadence:
-
-[MALE] Mike peeks over his shoulder...the Wonder Bras text on their phones. He's confused until- -Mike turns a little more in his seat...MAGGIE smiles seductively at him, blows a kiss. Mike GASPS, spins back around...TRAUMATIZED. EXT. MIKE'S HOUSE/BACKYARD - DAY Scarlet fills holes with plants then waters them with a hose. She turns, finds Mike SLEEPING in the grass. Scarlet picks up the hose, TURNS IT ON HIM. Mike leaps up, chases her. EXT. FITCH SENIOR HIGH SCHOOL/PARKING LOT - DAY Mike, Alex, Nicole, Maggie, the Bras and a slew of KIDS hang by Mike's Aston. Stan, Jazz and Kevin are all that's left by Stan's Mustang.
-
-[NARRATOR] 67. adds in a relaxed, peaceful voice:
-
-[MALE] EXT. BASKETBALL COURT - DAY Alex scampers through the maze of cones, dribbling from hand to hand...and does it perfectly. Mike and Alex high 5. EXT. MIKE'S HOUSE/BACKYARD - DAY Mike and Scarlet lug an ornate, wooden bench to it's spot. They sit. Mike casually places a hand on Scarlet's leg. Scarlet casually removes it. INT. FITCH SENIOR HIGH SCHOOL/GYM - DAY A game of 1 on 1. Alex dribbles up to Mike. Mike crouches in a defensive stance. Mike goes for the ball. Alex crosses over. Mike misses. Alex pulls up, shoots and scores. Mike smiles, shakes his head. INT. FITCH SENIOR HIGH SCHOOL/PRINCIPAL'S OFFICE - DAY Again, Mike and Ed sit before Julie. She hands Ed a slip of paper...3 detentions. Ed chokes back crocodile tears. INT. FITCH SENIOR HIGH SCHOOL/HALL - DAY Mike places books in his locker, shuts the door revealing...a goo goo eyed Maggie. Mike startles and RUNS. Maggie chases. INT. BASKETBALL COURT - DAY Alex stands behind the 3 point line. Mike rapidly feeds him balls. Alex catches, shoots and moves. This time...they're all going in. Mike passes the last ball. Alex shoots and we- CUT TO: INT. FITCH SENIOR HIGH SCHOOL/GYM - DAY CLOSE ON a ball going through the hoop. Wider reveals Alex following through. He and Mike tap fists. It's TRY-OUTS. Coach Harvey, a number of HOPEFULS, Maggie, Nicole and the Bras watch the game of half court, 2 on 2. Stan and Jazz vs. Mike and Alex.
-
-[NARRATOR] 68. murmurs with a warm, steady cadence:
-
-[MALE] Mike and Alex school Stan and Jazz. Steals, picks, fancy passes and scoring. The Coach watches with awe. A final 3 pointer by Mike in Stan's face seals the deal.
-
-[NARRATOR] Coach Harvey adds in a relaxed, peaceful voice:
-
-[MALE] That makes 11-3. Game over. Gather up. As Alex passes Harvey, Harvey stops him-
-
-[NARRATOR] Coach Harvey murmurs with a warm, steady cadence:
-
-[MALE] You've gotta little bit of your old man in you, O'Donnell. The Team and the Hopefuls huddle around Coach Harvey.
-
-[NARRATOR] Coach Harvey murmurs with a warm, steady cadence:
-
-[MALE] As you all know due to the amount of seniors coming back I only have 2 open spots on the roster. It's Freedman and O'Donnell. The rest of you hit the showers. The Hopefuls trudge out of the gym.    Alex leaps into the air.
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] Wooo!   We did it, Mark!    We did it!
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] You killed it out there! Alex runs over, hugs Nicole. Mike beams with pride.     Coach Harvey puts an arm around him-
-
-[NARRATOR] Coach Harvey responds with gentle reassurance:
-
-[MALE] Son, I don't know where you came from but you just made my year. INT. MIKE'S HOUSE - NIGHT Alex rushes through the door.   Mike and Maggie follow. Maggie slaps Mike's butt. INT. MIKE'S HOUSE/KITCHEN - NIGHT
-
-[NARRATOR] Alex murmurs with a warm, steady cadence:
-
-[MALE] Mom!    Mom! SCARLET  I'll be right out, Honey!
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] I got'a use the bathroom. WE follow Mike down the hall. As he passes a half open door, he pauses, peeks in...Scarlet, facing away, pulls a shirt over her nude back, shakes out her long hair. Mike watches...no, he GAZES longingly, lovingly...lost in her beauty until...Scarlet turns, startles-
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] Mark? I didn't know you were there.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] I'm sorry.     You just look so beautiful. Scarlet blushes...it's been a while since she's heard that.
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] Thank you.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Can I zip you up?
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] I'm wearing a sweater.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Your jeans? Scarlet walks towards him and...SLAM...shuts the door on him. Mike wanders to the bathroom, shaking his head-
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Stupid, idiot, stupid. INT. MIKE'S HOUSE/BATHROOM - NIGHT Mike enters, steps over to the toilet. Maggie slips in behind him, shuts the door. He whirls around.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Maggie, what... Maggie places a finger on his lips.
-
-[NARRATOR] Maggie whispers gently into the still air:
-
-[MALE] Shhh. I get it now. Why you didn't want me to be with Stan, the nice things you said in the library. It's because you wanted me. Maggie backs Mike against the wall.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Maggie, listen to me.    I'm not the person you think...
-
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
-
-[MALE] Shhh. Yes, you are. You're a good guy. You're not like the others.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] That's right! I'm not like the others. I'm very different than the others. So different that you and I can never be... Maggie stops, looks quizzically at Mike-
-
-[NARRATOR] Maggie responds with gentle reassurance:
-
-[MALE] What are you trying to say?    Are you..."confused"?
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Yes! Yes! That's it. I'm confused. Extremely confused.
-
-[NARRATOR] Maggie adds in a relaxed, peaceful voice:
-
-[MALE] Ohmygod! It all makes sense now! Your hair. The highlights. Mike starts to speak.   Stops.   Finally gets it-
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] What? No-no-no-no. I'm not gay. I'm...I've been in love with the same girl since I was 17. Maggie switches back into predatory mode.
-
-[NARRATOR] Maggie answers in a low, calming tone:
-
-[MALE] Who is it? Does she go to our school? Do I know her?
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] No, you don't. Now-  -if you don't mind?
-
-[NARRATOR] Maggie responds with gentle reassurance:
-
-[MALE] Tell your girlfriend she better keep a close eye on you. Maggie smiles seductively and struts out. INT. MIKE'S HOUSE/KITCHEN - NIGHT Alex types on his phone.   Mike enters.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] Who you texting?
-
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
-
-[MALE] My dad.   I have to tell him about today. Mike nods...then realizes...BEEP...BEEP. HIS PHONE.     Alex and Maggie look to Mike. Mike checks his phone.
-
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
-
-[MALE] Did you just get a text?
-
-[NARRATOR] Me? No. Yes. It's Ed. I mean
-
-[NARRATOR] dad. Not your dad. My dad. I'll
-
-[NARRATOR] just call him back.
-
-[NARRATOR] Scarlet enters. She looks AMAZING.
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] So?   What happened? Tell me.     Tell me.   I'm dying to hear.
-
-[NARRATOR] Alex responds with gentle reassurance:
-
-[MALE] I did it. I'm a Falcon!     The first game's in 2 weeks.
-
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh my God, Alex! That's so incredible! Scarlet wraps Alex in a big hug.    Mike watches.   It's a bittersweet moment for him.
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] I'm so happy for you. And now I want to show you guys something. Scarlet, unable to contain her excitement, leads Mike and Alex to the french doors and flicks a light switch...
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] Ta da! Thousands of tiny, white lights illuminate Scarlet's OASIS...
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] You hung the lights!
-
-[NARRATOR] Scarlet answers in a low, calming tone:
-
-[MALE] I wanted you to be the first to see it.
-
-[NARRATOR] Alex responds with gentle reassurance:
-
-[MALE] Mom, it's sick. EXT. MIKE'S HOUSE/BACKYARD - NIGHT The 3 step outside.   Mike, truly blown away, takes picture with his iPhone.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] It's amazing. I'm speechless. I'm sorry I never saw how talented you are...I mean when people see this and how talented you are you'll be designing sanctuaries all over the city.
-
-[NARRATOR] Thank you.
-
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
-
-[MALE] Mom, why are you all dressed up?
-
-[NARRATOR] Scarlet responds with gentle reassurance:
-
-[MALE] Oh my God. I almost forgot.    I have a date. Off Mike's stunned reaction. CUT TO: INT. MIKE'S HOUSE/FOYER - NIGHT Mike marches in behind Scarlet.   As they reach the door, he steps in front of her.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Let's see who the lucky guy is.
-
-[NARRATOR] 73. responds with gentle reassurance:
-
-[MALE] Mike swings the door open revealing...Dom Johnson.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] I knew it! SLAM.   Mike shuts the door, blocks it.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] I knew you had a thing for him! You can't do this! You took vows. What kind of example are you setting for the kids!?
-
-[NARRATOR] Scarlet murmurs with a warm, steady cadence:
-
-[MALE] Mark, I'm flattered. Really, I am. But I'm too old for you. Scarlet moves Mike aside, opens the door.     Dom stands in the doorway holding a bouquet.
-
-[NARRATOR] Dom murmurs with a warm, steady cadence:
-
-[MALE] Wow. You look absolutely ravishing.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Keep it in your pants, Casanova.
-
-[NARRATOR] Scarlet whispers gently into the still air:
-
-[MALE] Don't mind him. You all set?
-
-[NARRATOR] Dom speaks with a quiet, measured softness:
-
-[MALE] Let's do it. Scarlet heads for the van.     Dom looks to Mike-
-
-[NARRATOR] Dom murmurs with a warm, steady cadence:
-
-[MALE] Hey, kid...if the vans'a rockin'...well you know the rest. Dom imitates humping, jogs after Scarlet.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Don't you lay a finger on her, Johnson! I know where you live! Mike slams the door. INT. MIKE'S HOUSE/KITCHEN - NIGHT A contemplative Alex scoops lasagna onto plates.    An agitated Mike enters, pulls up a seat at the counter.
-
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
-
-[MALE] It's weird to think about my mom with someone other than my dad.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] It's adultery! If this were Afghanistan she'd be dragged through the village by goats.   You need to talk to her.
-
-[NARRATOR] Alex answers in a low, calming tone:
-
-[MALE] My mom's been pretty sad the past few months. She deserves to be happy. My dad obviously is...wherever he is.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Maybe he's not? Maybe he wishes he could be here right now with you but there's a real good reason he can't be.
-
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
-
-[MALE] No, my dad's not a family guy. This is dumb but I used to tell him I was on the basketball team because I knew he'd never make it to a game.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Then why would you tell him that?
-
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
-
-[MALE] I guess I was hoping it would make him like me more. Mike is CRUSHED. INT. GUCCI STORE - DAY Mike paces in front of a dressing room.   A SALESMAN waits by the door.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] My wife's moving on. My son doesn't think I like him and my daughter's in love with me. I need to change back, Ed. Ed steps from the changing room wearing very tight, ultra hip clothes that belong on a 20 year old...he looks ridiculous.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] What about college?
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] I'm not going. I'll be a pharm rep til I die. I just want my family back.
-
-[NARRATOR] You're not gonna wear that, are
-
-[NARRATOR] you?
-
-[NARRATOR] Ed checks his butt in a full length mirror, nods happily.
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] Baby's got back. Ed retreats into the changing room. ED   Now that Julie's agreed to go out with me tonight, I need you to start behaving. I can't have her thinking my son is a complete degenerate.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Fine. I want to have some kids over tonight to celebrate Alex making the team. Is that cool? Ed, wearing only his banana hammock underwear and socks, steps from the room, hands the clothes to the Salesman.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Wrap it up. No, it's not cool. I remember hearing what those parties were like, kids peeing everywhere, food on the ceilings, puke in the pool.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] Listen to you. You sound like an old man. Other SHOPPERS eye Ed oddly as they pass.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] No party. I mean it.    Don't make me take the car away.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Don't treat me like a child, Ed.
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] I won't when you stop acting like one. Mike grabs Ed's bare tits and TWISTS. Ed screams, grabs Mike's tits and TWISTS. Both of them HOWL in pain.
-
-[NARRATOR] Salesman adds in a relaxed, peaceful voice:
-
-[MALE] Sir!   Please! Mike and Ed, both still titty twisting, look up. Everyone in the store stares. They each let go, force smiles.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] This isn't over...son!
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Not even close...Dad! Ed stomps into the dressing room rubbing his sore boobs. Mike pulls out his iPhone, begins texting. CUT TO: INT. FITCH SENIOR HIGH SCHOOL/HALL - DAY The Wonder Bras stand by their lockers when their phones beep...TEXT MESSAGE...
-
-[NARRATOR] Mike'S Text adds in a relaxed, peaceful voice:
-
-[MALE] Party at my house 2nite.   7.    Get the word out. The Bras type away, simultaneously hit SEND. WIDE REVEALS...hundreds of students...the beeps of hundreds of cell phones. EXT. ED'S HOUSE - NIGHT CARS line the street. A steady flow of KIDS stream towards the front door. MUSIC pounds from within. It's a RAGER. INT. ED'S HOUSE/KITCHEN - NIGHT MAYHEM. Kids raid the refrigerator, throw food around. Another KID sprays the room with the removable sink head. Mike rushes in, grabs the sink head from the Kid.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Give me that!
-
-[NARRATOR] Wonder Bras speaks with a quiet, measured softness:
-
-[MALE] Hey, Sexy. Mike turns without thinking SPRAYING all 3 Wonder Bras in the face. The Bras scream. Mike replaces the nozzle.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] I'm so sorry. Have you seen Alex? The Bras wipe themselves off, grab Mike's hands.
-
-[NARRATOR] Samantha speaks with a quiet, measured softness:
-
-[MALE] Dance with us! The Bras drag a reluctant Mike out of the kitchen and into - INT. ED'S HOUSE/LIVING ROOM - NIGHT PARTY-GOERS dance everywhere and on top of everything. The Bras surround Mike, each girl grinding on him as if it were a competition. Lauren takes Mike by the face, turns him towards her-
-
-[NARRATOR] Lauren speaks with a quiet, measured softness:
-
-[MALE] Nambib-bib-ib, that African country makes me horny. Jamie spins Mike towards her, places his hands on her boobs-
-
-[NARRATOR] Jamie speaks with a quiet, measured softness:
-
-[MALE] Perfect, aren't they? Samantha pulls Mike roughly by the hair, twists him around-
-
-[NARRATOR] Samantha murmurs with a warm, steady cadence:
-
-[MALE] Which one of us is it gonna be? Mike tries to squeeze out. The Bras block him. The music changes...a remix version of Hammer's `Can't Touch This' blares.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] I thought you girls wanted to dance? Mike breaks into the 80's Hammer routine WE saw from the first scene.
-
-[NARRATOR] 78. adds in a relaxed, peaceful voice:
-
-[MALE] The Bras back up. Party-Goers stop what they're doing and watch...not sure whether to laugh or join in. And then, the Bras fall in.      Followed by others.   The party just got hotter. Maggie runs through the party and out the back. Stan chases after her. Mike inconspicuously Hammer walks his way out of the mix and outside. EXT. ED'S HOUSE/POOL - NIGHT Stan corners Maggie against the back wall.
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] I was upset. I'm sorry. But I need you to show me you love me. Then we'll move in together.
-
-[NARRATOR] Maggie whispers gently into the still air:
-
-[MALE] Whatever.    I'm with someone else now.
-
-[NARRATOR] Stan responds with gentle reassurance:
-
-[MALE] Yeah, right. Who'd be stupid enough?
-
-[NARRATOR] Maggie answers in a low, calming tone:
-
-[MALE] Him. Stan turns angrily toward Mike as he approaches.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Party's over, Stan.      You're out of here.
-
-[NARRATOR] Stan offers quietly, watching the shadows drift across the room:
-
-[MALE] Who's gonna make me leave?      You?
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] I would but it smells like you've been drinking so I'll let the cops do it. Mike pulls out his phone.      Stan looks to Maggie then back to Mike, laughs-
-
-[NARRATOR] Stan answers in a low, calming tone:
-
-[MALE] You can have the nun.      She doesn't put out anyway.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] On second thought- Mike SWINGS. Stan ducks, throws a giant uppercut. POW. Mike's eyes roll back in his head and WE cut to BLACK. INT. UPSCALE RESTAURANT/DINING ROOM - NIGHT The HOSTESS shows Ed and Julie to their table by the window. Ed wears his new Gucci outfit. Julie's under dressed.
-
-[NARRATOR] Hostess responds with gentle reassurance:
-
-[MALE] There you are, Mr. Freedman.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Thanks. Put this towards your studies. Ed hands the Hostess a 50.   Julie rolls her eyes.
-
-[NARRATOR] Julie answers in a low, calming tone:
-
-[MALE] When you asked me to get together to talk about Mark this isn't what I envisioned. This isn't a date, Ed.
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] Are you insinuating that I'd use my son's misfortune just to go out with you? What kind of a father do you think I am?
-
-[NARRATOR] Julie speaks with a quiet, measured softness:
-
-[MALE] As long as we're on the same page. A WAITER approaches.
-
-[NARRATOR] Waiter responds with gentle reassurance:
-
-[MALE] Good evening. Would you care to see the wine-
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] Bring us the 1962 Petrus. The Waiter nods, leaves.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] You're going to love this wine. $2000 dollars a bottle.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] I don't drink. So tell me what you think's going on with Mark?
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] It's baffling really but I noticed he's been drinking a lot of diet ice tea lately. Maybe he's gay?
-
-[NARRATOR] Julie murmurs with a warm, steady cadence:
-
-[MALE] You didn't ask me here to talk about Mark, did you?
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] Do you like caviar? Because if you do you have to try the Almas. 100 year-old Beluga. $700 per ounce. Julie throws her napkin on the table.
-
-[NARRATOR] Julie adds in a relaxed, peaceful voice:
-
-[MALE] You're disgusting, Ed.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] What? You don't like Beluga?     You can get something else.
-
-[NARRATOR] Julie responds with gentle reassurance:
-
-[MALE] I'm not some 22 year-old who you can impress with caviar and expensive wine.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] Would the caviar and expensive wine impress you if you were on a yacht off Monte Carlo?
-
-[NARRATOR] Julie speaks with a quiet, measured softness:
-
-[MALE] I came here because I'm concerned about the wellbeing of your son but you don't care about Mark. All you're concerned with is proving to me how wealthy you are.
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] I do care about Mike...Mark. Whatever his name is.
-
-[NARRATOR] Julie adds in a relaxed, peaceful voice:
-
-[MALE] You know what's too bad, Ed? I'm sure when you were the guy the boys picked on and the girls ignored you were really sweet.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] But you thought becoming rich would solve all your problems. Instead it made you just like them. I have to go. Julie rises.   Ed takes her wrist.
-
-[NARRATOR] Ed speaks with a quiet, measured softness:
-
-[MALE] Wait. You're right. I'm acting like an idiot. I'm sorry. Please stay. Julie begrudgingly sits back down.
-
-[NARRATOR] Julie murmurs with a warm, steady cadence:
-
-[MALE] Act normal or I'm leaving. INT. ED'S HOUSE/MIKE'S BEDROOM - NIGHT CLOSE ON Mike's face, eyes shut. A hand gently strokes his head. Mike stirs awake, smiles, eyes still closed-
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] I had the craziest dream. I was 17 again and back in high school. It was horrible, Scarlet- MAGGIE  Scarlet!? Mike's eyes pop open. WIDER reveals Mike and Maggie on the bed. Mike's head rests on Maggie's lap. Mike JUMPS off the bed, scrambles to the other side of the room and behind a chair. Maggie leaps off the bed.
-
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
-
-[MALE] You wanna play? Okay, let's play. I'm the hungry lioness and you're a baby gazelle. Maggie ROARS, chases Mike around the room.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Wait! This is highly inappropriate and dysfunctional. Listen to me, Maggie. I'm your father. Maggie growls, stalks Mike around the bed.
-
-[NARRATOR] Maggie answers in a low, calming tone:
-
-[MALE] And I've been a bad, bad girl, Daddy.
-
-[NARRATOR] 82. answers in a low, calming tone:
-
-[MALE] Maggie dives across the bed.    Mike dodges, runs out the door. EXT. ED'S HOUSE/BACKYARD - NIGHT Alex and Nicole sit closely by a fire pit, laughing.
-
-[NARRATOR] Alex murmurs with a warm, steady cadence:
-
-[MALE] How about Mrs. Cruz? Every time she rolls her r's she spits all over me. Alex imitates Mrs. Cruz. Nicole laughs, places her hand on Alex's leg. Alex looks down at her hand, then up at her, both staring at one another...THE MOMENT. Nicole closes her eyes, moves in. Alex moves in then FREAKS. He bounds out of his chair, sprints inside leaving Nicole hanging. INT. ED'S HOUSE - NIGHT A distraught Alex pushes his way through the insanity.   He finds Mike running down the stairs.
-
-[NARRATOR] Alex speaks with a quiet, measured softness:
-
-[MALE] Mike, I blew it!     I totally blew it!
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Blew what?     What happened?
-
-[NARRATOR] Alex whispers gently into the still air:
-
-[MALE] She wanted me to kiss her but I panicked. I didn't know if I should close my eyes or which way to turn my head or how much tongue I'm supposed to use-
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Slow down. Have you ever kissed a girl before?
-
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
-
-[MALE] Not a real one. I used to practice on my dad's Playboys.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] How did you find...forget it. It's easy. All you have to do is take her face in your hands gently like
-
-[NARRATOR] 83. speaks with a quiet, measured softness:
-
-[MALE] Mike places a hand gently on either side of Alex's face.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] -hold her still as you adjust your head, close your eyes and kiss her. The rest happens naturally. A BOY walks past, sees Mike romantically holding Alex's face.
-
-[NARRATOR] Boy speaks with a quiet, measured softness:
-
-[MALE] That is so wrong. Mike and Alex quickly separate.
-
-[NARRATOR] Alex responds with gentle reassurance:
-
-[MALE] What if I, you know, pitch a tent?
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] If you feel it, you know, getting angry, take a step back. Now go get that kiss. Alex takes a deep breath, steps outside. EXT. ED'S HOUSE/BACKYARD - NIGHT A determined Alex marches over to the seated Nicole.
-
-[NARRATOR] Alex adds in a relaxed, peaceful voice:
-
-[MALE] Nicole. Nicole stands-
-
-[NARRATOR] Nicole murmurs with a warm, steady cadence:
-
-[MALE] I'm sorry, Alex. I didn't mean to- Before she can finish Alex's hands are on her face and his lips on hers. It's as if time stands still. INT. ED'S HOUSE - NIGHT Mike watches his son's MAGICAL FIRST KISS.     And when Alex takes a step back, Mike laughs. BEEP.   BEEP.   Mike pulls out his phone.   Text message.
-
-[NARRATOR] Samantha'S Text adds in a relaxed, peaceful voice:
-
-[MALE] 911.   ^stairs. mastr b-room. Mike rushes to the stairs. An angry Maggie storms down them. Mike ducks. Maggie passes. Mike races up.
-
-[NARRATOR] 84. offers quietly, watching the shadows drift across the room:
-
-[MALE] INT. ED'S HOUSE/HALLWAY - NIGHT Mike sprints down the hall, throws open the door to find- INT. ED'S HOUSE/MASTER BEDROOM - NIGHT Samantha, Jamie and Lauren in the bed, clothes on the floor.
-
-[NARRATOR] Samantha answers in a low, calming tone:
-
-[MALE] We decided not to make you choose.
-
-[NARRATOR] Jamie responds with gentle reassurance:
-
-[MALE] You can have all 3 of us. The chance of a lifetime.    A legend making moment.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Girls, if I was 20 years younger I'd...probably only last 10 seconds anyway. Put your clothes back on. Mike turns, exits. On the way out WE actually hear SNIFFLING.
-
-[NARRATOR] Samantha speaks with a quiet, measured softness:
-
-[MALE] Was he crying? INT. UPSCALE RESTAURNT - NIGHT Julie laughs hysterically.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] God's honest truth. I had the whole costume. I used to go everywhere dressed like a wizard. No wonder I didn't get a date all through high school. Annnnd you think I'm the biggest nerd ever.
-
-[NARRATOR] Julie responds with gentle reassurance:
-
-[MALE] No, no, really. I don't.  Hark! Who goes there?
-
-[NARRATOR] Tis I. The Wizard they call
-
-[NARRATOR] Marius. And who might you be fair
-
-[NARRATOR] maiden?
-
-[NARRATOR] 85. offers quietly, watching the shadows drift across the room:
-
-[MALE] Free to be herself, Julie lets her hair down, shakes it out.
-
-[NARRATOR] Julie murmurs with a warm, steady cadence:
-
-[MALE] Tis I! Elf Princess Ariala of Jamroar. ED                               JULIE NO WAY!                           YES WAY! ED                             JULIE Level 10.                         Mage. Level 15. Bitch! They stare at each other incredibly turned on. Ed screams-
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] Check please! EXT. ED'S HOUSE/POOL - NIGHT CLOSE ON a Heavy Kid leans over the pool PUKING. Wider...Mike beside him while Kids cheer the Heavy Kid on.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] I'm so dead. Mike turns, finds SCARLET making her way through the crowd.
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh no! Mike rushes over to her.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Scarlet, what are you doing here?
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] I'm looking for Alex. It's past his curfew and he wasn't picking up his phone. Is he here?
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Yeah, he's fine.   He's with his girlfriend.
-
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
-
-[MALE] Alex has a girlfriend?
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] He does and she's really cute. Come on. Mike leads Scarlet away from the pool. INT. FERRARI - NIGHT Ed and Julie drive through the upscale neighborhood.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] How did you get your hands on the 5th edition? That's not due out for another three years.
-
-[NARRATOR] Ed speaks with a quiet, measured softness:
-
-[MALE] I have two words for you.    Russian mafia.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] Drive faster. He steps on the gas. He fishtails around a corner. Cars pack Ed's street and driveway. Boys and girls trample the front lawn. One BOY urinates in a flower bed.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] Calm thyself, Marius.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] That little-!   I'll kill him! Ed double parks the car, jumps out. EXT. ED'S HOUSE - NIGHT Ed storms up the driveway.    Julie hurries after him.   A KID spies Julie, calls out-
-
-[NARRATOR] Kid speaks with a quiet, measured softness:
-
-[MALE] It's Ms. Goodwin!    Run! All the Kids on the lawn SCATTER in different directions. INT. ED'S HOUSE/LIVING ROOM - NIGHT Ed and Julie enter the crowded, loud room. Kids dance, stomp around on the furniture. A furious Ed screams-
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] Everybody out!   Get out!   Get out! Nobody flinches.   Julie WHISTLES loudly.   The Kids stop.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] This party is over! If you don't want to spend the next 3 months in detention you will leave...now! The Kids BEELINE for the door.    Ed stops a GIRL.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Do you know where Mark Freedman is?
-
-[NARRATOR] Girl responds with gentle reassurance:
-
-[FEMALE] I think I saw him go outside. SPLAT. A slice of pizza falls from the ceiling onto Ed's head. The Girl laughs, exits. INT. ED'S HOUSE/KITCHEN - NIGHT Maggie enters, weeds through the crowd, bumps into the Bras.
-
-[NARRATOR] Maggie answers in a low, calming tone:
-
-[MALE] Have you seen Mark?
-
-[NARRATOR] Samantha speaks with a quiet, measured softness:
-
-[MALE] We're looking for him too. Maggie scowls, heads for the back door.     The Bras chase. EXT. ED'S HOUSE/BACKYARD - NIGHT Mike and Scarlet hide behind the pool house, peek around the corner, spy on Alex and Nicole by the fire pit. Alex is animated, confident...
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] He's like a totally different person. Scarlet and Mike step back by the pool, sit on a lounge.
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] It's been so good for him to have you around. You have no idea.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Believe me, I do. He's a great kid. And you're an amazing mother.
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] I'm not so sure. I mean look at me. I showed up at a party to drag my son home. Could I be any more embarrassing? And how many amazing mothers run their kids' father off?
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Hey, you didn't run him off. Don't blame yourself for his stupidity.
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] I knew he was unhappy. I knew he hated his job. I should've been more supportive, more sympathetic to what he was going through. He gave up a lot for me.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] That's bull shit! You, Maggie and Alex are the best thing that ever happened to me...him. He was just too selfish to recognize it. At least, that's how I see it. Scarlet smiles thankfully at Mike. ANGLE...Maggie and the Bras roam the backyard searching for Mike.
-
-[NARRATOR] Jamie murmurs with a warm, steady cadence:
-
-[MALE] He's over there.    By the pool.
-
-[NARRATOR] Samantha speaks with a quiet, measured softness:
-
-[MALE] Who's the ho?
-
-[NARRATOR] Maggie adds in a relaxed, peaceful voice:
-
-[MALE] Mom? ANGLE...Alex and Nicole, hand in hand, stroll back towards the house when Alex freezes-
-
-[NARRATOR] Alex murmurs with a warm, steady cadence:
-
-[MALE] Whoa.   What's my mom doing here? ANGLE...Scarlet places a hand over Mike's.
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] You're sweet. I have no idea why I'm telling you all this. There's just something so familiar... Scarlet looks into Mike's eyes. Mike stares back. She's vulnerable. He loves her. It's perfect. Mike leans in and
-
-[NARRATOR] SSSSSLAP.   Mike falls off the chair.   Scarlet leaps up.
-
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
-
-[MALE] What do you think you're doing!? Mike scrambles to his feet.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] Scar, just calm down. I have something to tell you but I need you to keep an open mind. Can you do that for me?
-
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
-
-[MALE] This conversation is over, Mark.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] I'm not Mark.
-
-[NARRATOR] Scarlet whispers gently into the still air:
-
-[MALE] I'm not in the mood for games.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] It's no game. I'm me...him...Mike. It's me...your husband. Scarlet winces as if dealt a blow-
-
-[NARRATOR] Scarlet whispers gently into the still air:
-
-[MALE] What?   Why would you say that?
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] It's the truth. I'm the father of your children. You have to believe me.
-
-[NARRATOR] Scarlet whispers gently into the still air:
-
-[MALE] Don't ever come near me or my family again. If you do, I'll have you arrested or better yet, institutionalized. Scarlet marches towards the house.    Mike on her heels pleading.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Let me explain, Scar. As she passes Ed and Julie.
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] Your son needs a shrink! Scarlet storms off.   Before Mike can protest-
-
-[NARRATOR] Maggie offers quietly, watching the shadows drift across the room:
-
-[MALE] Pervert! Mike turns. SLAP. Maggie lights him up, runs for the house. SLAP, SLAP, SLAP. The Bras add theirs on the way out. Alex and Nicole march past.    Mike reaches for Alex's arm. Alex pulls it away.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Alex, wait. Let me explain-
-
-[NARRATOR] Alex murmurs with a warm, steady cadence:
-
-[MALE] How could you do this to me? Alex whisks Nicole into the house.   Mike lowers his head.    Ed stomps over, grabs Mike.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] This place is a disaster! A kid pissed all over my English garden! What were you thinking!?
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] She hates me, Ed.    I've ruined everything. Mike runs for the house.   Julie looks quizzically to Ed.
-
-[NARRATOR] Julie murmurs with a warm, steady cadence:
-
-[MALE] Who hates him? What's going on? Ed shifts uncomfortably, takes a deep breath.
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] Oh boy. I don't quite know how to put this.
-
-[NARRATOR] Julie offers quietly, watching the shadows drift across the room:
-
-[MALE] Try being honest.
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] He's not really my son.    I don't have a son. SLAP.   Ed looks like he's about to cry.
-
-[NARRATOR] Julie whispers gently into the still air:
-
-[MALE] Mark's obviously having a crisis and you...you insensitive bastard, you disown him? He'd be better off with his mother in Thailand. Julie strides for the house.     Ed yells after her-
-
-[NARRATOR] Ed offers quietly, watching the shadows drift across the room:
-
-[MALE] Should I call you?! EXT. ED'S HOUSE - MORNING All is normal.   No signs of a party. INT. ED'S HOUSE/HALLWAY - MORNING Ed knocks and knocks on Mike's bedroom door.
-
-[NARRATOR] Ed speaks with a quiet, measured softness:
-
-[MALE] Come on.   It's been 2 days.    Open up. WE hear a dragging sound then...CLICK.     Ed turns the knob, opens the door, enters. INT. ED'S HOUSE/MIKE'S BEDROOM - MORNING Dark.   Mike climbs back into bed.   Ed waves at the air.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Jesus. It smells like Jeffrey Dahmer's kitchen in here. Ed pulls up the blinds, opens the windows. A disheveled, Mike groans, rolls away from the light. Ed sits on the bed.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Are you alright?
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] I really messed up.    I've lost my family.
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] That's not true.      Nothing's ever truly lost.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] What about you and Julie?
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] Oh, that?    That's lost.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Sorry about the party.      I'll pay for any damages.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Don't worry about it. My spa guy got the last of the vomit out of the pool so we're good. I don't mean to rub salt in your wounds but- Ed holds up the manila envelope of divorce papers.
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] -you're due in court in an hour. A look of determination comes over Mike's face. EXT. ED'S HOUSE - DAY The BMW roars out of the garage, Ed driving, tears down the driveway, fishtailing onto the street, LOSES CONTROL, rips across a neighbor's lawn then back onto the road and off. INT. LOS ANGELES COURT HOUSE/COURTROOM - DAY Crowded pews. Scarlet stands before the JUDGE, her right hand raised as she's sworn in.
-
-[NARRATOR] Bailiff adds in a relaxed, peaceful voice:
-
-[MALE] -the whole truth and nothing but the truth so help you God?
-
-[NARRATOR] Scarlet responds with gentle reassurance:
-
-[MALE] I do. Scarlet sits beside her ATTORNEY.     The Judge eyes her papers.
-
-[NARRATOR] Judge responds with gentle reassurance:
-
-[MALE] You've requested a divorce by the State of California citing irreconcilable differences. Is this correct?
-
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
-
-[MALE] Yes, your Honor.
-
-[NARRATOR] Judge adds in a relaxed, peaceful voice:
-
-[MALE] Is Michael O'Donnell or his representative present?
-
-[NARRATOR] No, your Honor.
-
-[NARRATOR] Judge adds in a relaxed, peaceful voice:
-
-[MALE] Then I take his absence as agreement to the orders of the divorce. Let's proceed. You're not asking for alimony or child support?
-
-[NARRATOR] Julie offers quietly, watching the shadows drift across the room:
-
-[MALE] No, your honor. EXT. LOS ANGELES COURT HOUSE - DAY Ed's BMW skids to a stop in front of the building.   Mike and Ed bound out, race up the court steps-
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] What exactly are we doing?
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] I don't know. We just need to stop her from going through with it!
-
-[NARRATOR] Ed speaks with a quiet, measured softness:
-
-[MALE] A well thought out plan.   Good job. INT. LOS ANGELES COURT HOUSE/COURTROOM - DAY
-
-[NARRATOR] Judge speaks with a quiet, measured softness:
-
-[MALE] The mother will have full custody of the children. The father will have visitation rights of one weekend a month-
-
-[NARRATOR] 94. responds with gentle reassurance:
-
-[MALE] BOOM. The doors burst open.   All turn to see Mike and Ed storm down the aisle.
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] I declare a mistrial on the grounds of insufficient evidence and Sacco and Vanzetti! Scarlet can only shake her head.
-
-[NARRATOR] Judge answers in a low, calming tone:
-
-[MALE] Sacco and...what are you....who are you!?
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] I am legal counsel for Mike O'Donnell and I demand a stay of execution for this marriage, your Majesty.
-
-[NARRATOR] Scarlet speaks with a quiet, measured softness:
-
-[MALE] He's my husband's best friend.
-
-[NARRATOR] Judge offers quietly, watching the shadows drift across the room:
-
-[MALE] Are you a lawyer, best friend?
-
-[NARRATOR] Ed responds with gentle reassurance:
-
-[MALE] No but I have been a defendant in numerous lawsuits so-
-
-[NARRATOR] Judge murmurs with a warm, steady cadence:
-
-[MALE] Bailiff! Get these 2 out of my courtroom. The Bailiff grabs Mike and a yelling Ed, drags them toward the exit. Mike wiggles free, runs back to the front.
-
-[NARRATOR] Mike answers in a low, calming tone:
-
-[MALE] Your Honor! I have a letter from Mike O'Donnell. Just let me read it. Please.
-
-[NARRATOR] Judge murmurs with a warm, steady cadence:
-
-[MALE] I'm sorry, but-
-
-[NARRATOR] Scarlet responds with gentle reassurance:
-
-[MALE] If it's okay, your Honor.   I'd like to hear it.
-
-[NARRATOR] Judge responds with gentle reassurance:
-
-[MALE] Make it quick. Mike digs into his pocket, pulls out a piece of paper.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Thank you, your Honor.
-
-[NARRATOR] September 7th, 1988 was the first
-
-[NARRATOR] time I saw you. You were reading
-
-[NARRATOR] `The Great Gatsby' and wearing a
-
-[NARRATOR] Guns N Roses T-shirt. I'd never
-
-[NARRATOR] seen anything so perfect. I
-
-[NARRATOR] remember thinking I had to have you
-
-[NARRATOR] or I'd die...not in a psycho kinda
-
-[NARRATOR] way but in that beautiful,
-
-[NARRATOR] innocent, unaffected way that way
-
-[NARRATOR] only a 17 year-old kid can have.
-
-[NARRATOR] You whispered you loved me at the
-
-[NARRATOR] homecoming dance and I felt so
-
-[NARRATOR] peaceful and safe because I knew no
-
-[NARRATOR] matter what happened from that
-
-[NARRATOR] night on nothing could ever be that
-
-[NARRATOR] bad because I had you. And then I
-
-[NARRATOR] grew up, lost my way and blamed you
-
-[NARRATOR] for my failures. But I was never
-
-[NARRATOR] lost. I'd just forgotten the way
-
-[NARRATOR] life makes you forget as you grow
-
-[NARRATOR] older. And I never failed at
-
-[NARRATOR] anything because on that September
-
-[NARRATOR] day you said `yes' to me. And at
-
-[NARRATOR] that dance you said you loved me.
-
-[NARRATOR] And as I stand here...as I write
-
-[NARRATOR] this, I want you to know if I don't
-
-[NARRATOR] have you I'll die...not in a psycho
-
-[NARRATOR] way but in that beautiful,
-
-[NARRATOR] innocent, unaffected way only a 17
-
-[NARRATOR] year old kid can have....oh
-
-[NARRATOR] and...P.S...I'm `Hungry Like the
-
-[NARRATOR] Wolf'.
-
-[NARRATOR] Mike places the PAPER ON THE TABLE, looks over to Scarlet.
-
-[NARRATOR] Scarlet just stares at him, tears streaming down her
-
-[NARRATOR] cheeks...sadness...recognition?
-
-[NARRATOR] Judge adds in a relaxed, peaceful voice:
-
-[MALE] Alright, son, you have to go now. Mike nods, walks down the aisle and out the door.
-
-[NARRATOR] Judge speaks with a quiet, measured softness:
-
-[MALE] Let's proceed.
-
-[NARRATOR] Scarlet adds in a relaxed, peaceful voice:
-
-[MALE] Your Honor, Sir. I'm sorry.   I'm in no shape...I need to postpone...I'm sorry.
-
-[NARRATOR] 96. adds in a relaxed, peaceful voice:
-
-[MALE] A tearful Scarlet starts to leave, stops, picks up Mike's `letter'...DIRECTIONS TO THE COURTHOUSE. She looks back confused. INT. BMW CONVERTIBLE - DAY A solemn Mike stares out the window.    Ed turns the radio off.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Maybe it wasn't a spell of enlightenment. Mike looks to Ed.
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] What are you talking about?
-
-[NARRATOR] Ed adds in a relaxed, peaceful voice:
-
-[MALE] According to the website once you've learned your lesson you'd turn back. That speech should've broken the spell.
-
-[NARRATOR] Mike responds with gentle reassurance:
-
-[MALE] Enough with the magic crap, Ed.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] You know what this means? You need to let them go. You need to let them get on with their lives and you need to get on with yours. Mike chokes back tears...because he knows Ed is right. INT. ED'S HOUSE/MIKE'S BEDROOM - DUSK Mike works on his laptop, plugs his iPhone into it...downloads pictures. Mike moves to the bed, packs his Falcons uniform into a duffel bag. A BEEP. Mike unplugs the iPhone, types an email to Scarlet, "I think this will help your business. Best of luck, Mark" Mike hits send, grabs his bag and exits. EXT. ED'S HOUSE - DUSK Mike steps outside, throws his duffel into the Aston.    Ed exits the house.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Where you going?
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] I'm moving on. See you at the game. Mike climbs into the car, pulls out of the driveway. INT. MIKE'S HOUSE/KITCHEN - DUSK Scarlet sits at the kitchen table working on her laptop. The noise of an incoming email. She clicks over...MARK FREEDMAN. Scarlet reads Mike's email then clicks on the link. A web site pops up...`Scarlet's Sanctuaries'. Scarlet smiles. INT. FITCH SENIOR HIGH SCHOOL/GYM - NIGHT An empty gym. Mike stands feet beyond the 3 point line, grabs balls from a hopper and rapidly shoots, shoots, shoots. SWISH...SWISH...SWISH. Automatic. Coach Harvey enters.
-
-[NARRATOR] Coach Harvey speaks with a quiet, measured softness:
-
-[MALE] Hey, Freedman, save some for the game. Mike sinks one last jumper, turns to the coach.
-
-[NARRATOR] Mike speaks with a quiet, measured softness:
-
-[MALE] Just warming up, Coach. Coach Harvey hands Mike a towel.
-
-[NARRATOR] Coach Harvey whispers gently into the still air:
-
-[MALE] Son, I haven't seen anyone with your shooting ability in, well, in a long time. I called a couple college scouts I know. They're coming to the game tonight...to watch you. If you have half the season I think you're capable of, you can play anywhere you want.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] That's the plan, Coach. The rest of the Falcons basketball team jogs out from the locker room followed by a PHOTOGRAPHER.
-
-[NARRATOR] Coach Harvey murmurs with a warm, steady cadence:
-
-[MALE] Round up, Jock Straps! Picture time. The Team assembles in the middle of the court. Alex moves away from Mike. A PLAYER kneeling in front holds a sign, `FITCH FALCONS, 2008.'
-
-[NARRATOR] Photogrpaher offers quietly, watching the shadows drift across the room:
-
-[MALE] 3, 2, 1- FLASH.   And with the flash WE cut to: INT. FITCH SENIOR HIGH SCHOOL/GYM - LATER A POPULAR SONG rocks the gymnasium. CHEERLEADERS dance on the sidelines. STUDENTS and PARENTS cheer wildly from the packed stands. Julie gabs with a group of TEACHERS. On one end of the court, the Falcons run a pass and shoot drill. On the opposite end, a TEAM in BLUE shoots around. Mike sees Scarlet and Maggie enter. He smiles apologetically to them. Both turn away, climb the bleachers, join Nicole and the Wonder Bras.
-
-[NARRATOR] Maggie responds with gentle reassurance:
-
-[MALE] I thought he was hanging out with Alex to get to me- not you. ANGLE...Coach Harvey claps loudly-
-
-[NARRATOR] Coach Harvey answers in a low, calming tone:
-
-[MALE] Alright, Ladies, bring it in! The Falcons swarm the bench, take their seats. Mike takes a deep breath, sits next to Alex. Alex looks down.
-
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
-
-[MALE] I have nothing to say to you.
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] I never meant to hurt you-
-
-[NARRATOR] Alex offers quietly, watching the shadows drift across the room:
-
-[MALE] Then why'd you kiss my mom!?
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] Alex, I'm your fa...I don't know. I'm sorry. Alex stands-
-
-[NARRATOR] Alex speaks with a quiet, measured softness:
-
-[MALE] You're lucky I don't punch you out. Alex moves down the line, takes another seat. Ed strides through the door spots Julie, makes his way over to her.
-
-[NARRATOR] Ed murmurs with a warm, steady cadence:
-
-[MALE] Julie, can I talk to you? Julie excuses herself from the Teachers.
-
-[NARRATOR] Julie offers quietly, watching the shadows drift across the room:
-
-[MALE] What is it, Ed?
-
-[NARRATOR] Ed answers in a low, calming tone:
-
-[MALE] I've seen a good friend of mine lose everything that means anything to him. And maybe we'll never be there but...I just really want to play D & D with you. Julie can't help but smile, sizes Ed up.
-
-[NARRATOR] Julie responds with gentle reassurance:
-
-[MALE] You can raid my dungeon anytime.
-
-[NARRATOR] Ed whispers gently into the still air:
-
-[MALE] I'll bring my long bow. A REFEREE blows his whistle.
-
-[NARRATOR] Coach Harvey offers quietly, watching the shadows drift across the room:
-
-[MALE] Let's go! Remember, Boys, winners get the girls. Losers please themselves! Mike and the Falcons jog onto the court. Mike takes his place for the jump ball. The Crowd stomps, cheers LOUDLY. Mike looks around the gymnasium...it almost seems to SLOW UP...the sound deafening. He finds Alex on the bench...his hopeful face. Mike looks into the stands...Maggie and Scarlet. Scarlet abruptly stands, climbs back down the bleachers and exits the gym.
-
-[NARRATOR] 100. adds in a relaxed, peaceful voice:
-
-[MALE] The Ref readies to toss the ball.    Mike takes a deep breath...and walks off the court.
-
-[NARRATOR] Referee offers quietly, watching the shadows drift across the room:
-
-[MALE] Son! Come back here!      You're gonna get a delay of game!
-
-[NARRATOR] Coach Harvey responds with gentle reassurance:
-
-[MALE] This can't be happening again. Mike steps over to Alex-
-
-[NARRATOR] Mike adds in a relaxed, peaceful voice:
-
-[MALE] It's your turn now.    Good luck. Mike rushes off the court. As Mike disappears into the tunnel, WE see the OLD JANITOR amongst the crowd. He smiles. Coach Harvey turns to Alex-
-
-[NARRATOR] Coach Harvey answers in a low, calming tone:
-
-[MALE] Get off your butt, O'Donnell!    Get in there! Alex leaps off the bench. INT. FITCH SENIOR HIGH SCHOOL/TUNNEL - NIGHT
-
-[NARRATOR] Mike offers quietly, watching the shadows drift across the room:
-
-[MALE] Scar! The tunnel is EMPTY.    Crestfallen, Mike lowers his head... ANGLE ON: Scarlet as she appears at the far end of the tunnel.
-
-[NARRATOR] Scarlet responds with gentle reassurance:
-
-[MALE] What took you so long? ANGLE ON: Mike and he's 36 years-old again, bursting out of his uniform.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] The best choice I ever made was you. Scarlet and Mike walk towards one another, picking up their pace the closer they get.
-
-[NARRATOR] Scarlet offers quietly, watching the shadows drift across the room:
-
-[MALE] How did this happ-
-
-[NARRATOR] 101. responds with gentle reassurance:
-
-[MALE] Mike wraps his arms around her.
-
-[NARRATOR] Mike whispers gently into the still air:
-
-[MALE] Don't ask. They lock lips. Mike takes Scarlet's hand and as they walk out of the tunnel-
-
-[NARRATOR] Mike murmurs with a warm, steady cadence:
-
-[MALE] I think it's best if we don't tell the kids about this. Especially Maggie.
-
-[NARRATOR] The narrative softly draws to a close, and the world outside settles into pure, uninterrupted quiet. The shadows lengthen across the room, wrapping you in a cocoon of warmth, safety, and deep peace. Every breath you take now is slower, softer, and deeper. There is nothing more to do, nowhere else to be. Surrender completely to the gentle pull of sleep. Drifting... floating... sleeping deeply and peacefully through the night.

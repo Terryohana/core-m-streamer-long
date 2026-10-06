@@ -1,1309 +1,2450 @@
-[NARRATOR] Welcome to tonight's peaceful sanctuary of deep, restorative slumber. Take this moment to settle into your bed, softening your posture, letting your head sink gently into the pillow, and releasing all the residual tension of the day. Inhale slowly and deeply... feeling the cool, tranquil air fill your lungs... and gently exhale, letting go of all effort. Tonight, we journey through an expansive, atmospheric sleep story inspired by the world of The Solitude of the Crimson Canyon. Allow the calming rhythm of the narrative to carry you effortlessly into stillness and deep rest.
+[NARRATOR] The evening breeze rolls in softly across the quiet, undulating dunes of the ancient desert, carrying with it the warm scent of dust and distant spices. The sky above is a vast, velvety expanse of deep indigo, dusted with countless stars that shimmer like scattered diamonds in the tranquil dark. Beneath this celestial canopy, the city of Agrabah rests in deep, slumberous peace, its labyrinth of cobblestone streets and silhouetted minarets fading into the cool shadows of the night. 
 
-[NARRATOR] 127 Hours murmurs with a warm, steady cadence:
+[MALE] Oh, I come from a land, from a faraway place, where the caravan camels roam, where it's flat and immense, and the heat is intense. It's barbaric, but hey—it's home! When the wind's at your back and the sun's from the west, and the sand in the glass is right, come on down, stop on by, hop a carpet and fly, to another Arabian night!
 
-[MALE] Written by Simon Beaufoy & Danny Boyle EXT. CROWD SCENES. VARIOUS. A massive crowd, it could be a sports stadium, a u2 farewell show or new year's eve on copacabana beach, but whatever it is there are thousands and thousands of us. A mexican wave erupts success, celebration, with so many involved it's impossible to pick out anyone individually. Critical mass cyclists, easter crowds at st. Peter's basilica, nyc marathon, 4,000 flash mobbers doing the silent disco at london's victoria station, india's kumbh mela, macy's thanksgiving day parade, raves, subway parties, the daytona 500. . . . Gradually the screen splits into 2, and then 3, though at times there appears to be no division at all. EXT. FREEWAY. NIGHT. An overhead shot of a crammed freeway gives way to a single vehicle, a 98 Toyota Tacoma, red and white with a topper. CUT TO: INT. ARON'S TRUCK. NIGHT. Cut inside as Aron Ralston, 27 cuts off the freeway.
+[NARRATOR] The melody of the peddler's voice drifts away on the gentle desert air, echoing softly against the quiet walls of the marketplace. The warm amber glow of a single lantern flickers over a sprawling collection of curious trinkets and woven rugs, casting long, lazy shadows across the dusty ground. 
 
-[NARRATOR] Triptych. adds in a relaxed, peaceful voice:
+[MALE] Arabian nights, like Arabian days, more often than not are hotter than hot in a lot of good ways. Arabian nights, 'neath Arabian moons, a fool off his guard could fall and fall hard, out there on the dunes. Ah, salaam and good evening to you, worthy friend. Please, please, come closer—too close, a little too close. There. Welcome to Agrabah. City of mystery, of enchantment, and the finest merchandise this side of the river Jordan, on sale today, come on down! Heh, heh. Look at this! Yes! Combination hookah and coffee maker—also makes Julienne fries. Will not break, will not—it broke. Ooohhh! Look at this! I have never seen one of these intact before. This is the famous Dead Sea Tupperware. Listen. Ah, still good. Wait, don't go! I can see that you're only interested in the exceptionally rare. I think then, you would be most rewarded to consider... this. Do not be fooled by its commonplace appearance. Like so many things, it is not what is outside, but what is inside that counts. This is no ordinary lamp! It once changed the course of a young man's life. A young man who liked this lamp was more than what he seemed. A diamond in the rough. Perhaps you would like to hear the tale? It begins on a dark night...
 
-[MALE] OPENING TITLES ARE A SERIES OF TRIPTYCHS FEATURING ALL THE TITLE CARDS EXCEPT THE MAIN ONE. THEY BLEND, OVERLAP AND ARE INTERCUT WITH ADVERTS SOME FROM THE BILLBOARDS ARON'S VAN PASSES, SOME FROM TELEVISION AND SOME FROM THE RADIO. AND, OF COURSE, ALL THESE INTERCUT WITH ARON AND HIS TRUCK. AND
+[NARRATOR] The peddler gestures toward the velvety sky, casting a handful of sparkling, luminescent sand upward. The glittering grains float and transform, painting a sweeping vista of a moonlit desert wilderness where cool shadows stretch long and slow across the earth. Out in the quiet desolation, shrouded in the peaceful stillness of the late hour, a figure waits atop a resting steed. Jafar sits motionless in the quiet dark, draped in heavy crimson robes, a silent silhouette against the starlit horizon, with only the soft rustle of his feathered companion on his shoulder to break the profound stillness. Hoofbeats echo softly from the distance, muffled by the thick, yielding sand, as another rider draws near.
 
-[NARRATOR] The Landscape. adds in a relaxed, peaceful voice:
+[MALE] You... are late.
 
-[MALE] A TITLE CARD READS: 'Utah. The Canyonlands. The slickrock desert. The red dust and the burnt cliffs and the lonely sky-all that which lies beyond the end of the roads.' Edward Abbey. Desert Solitaire. CUT TO: EXT. ROAD. NIGHT. Eventually Aron's truck is now alone on an interstate road.
+[MALE] A thousand apologies, O patient one.
 
-[NARRATOR] 2. whispers gently into the still air:
+[MALE] You have it, then?
 
-[MALE] INT. ARON'S TRUCK. NIGHT. At the southwest edge of Green River, Aron Ralston drives under the interstate into a landscape of obscurity. He looks to his right and left, not a single light perforates the absolute blackness of the San Rafael Desert. CUT TO: EXT. ARON'S TRUCK. NIGHT. From high above, three quarters of the screen is black and we see his truck's lights running parallel with the blackness. CUT TO: INT. ARON'S TRUCK. NIGHT. A sign flashes by: Next Service: 110 miles America's challengers for the Tour de France flash by in a pack of 15 or so neon spirits. Night training.
+[MALE] I had to slit a few throats to get it. 
 
-[NARRATOR] 10Pm. answers in a low, calming tone:
+[NARRATOR] The newcomer pulls a gleaming golden fragment from his robes, holding it tightly as if guarding a precious dream. But as a hand reaches out from the shadows, the rider pulls the treasure back with a sudden, nervous motion.
 
-[MALE] A BLM sign indicates that Horseshoe Canyon Trailhead is 47 miles ahead through the desert darkness. CUT TO: EXT:. ARON'S TRUCK. NIGHT. From even higher above again we see him turn left into this black void. CUT TO: INT. ARON'S TRUCK. NIGHT. Bang inside the truck now on a dirt road. Music at ear bleed level. A yellow triangular sign cautioning ROADS MAY BE IMPASSABLE DUE TO STORMS flashes past. CUT TO: INT/EXT. ARON'S TRUCK. NIGHT. Jackrabbits dart onto the road, racing him, darting left and right as he chases them down. They finish the game darting back into the darkness. CUT TO: EXT. DESERT. DAY.
+[MALE] Ah, ah, ahhh! The treasure! 
 
-[NARRATOR] 3. whispers gently into the still air:
+[NARRATOR] A sudden, soft flutter of wings cuts through the quiet night air as a vibrant shape darts forward through the shadows, snatching the golden piece away with a sharp, triumphant cry. 
 
-[MALE] Slowly, images from the Great Gallery materialise on different parts of the Triptych - petroglyphs and pictographs; dozens of 8-10 ft high Superhumans hovering over groups of indistinct animals, dominating beasts and onlookers alike with their long, dark bodies, broad shoulders, and haunting eyes. CUT TO: EXT/INT. VARIOUS. COMMERCIALS FOOTAGE. Billboards, TV, cinema, www: commercial America sells everything to us through every means. As many brand names as we can get. CUT TO: EXT. DESERT. NIGHT. Rushing across the desert grooves, pulling, snatching, hard left and right, the rear of the truck fishtails madly. Curves, swoops and sandy washes kick up dust clouds as everything in the truck flies all over the place. Except his bike, locked down and braced solid. Music blazes on. Another Rabbit. Another fence line. Another curve. CUT TO: INT. ARON'S TRUCK. NIGHT. Suddenly a small brown sign flashes past. He kicks down on the brakes and reverses back. It's the sign pointing out the road spur to Horseshoe and Blue John Canyons.
+[MALE] Ouch!
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] Jafar’s voice is a low, hypnotic murmur, cutting through the whispering night wind with calculated ease.
 
-[MALE] Nearly missed it! CUT TO: EXT. HIGH ABOVE ARON'S TRUCK. NIGHT. The truck turns sharp left. CUT TO: INT. ARON'S TRUCK. NIGHT. Now a really bumpy road approaching the dirt parking area. CUT TO:
+[MALE] Trust me, my pungent friend. You'll get what's coming to you. 
 
-[NARRATOR] 4. whispers gently into the still air:
+[MALE] What's
 
-[MALE] EXT. PARKING AREA. NIGHT. Ghostly, but there are three other vehicles and two encampments at the Trailhead, despite signs prohibiting camping. CUT TO: INT. ARON'S TRUCK. NIGHT. He turns off the music and waits for a head to pop out or a light to come on but they have all turned in. Ghostly. He glides to a flat spot near the sign board welcoming visitors to the Horseshoe Canyon quadrant of Canyonlands National Park. He whips into the back of the truck and flings everything out of the way of his sleeping bag and pad. Black. END OF TRIPTYCH TITLE SEQUENCE. CUT TO:
+[NARRATOR] The evening breeze sweeps across the undulating, silver-dusted dunes, carrying with it the quiet, restless rustle of shifting sand. Under the vast, velvety expanse of a midnight sky, a sudden, sharp metallic snap echoes softly through the cool air. 
 
-[NARRATOR] Black. responds with gentle reassurance:
+[MALE] Coming to you! Awk!
 
-[MALE] But no rest. CUT TO: INT. ARON'S TRUCK. DAY. The doors smash open to reveal a glorious day and Aron's bike careers into it. CUT TO: EXT. DESERT. VARIOUS. It's still like a wild road movie, but now on a bicycle. Having parked his motorized transport he ploughs into the land like an ad for extreme sports. Past bikers, he vanishes temporarily in their dust cloud, he wears a bandana across his face as the bikers pass by... a final telephone box, past remnants of those who tried to settle or work this unforgiving land; Aborigines, frontier settlers, ranchers... all driven away from a heartland he ploughs into....... CUT TO:
+[NARRATOR] With deliberate, trembling fingers, Jafar draws the second half of the ancient talisman from the deep folds of his dark robes. As the two heavy golden pieces touch, a soft, ethereal warmth begins to radiate from the metal, casting a gentle, amber luminescence over the surrounding darkness. The air hums with a deep, slumberous vibration. Slowly, the insect-shaped medallion lifts itself into the air, its glowing wings beating a silent rhythm against the night. The startled horses shuffle their hooves in the cool sand, letting out low, soft huffs as the radiant beacon glides away, tracing a path of pure light across the rolling velvet dunes. 
 
-[NARRATOR] 5. speaks with a quiet, measured softness:
+[MALE] Quickly, follow the trail!
 
-[MALE] EXT. DESERT. CU on ARON. Wearing a pair of beat-up running shoes and thick wool-blend socks, Lycra biking shorts and a Phish tee shirt he has a back pack with equipment but hydrates through a gallon of water stored in an insulated three litre CamelBak hydration pouch which he sucks on without stopping. CUT TO: EXT. DESERT. DAY. His bike pummels the canyon landscape and you get a sense of the exhilaration this man gets from pitting himself alone against what nature can offer. He's clearly a fit and daring young man and these are his kicks. CUT TO: EXT. DESERT. DAY. Even uphill he hammers his way up the sandstone. Gasping for oxygen, his legs screaming for rest, he pushes and pushes until the crest and then down, down, instant speed and he can suck on his water again. Part of a massive clan who define themselves not by what they are, but by what they do. In a way, he's an action movie personified and the opening should be shot and cut to provide adrenaline in spadefuls. Until... CUT TO: EXT. DESERT. DAY. Suddenly, he hits a sand trap and hurtles forward over the handle bars, face first into the sand, his toe clips and momentum brings the bike with him. The bike has him trapped on the desert floor like a takedown in wrestling. He submits, landing nose deep in the sand. He sits up, looks around quickly to see if anyone saw. Pulls out his camera from his bag and takes a a self-portrait snap of the mess. CUT TO: EXT. DESERT. DAY. At what seems like the only tree for miles he U-locks his bike in the shade, pockets the keys, scoffs a muffin and heads off into the desert. CUT TO:
+[NARRATOR] The small procession moves forward once more, swallowed by the quiet majesty of the desert night. The hooves of the horses fall soundlessly upon the thick, cool sand, chasing the floating speck of golden light until it comes to a sudden halt before a towering wall of earth. The glowing medallion drifts downward, splitting cleanly into two distinct halves. Each piece plunges silently into the sloping side of the great dune, leaving behind only two pulsing, ember-like points of light glowing softly in the dark. For a long, quiet moment, the desert holds its breath. Then, the sand begins to shift and rise, whispering as millions of grains cascade downward. The massive dune reshapes itself, growing upward and outward in the pale moonlight until it forms the terrifying, magnificent visage of a giant lion’s head carved from living earth, its two glowing eyes staring endlessly into the horizon.
 
-[NARRATOR] 6. answers in a low, calming tone:
+[MALE] At last, after all my years of searching, the cave of wonders!
 
-[MALE] EXT. GULLEY CREST. DAY. He approaches the crest of a sand gulley and sees below him, just 30 yards down the canyon, 2 fellow hikers. He looks around. All of them in the middle of nowhere it seems. CUT TO: EXT. APPROACH TO BLUE JOHN CANYON. DAY. He can see now it's 2 girls passing a map back and forth between them. He rushes towards them, initially above them as he walks along side. They're aware of him before he arrives:
+[MALE] Awk! Cave of wonders!
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] By Allah!
 
-[MALE] Hey. Are you doing the east pike? Can I come along with you for a while? The girls don't reply, just look at each other.
+[MALE] Now, remember! Bring me the lamp. The rest of the treasure is yours, but the lamp is mine!
 
-[NARRATOR] Aron whispers gently into the still air:
+[NARRATOR] Gazeem steps forward, his boots sinking softly into the yielding sand. A nervous chuckle escapes his lips as he approaches the cavernous, shadowy opening that forms the great lion’s mouth. 
 
-[MALE] I'm on my own. I'm Aron. CUT TO: EXT. APPROACH TO BLUE JOHN CANYON. DAY. A VAST ARROYO. He slides/surfs down so he's on the same level as them, arriving in a haze of dust, holding out his hand for the shake. Big smile.
+[MALE] Awk, the lamp! Awk, the lamp!
 
-[NARRATOR] Kristi whispers gently into the still air:
+[NARRATOR] The brilliant flash of magic fades, leaving the sorcerer and his feathered companion alone in the quiet shadows of the desert. The bird’s plumage fluffs as he drops the screeching caricature, his voice sliding easily into a casual, complaining drawl.
 
-[MALE] Sure, I'm Kristi.
+[MALE] Jeez, where'd ya dig this bozo up?
 
-[NARRATOR] Megan murmurs with a warm, steady cadence:
+[NARRATOR] Jafar merely raises a gloved hand, pressing a single long finger against his lips in a silent gesture of profound stillness. Ahead, Gazeem reaches the threshold of the stone teeth. The warm, heavy air of the desert suddenly gives way to an absolute, echoing silence, broken only by a rumble that seems to rise from the very center of the earth. The lion's jaw trembles, and a voice like grinding stone rolls across the dunes.
 
-[MALE] Megan.
+[NARRATOR] Who disturbs my slumber?
 
-[NARRATOR] Aron responds with gentle reassurance:
+[MALE] It is I, Gazeem, a humble thief.
 
-[MALE] Nice to meet you. What a day.
+[NARRATOR] Know this. Only one may enter here. One whose worth lies far within. A diamond in the rough.
 
-[NARRATOR] Kristi responds with gentle reassurance:
+[NARRATOR] Gazeem pauses, turning his head back with a bewildered, questioning look toward the shadows where Jafar waits.
 
-[MALE] It's beautiful.
+[MALE] What are you waiting for? Go on!
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] A heavy hesitation hangs in the cooling night air. Gazeem lifts a trembling foot, hovering it over the dark threshold before finally planting it firmly upon the stone floor. The seconds tick by in absolute quiet. Nothing stirs. A wave of profound relief washes over the thief, and he begins to take his first confident step inward. But the stillness is shattered instantly. A second, earth-shaking roar tears through the night, rich with ancient fury. Gazeem spins around in sheer panic, but the massive stone jaws snap shut with the force of a falling mountain, swallowing the light in a single, thunderous motion. The towering lion head dissolves, the sand cascading back into the familiar, sleeping contours of the quiet dune. Only Jafar, the chattering bird, and the two cold, separated halves of the golden medallion remain beneath the peaceful starlight.
 
-[MALE] Did you bike or come straight from the trail head?
+[NARRATOR] Seek thee out, the diamond in the rough.
 
-[NARRATOR] Kristi answers in a low, calming tone:
+[NARRATOR] A small cloud of fine desert dust poofs upward as the feathered companion shakes himself free from a drift of sand, coughing softly into the cool night air.
 
-[MALE] We left the car there. Pretty quiet.
+[MALE] I can't believe it. I just don't believe it. We're never gonna get a hold of that stupid lamp! Just forget it. Look at this. Look at this. I'm so ticked off that I'm molting!
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[NARRATOR] He flutters upward, landing with a light, feathery weight upon Jafar’s broad shoulder, pacing back and forth in a flurry of agitated whispers.
 
-[MALE] I left mine at the Horseshoe Canyon and biked here.
+[MALE] Patience, Iago. Patience. Gazeem was obviously less than worthy.
 
-[NARRATOR] Megan whispers gently into the still air:
+[MALE] Oh, there's a big surprise. That's an incred--I think I'm gonna have a heart attack and die from not surprise! What're we gonna do? We got a big problem here, a big prob--
 
-[MALE] You biked from Horseshoe? That's 20 miles or more.
+[NARRATOR] With a smooth, practiced motion, Jafar pinches the bird’s beak shut, restoring a blanket of profound quiet to the night.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[MALE] Yes, we do. Only one may enter. I must find this one, this... diamond in the rough.
 
-[MALE] 17 and windy. The girls exchange glances.
+[NARRATOR] The heavy, whispering desert winds slowly fade, carrying the scene far away across the sleeping rooftops of the ancient city. A gentle, cool breeze brushes against the terracotta tiles where a young man with ruffled dark hair scrambles up the incline, clutching a warm, freshly baked loaf of bread tightly to his chest. He stumbles near the precipice, catching his balance just as the crust nearly slips from his grasp into the moonlit abyss below. Down in the narrow, shadowed alleyways, the heavy boots of a pursuing guard scrape against the stone.
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[MALE] Stop, thief! I'll have your hands for a trophy, street rat!
 
-[MALE] I do this a lot. They laugh. He's crazy, but harmless.
+[NARRATOR] The young man looks back over his shoulder, measuring the dizzying drop to the street below, then down at the simple loaf of bread resting in his hands, wrapped in the quiet, calming embrace of the night.
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] All this for a
 
-[MALE] Wasn't expecting to see anyone in the canyon today.
+[NARRATOR] The cool midnight air whispers across the terracotta tiles of the sleeping city, stirring the damp linens hanging heavy upon lines strung high above the cobblestones. 
 
-[NARRATOR] Megan whispers gently into the still air:
+[MALE] All this for a... loaf of bread?
 
-[MALE] Yeah, you surprised us, sneaking up like that.
+[NARRATOR] With a soft, breathless sigh of motion, he leaps from the dizzying heights, his body finding the taut, hempen ropes that stretch like sleeping serpents between the ancient buildings. He glides downward in a smooth, effortless descent, the sun-warmed cotton of drying garments brushing against him like the gentle, passing touch of ghosts. 
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+Near the end of his descent, a solitary window frames a soft, domestic warmth, before a heavy wooden shutter is pushed outward and swiftly slammed shut against the night. He collides softly with the wood, tumbling downward in a cascade of billowing fabric and discarded clothing, his descent cushioned gently by successive layers of canvas awnings and the soft embrace of a sprawling pile of laundry. 
 
+Untangling himself from the linen, he pulls the final layer of cloth from his shoulders, the quiet stillness of the alley inviting him to rest, his fingers brushing the crust of the simple bread. But the heavy, rhythmic thud of approaching boots shatters the nocturnal peace.
+
+[MALE] There he is!
+
+[MALE] You won't get away so easy!
+
+[MALE] You think that was easy?
+
+[NARRATOR] He glances up, his eyes catching the amused, sleepy gazes of three women resting near a shadowy archway, their soft laughter rippling through the warm night breeze. 
+
+[MALE] You two, over that way, and you, with me. We'll find him.
+
+[NARRATOR] In a flurry of quiet motion, he snatches a loose white sheet from the ground, draping it over his head and shoulders, folding himself into the quiet shadows as he drifts toward the women.
+
+[MALE] Morning, ladies.
+
+[FEMALE] Getting into trouble a little early today, aren't we, Aladdin?
+
+[MALE] Trouble? No way. You're only in trouble if you get caught—
+
+[NARRATOR] A heavy, calloused hand clamps down upon his shoulder, yanking him backward out of the comforting folds of the sheet, letting his makeshift disguise tumble uselessly to the stones.
+
+[MALE] I'm in trouble!
+
+[MALE] ...and this time—
+
+[NARRATOR] A sudden, high-pitched screech echoes through the corridor as a furry little shadow drops from above, hooking the guard's tall turban and pulling it down over his face in a swift, chaotic blur. The small creature dances atop the blinded guard's helmet, chattering with gleeful mischief.
+
+[MALE] Perfect timing, Abu!
+
+[MALE] Hello!
+
+[MALE] Come on, let's get outta here! Gotta keep one jump ahead of the breadline, one swing ahead of the sword. I steal only what I can't afford... that's everything!
+
+[NARRATOR] Steel flashes in the moonlight as a heavy blade cuts through the humid air. He ducks beneath the sweeping arc, his fingers dipping low to deftly loosen the guard's belt, sending the man's trousers pooling around his ankles. The tiny monkey chatters a rude raspberry of triumph before dodging a frantic counter-swing. The blade misses its mark entirely, burying itself instead into a towering wooden cask, sending a silvery wave of salted fish spilling across the alley floor as the guard desperately pulls a stray fish over his legs like makeshift trousers.
+
+[MALE] One jump ahead of the lawmen, that's all, and that's no joke. These guys don't appreciate I'm broke!
+
+[NARRATOR] Scrambling upward, the boy and his small companion bound over a steep pyramid of wooden barrels, kicking the topmost cask backward to block their pursuers in a clattering cascade of wood and echoes.
+
+[MALE] Riffraff!
+
+[MALE] Street rat!
+
+[MALE] Scoundrel!
+
+[MALE] Take that!
+
+[MALE] Just a little snack, guys!
+
+[NARRATOR] Springing onto a fragile wooden platform high above the street, he finds himself marooned as the angry guards below begin to shake the wooden beams back and forth, desperate to dislodge him.
+
+[MALE] Rip him open, take it back, guys!
+
+[MALE] I can take a hint, gotta face the facts. You're my only friend, Abu!
+
+[FEMALE] Who?!?
+
+[NARRATOR] With a breathtaking leap into the open air, he launches himself toward certain emptiness, his outstretched hands catching the small, grasping paws of the monkey at the very apex of the arc. Like acrobats in a quiet circus, they swing in unison through an arched window, landing softly amidst the silk cushions and sweet-scented incense of a hidden courtyard.
+
+[NARRATOR] The shadows murmur with quiet observation as the tiny monkey immediately discovers a silver tray laden with figs and dates, stuffing his cheeks until he resembles a furry, contented sphere.
+
+[FEMALE] Oh, it's sad, Aladdin's hit the bottom. He's become a one-man rise in crime!
+
+[FEMALE] I'd blame parents, except he hasn't got 'em!
+
+[MALE] Gotta eat to live, gotta steal to eat! Tell you all about it when I got the time!
+
+[NARRATOR] And with a final, quiet rustle of silk and sandals, the pair slip out into the cooling breeze, leaving the sleeping city to drift ever deeper into dreams.
+
+[NARRATOR] The morning sun ascends slowly over the ancient, slumbering city of Agrabah, casting a warm, golden haze across the dusty cobblestones and sun-baked rooftops. The air is still and heavy with the scent of blooming jasmine and roasting spices, gently stirred by a lazy breeze that whispers through the canvas awnings of the bustling marketplace. In the central square, a muscular street performer flexes grandly for a gathering crowd of onlookers, his bronzed skin gleaming in the soft morning light. Without warning, a pair of heavy leather boots thuds rhythmically against the stone as armored guards rush past in a frantic blur of motion.
+
+[NARRATOR] Weaving effortlessly through the crowd right behind the performer are Aladdin and his mischievous little companion, Abu the monkey. They mimic the strongman’s poses with playful concentration, matching his every movement until a sudden misstep gives them away. The rhythmic beat of pursuit quickens, and the chase begins anew across the sun-dappled plazas.
+
+[MALE] One jump ahead of the slowpokes, one skip ahead of my doom. Next time gonna use a nom de plume. One jump ahead of the hitmen, one hit ahead of the flock. I think I'll take a stroll around the block.
+
+[NARRATOR] With acrobatic grace, Aladdin and Abu dart through the crowded alleys, scattering a gentle cloud of woolly sheep that drift lazily aside. They hurdle lightly over a weary man dozing peacefully upon a soft bed of iron nails, their shadows passing like a fleeting whisper before an extraordinarily large guard plummets down with a soft, muffled thud right upon the bedding. Abu pauses for a fraction of a second, draping himself in a stolen ruby necklace to blend in with a glittering merchant's display, until the shopkeeper gasps in sudden realization.
+
+[NARRATOR] The surrounding marketplace erupts in a chorus of indignation, the voices blending into a soft, murmuring wave of sound.
+
+[FEMALE] Stop, thief! Vandal! Outrage! Scandal!
+
+[MALE] Let's not be too hasty!
+
+[NARRATOR] Trapped momentarily in a narrow alleyway, Aladdin finds himself surrounded by a wall of gleaming steel and stern faces. Suddenly, a heavy wooden door creaks open, and a wonderfully rotund, cheerful lady steps out into the sunlight, gazing upon the young vagabond with an amused, maternal eye.
+
+[FEMALE] Still I think he's rather tasty!
+
+[NARRATOR] With a playful spin, Aladdin tumbles out of reach, casually slipping his arm around the shoulder of the nearest bewildered guard, patting him warmly as if they were long-lost companions strolling through a quiet garden.
+
+[MALE] Gotta eat to live, gotta steal to eat, otherwise we'd get along!
+
+[MALE] WRONG!
+
+[NARRATOR] A flurry of motion follows as the guards collide in a heap, their armor clanking softly like distant wind chimes. When the dust settles and the air grows still once more, Aladdin and Abu have vanished, slipping away into a pair of empty wooden barrels that roll silently into the shadows. They scamper quickly across a bed of hot, glowing coals, their tiny footprints barely disturbing the warmth, while the pursuing guards follow close behind, hopping comically on one foot and hissing softly in mild discomfort. 
+
+[NARRATOR] They glide past a quiet street performer swallowing long, glittering blades of silver. Abu, ever curious, pauses, reaches out, and gently pulls the sword straight from the performer's mouth. Turning to face the approaching guards, the little monkey brandishes the blade with an air of profound dignity, causing the heavily armed men to step backward in sudden, cautious awe.
+
+[MALE] He's got a sword!
+
+[MALE] You idiot--we've ALL got swords!!
+
+[NARRATOR] Tucking the blade away with gentle care, Abu scampers off to rejoin Aladdin. Once again, the alley closes in around them as guards approach from every direction. With a swift, fluid leap, Aladdin springs upward, catching hold of a floating rope in a rope-trick illusion suspended in mid-air, leaving the pursuing guards to collide harmlessly beneath him in a tangle of limbs and cloth.
+
+[MALE] One jump ahead of the hoofbeats!
+
+[FEMALE] Vandal!
+
+[MALE] One hop ahead of the hump!
+
+[FEMALE] Street rat!
+
+[MALE] One trick ahead of disaster!
+
+[FEMALE] Scoundrel!
+
+[MALE] They're quick--but I'm much faster!
+
+[FEMALE] Take that!
+
+[NARRATOR] The chase winds upward, echoing through a grand stone staircase that leads to a sunlit, open-air chamber overlooking the endless expanse of the desert. Without a moment's hesitation, Aladdin's hand reaches out to grasp a worn, woven carpet resting near the ledge, and together they leap gracefully out into the open sky.
+
+[MALE] Here goes, better throw my hand in, wish me happy landin', all I gotta do is jump!
+
+[NARRATOR] The guards rush blindly to the window after them, only to plunge straight down in a straight, comical descent, landing softly in a massive mound of fragrant organic fertilizer provided by Crazy Hakim’s Discount supplies. Meanwhile, Aladdin unfurls the woven carpet, using it as a gentle parachute that catches the warm morning updrafts, guiding them safely down to a quiet, sun-warmed nook far away from the commotion. Touching down with barely a whisper of sound, Aladdin and Abu share a triumphant, silent high-five.
+
+[MALE] And now, esteemed effendi, we feast! All right!
+
+[NARRATOR] Aladdin reaches into his pouch and draws out a simple, crusty loaf of bread, breaking it cleanly in half. He hands a portion to Abu, whose eyes widen with delight as he begins to nibble happily. But as Aladdin looks up, his gaze drifts across the quiet square to where two small, ragged children are rummaging through a discarded wicker basket, searching in vain for a scrap of nourishment. The little girl catches his eye, her expression falling as she gently drops her meager find and tries to retreat into the shadows of a crumbling wall.
+
+[NARRATOR] Aladdin looks from the children to the warm bread in his hand, and then down at Abu, whose cheeks are full of food.
+
+[MALE] Uh-oh!
+
+[NARRATOR] Abu pauses, blinking slowly in the quiet morning light, before taking one last, generous bite as the gentle desert breeze carries the sounds of the waking city further and further away into peaceful slumber.
+
+[NARRATOR] The morning sunlight filters softly through the ancient, dusty alleyways, casting long, golden shadows across the quiet cobblestones. The air is warm and still, carrying the faint, sweet scent of distant spices and blooming desert flowers. Leaving his resting place behind, the young man rises gracefully from the shadows, his footsteps quiet and gentle against the earth. He walks slowly toward two small children who sit watching with wide, sleepy eyes, while the protective sister gently pulls her young brother back in a momentary wave of shyness. 
+
+[MALE] Here, go on--take it.
+
+[NARRATOR] The children giggle with quiet delight, their worries melting away in the gentle warmth of the morning. Beside them, the little monkey pauses, struggling softly to swallow his own mouthful of food. He blinks, a soft look of sweet guilt crossing his expressive face. Slowly, he shuffles over to the children, extending his small offering of bread toward them. Delighted, the children reach out, their small hands gently petting the top of his head in quiet gratitude.
+
+[MALE] Ah, don't. Huh?
+
+[NARRATOR] The little monkey turns his head, his ears twitching as he watches his companion step out from the cool shelter of the alleyway and into the bright, sunlit square. A grand procession is passing by, the rhythmic sound of marching feet and cheerful music floating softly through the hazy air. Standing on his tiptoes, the young man peers gently over the shoulders of the gathered crowd, watching as a proud prince rides past upon a magnificent horse. All around them, the gentle murmurs of the townsfolk rise and fall like the ocean tide.
+
+[MALE] On his way to the palace, I suppose.
+
+[MALE] Another suitor for the princess.
+
+[NARRATOR] The young man is gently startled as the two small children dart out from the safety of the shadows, running playfully toward the street. The young boy tumbles out directly into the path of the approaching horse, causing the magnificent beast to rear back in sudden surprise.
+
+[MALE] Out of my way, you filthy brat!
+
+[NARRATOR] The angry rider raises a heavy leather whip high into the sunlit air, preparing to strike the innocent child. But in a swift, protective blur, the young man leaps forward, intercepting the blow and catching the whip firmly in his bare hand. The surrounding crowd holds its collective breath as the morning breeze carries away the tension of the moment.
+
+[MALE] Hey, if I were as rich as you, I could afford some manners.
+
+[MALE] Oh--I teach you some manners!
+
+[NARRATOR] With a cruel sweep of his boot, the rider kicks out, sending the young man tumbling backward into a soft, cooling mud puddle. The crowd erupts into shallow, echoing laughter, the noise washing over the quiet square like ripples on a pond. Brushing the damp earth from his shoulders, the young man looks up with a quiet, knowing smile.
+
+[MALE] Look at that, Abu. It's not every day you see a horse with two rear ends!
+
+[NARRATOR] The rider halts instantly, his face flushing crimson as he turns his horse around to face the fallen youth with disdain.
+
+[MALE] You are a worthless street rat. You were born a street rat, you'll die a street rat, and only your fleas will mourn you.
+
+[NARRATOR] The young man surges forward, his heart beating steadily, but the heavy wooden doors of the royal castle slam shut before him with a deep, echoing thud. He stands quietly in the fading afternoon light, the cool shadows wrapping around him like a blanket.
+
+[MALE] I'm not worthless. And I don't have fleas. Come on, Abu. Let's go home.
+
+[NARRATOR] Together, they make the long, peaceful climb upward along the winding stone steps, ascending far above the bustling city streets until they reach their quiet, secluded home high above the world. The view stretches out endlessly across the darkening horizon, painted in strokes of lavender, amber, and deep twilight blue. Gently, the young man helps his little companion settle down, tucking him in for a deep and restful sleep.
+
+[MALE] Riffraff, street rat. I don't buy that. If only they'd look closer. Would they see a poor boy? No siree. They'd find out, there's so much more to me.
+
+[NARRATOR] Reaching out with a tired hand, he pulls back a frayed velvet curtain, revealing the magnificent, glowing palace in the distance, bathed in the soft, silvery light of the rising moon.
+
+[MALE] Someday, Abu, things are gonna change. We'll be rich, live in a palace, and never have any problems at all.
+
+[NARRATOR] Time drifts slowly onward through the quiet night, the gentle passage of hours marked only by the shifting stars, until the warm sun rises once more, casting a golden glow over the tranquil morning. Inside the opulent, sunlit chambers of the Sultan, the heavy doors suddenly fly open as the proud prince storms inside, his face pale with indignation, missing a rather distinct portion of his attire.
+
+[MALE] I've never been so insulted!
+
+[MALE] Oh, Prince Achmed. You're not leaving so soon, are you?
+
+[MALE] Good luck marrying her off!
+
+[NARRATOR] The aging ruler blinks in bewilderment, his robes rustling softly as he hurries toward the sunlit courtyards.
+
+[MALE] Oh, Jasmine! Jasmine! Jasmine!
+
+[NARRATOR] He wanders through the fragrant labyrinth of the royal gardens, searching peacefully for his independent daughter. Just as he rounds a flowering trellis, his path is gently blocked by a massive, striped form. It is the great royal tiger, sitting quietly with a tattered piece of the prince's undergarment resting between his teeth. With a sigh of exasperation, the ruler reaches out and yanks the scrap of cloth away.
+
+[MALE] Confound it, Rajah! So, this is why Prince Achmed stormed out!
+
+[NARRATOR] From behind the fragrant leaves, a soft, melodic voice drifts out on the gentle breeze.
+
+[FEMALE] Oh, father. Rajah was just playing with him, weren't you Rajah.
+
+[NARRATOR] The great tiger pads softly forward, lowering his magnificent head to allow the young princess to stroke and embrace his soft fur in the tranquil morning light.
+
+[FEMALE] You were just playing with that overdressed, self-absorbed Prince Achmed.
+
+[NARRATOR] The morning sunlight filters through the high, arched stone windows of the palace courtyard, casting long, lazy shadows across the cool marble tiles. A gentle, cooling breeze sweeps through the garden, rustling the lush green leaves of potted palms and carrying the faint, sweet scent of blooming jasmine. Princess Jasmine buries her face softly in the thick, warm fur of her great tiger, Rajah, inhaling the earthy scent of him as they share a quiet, unhurried moment of peace.
+
+[FEMALE] Weren't you?
+
+[NARRATOR] She cuddles closer to the massive, striped beast, letting the rhythmic rise and fall of his breathing soothe her, until she slowly looks up and notices the shadow of her approaching father, whose face carries a familiar, troubled expression.
+
+[MALE] Dearest, you've got to stop rejecting every suitor that comes to call. The law says you...
+
+[FEMALE AND MALE] ...must be married to a prince.
+
+[NARRATOR] Together, their voices echo softly against the ancient courtyard walls as they slowly walk away from the sunlit steps and toward a large, ornate dove cage where white doves coo softly in the drowsy air.
+
+[MALE] By your next birthday.
+
+[FEMALE] The law is wrong.
+
+[MALE] You've only got three more days!
+
+[FEMALE] Father, I hate being forced into this.
+
+[NARRATOR] With a slow, tender movement, she reaches into the wire cage, delicately takes a soft-feathered dove into her hands, and brings it close to stroke its fluttering chest.
+
+[FEMALE] If I do marry, I want it to be for love.
+
+[MALE] Jasmine, it's not only this law.
+
+[NARRATOR] She gently hands the white dove back to her father, and he carefully places it through the little wooden door, back into the quiet safety of the enclosure.
+
+[MALE] I'm not going to be around forever, and I just want to make sure you're taken care of, provided for.
+
+[FEMALE] Try to understand. I've never done a thing on my own.
+
+[NARRATOR] She wanders over to the edge of a still, glassy reflecting pond, dipping her finger into the cool water and swirling it in slow, mesmerizing circles while colorful fish glide lazily beneath the surface.
+
+[FEMALE] I've never had any real friends.
+
+[NARRATOR] Rajah lifts his heavy, majestic head, letting out a low, rumbling growl of deep devotion.
+
+[FEMALE] Except you, Rajah.
+
+[NARRATOR] Satisfied that his beloved princess is safe, the great tiger lowers his head once more, drifting slowly back into a deep, contented slumber.
+
+[FEMALE] I've never even been outside the palace walls.
+
+[MALE] But Jasmine, you're a princess.
+
+[FEMALE] Then maybe I don't want to be a princess.
+
+[NARRATOR] With a sudden, playful motion, she splashes the cool water of the pond, sending tiny, shimmering droplets cascading into the air.
+
+[MALE] Oooohhh! Allah forbid you should have any daughters!
+
+[NARRATOR] Rajah lazily lifts one eyelid, pondering the commotion for a brief second before resting his chin back upon his paws. Jasmine walks with quiet resolve to the tall dove cage, yanking the latch open so that the door swings wide. The white birds burst forth into the morning sky, their wings beating a soft rhythm as they fly off into absolute, boundless freedom. She stands still for a long time, watching them soar higher and higher until they melt into the pale blue horizon. The scene shifts gently, drifting inward into the quiet, dim interior of the Sultan's private chambers, where heavy velvet tapestries muffle the sounds of the outside world.
+
+[MALE] I don't know where she gets it from. Her mother wasn't nearly so picky.
+
+[NARRATOR] A tall, dark shadow falls silently across the stone floor, stretching toward the throne. The Sultan looks up, startled from his thoughts, and sees Jafar standing motionless in the dim, amber-lit room.
+
+[MALE] Ooh, oh. Ah, Jafar—my most trusted advisor. I am in desperate need of your wisdom.
+
+[FEMALE] My life is but to serve you, my lord.
+
+[NARRATOR] Jafar bows his head with slow, theatrical grace, his dark robes pooling silently around his boots.
+
+[MALE] It's this suitor business. Jasmine refuses to choose a husband. I'm at my wit's-end.
+
+[MALE] Awk! Wit's-end.
+
+[MALE] Oh, ha ha. Have a cracker, pretty polly!
+
+[NARRATOR] The Sultan reaches deep into the folds of his rich velvet pocket and pulls out a dry, round cracker. The colorful parrot, Iago, sitting upon a high perch, widens his eyes in absolute terror. Before the bird can squawk, the Sultan good-naturedly shoves the dry treat straight into Iago's beak. The parrot grimaces, his feathers puffing out in frustration as he struggles to chew the unexpected snack, while Jafar and the Sultan both share a light, echoing laugh.
+
+[FEMALE] Your majesty certainly has a way with dumb animals.
+
+[NARRATOR] Iago glares daggers from his corner, feathers rustling indignantly in the quiet room.
+
+[FEMALE] Now then, perhaps I can divine a solution to this thorny problem.
+
+[MALE] If anyone can help, it's you.
+
+[FEMALE] Ah, but it would require the use of the mystic blue diamond.
+
+[MALE] Uh, my ring? But it's been in the family for years.
+
+[FEMALE] It is necessary to find the prin-cess a suitor.
+
+[NARRATOR] Jafar speaks the word with a lingering, hypnotic cadence, slowly turning his tall golden staff—topped with a coiled, gleaming cobra head—directly toward the Sultan. The ambient light in the chamber begins to fade, dimming into deep, velvety shadows. The ruby eyes of the cobra staff begin to glow with a soft, pulsing crimson light. Jafar's voice slows down, dropping into a deep, rhythmic, lulling tone that matches the gentle swaying of the room. The Sultan's eyelids grow heavy, his posture relaxing as a dreamy, peaceful fog settles over his mind.
+
+[FEMALE] Don't worry. Everything will be fine.
+
+[MALE] Everything... will be... fine.
+
+[FEMALE] The
+
+[NARRATOR] The heavy, velvet shadows of the bedchamber drape softly over the polished marble floor, where a flickering candle casts long, lazy flickers of amber light against the walls. The air is warm, fragrant with the lingering scent of crushed lotus blossoms and drifting incense, encouraging every tired muscle to let go. 
+
+[MALE] Here, Jafar. Whatever you need will be fine.
+
+[NARRATOR] With a slow, languid motion, the old ruler slips the heavy, gleaming ring from his finger, handing it over to the waiting figure like a man in a deep, peaceful slumber. The room gently shifts back to its normal, quiet rhythm as the enchanted staff is pulled away, its mesmerizing glow fading into the peaceful twilight.
+
+[MALE] You are most gracious, my liege. Now run along and play with your little toys.
+
+[MALE] Yes...that's...pretty good.
+
+[NARRATOR] Footsteps pad softly against the stone as the figures slip away into the shadows of the corridor, leaving behind a tranquil, undisturbed stillness. Out in the quiet hallway, away from the royal chambers, the air is cool and drafty, carrying the distant, soothing sounds of the palace settling down for the night. 
+
+[MALE] I can't take it anymore! If I gotta choke down on one more of those moldy, disgusting crackers... bam! Whack!
+
+[NARRATOR] A heavy rope is pulled in the darkness, sliding smoothly through a pulley to reveal a hidden door into the secret, vaulted chambers where the shadows stretch long and comfortable.
+
+[MALE] Calm yourself, Iago.
+
+[MALE] Then I'd grab him around the head. Whack! Whack!
+
+[MALE] Soon, I will be sultan, not that addlepated twit.
+
+[MALE] And then I stuff the crackers down his throat! Ha ha!
+
+[NARRATOR] The heavy door swings shut with a soft, muffled click, sealing the room in absolute quiet. The scene dissolves slowly, drifting outward into the cool, star-dusted night of the palace gardens. A gentle breeze whispers through the rustling palm fronds, carrying the sweet scent of night-blooming jasmine under a canopy of velvet blue. 
+
+[FEMALE] Oh, I'm sorry, Rajah. But I can't stay here and have my life lived for me. I'll miss you.
+
+[NARRATOR] A soft rustling of fabric against stone breaks the silence as a cloaked figure scales the ancient, cooling courtyard wall, bathed in the pale, milky glow of the desert moon. 
+
+[FEMALE] Good bye.
+
+[NARRATOR] The night fades into the warm, golden sunlight of a new morning, waking up the bustling, sleepy-eyed marketplace below. High above the cobblestone street, perched lazily on the fabric awning of a fruit stand, a young boy and his small companion prepare for their morning routine under the comforting warmth of the sun.
+
+[MALE] Okay, Abu. Go!
+
+[MALE] Try this, your taste buds will dance and sing.
+
+[MALE] Hey, get your paws off that!
+
+[MALE] Blah blah blah!
+
+[MALE] Why, you! Get away from here, you filthy ape!
+
+[MALE] Bye bye!
+
+[MALE] Nice goin', Abu. Breakfast is served.
+
+[NARRATOR] Up on the sun-warmed clay tiles of the rooftop, away from the noise, there is only the quiet, rhythmic sound of a morning meal enjoyed in the breeze. Down below, the winding streets hum with the gentle, rhythmic cadence of distant merchants calling out their wares in a comforting, rolling lullaby.
+
+[MALE] Pretty lady, buy a pot. No finer pot in brass or silver.
+
+[MALE] Sugar dates, sugar dates and figs! Sugar dates and pistachios!
+
+[MALE] Would the lady like a necklace. A pretty necklace for a pretty lady.
+
+[MALE] Fresh fish! We catch 'em, you buy 'em!
+
+[FEMALE] I don't think so.
+
+[NARRATOR] The street continues its slow, hypnotic dance of colors and sounds, a safe and cozy world drifting by in a peaceful, sleepy haze.
+
+[NARRATOR] The vibrant, winding pathways of the marketplace continue to breathe in a rhythm as old as time, bathed in the soft, amber glow of late afternoon sunlight filtering through heavy silk awnings. A warm, gentle breeze carries the distant, soothing scents of roasting spices and blooming night-flowers, wrapping the bustling square in a cozy, dreamlike haze. Amidst this colorful tapestry of life, a young man drifts to a sudden halt, his steps pausing as he catches sight of a breathtaking face emerging from the crowd. The ambient noise of the city seems to soften into a distant, muffled hum, replaced by the quiet, steady beat of a heart suddenly captivated.
+
+[MALE] I'm really very sorry.
+
+[NARRATOR] The young woman quickly pulls the deep folds of her midnight-blue cloak over her head, shadows embracing her features as a tiny, clever monkey scampers up the young man's shoulder, waving a furry hand right before his entranced eyes.
+
+[MALE] Uh oh. Hello? Hello?
+
+[NARRATOR] Drifting further into the shade of a vibrant fruit stall, the cloaked girl notices a small, weary child reaching longingly toward a glowing red apple. With tender gentleness, she lifts the fruit and places it softly into the child's small hands.
+
+[FEMALE] Oh, you must be hungry. Here you go.
+
+[NARRATOR] The little boy flashes a grateful smile and scurries away into the comforting safety of the crowd, leaving the fruit vendor staring in sudden, harsh disbelief.
+
+[MALE] You'd better be able to pay for that.
+
+[FEMALE] Pay?
+
+[MALE] No one steals from my cart!
+
+[FEMALE] Oh, I'm sorry sir. I don't have any money.
+
+[MALE] Thief!
+
+[FEMALE] Please, if you let me go to the palace, I can get some from the Sultan.
+
+[MALE] Do you know what the penalty is for stealing?
+
+[NARRATOR] The heavy, threatening weight of the merchant's hand pins her wrist against the wooden table, the air growing still and tense beneath the warm sun.
+
+[FEMALE] No, no please!
+
+[NARRATOR] Just as the heavy shadow of a raised blade cuts through the light, a quick, steady hand intercepts it, halting the danger with effortless grace.
+
+[MALE] Thank you kind sir. I'm so glad you've found her. I've been looking all over for you.
+
+[FEMALE] What are you doing?
+
+[MALE] Just play along.
+
+[MALE] You know this girl?
+
+[FEMALE] Sadly, yes. She is my sister. She's a little crazy.
+
+[NARRATOR] The young man taps his temple in a sweeping, theatrical gesture while the merchant's grip loosens in sheer bewilderment.
+
+[MALE] She said she knows the Sultan!
+
+[MALE] She thinks the monkey is the Sultan.
+
+[NARRATOR] High on a shoulder, the little monkey straightens up proudly, his pockets rustling with hidden treasures. The girl, instantly understanding the gentle ruse, drops gracefully to her knees upon the dusty cobblestones, bowing low.
+
+[FEMALE] Oh, wise Sultan. How may I serve you?
+
+[MALE] Well, blah blah blah blah.
+
+[NARRATOR] Leaning forward with easy composure, the young man nudges a fresh red apple up with his foot, catching it smoothly in his hand as the afternoon shadows lengthen around them.
+
+[MALE] Tragic, isn't it? But, no harm done. Now come along sis. Time to see the doctor.
+
+[FEMALE] Oh, hello doctor. How are you?
+
+[MALE] No, no, no. Not that one. Come on, Sultan.
+
+[NARRATOR] The little creature leaps down, sweeping a grand bow to the gathering onlookers, sending a cascading waterfall of stolen apples, beads, and trinkets spilling out onto the warm stone floor.
+
+[MALE] Huh? What is it?
+
+[NARRATOR] With a breathless flurry of motion, the trio scoops up what they can carry and dashes away into the winding, sun-dappled alleys, the shouts of the merchant fading softly into the gentle evening breeze.
+
+Far away from the warm sunlight, deep within the cool, hushed stone chambers of the palace laboratory, a strange contraption hums quietly in the dim, flickering torchlight. A small, feathered creature trudges endlessly upon a creaking wooden gear, his breath coming in heavy, exhausted sighs beneath a brewing miniature storm trapped within a glass sphere above.
+
+[MALE] With all due respect, your rottenness, couldn't we just wait for a real storm?
+
+[NARRATOR] The tall, cloaked sorcerer stands motionless in the shadows, his serpentine staff glowing with a faint, hypnotic violet light as he sets a heavy golden ring into the center of the strange machinery.
+
+[MALE] Save your breath, Iago. Faster!
+
+[MALE] Yes, o mighty evil one.
+
+[NARRATOR] With a renewed burst of frantic energy, the bird races faster against the wheel. A brilliant, crackling bolt of lightning streaks fiercely through the golden ring, plunging downward into the glass hourglass below, where fine, ancient sands begin to swirl and whisper in the quiet dark.
+
+[NARRATOR] Ah, sands of time--reveal to me the one who can enter the cave.
+
+[NARRATOR] High above the slumbering city, carried upon the currents of a warm, velvet night, the swirling vortex of the golden hourglass dissolves into the rolling, heavy clouds of a distant desert storm. The wind howls softly, a low and hypnotic lullaby that sweeps across the rooftops of Agrabah, where the air is thick with the scent of night-blooming jasmine and sun-warmed stone. Through the gentle haze of dust and starlight, a figure moves with quiet, rhythmic determination, ascending a wooden ladder toward the safety of a high, flat terrace. 
+
+[NARRATOR] Below them, nestled within the shadows of a grand, curving archway, a towering sorcerer leans over a table of dark polished wood. His glowing staff hums with a deep, resonant vibration that matches the steady, calming beat of a resting heart. In the flickering, amber light of a solitary candle, the swirling sandstorm within the magic vision clears, revealing the very youth he has sought for so long.
+
+[MALE] Yes, yes! There he is. My diamond in the rough!
+
+[NARRATOR] Upon the sorcerer’s shoulder, a crimson feathered shape stirs sleepily in the heavy, warm air, losing its footing in the drowsy, humid stillness and tumbling lazily against the turning brass gears of the optical device.
+
+[MALE] That's him?!?! That's the clown we've been waitin' for?
+
+[NARRATOR] The dark figure of the sorcerer smiles, a slow, shadowy curving of the lips that seems to stretch into the quiet night.
+
+[MALE] Let's have the guards extend him an invitation to the palace, shall we?
+
+[NARRATOR] The feathered creature tumbles downward, bouncing softly against the stone wall before coming to rest in a sleepy, upside-down heap.
+
+[MALE] Swell.
+
+[NARRATOR] The vision fades like mist over a quiet lake, dissolving back into the gentle reality of the high rooftop. The desert wind whispers through the rafters as the young man, breathless and steady, reaches the very top of the wooden ladder. Close behind him, draped in the flowing folds of a midnight-blue cloak that protects her from the chill of the desert night, comes a young woman. 
+
+[MALE] Almost there.
+
+[NARRATOR] She climbs over the edge of the parapet, her footing slips ever so slightly, and she tumbles gently into his waiting arms. For a moment, the world stands still, suspended in the quiet warmth of the evening breeze. She stands, brushing the dust from her soft garments, her eyes reflecting the gentle twinkle of the overhead stars.
+
+[FEMALE] I want to thank you for stopping that man.
+
+[MALE] Uh, forget it.
+
+[NARRATOR] He reaches out, his hand wrapping gently around the smooth, weathered wood of a long bamboo pole, leaning into it with the easy grace of one who knows every shadow of this ancient city.
+
+[MALE] So, uh, this is your first time in the marketplace, huh?
+
+[NARRATOR] With a fluid, effortless motion, he uses the pole to vault gracefully across the open expanse to the next building, landing with barely a sound, leaving her behind in the pool of soft moonlight.
+
+[FEMALE] Is it that obvious?
+
+[MALE] Well, you do kinda stand out.
+
+[NARRATOR] He pauses, his gaze lingering on her face, caught entirely in the serene beauty of the moment. The distant sounds of the city fade into a soft, murmuring hum, like the distant washing of waves upon a shore. Then, gently, he blinks, returning to the quiet present.
+
+[MALE] I mean, uh, you don't seem to know how dangerous Agrabah can be.
+
+[NARRATOR] He places a broad wooden plank between the high rooftops, creating a safe, bridging pathway for her across the cool air. But before he can even lower his hand to steady her, she displays a surprising lightness, catching the pole and vaulting completely over his head with effortless, acrobatic grace. She lands lightly on the other side and tosses the pole back to him with a quiet smile. His eyes, and the wide, astonished eyes of his tiny monkey companion, widen in gentle disbelief.
+
+[FEMALE] I'm a fast learner.
+
+[MALE] Right. C'mon, this way.
+
+[NARRATOR] They slip together beneath the sheltering eaves of a weathered rooftop dwelling, stepping softly through the shadows as they dodge low wooden beams and hanging lanterns that sway gently in the draft. The lighting here is dim and amber, casting long, peaceful shadows against the woven straw walls.
+
+[MALE] Whoa. Watch your head there. Be careful.
+
+[FEMALE] Is this where you live?
+
+[MALE] Yep. Just me and Abu. Come and go as we please.
+
+[FEMALE] Fabulous.
+
+[MALE] Well, it's not much...
+
+[NARRATOR] He reaches out with a gentle hand, pulling back a heavy, dust-softened curtain to reveal a wide, open window that looks out upon the breathtaking expanse of the sleeping royal city. Bathed in the silvery glow of the high desert moon, the grand palace gleams like a mountain of pearl and lapis lazuli.
+
+[MALE] ...but it's got a great view. Palace looks pretty amazing, huh?
+
+[FEMALE] Oh, it's wonderful.
+
+[MALE] I wonder what it would be like to live there, to have servants and valets...
+
+[FEMALE] Oh, sure. People who tell you where to go and how to dress.
+
+[MALE] It's better than here. Always scraping for food and ducking the guards.
+
+[FEMALE] You're not free to make your own choices.
+
+[MALE] Sometimes you feel so--
+
+[FEMALE] You're just--
+
+[MALE AND FEMALE] --trapped.
+
+[NARRATOR] The single word hangs in the tranquil air, echoing softly against the earthen walls. They look into each other's eyes, sharing a deep, unspoken understanding that feels as natural and unforced as the turning of the stars above. For a few long, quiet heartbeats, the rest of the world simply ceases to exist. Then, gently breaking the spell, the young man smiles, reaching over to pluck a crisp, red apple from the tiny hands of his slumbering companion. With a practiced, playful flick of his wrist, he rolls the apple smoothly down his forearm, catching it gently before offering it to the young woman.
+
+[MALE] So, where're you from?
+
+[FEMALE] What does it matter? I ran away, and I am not going back.
+
+[MALE] Really?
+
+[NARRATOR] He takes a light, crunchy bite from a second apple he holds in his hand, then passes it down to the little monkey, who stares at it with an expression of profound, sleepy disgust.
+
+[MALE] Why you!
+
+[NARRATOR] The small creature chatters softly in gentle protest, curling itself into a tighter, warmer ball as the young man steps across the woven rug and settles quietly into the peaceful embrace of the evening shadows.
+
+[NARRATOR] The evening breeze softens, carrying the warm, drifting scent of desert dust and cooling stone across the quiet rooftops of the city. High above the slumbering streets, bathed in the gentle, silver wash of moonlight, the princess sits resting upon a woven blanket next to the young man. The world around them slows into a deep, heavy stillness.
+
+[FEMALE] My father's forcing me to get married.
+
+[MALE] That's—that's awful.
+
+[NARRATOR] From the shadowed folds behind the princess, the tiny, furry companion scurries forth silently, his dark eyes gleaming with mischief as he reaches out a tiny paw to claim a shiny red apple resting near the hem of her garment.
+
+[MALE] Abu!
+
+[NARRATOR] Startled by the sudden whisper, the little creature chatters a hasty protest, scrambling away with light, scurrying feet to a higher, safer vantage point upon a crumbling clay chimney, chattering softly into the cool night air.
+
+[FEMALE] What?
+
+[MALE] Abu says that—uh—that's not fair.
+
+[NARRATOR] The small furry figure on the chimney pauses, crossing his arms and huffing softly.
+
+[ABU] What?
+
+[FEMALE] Oh, did he?
+
+[MALE] Yeah, of course.
+
+[FEMALE] And does Abu have anything else to say?
+
+[MALE] Well, uh, he wishes there was something he could do to help.
+
+[ABU] Oh, boy!
+
+[FEMALE] Hmm, tell him that's very sweet.
+
+[NARRATOR] The space between them grows quiet and serene, the ambient hum of the distant marketplace fading into a gentle, rhythmic silence. As they draw closer together under the vast, starry canopy, the young man leans in gently, the cares of the day melting away in the stillness of the night. But suddenly, the quiet is broken by the heavy, echoing clank of heavy boots upon the tiles.
+
+[GUARD] Here you are!
+
+[ALADDIN and JASMINE] They've found me!
+
+[NARRATOR] They look at one another in startled confusion.
+
+[ALADDIN and JASMINE] They're after you?
+
+[FEMALE] My father must have sent them—
+
+[MALE] Do you trust me?
+
+[FEMALE] What?
+
+[MALE] Do you trust me?
+
+[NARRATOR] He extends his open hand, offering a steady anchor amidst the sudden flurry of shadows.
+
+[FEMALE] Yes.
+
+[NARRATOR] She places her hand gently into his, feeling the warm, reassuring grip.
+
+[MALE] Then jump!
+
+[NARRATOR] Together, they leap from the edge of the quiet roof, descending through the cool night air to land softly in a deep, cushioned drift of white salt. They scramble to find an exit, but the narrow lane is suddenly blocked by a towering figure in heavy armor.
+
+[GUARD] We just keep running into each other, don't we, street rat?
+
+[NARRATOR] Quick as a shadow, the tiny companion darts forward, leaping onto the guard's head and pulling his heavy turban down over his eyes. Yet more armored figures pour into the alley, sealing every pathway. The guard angrily tears the small creature from his head, tossing him unceremoniously into a large, empty clay vase, while three other guards forcefully seize the young man.
+
+[GUARD] It's the dungeon for you, boy.
+
+[MALE] Hey, get off of me!
+
+[FEMALE] Let go of him.
+
+[GUARD] Look what we have here, men—a street mouse.
+
+[NARRATOR] The guard pushes her carelessly aside, watching as she rises smoothly to her feet, her fingers reaching up to pull back the heavy hood of her dark cloak.
+
+[FEMALE] Unhand him, by order of the princess.
+
+[NARRATOR] The guards freeze instantly, their posture stiffening before they bow their heads in reluctant submission, forcing the young man downward with them.
+
+[GUARD] Princess Jasmine.
+
+[MALE] The princess?
+
+[ABU] The princess?
+
+[GUARD] What are you doing outside the palace? And with this street rat?
+
+[FEMALE] That's not your concern. Do as I command. Release him!
+
+[GUARD] Well, I would, princess, but my orders come from Jafar. You'll have to take it up with him.
+
+[NARRATOR] The guards turn, dragging the young man away into the dimness while bowing low with every step.
+
+[FEMALE] Believe me, I will.
+
+[NARRATOR] Inside the quiet, cavernous interior of the palace, thick velvet drapes muffle the ambient sounds of the night. Jafar carefully slides his secret chamber door shut, but the princess storms into the chamber before the heavy panel can click into place. He slams it hurriedly, accidentally pinning the small feathered bird firmly within the wooden frame.
+
+[FEMALE] Jafar?
+
+[JAFAR] Oh, uh, princess.
+
+[IAGO] Awk! Jafar, I'm stuck!
+
+[JAFAR] How may I be of service to you?
+
+[NARRATOR] He spreads his long, dark cape wide, attempting to shield the trapped creature from view.
+
+[FEMALE] The guards just took a boy from the market, on your orders.
+
+[JAFAR] Your father's charged me with keeping peace in Agrabah. The boy was a criminal.
+
+[FEMALE] What was the crime?
+
+[IAGO] I can't breathe, Jafar!
+
+[JAFAR] Why, kidnapping the princess, of course.
+
+[IAGO] If you could just—
+
+[NARRATOR] With a weary sigh, Jafar delivers a firm kick to the door.
+
+[NARRATOR] The heavy wooden door swings inward with a deep, muffled groan, and as it slams shut, a sharp cry echoes in the quiet chamber.
+
+[MALE] Wow, that hurt!
+
+[FEMALE] He didn't kidnap me! I ran away!
+
+[NARRATOR] Jafar turns, his dark robes sweeping the cool stone floor, feigning a slow and theatrical shock.
+
+[MALE] Oh, dear! Oh, why frightfully upsetting. Had I but known.
+
+[FEMALE] What do you mean?
+
+[MALE] Sadly, the boy's sentence has already been carried out.
+
+[FEMALE] What sentence?
+
+[MALE] Death. By beheading.
+
+[FEMALE] No!
+
+[NARRATOR] Her knees weaken, and she collapses softly to the cold floor, the heavy sorrow washing over her like a heavy, velvet blanket.
+
+[MALE] I am exceedingly sorry, princess.
+
+[FEMALE] How could you?
+
+[NARRATOR] With a sob caught in her throat, she flees from the room, her footsteps fading into the quiet corridors of the palace. Finally, the crimson door gives way, and the red-feathered companion tumbles out into the dimly lit hallway, flying upward to settle upon Jafar’s waiting shoulder with a ragged cough.
+
+[MALE] So, how did it go?
+
+[MALE] I think she took it rather well.
+
+[NARRATOR] A pair of quiet, sinister smiles curve in the shadows. The scene dissolves into the gentle stillness of the night, where Princess Jasmine sits at the edge of the palace courtyard's marble fountain, the water murmuring a soft, rhythmic lullaby. Her quiet tears ripple the glass-like surface. The great tiger, Rajah, steps over with silent, velvet paws, resting his heavy head near her lap. She reaches out, her fingers stroking his soft, warm fur in the moonlight.
+
+[FEMALE] It's all my fault, Rajah. I didn't even know his name.
+
+[NARRATOR] Far beneath the palace floors, in the damp, quiet heart of the dungeon, tiny rats scurry through the shadows. The view descends along the damp, moss-covered stone walls until it reaches Aladdin, bound by iron chains to the rough masonry.
+
+[MALE] She was the princess. I don't believe it. I must have sounded so stupid to her.
+
+[MALE] Yoo-hoo! Aladdin? Hello!
+
+[NARRATOR] Little Abu appears at the small, barred window high above the dungeon floor, peering down through the gloom.
+
+[MALE] Abu! Down here! Hey, c'mon—help me outta these.
+
+[NARRATOR] Abu pauses, then begins chattering wildly, dropping to the dungeon floor. He wraps a stray scrap of cloth around his head, making his eyes wide and round in a comical imitation of the royal princess. Aladdin manages a soft, melancholic smile through the heavy air.
+
+[MALE] Hey, she was in trouble. Ah, she was worth it.
+
+[NARRATOR] With a scamper, Abu leaps down onto Aladdin’s shoulders, fishing a small set of lock-picking tools from his furry pocket, going quietly to work on the heavy manacles.
+
+[MALE] Yeah, yeah, yeah.
+
+[MALE] Don't worry, Abu. I'll never see her again. I'm a street rat, remember, and there's a law. She's gotta marry a prince, she deserves it.
+
+[NARRATOR] With a final metallic click, the iron restraints fall away.
+
+[MALE] Ta da!
+
+[NARRATOR] Aladdin rubs his chafed wrists in the dim, flickering torchlight.
+
+[MALE] I'm a—I'm a fool.
+
+[MALE] You're only a fool if you give up, boy.
+
+[NARRATOR] From the deepest, darkest corner of the cell, an old man emerges from the shadows, sitting quietly where neither Aladdin nor Abu had noticed him before.
+
+[MALE] Who are you?
+
+[MALE] A lowly prisoner, like yourself. But together, perhaps we can be more.
+
+[MALE] I'm listening.
+
+[MALE] There is a cave, boy. A cave of wonders. Filled with treasures beyond your wildest dreams. Treasure enough to impress even your princess, I'd wager.
+
+[NARRATOR] The old man turns his back for a fleeting moment, and a familiar red head pops out from beneath the cloak of the disguise.
+
+[MALE] Jafar, can ya hurry it up? I'm dyin' in here!
+
+[NARRATOR] The old man turns back instantly, his hollow, shadowy gaze resting once more on the young captive.
+
+[MALE] But the law says that only a prince can marry—
+
+[MALE] You've heard of the golden rule, haven't you boy? Whoever has the gold makes the rules.
+
+[NARRATOR] The old man grins, revealing a terribly crooked smile in the dim, resting dark.
+
+[MALE] So why would you share all of this wonderful treasure with me?
+
+[NARRATOR] The flickering torchlight cast long, undulating shadows against the ancient, sun-baked stone, breathing a quiet rhythm into the cool, subterranean air. A gentle draft whispered through the heavy stillness, carrying the faint, sweet scent of distant desert dust and cooling earth. 
+
+[MALE] I need a young man with strong legs and a strong back to go in after it.
+
+[MALE] Ah, one problem. It's out there, we're in here?
+
+[NARRATOR] With a low, grinding sigh of masonry shifting against stone, the old man stepped toward the shadowed perimeter of the chamber and pushed firmly against the wall. A hidden door pivoted inward, breathing forth the cool, star-sprinkled air of the silent desert night.
+
+[MALE] Mmm, mmm, mmm. Things aren't always what they seem. So, do we have a deal?
+
+[NARRATOR] The young man glanced downward, his dark eyes meeting those of his small, furry companion. The little monkey simply shrugged his shoulders in the quiet dark, a soft, questioning hmmm slipping from his tiny throat. 
+
+[NARRATOR] Moments later, the heavy silence of the open desert enveloped them. The cool night wind brushed softly against the dunes, carrying the steady, rhythmic scuff of sand beneath the hooves of a lone horse carrying the old man and the little monkey into the vast, starlit expanse. The landscape stretched out endlessly in shades of indigo and pale silver, hushed and deeply still, until they reached the brooding silhouette of a colossal stone guardian rising from the earth. 
+
+[MALE] Who disturbs my slumber?
+
+[MALE] It is I, Aladdin.
+
+[MALE] Proceed. Touch nothing but the lamp.
+
+[NARRATOR] With a deep, reverberating roar that shook the surrounding dunes like a sigh, the massive stone jaws of the cave parted wide. A long, descending staircase of ancient, weathered stone materialized before them, bathed in an inviting, subterranean glow.
+
+[MALE] Remember, boy--first fetch me the lamp, and then you shall have your reward.
+
+[MALE] C'mon, Abu.
+
+[NARRATOR] The young man murmured softly to the tiny creature hiding securely beneath the fold of his vest, and together they began their slow, cautious descent down the steps. The air grew warmer, thick with the heavy, metallic scent of ancient wealth and sleeping gold. Reaching the bottom, they stepped out into a vast, cavernous chamber that glowed with the soft, amber radiance of mountains of priceless treasure.
+
+[MALE] Would ya look at that!
+
+[NARRATOR] The little monkey chattered softly in quiet wonder, gasping in the dim, glittering light.
+
+[MALE] Just a handful of this stuff would make me richer than the sultan!
+
+[NARRATOR] Unable to resist the warm, inviting gleam, the little monkey peeked out from the shadows, saw the endless sea of riches, and bolted forward in a breathless rush of excitement.
+
+[MALE] Abu!
+
+[NARRATOR] The tiny creature stopped mid-stride, hovering just above an ornate, woven rug resting quietly upon the stone floor.
+
+[MALE] Don't...touch...anything! We gotta find that lamp.
+
+[NARRATOR] They turned away from the gleaming mounds, moving carefully through the quiet expanse. Yet, behind them, the woven rug began to stir, lifting itself gently off the cold stone floor to drift silently in their wake like a falling leaf riding an invisible breeze. The little monkey felt a sudden, strange shift in the air, a sense of quiet companionship trailing their footsteps.
+
+[MALE] Huh?
+
+[NARRATOR] He spun around, but the rug lay completely flat and motionless upon the ground. Shrugging to himself, he turned back around and resumed walking. Instantly, the rug rose once more, gliding smoothly behind them. When the little monkey whipped his head around a second time, the rug had neatly rolled itself up, leaning innocently against a towering pile of golden coins. Confused and unsettled, the tiny creature scurried back to the young man, clutching urgently at his pant leg.
+
+[MALE] Aladdin! Aladdin!
+
+[MALE] Abu, will ya knock it off?
+
+[NARRATOR] Once again, the magical textile followed. But this time, as the little monkey turned sharply, the rug darted to the side, reaching out a soft, tasseled fringe to playfully tug at the tip of his tail. Whirling around in surprise, the little monkey found nothing, only for the rug to dance away to the opposite side once more. Planting his tiny feet, the little monkey assumed a fierce karate stance, ready to defend himself. In a flash of woven color, the rug reached down, gently plucked the little hat right off his head, and settled it neatly upon its own soft corner. 
+
+[NARRATOR] The little monkey blinked in utter bewilderment, standing perfectly still until a gentle tassel fluttered teasingly in front of his eyes. Overwhelmed by the playful apparition, both the little monkey and the strange rug jumped backward in sudden fright, scrambling away in a flurry of motion. The tiny creature threw his arms around the young man, tackling him gently before turning his trembling head to point toward the shadows.
+
+[MALE] Abu, what are you--crazy?
+
+[NARRATOR] From behind a glittering mound of precious gems, a corner of the woven fabric peeked out shyly into the amber glow.
+
+[MALE] A magic carpet! C'mon. C'mon out. I'm not gonna hurt you.
+
+[NARRATOR] The enchanted rug emerged slowly, its movements hesitant and gentle. It retrieved the little hat from its corner, carefully dusted off the imaginary debris, and floated gracefully across the chamber to offer it back to the tiny companion. The little monkey let out a shrill chatter of alarm, leaping back up onto the safety of the young man's shoulder.
+
+[MALE] Take it easy, Abu. He's not gonna bite.
+
+[NARRATOR] The quiet carpet extended its edge once more, patiently offering the little hat. The monkey merely shook his small fist, chattering nervously at the strange visitor. As the carpet began to drift closer still, the atmosphere remained warm, quiet, and deeply peaceful, wrapped in the timeless hush of the golden caves.
+
+[NARRATOR] The soft, woven fringe of the ancient carpet brushed against the cool stone, pausing in its gentle drift. It began to retreat, sliding away into the hushed shadows of the cavern.
+
+[MALE] Hey, wait a minute. Don't go. Maybe you can help us.
+
+[NARRATOR] The magical fabric turned back, a sudden warmth of excitement rippling through its threads. With a soft, rustling sweep, it glided forward, wrapping its comforting, velvet folds gently around the pair.
+
+[MALE] Hey, whoa! You see, we're trying to find this lamp.
+
+[NARRATOR] The carpet gave a gentle, swaying nod, pointing the way deeper into the quiet sanctuary. 
+
+[MALE] I think he knows where it is.
+
+[NARRATOR] They drifted together through a long, shadowy tunnel, the air growing cool and still, until they emerged into a vast, whispering underground cavern. In the absolute center of the room stood a tall, slender pillar, kissed by a single, serene beam of light descending from above. A winding staircase curled around it, surrounded by dark, tranquil water dotted with uneven stones that formed a quiet bridge. Aladdin stepped forward, his footsteps echoing softly against the ancient floor.
+
+[MALE] Wait here!
+
+[NARRATOR] Abu blinked, letting out a soft, questioning sound. Near the edge of the water rested a small, ornate shrine crowned with the figure of a golden monkey. In its outstretched paws, the statue held a ruby so deep and radiant it seemed to pulse with its own sleepy heartbeat. Abu stood motionless, completely mesmerized by its warm, glowing light. Meanwhile, Aladdin climbed the quiet stairs, his breath steady and calm in the cavern's embrace. The magic carpet, noticing the little monkey's wandering gaze, swooped down and gently caught Abu by the tail, pulling back in a soft, quiet struggle to hold him safe. But Aladdin reached the summit, his hand resting upon the pedestal.
+
+[MALE] This is it? This is what we came all the way down here to--
+
+[NARRATOR] He looked down, just as Abu slipped free from the carpet's gentle grasp and lunged forward toward the glowing jewel.
+
+[MALE] Abu- NO!
+
+[NARRATOR] Abu's small fingers closed around the ruby. Instantly, a deep, rumbling sigh echoed through the cavern, and the stone floor began to shudder in a slow, heavy rhythm.
+
+[NARRATOR] Infidels!
+
+[MALE] Uh oh!
+
+[NARRATOR] You have touched the forbidden treasure.
+
+[NARRATOR] Abu frantically placed the jewel back into the stone paws, but it was already too late. The jewel and the shrine dissolved into a glowing, molten stream of liquid warmth.
+
+[NARRATOR] Now you will never again see the light of day!
+
+[NARRATOR] Aladdin raced down the steps, but the stone stairs melted into a smooth, sliding ramp. He glided down effortlessly, launching softly into the open air as the quiet water transformed into a glowing sea of lava. He drifted downward, suspended in the warm air, when suddenly the magic carpet swept beneath him, catching him in its soft embrace. Abu stood upon a lone, trembling rock in the center of the molten stream, looking left and right as the remaining stones began to crumble into warmth. Like a sudden gust of wind, the carpet raced over. Aladdin reached down, grabbing hold of its edge just as the final stone vanished beneath them.
+
+[MALE] Whoa! Carpet, let's move!
+
+[NARRATOR] Together, they surged backward through the winding tunnels, weaving gracefully past falling walls and drifting dust. Abu, overwhelmed by the rushing wind, leaped onto Aladdin's head and covered his eyes with tiny paws.
+
+[MALE] Abu, this is no time to panic!
+
+[NARRATOR] Aladdin gently pulled the little monkey away, his eyes widening as he saw a massive stone wall looming directly ahead.
+
+[MALE] Start panicking.
+
+[NARRATOR] The carpet dipped into a smooth, sweeping dive, gliding effortlessly through a narrow, hidden fissure. At last, they burst upward through the internal entrance, returning to the surface. But the cavern below let out one final, rumbling growl, its great stone jaws beginning to close. As they neared the top, a heavy boulder cascaded down, striking the carpet and sending it fluttering toward the cavern floor. Aladdin leaped forward, his fingers digging into the rough stone wall as he hung suspended over the deep shadows. He looked up, seeing the silhouette of the old man waiting just within reach.
+
+[MALE] Help me out!
+
+[MALE] Throw me the lamp!
+
+[MALE] I can't hold on. Give me your hand.
+
+[MALE] First give me the lamp!
+
+[NARRATOR] With a final, quiet exertion, Aladdin reached into his vest, pulled out the ancient magic lamp, and lifted it upward. The old man's hand closed around it, pulling it close as he raised it high above his head with a breathless, triumphant laugh.
+
+[MALE] Ha ha ha ha! Yes! At last!
+
+[NARRATOR] The heavy, dusty air of the subterranean vault hung suspended in time as the old man’s laughter echoed off the ancient, cold stones. With the help of the faithful little monkey, Aladdin pulled himself up toward the exit, his muscles aching with a pleasant, heavy weariness, ready to leave the darkness behind. But the atmosphere shifted in an instant. The old man’s grip clamped ruthlessly around Aladdin's wrist like a band of iron. 
+
+[MALE] What are you doing?
+
+[NARRATOR] The old man’s voice slithered out, dark and triumphant, shedding its trembling disguise to reveal the cruel, familiar cadence of the Grand Vizier. 
+
+[MALE] Giving you your reward. Your eternal reward.
+
+[NARRATOR] A glint of cold steel flashed in the dim, torch-lit shadows as a crooked dagger was drawn, poised to strike. But before the blade could descend, a streak of brown fur leaped from the darkness. Abu sank his tiny teeth deep into the vizier's wrist. A sharp cry of pain tore through the air, forcing the hand to open, releasing Aladdin's wrist. Stumbling backward from the shock, Aladdin fell gently downward into the welcoming abyss, tumbling back into the safety of the cavern depths. With a vicious snarl, the robed figure hurled the brave little monkey after him. Down they drifted, descending into the quiet shadows of the lower cavern. High above, the magical carpet struggled against the crushing weight of a fallen boulder, straining against the stone until, with a soft, yielding sigh, it slipped free. The carpet raced upward through the cool air, gliding effortlessly beneath the falling boy just in time, catching him in a soft, woven embrace. But the journey downward had been rough, and Aladdin had drifted into a deep, dreamless slumber, his head resting softly upon the magical threads as silence reclaimed the cave. On the surface, the great mouth of the lion roared one final, exhausted breath before melting back beneath the tranquil, shifting sands of the desert night. The moonlight washed over the dunes, painting the quiet landscape in peaceful shades of silver and indigo. High above the courtyard, within the warm, lantern-lit sanctuary of the palace, Princess Jasmine sat upon her velvet bed, the gentle tiger Rajah resting beside her, his soft breathing a steady, rhythmic lullaby. The heavy oak door creaked open, and the kindly sultan stepped inside, his soft robes rustling gently.
+
+[MALE] Jasmine? Oh, dearest. What's wrong?
+
+[FEMALE] Jafar...has...done something... terrible.
+
+[NARRATOR] Jasmine’s voice was barely a whisper, her eyes heavy with the emotional weight of the evening. The sultan moved closer, sitting on the edge of the mattress and enveloping her in a warm, comforting embrace.
+
+[MALE] There, there, there, my child--we'll set it right. Now, tell me everything.
+
+[NARRATOR] Far beneath the desert sands, within the cool, quiet heart of the cavern, Aladdin lay motionless upon the magical carpet. The air was still, scented gently with ancient dust and cool stone. Abu hovered close, his little paws patting gently against Aladdin's arm.
+
+[MALE] Oh, oh. Aladdin? Wake up. Aladdin.
+
+[NARRATOR] The magical carpet rose slowly, lifting Aladdin’s head into the gentle breeze of the cavern as he blinked his eyes open against the dimness.
+
+[MALE] Oh, my head. We're trapped. That two faced son-of-a-jackal! Whoever he was, he's long gone with that lamp.
+
+[NARRATOR] Abu chattered softly, a triumphant little chirp breaking the silence as he reached behind his back and produced the old, tarnished brass lamp, holding it out like a precious treasure.
+
+[MALE] Aha!
+
+[NARRATOR] Aladdin stared at the dusty artifact, a faint, weary smile touching his lips.
+
+[MALE] Why, you hairy little thief! Looks like such a beat-up, worthless piece of junk. Hey, I think there's something written here, but it's hard to make out.
+
+[NARRATOR] With a slow, idle motion, Aladdin rubbed his thumb across the dull metal surface of the lamp. The metal grew suddenly warm against his skin. In an instant, a thick, violet cloud of magical smoke billowed forth from the little spout, curling and twisting in the air like silken ribbons. The lamp shook violently in Aladdin's hand, glowing with an intense, radiant azure light that illuminated the dark cavern walls in soothing shades of blue. Yet Aladdin held fast, his fingers wrapped around the handle as the smoke expanded, burst outward, and took magnificent form. A booming, ecstatic voice echoed through the cavern, vibrating softly against the stone walls.
+
+[MALE] Aaaaahhhhh! OY! Ten-thousand years will give ya such a crick in the neck!
+
+[NARRATOR] With a theatrical flourish, the colossal blue figure reached out and gently lifted Aladdin, placing him securely upon a nearby rock outcropping like a delicate ornament. Then, with a joyful laugh, the genie lifted his own head completely off his shoulders, spinning it round and round in the air like a top, letting out a delighted, echoing sigh of pure, unadulterated relief. The magical carpet gently guided Aladdin back down to its woven surface.
+
+[MALE] Whoa! Does it feel good to be outta there! Nice to be back, ladies and gentlemen. Hi, where ya from? What's your name?
+
+[NARRATOR] Leaning down, the giant blue form materialized a glowing, old-fashioned microphone right out of the thin air, pressing it gently against Aladdin's cheek.
+
+[MALE] Uh, Al--uh--Aladdin.
+
+[NARRATOR] At the sound of the name, the genie's eyes widened in joyful recognition, his form instantly expanding with theatrical wonder.
+
+[MALE] Aladdin!
+
+[NARRATOR] A brilliant neon sign materialized instantly in the misty air, spelling out the name in bright, sparkling letters that blinked lazily in the cool cavern light, shifting and changing colors to match the rhythm of the genie's exuberant voice.
+
+[MALE] Hello, Aladdin. Nice to have you on the show. Can we call you 'Al?' Or maybe just 'Din?' Or how bout 'Laddi?'
+
+[NARRATOR] With a sudden puff of iridescent smoke, the genie vanished entirely, replaced in an instant by a shaggy, cheerful little dog draped in a cozy plaid blanket, bounding into the air with a happy bark.
+
+[MALE] Sounds like 'Here, boy!'
+
+[NARRATOR] The magical cavern hummed with a deep, resonant peace, the cool stone walls glowing with the soft, amber embers of scattered jewels. The air grew thick with a warm, soothing scent of ancient parchment and sweet, drifting smoke.
+
+[MALE] C'mon, Laddi!
+
+[NARRATOR] Aladdin stood in the quiet sanctuary, gently shaking his head as if waking from a lingering daydream.
+
+[MALE] I must have hit my head harder than I thought.
+
+[NARRATOR] With a sudden, gentle puff of azure smoke, the magical entity shifted form once more, a playful chuckle echoing against the cavern walls.
+
+[MALE] Do you smoke? Mind if I do?
+
+[NARRATOR] The smoke swirled lazily in the cool air, coalescing back into the grand, towering figure of the genie, whose sudden reappearance startled little Abu into a flurry of soft screeches.
+
+[MALE] Oh, sorry Cheetah—hope I didn't singe the fur! Hey, Rugman! Haven't seen you in a few millennia! Slap me some tassel! Yo! Yeah!
+
+[NARRATOR] The ancient magic carpet glided smoothly through the tranquil air, fluttering a corner to high-five the beaming spirit. The genie turned his gaze down, resting his hands upon his waist with a theatrical sigh.
+
+[MALE] Say, you're a lot smaller than my last master. Either that or I'm gettin' bigger. Look at me from the side—do I look different to you?
+
+[NARRATOR] Aladdin blinked through the settling mist, the sheer impossibility of the moment washing over him like a gentle tide.
+
+[MALE] Wait a minute! I'm—your master?
+
+[NARRATOR] In the blink of an eye, a rolled diploma materialized in the air, dropping softly into Aladdin's hand as a graduation cap settled gently upon his dark hair.
+
+[MALE] That's right! He can be taught!! What would you wish of me, the ever impressive, the long contained, often imitated, but never duplicated—
+
+[NARRATOR] The spirit multiplied into a chorus of laughing reflections that echoed softly against the stone.
+
+[MALE] Genie! Of! The Lamp! Right here direct from the lamp, right here for your enjoyment wish fulfillment. Thank youuuuu!
+
+[NARRATOR] Aladdin stared at the magnificent display, his breath catching in the quiet air.
+
+[MALE] Whoa! Wish fulfillment?
+
+[NARRATOR] The genie transformed into a whimsical slot machine, a cascade of golden tokens clinking softly before three tiny images aligned in the glass.
+
+[MALE] Three wishes to be exact. And ix-nay on the wishing for more wishes. That's it—three. Uno, dos, tres. No substitutions, exchanges or refunds.
+
+[NARRATOR] Aladdin leaned down, whispering softly to his tiny companion.
+
+[MALE] Now I know I'm dreaming.
+
+[NARRATOR] A sweeping, jazzy melody began to drift through the cavern, soft as a lullaby, illuminating the dark corners with warm, fluorescent neon light.
+
+[MALE] Master, I don't think you quite realize what you've got here! So why don't you just ruminate, whilst I illuminate the possibilities. Well Ali Baba had them forty thieves Scheherazadie had a thousand tales But master you in luck 'cause up your sleeve You got a brand of magic never fails!
+
+[NARRATOR] For a brief moment, shadowy figures of ancient thieves drifted past like harmless fog before vanishing into the pleasant haze.
+
+[Male] You got some power in your corner now Some heavy ammunition in your camp You got some punch, pizzazz, yahoo and how See all you gotta do is rub that lamp And I'll say Mister Aladdin sir What will your pleasure be? Let me take your order, jot it down You ain't never had a friend like me No no no! Life is your restaurant And I'm your maitre' d! C'mon whisper
+
+[NARRATOR] The cavern walls glowed with a soft, warm amber light, reflecting off ancient gold and heavy velvet cushions that muffled the outside world into absolute stillness. A gentle, scented breeze drifted through the quiet space, carrying the faint, sweet aroma of honey and roasted spices. The air felt heavy, drowsy, and safe.
+
+[MALE] What it is you want. You ain't never had a friend like me.
+
+[NARRATOR] The great, vibrant spirit shifted and swirled like melting starlight, playfully transforming into a golden platter of roasted chicken before settling back into his towering, majestic form. He leaned down, stretching one enormous, velvet-soft ear outward to listen in the quiet, expectant hush. Then, with a soft burst of colored smoke that smelled of sweet lavender, he multiplied into four gentle reflections of himself, surrounding the space with cozy camaraderie.
+
+[MALE] Yes sir, we pride ourselves on service. You're the boss, the king, the shah! Say what you wish, it's yours! True dish. How about a little more baklava?
+
+[NARRATOR] The shadows danced lazily against the stone as the phantom attendants moved with quiet, soothing precision. They provided a soothing shave, a gentle haircut, and a calming manicure, all while soft twilight colors washed over the stone chamber. Aladdin found himself resting comfortably in a deep, plush chair, surrounded by silent mountains of ancient treasure, as a cool, rhythmic breeze fanned over him. The genie filled the entire horizon with a sweet mountain of golden baklava, glistening softly in the dim light.
+
+[MALE] Try some of column A. Try all of column B. I'm in the mood to help you, dude. You ain't never had a friend like me.
+
+[NARRATOR] Aladdin drifted upward on a slow, floating column of sweetness, weightless and completely at ease in the sleepy, dreamlike atmosphere. He tumbled gently downward, caught safely on a velvet cushion held by the ever-attentive spirit. A tiny, magical version of the genie emerged from the folds of the air, performing a soft, sleepy little dance in the palm of the giant hand, before fading away into a puff of starry dust.
+
+[MALE] Can your friends do this? Do your friends do that? Do your friends pull this out their little hat? Can your friends go poof? Well, looky here. Can your friends go abracadabra, let 'er rip, and then make the sucker disappear?
+
+[NARRATOR] The genie playfully removed his own head, multiplying it in a soft glow of blue light, and began a slow, mesmerizing juggle that lulled the senses. Aladdin caught one of the heads lazily, spinning it on his fingertip like a turning globe before returning it to the smiling spirit. The room dissolved into a succession of gentle, shifting dreams: a spiral white rabbit, a soft purple dragon breathing harmless, warm sparks of fire, and three graceful dancers who swayed to a silent, unheard lullaby before melting back into the cooling air.
+
+[MALE] So don't you sit there slack-jawed, buggy-eyed. I'm here to answer all your midday prayers. You got me bona fide, certified. You got a genie for a chargé d'affaires! I got a powerful urge to help you out, so what you wish I really want to know. You got a wish that's three miles long, no doubt, so all you gotta do is rub like so, and oh!
+
+[NARRATOR] The spirit wrapped himself into a warm, scrolling certificate of soft parchment that gently enclosed Aladdin in a cocoon of safety and comfort. Pulling a long, decorative scroll of Arabic script from behind Aladdin's ear, the genie stretched out, thoroughly relaxed, basking in the tranquil stillness of the cavern.
+
+[MALE] Mister Aladdin, sir, have a wish or two or three. I'm on the job, you big nabob. You ain't never had a friend, never had a friend. You ain't never had a friend...
+
+[NARRATOR] The vast, shadowy cavern hummed with a lingering, golden resonance, the air thick with the scent of ancient dust and cooling magic. The echoes of a thousand vibrant voices softened, trailing off into a deep, velvety hush that wrapped around the stone pillars like a heavy quilt. 
+
+[MALE] Never had a friend... you ain't never... had a... friend... like... me! You ain't never had a friend like me!
+
+[NARRATOR] The brilliant lights of the grand spectacle faded into gentle, drifting embers, settling softly against the cool stone floor. The air grew still once more, save for the quiet rustle of silk and the soft, rhythmic breathing of the cave. Abu, clutching his little hat, peered inside with wide, sleepy eyes, finding it entirely empty as the last remnants of gold vanished into the quiet dark. 
+
+[MALE] So what'll it be, master?
+
+[NARRATOR] Aladdin looked up into the towering, swirling blue form, his brow furrowing with a slow, contemplative curiosity as the cool cavern breeze drifted gently past his hair.
+
+[MALE] You're gonna grant me any three wishes I want?
+
+[NARRATOR] The blue giant shifted, his form softening into an effortless, eloquent posture, his voice taking on a relaxed, conversational cadence that echoed softly off the damp walls.
+
+[MALE] Ah, almost. There are a few provisos, a couple of quid pro quos.
+
+[NARRATOR] Aladdin leaned his weight to one side, his hands resting on his hips in the quiet dimness.
+
+[MALE] Like?
+
+[NARRATOR] The genie gestured with a theatrical, flowing wave of his hand, the shadows dancing lazily around his fingertips in the amber torchlight.
+
+[MALE] Ah, rule number one: I can't kill anybody. So don't ask. Rule two: I can't make anyone fall in love with anyone else. You little punim, there. Rule three: I can't bring people back from the dead. It's not a pretty picture, I don't like doing it! Other than that, you got it!
+
+[NARRATOR] Aladdin glanced sideways at the little monkey, a faint, sleepy smile playing at the corners of his mouth as he let out a soft, thoughtful sigh.
+
+[MALE] Ah, provisos? You mean limitations? On wishes? Some all powerful genie—can't even bring people back from the dead. I don't know, Abu—he probably can't even get us out of this cave. Looks like we're gonna have to find a way out of here...
+
+[NARRATOR] They turned slowly, their soft footsteps padding against the dust as they pretended to wander toward the shadowy archway, letting the silence stretch out, deep and tranquil. Suddenly, a massive, gentle rumble shook the floor as a giant blue foot stepped down with cushioned finality, blocking their path. 
+
+[NARRATOR] The genie loomed over them, his eyes wide with mock theatrical indignation, his voice a warm, booming rumble that vibrated pleasantly in the quiet air.
+
+[MALE] Excuse me? Are you lookin' at me? Did you rub my lamp? Did you wake me up, did you bring me here? And all of a sudden, you're walkin' out on me? I don't think so, not right now. You're gettin' your wishes, so siddown!
+
+[NARRATOR] With a soft rush of wind, the Magic Carpet drifted down, catching them gently as they settled onto its plush, woven threads. In the blink of an eye, the genie transformed into a multitude of calm, reassuring forms, his dozens of arms pointing gracefully in every direction.
+
+[MALE] In case of emergency, the exits are here, here, here, here, here, here, here, here, here, here, here, here, anywhere! Keep your hands and arms inside the carpet. Weeee'rrrrrreee... outta here!
+
+[NARRATOR] With a sound like a sighing wind, the carpet lifted, carrying its passengers upward in a smooth, effortless ascent. They rose through the quiet sands of the desert, leaving the dark cavern far behind as they soared into the vast, tranquil expanse of the night sky, bathed in the soft silver glow of the moon.
+
+[NARRATOR] Far away, across the quiet dunes, the cool, stone corridors of the Sultan’s palace offered a different kind of stillness. Tall arched windows let in the gentle midnight breeze, stirring the heavy velvet draperies that framed the chamber. Inside, the Sultan stood near a flickering brazier, his voice carrying a tired, heavy disappointment through the quiet room.
+
+[MALE] Jafar, this is an outrage. If it weren't for all your years of loyal service... From now on, you are to discuss sentencing of prisoners with me, before they are beheaded.
+
+[NARRATOR] Jafar bowed his head low in the dim, amber shadows, his voice smooth, low, and hypnotic, blending seamlessly with the quiet rustle of the night wind outside the casement.
+
+[MALE] I assure you, your highness, it won't happen again.
+
+[NARRATOR] The Sultan exhaled a long, weary breath, his shoulders relaxing as he looked toward the quiet corners of the chamber where Jasmine stood in thoughtful silence.
+
+[MALE] Jasmine, Jafar, now let's put this whole messy business behind us. Please?
+
+[NARRATOR] Jafar stepped forward into the warm, flickering firelight, bowing once more with calculated grace, his low voice a soothing murmur against the quiet stone walls.
+
+[MALE] My most abject and humblest apologies to you.
+
+[NARRATOR] The flickering torches cast long, undulating shadows across the marble floor of the grand hall. The heavy doors drifted shut, sealing away the tension of the evening as the sultan nodded in slow, sleepy satisfaction.
+
+[MALE] As well, princess.
+
+[NARRATOR] He stepped forward, reaching out to offer a gentle, paternal kiss upon her hand. But with a swift, indignant motion, the princess pulled her hand away, the heavy silk of her sleeve whispering against the cool air. She stood tall, her dark eyes flashing with quiet resolve under the dim, starlit glow filtering through the high archways.
+
+[FEMALE] At least some good will come of my being forced to marry. When I am queen, I will have the power to get rid of you.
+
+[MALE] That's nice. All settled, then. Now, Jasmine, getting back to this suitor business...
+
+[NARRATOR] The sultan blinked in mild confusion, his words trailing off into the quiet halls as he looked up to find only empty space where his daughter had stood just a moment before. He turned slowly in a circle, the soft rustle of his heavy robes the only sound in the vast chamber.
+
+[MALE] Jasmine? Jasmine!
+
+[NARRATOR] With a heavy sigh, the old ruler hurried away down the long corridor, his echoing footsteps fading gently into the distance, leaving the shadows to reclaim the throne room. From the dark rafters above, a low murmur broke the silence, shadowed by the rustle of restless feathers.
+
+[MALE] If only I had gotten that lamp!
+
+[NARRATOR] The small, crimson bird mimicked the royal voice with a sharp, mocking cadence, pacing back and forth along the gilded ledge.
+
+[MALE] I will have the power to get rid of you! D'oh! To think—we gotta keep kissing up to that chump, and his chump daughter for the rest of our lives...
+
+[MALE] No, Iago. Only until she finds a chump husband. Then she'll have us banished—or beheaded!
+
+[MALE] [MALE] Eeewww!
+
+[NARRATOR] The bird stopped its frantic pacing, tilting its head as a sudden, sly inspiration settled over the shadowed perch.
+
+[MALE] Oh! Wait a minute! Wait a minute! Jafar? What if you were the chump husband?
+
+[NARRATOR] The tall vizier paused, his dark eyes narrowing in genuine disdain as he looked up at his feathered companion.
+
+[MALE] What?
+
+[MALE] Okay, you marry the princess, all right? Then, uh, you become sultan!
+
+[NARRATOR] A slow, dangerous smile crept across the vizier's face, the ambient firelight catching the sharp angles of his weathered features.
+
+[MALE] Oh! Marry the shrew? I become sultan. The idea has merit!
+
+[MALE] Yes, merit! Yes! And then we drop papa-in-law and the little woman off a cliff! Kersplat!
+
+[NARRATOR] The crimson bird plunged dramatically downward, tumbling through the air before landing softly on the cool stone floor. The vizier let out a low, gravelly chuckle that echoed softly in the quiet night.
+
+[MALE] Iago, I love the way your foul little mind works!
+
+[NARRATOR] Their murmurs dissolved into the cooling desert night, the scene drifting away like smoke, carried across the vast, moonlit expanse of the dunes. Far out in the quiet desert, beneath a canopy of twinkling stars, a gentle breeze swept over a tranquil oasis. Tall palm trees swayed in a slow, rhythmic lullaby, casting long, peaceful shadows upon the cool, sandy earth. Down from the velvet night sky, the woven magic carpet drifted silently, gliding lower and lower until it settled softly onto the ground. 
+
+[MALE] Thank you for choosing Magic Carpet for all your travel needs. Don't stand until the rug has come to a complete stop.
+
+[NARRATOR] The ethereal blue entity bowed gracefully, gesturing toward the woven steps with an exaggerated flourish as the young traveler and his small companion stepped off onto the quiet sand.
+
+[MALE] Thank you. Good bye, good bye! Thank you! Good bye! Well, now. How about that, Mr. doubting mustafa?
+
+[MALE] Oh, you sure showed me. Now about my three wishes...
+
+[NARRATOR] The blue guardian paused, his wide eyes widening further in theatrical astonishment as he rested a hand upon his chest.
+
+[MALE] Dost mine ears deceive me? Three? You are down by ONE, boy!
+
+[MALE] Ah, no—I never actually wished to get out of the cave. You did that on your own.
+
+[NARRATOR] The magical being blinked once, twice, his jaw slowly dropping open in disbelief. In a puff of soft blue smoke, his form rippled and transformed into a fluffy, woolly creature, shaking its head gently from side to side.
+
+[MALE] Well, don't I feel just sheepish? All right, you baaaaad boy, but no more freebies.
+
+[MALE] Fair deal. So, three wishes. I want them to be good. What would you wish for?
+
+[NARRATOR] The magical entity had shifted once more, now lazily suspended like a comfortable fabric hammock swaying gently between the trunks of two ancient palm trees in the warm night air.
+
+[MALE] Me? No one's ever asked me that before. Well, in my case, ah, forget it.
+
+[MALE] What? No, tell me.
+
+[MALE] Freedom.
+
+[MALE] You're a prisoner?
+
+[MALE] It's all part-and-parcel, the whole genie gig.
+
+[NARRATOR] For a brief moment, the figure swelled to immense proportions, towering up toward the starry sky, his voice rolling like distant thunder through the quiet dunes. Then, just as quickly, he compressed inward, folding himself tightly until he vanished completely back into the small, brass receptacle resting quietly on the sand. A muffled voice drifted out from within the metallic walls.
+
+[MALE] Itty bitty living space.
+
+[NARRATOR] With a soft shimmer, the blue figure emerged once more, stretching his arms toward the vast, starlit heavens as a deep, wistful sigh escaped him.
+
+[MALE] But, oh—to be free. Not have to go "Poof! What do you need? Poof! What do you need? Poof! What do you need?" To be my own master, such a thing would be greater than all the magic and all the treasures in all the world! But what am I...
+
+[NARRATOR] The vast, quiet cavern seemed to breathe around them, its ancient walls glowing with the soft, amber warmth of flickering lanterns and quiet embers. A gentle, cooling draft drifted through the stillness, carrying the scent of desert dust and starlight. The blue giant blinked, shaking off the weight of his own wistful thoughts, his magical form shifting with the fluidity of soft smoke in the evening air.
+
+[MALE] What am I talking about, here? Let's get real here. It's not gonna happen. Genie, wake up and smell the hummus.
+
+[NARRATOR] Aladdin looked up, the starlight catching in his dark eyes, a quiet, stubborn hope resting in the gentle slope of his shoulders. 
+
+[MALE] Why not?
+
+[NARRATOR] The Genie crossed his arms, his expression a mix of weary acceptance and timeless patience, resting beneath the high, arched ceiling of the cavern.
+
+[MALE] The only way I get outta this is if my master wishes me out. So you can guess how often that's happened.
+
+[NARRATOR] A soft breeze swept across the mosaic floor, rustling the fringes of the magic carpet nearby. Aladdin stepped forward, extending his hand with a quiet, unwavering certainty.
+
+[MALE] I'll do it. I'll set you free.
+
+[NARRATOR] For a fleeting moment, the Genie’s face lengthened, wooden and comical, before snapping back to his usual brilliant blue. 
+
+[MALE] Uh huh, right. Whoop!
+
+[NARRATOR] Aladdin gently pushed the wooden tip back, his smile warm and reassuring in the dim, cozy light.
+
+[MALE] No, really, I promise. After I make my first two wishes, I'll use my third wish to set you free.
+
+[NARRATOR] The Genie looked down at the extended hand, the hard edge of skepticism softening into something like wonder. 
+
+[MALE] Well, here's hopin'.
+
+[NARRATOR] Their hands met in a firm, sealing shake, and instantly, the cavern seemed to brighten, filled with a sudden, crackling spark of joyful anticipation. The Genie spun in a flurry of stardust, transforming into a grand, top-hatted magician with a flourish of invisible velvet.
+
+[MALE] O.K. Let's make some magic! So how 'bout it. What is it you want most?
+
+[NARRATOR] Aladdin's gaze drifted toward the warm lantern light, a soft, dreamy sigh escaping his lips as he thought of her.
+
+[MALE] Well, there's this girl--
+
+[NARRATOR] *Eehhh!* A loud buzzer echoed through the chamber as a glowing red heart with a cross through it flashed across the Genie's chest, accompanied by a theatrical frown.
+
+[MALE] Wrong! I can't make anybody fall in love, remember?
+
+[NARRATOR] Aladdin’s voice dropped to a gentle murmur, filled with the quiet ache of longing.
+
+[MALE] Oh, but Genie. She's smart and fun and...
+
+[MALE] Pretty?
+
+[NARRATOR] Aladdin smiled, his eyes softening as memory painted her face in the air before them.
+
+[MALE] Beautiful. She's got these eyes that just... and this hair, wow... and her smile.
+
+[NARRATOR] In the blink of an eye, the cavern dissolved into the cozy, shadowy corner of a Parisian café. The Genie, wearing a beret, sat at a tiny iron table alongside Abu and the Magic Carpet, sipping an imaginary espresso with a dramatic tilt of his head.
+
+[MALE] Ami. C'est l'amour.
+
+[NARRATOR] The scene shifted back to the quiet glow of the cave. Aladdin looked down at his humble clothes, the sudden reality of their worlds settling over him like a heavy blanket.
+
+[MALE] But she's the princess. To even have a chance, I'd have to be a--hey, can you make me a prince?
+
+[NARRATOR] The Genie’s eyes widened with theatrical intrigue as he conjured a thick, leather-bound volume titled the *Royal Cookbook*, flipping rapidly through its crinkling parchment pages.
+
+[MALE] Let's see here. Uh, chicken a'la king?
+
+[NARRATOR] He pulled a confused chicken wearing a tiny gold crown out from the book's pages, tossing it aside before reaching back in.
+
+[NARRATOR] Nope. Alaskan king crab?
+
+[NARRATOR] With a sharp yelp, the Genie yanked his finger back, revealing a certain familiar red crab firmly clamped onto it with a pair of claws.
+
+[MALE] Ow, I hate it when they do that. Caesar's salad?
+
+[NARRATOR] A gleaming dagger slid out from the pages, lunging playfully toward him. The Genie gasped, clutching his chest in mock betrayal.
+
+[MALE] Et tu, Brute?
+
+[NARRATOR] He dropped the book, turning back to Aladdin with a slow, conspiratorial grin that twinkled in the ambient light.
+
+[MALE] Ah, to make a prince. Now is that an official wish? Say the words!
+
+[NARRATOR] Aladdin stood tall, taking a deep, steady breath as he looked into the swirling, starlit eyes of his friend.
+
+[MALE] Genie, I wish for you to make me a prince!
+
+[NARRATOR] All around them, the cavern erupted in a symphony of golden light, soft chimes, and swirling magic. 
+
+[MALE] All right! Woof woof woof woof!
+
+[NARRATOR] The Genie transformed in a blur of motion—broad-shouldered and commanding for a fleeting second before becoming a focused, tape-measuring fashion designer with a pincushion on his wrist. He circled Aladdin critically, shaking his head.
+
+[MALE] First, that fez and vest combo is much too third century. These patches--what are we trying to say--beggar? No! Let's work with me here.
+
+[NARRATOR] With a series of rapid snaps and rhythmic pops of his fingers, the rough fabric of Aladdin's clothes melted away, replaced instantly by a magnificent, impeccably tailored prince's outfit that caught the ambient shimmer of the room.
+
+[MALE] I like it, muy macho! Now, still needs something. What does it say to me? It says mode of transportation. Excuse me, monkey boy! Aqui, over here!
+
+[NARRATOR] Abu, who had been attempting to hide under the quiet folds of the Magic Carpet, squeaked in surprise as a golden beam of light swept over him.
+
+[MALE] Uh oh!
+
+[NARRATOR] The cavern transformed again, instantly shifting into the bright, cheering stage of a game show, complete with a podium marked with a bold "AL."
+
+[MALE] Here he comes. And what better way to make your grand entrance on the streets of Agrabah, than riding your very own brand new camel! Watch out, it spits!
+
+[NARRATOR] A set of grand double doors swung open to reveal Abu, magically transformed into a tall, majestic camel. The newly minted camel gave a dignified sideways spit, blinking sleepily under the warm studio lights. The Genie leaned in, squinting, rubbing his chin as he contemplated his masterpiece.
+
+[MALE] Mmm, not enough.
+
+[NARRATOR] He raised his hands for one final, sweeping gesture of creation, enveloping the scene in a warm, drifting haze of peaceful, golden slumber.
+
+[NARRATOR] The warm, golden haze of the desert oasis drifted lazily on a gentle, cooling evening breeze. Under the soft, starlit canopy of the midnight sky, the magical air hummed with a quiet, drowsy wonder. With a lazy, sweeping motion, the Genie snapped his fingers, painting the quiet night with soft blurs of transformation. 
+
+[MALE] Still not enough. Let's see. What do you need?
+
+[NARRATOR] The Genie snapped his fingers once more, a soft, rhythmic sound like a falling pebble in a still pond, shifting the gentle shadows around them. With a final, playful flourish and a whimsical murmur of magic, he uttered the sleepy spell.
+
+[MALE] Yes!! Esalalumbo, shimin dumbo! Whoa!!
+
+[NARRATOR] The magic settled softly over the little monkey, wrapping him in a heavy, comforting blanket of slumberous transformation. 
+
+[MALE] Talk about your trunk space, check this action out!
+
+[NARRATOR] The night air grew heavy and still, the sounds of the desert fading into a deep, velvety quiet. The gentle breeze rustled through the palm leaves, rocking the sleepy world into an even deeper state of calm. Far away, beyond the quiet dunes, the oasis slept under the endless blanket of stars, while distant colors bloomed softly in the night sky like quiet fireflies bursting against the dark. 
+
+Inside the cool, marble halls of the silent palace, shadows danced softly in the flickering glow of low-burning oil lamps. The Sultan sat in the quiet quietude of his chamber, his tired hands delicately balancing a quiet pile of small wooden toys, breathing slowly in and out. The air was thick with the scent of jasmine and fading daylight. Suddenly, heavy footsteps broke the tranquil stillness as Jafar swept into the room, his dark robes rustling like dry autumn leaves, causing the Sultan's tower of toys to tumble down in a gentle clatter.
+
+[MALE] Sire, I have found a solution to the problem with your daughter.
+
+[FEMALE] Awk! The problem with your daughter!
+
+[MALE] Oh, really?
+
+[MALE] Right here. "If the princess has not chosen a husband by the appointed time, then the sultan shall choose for her."
+
+[MALE] But Jasmine hated all those suitors! How could I choose someone she hates?
+
+[MALE] Not to worry, my liege. There is more. If, in the event a suitable prince cannot be found, a princess must then be wed to...hmm...interesting.
+
+[MALE] What? Who?
+
+[MALE] The royal vizier! Why, that would be...me!
+
+[MALE] Why, I thought the law says that only a prince can marry a princess, I'm quite sure.
+
+[MALE] Desperate times call for desperate measures, my lord.
+
+[NARRATOR] Jafar lifted his serpentine staff, the ruby eyes glowing with a hypnotic, rhythmic pulse that lulled the room into a heavy, dreamlike trance. The air grew thick and drowsy, heavy with sleep.
+
+[MALE] You will order the princess to marry me.
+
+[MALE] I...will order...the princess...to...but you're so old!
+
+[MALE] The princess will marry me!
+
+[MALE] The princess will marry...
+
+[NARRATOR] Before the heavy spell could settle completely, a bright wave of sound rolled through the open palace windows, carrying the rich, brassy notes of a distant trumpet fanfare. The music washed over the stone floors like a gentle wave on a shore, waking the quiet rooms with vibrant life.
+
+[MALE] What? What is that? That music! Ha ha ha. Jafar., you must come and see this!
+
+[NARRATOR] Outside, the desert horizon glowed with a magnificent, festive light as a grand parade wound its way toward the palace gates, led by the rhythmic, swaying cadence of a joyful march.
+
+[MALE] Make way for Prince Ali!
+
+[MALE] Say hey! It's Prince Ali!
+
+[MALE] Hey, clear the way in
+
+[NARRATOR] The sun sank lower over the ancient, dust-softened city, casting long, violet shadows across the winding lanes of the old bazaar. Lanterns flickered to life, bathing the mud-brick walls in a warm, amber glow that felt as slow and comforting as a quiet lullaby. 
+
+[MALE] Hey you, let us through, it's a bright new star.
+
+[NARRATOR] The rhythmic thrum of drums drifted softly through the cooling evening air, blending with the gentle rustle of silk banners waving in the desert breeze.
+
+[MALE] Now come, be the first on your block to meet his eye! Make way, here he comes, Ring bells, bang the drums. You're gonna love this guy!
+
+[NARRATOR] A towering figure of quiet magnificence moved through the crowd, stepping to the steady, hypnotic cadence of the march. The air was thick with the sweet scent of night-blooming jasmine and burning sandalwood.
+
+[MALE] Prince Ali, fabulous he, Ali Ababwa! Genuflect, show some respect, Down on one knee. Now try your best to stay calm, Brush up your Sunday Salaam, And come and meet his spectacular coterie.
+
+[NARRATOR] The procession flowed onward like a slow-moving river of gold and velvet, accompanied by the murmurs of enchanted onlookers. High above, the twilight sky deepened to a velvety indigo, dotted with the first gentle pinpricks of starlight.
+
+[MALE] Prince Ali, mighty is he, Ali Ababwa! Strong as ten regular men, definitely! He faced the galloping hordes, A hundred bad guys with swords, Who sent those goons to their lords, why, Prince Ali!
+
+[MALE] He's got seventy-five golden camels!
+
+[MALE] Don't they look lovely, June?
+
+[FEMALE] Purple peacocks, he's got fifty-three!
+
+[FEMALE] Fabulous, Harry, I love the feathers!
+
+[MALE] When it comes to exotic type mammals, Has he got a zoo, I'm telling you, It's a world-class menagerie!
+
+[NARRATOR] From the shadowed arches of a high balcony, soft voices drifted down, carried gently on the quiet night wind as the grand celebration continued its drowsy, mesmerizing pace.
+
+[FEMALE] Prince Ali, handsome is he, Ali Ababwa. There's no question this Ali's alluring. That physique, how can I speak? Weak at the knee.
+
+[FEMALE] Never ordinary, never boring. Everything about the man just plain impresses.
+
+[FEMALE] Well, get on out in that square, Adjust your veil and prepare.
+
+[FEMALE] He's a wonder, he's a whiz, a wonder. He's about to pull my heart asunder.
+
+[FEMALE] To gawk and grovel and stare at Prince Ali! And I absolutely love the way he dresses!
+
+[NARRATOR] Down in the cobblestone square, the music hummed like a distant, soothing lullaby, washing over the sleepy inhabitants of the palace as the evening folded the world into a deep, peaceful calm.
+
+[MALE] He's got ninety-five white Persian monkeys!
+
+[MALE] He's got the monkeys, let's see the monkeys!
+
+[MALE] And to view them, he charges no fee!
+
+[MALE] He's generous, so generous!
+
+[MALE] He's got slaves, he's got servants and flunkies!
+
+[MALE] Proud to work for him!
+
+[MALE] They bow to his whim, love serving him, They're just lousy with loyalty to Ali! Prince Ali!
+
+[NARRATOR] The evening breeze whispered softly through the cool stone archways of the grand palace, carrying the distant, rhythmic echo of drums and brass instruments. Soft torchlight flickered against towering pillars, casting long, peaceful shadows across the marble floors. Outside the heavy, vaulted doors of the throne room, the air was warm and heavy with the scent of jasmine and desert dust. 
+
+[NARRATOR] The small, eager figure of Abu scampered back from the courtyard, his tiny paws pattering against the cool tiles as he rushed toward the grand double doors. But before he could reach them, the tall, looming silhouette of Jafar stepped smoothly into the path, his dark robes draped in stillness, his face shadowed and unreadable. 
+
+[NARRATOR] Suddenly, with a joyous, echoing crash, the massive wooden doors burst wide open. Abu led the magnificent procession, surging forward with such exuberant momentum that the heavy doors swung completely back, firmly pinning Jafar and the ruffled, squawking Iago behind the polished wood. 
+
+[NARRATOR] From the sunlit courtyard, a rich, booming voice filled the high-domed chamber, warm and resonant, carrying the cadence of a grand celebration.
+
+[MALE] Prince Ali! Amorous he! Ali Ababwa! Heard your princess was a sight lovely to see! And that, good people, is why he got dolled up and dropped by, with sixty elephants, llamas galore, with his bears and lions, a brass band and more, with his forty fakirs, his cooks, his bakers, his birds that warble on key... Make way for Prince Ali!
+
+[NARRATOR] The music swelled, a symphony of cymbals and distant singing that rolled like waves against the palace walls, filling every corner with a drowsy, golden warmth. More and more fanfare built up in the fading afternoon light, the brass instruments glowing in the sunbeams. 
+
+[NARRATOR] Suddenly, a flash of deep crimson and gold caught the light. Aladdin leapt gracefully from Abu's back, landing softly upon the woven fibers of the Magic Carpet. With a gentle tilt, the carpet glided smoothly downward through the air, descending in a slow, peaceful arc toward the exalted Sultan, who stood watching with wide, enchanted eyes.
+
+[NARRATOR] Just as the carpet touched the marble, the heavy wooden doors swung shut again, freeing Jafar from behind them. He adjusted his tall headdress with a scowl, his dark eyes narrowing at the newcomer. 
+
+[NARRATOR] The Sultan clapped his hands together, his face breaking into a wide, delighted smile.
+
+[MALE] Splendid, absolutely marvelous.
+
+[NARRATOR] Taking a deep breath, Aladdin adjusted his posture, lowering his tone into a grand, measured resonance.
+
+[MALE] Ahem. Your majesty, I have journeyed from afar to seek your daughter's hand.
+
+[NARRATOR] The Sultan beamed, stepping forward with open arms as the afternoon sunlight caught the gold embroidery of his royal robes.
+
+[MALE] Prince Ali Ababwa! Of course. I'm delighted to meet you.
+
+[NARRATOR] The Sultan rushed over, taking Aladdin’s hand in a warm, enthusiastic shake, then gestured toward the shadows where Jafar stood.
+
+[MALE] This is my royal vizier, Jafar. He's delighted too.
+
+[NARRATOR] Jafar spoke slowly, his voice dripping with an ice-cold, artificial sweetness.
+
+[MALE] Ecstatic. I'm afraid, Prince Abooboo—
+
+[NARRATOR] Aladdin corrected him gently, his voice smooth and untroubled.
+
+[MALE] —Ababwa!
+
+[NARRATOR] Jafar waved a long, pale hand dismissively, his patience wearing paper-thin.
+
+[MALE] Whatever. You cannot just parade in here uninvited and expect to—
+
+[NARRATOR] The Sultan, however, had completely lost interest in Jafar's complaints. His eyes were fixed on the intricate, floating fabric of the magical rug resting near the floor. He leaned forward, fascinated.
+
+[MALE] ...by Allah, this is quite a remarkable device.
+
+[NARRATOR] Reaching out a royal hand, the Sultan gave a curious tug at one of the golden tassels hanging from the corner. The tassel bounced elastically, snapping back and giving his own royal moustache a brisk tug. The Sultan blinked in surprise, then chuckled softly.
+
+[MALE] I don't suppose I might...
+
+[NARRATOR] Aladdin smiled, his eyes crinkling at the corners with easy hospitality.
+
+[MALE] Why certainly, your majesty. Allow me.
+
+[NARRATOR] With a fluid motion, Aladdin helped the Sultan step onto the plush, crimson surface of the Magic Carpet. The Sultan ploped down comfortably into the center, his eyes wide with childlike wonder. But before the craft could rise, Jafar stepped forward sharply, pressing the heavy metal head of his serpent staff directly onto the carpet's fringe, pinning it firmly to the floor.
+
+[MALE] Sire, I must advise against this—
+
+[NARRATOR] The Sultan didn't even turn his head, waving a dismissive hand through the air as the cool palace breeze drifted by.
+
+[MALE] —Oh, button up, Jafar. Learn to have a little fun.
+
+[NARRATOR] With a swift kick of his royal slipper, the Sultan knocked the staff aside. Instantly, the Magic Carpet shivered with excitement and lifted gracefully off the stone floor, soaring smoothly up toward the lofty, vaulted ceiling. 
+
+[NARRATOR] Perched precariously on the head of the staff, Iago lost his balance as it was kicked away. The red parrot tumbled down through the air, repeatedly bopping his beak against the wood with a hollow *clack-clack-clack* as he descended in a dizzy spin.
+
+[NARRATOR] High above, near the painted wooden beams of the ceiling, the Sultan and the Magic Carpet began a gentle, swooping dive-bomb attack, gliding effortlessly through the cool upper air of the hall. They swooped low, skimming just over the head of the bewildered little monkey Abu, who covered his eyes and ducked with a startled chatter. 
+
+[NARRATOR] The flight continued in a lazy, rhythmic loop in the background, a soft blur of crimson and gold against the dim stone. Meanwhile, down in the quiet foreground, Jafar and Aladdin stood face-to-face in the pooling shadows of a marble pillar. 
+
+[NARRATOR] Jafar narrowed his eyes, leaning in slightly, his voice dropping to a low, suspicious purr.
+
+[MALE] Just where did you say you were from?
+
+[NARRATOR] Aladdin met his gaze with an unbothered, easy smile, the tension in the room dissolving into the quiet hum of the palace.
+
+[MALE] Oh, much farther than you've traveled, I'm sure.
+
+[NARRATOR] Jafar did not smile. His thin lips pressed into a hard line.
+
+[MALE] Try me.
+
+[NARRATOR] High above, Iago managed to flutter upward and land unsteadily on the carved tip of Jafar's staff. 
+
+[NARRATOR] Below them, the Sultan's voice rang out cheerfully from the sky.
+
+[MALE] Look out, Polly!
+
+[NARRATOR] With a sudden rush of wind, the Magic Carpet whizzed past just centimeters above their heads, the breeze ruffling Jafar's dark cape. The carpet looped around gracefully, and the Sultan, utterly enraptured by the thrill, began to playfully chase the startled parrot around the massive chamber.
+
+[NARRATOR] Iago flapped his wings frantically, ducking and dodging.
+
+[MALE] Hey, watch it. Watch it with the dumb rug!
+
+[NARRATOR] With a lightning-fast zoom, the Magic Carpet darted directly underneath the flying bird. Iago let out a long, exhausted sigh, wiped a feathered wing across his brow, and lost his momentum entirely. With a soft *thud*, he crashed headfirst into a sturdy stone pillar.
+
+[NARRATOR] He slid down to the cool marble floor, sitting dizzily. Above his spinning head, a ring of tiny, miniature Sultans hovered on miniature magic carpets, chanting in unison in high, squeaky voices.
+
+[MALE] Have a cracker... have a cracker...
+
+[NARRATOR] As the dizzy parrot rubbed his head, the real Sultan made his slow, triumphant final approach, gliding the great carpet downward in a long, descending glide.
+
+[MALE] Out of the way, I'm coming in to land. Jafar, watch this!
+
+[NARRATOR] The carpet touched the floor with absolute silence, settling gently against the tiles. Jafar watched with a blank, unblinking stare.
+
+[MALE] Spectacular, your highness.
+
+[NARRATOR] The Sultan stepped off the fabric, smoothing down his tunic, glowing with pride and flushed with the joy of the flight.
+
+[MALE] Ooh, lovely. Yes, I do seem to have a knack for it.
+
+[NARRATOR] Nearby, the Magic Carpet wandered over toward Abu in a wobbly, exhausted drift, finally collapsing in a heap upon the floor. Abu gently reached out and caught the corner, patting it soothingly. 
+
+[NARRATOR] The Sultan turned his gaze back to Aladdin, his heart completely won over by the stranger's charm. He leaned in closer, lowering his voice into a warm, conspiratorial whisper, as the quiet shadows of the evening began to settle deep into the corners of the palace.
+
+[NARRATOR] The heavy, velvet tapestries of the inner chamber drifted slightly in the draft of the cooling evening, stirring the heavy scent of night-blooming jasmine and warm cedarwood. The Sultan, feeling a sudden, serene wave of optimism wash over him as the day dissolved into dusk, turned his gaze away from the grand archway and looked warmly toward his closest advisor. [MALE] If we're lucky, you won't have to marry Jasmine after all. [NARRATOR] Jafar’s dark eyes narrowed slightly, the firelight catching the sharp edges of his obsidian rings as he kept his arms folded tightly within his robes. [MALE] I don't trust him, sire. [NARRATOR] The Sultan merely chuckled, a soft, dismissive sound that echoed gently against the high stone walls. [MALE] Nonsense. One thing I pride myself on Jafar, I'm an excellent judge of character. [NARRATOR] Perched upon the shadows of Jafar’s shoulder, the scarlet feathers of the parrot bristled as he muttered under his breath in sarcastic disdain. [MALE] Oh, excellent judge, yeah, sure...not! [NARRATOR] Before any reply could be measured, the heavy oak doors drifted open a fraction further, and Princess Jasmine walked in quietly, her silk slippers making no sound upon the polished marble floor. The Sultan’s face lit up with grandfatherly delight at the sight of her. [MALE] Jasmine will like this one! [NARRATOR] Aladdin stepped forward with a confident, effortless grace, his velvet tunic catching the amber glow of the lanterns. [MALE] And I'm pretty sure I'll like Princess Jasmine! [NARRATOR] Jafar stiffened, his posture rigid as he stepped into the path of the young pretender, his voice dropping into a cold, warning register. [MALE] Your highness, no. I must intercede on Jasmine's behalf. This boy is no different than the others. What makes him think he is worthy of the princess? [NARRATOR] Aladdin stood taller, the plume on his magnificent turban swaying gently in the quiet air of the room. [MALE] Your majesty, I am Prince Ali Ababwa! [NARRATOR] With a swift, playful flick of his fingers, he leaned in and playfully pricked Jafar’s stiff, curled goatee, causing the dark hair to spring out in all directions like a startled brush. [MALE] Just let her meet me. I will win your daughter! [NARRATOR] The sharp, indignant voice of the princess rang out across the chamber, vibrating with a deep, pent-up frustration that stopped everyone in their tracks. [FEMALE] How dare you! [NARRATOR] They all turned, surprised by the sudden fury in her eyes. She stood tall, her hands clenched at her sides, her royal robes whispering against the floor as she glared around the circle of men. [FEMALE] All of you, standing around deciding my future? I am not a prize to be won! [NARRATOR] With a rustle of heavy silk, she turned sharply on her heel and stormed out of the room, leaving a stunned silence in her wake. The Sultan blinked, his expression softening into one of gentle concern. [MALE] Oh, dear. Don't worry, Prince Ali. Just give Jasmine time to cool down. [NARRATOR] With a quiet murmur of agreement, the men began to exit, leaving the chamber to the quiet settling of the nocturnal hours. Jafar lingered in the doorway just a moment longer, his dark lips curling into a cold, calculating smile. [MALE] I think it's time to say good bye to Prince Abooboo. [NARRATOR] The scene dissolved slowly into the velvety cool of the night. High above the palace floor, Princess Jasmine stood alone on her secluded balcony, gazing out at the vast sea of deep indigo stars and breathing in the soft, whispering night breeze. Then, the view tilted downward, sinking into the quiet shadows of the courtyard below, where Aladdin stood surrounded by his companions under the pale moonlight. He paced back and forth, the heavy velvet of his cloak swishing softly against the cobblestones. [MALE] What am I going to do? Jasmine won't even let me talk to her. I should have known I couldn't pull off this stupid prince wish. [NARRATOR] Nearby, sitting cross-legged near a stone fountain, Abu the little monkey struggled mightily with his thick elephant paws, trying to peel a soft, overripe banana. With a frustrated squeak, he squeezed it too tightly, and the banana completely squished, the soft fruit squirting directly into his blinking eye. With an annoyed huff, he tossed the squashed peel onto a towering, heaping pile of identical banana peels that sat beside him in the shadows. A few feet away, the Magic Carpet hovered silently just above the ground, set up with a makeshift chessboard made of inlaid stone. Genie floated beside it, leaning casually on one elbow. [MALE] So move! [NARRATOR] The Magic Carpet gave a gentle, rippling shimmy, sliding one of its tasseled corners forward and knocking a heavy black stone right off the edge of the board. Genie stared at it, his jaw dropping in mock disbelief as he adopted the hurried, breathless cadence of a classic comedian. [MALE] Hey. That's a good move. I can't believe it--I'm losing to a rug. [NARRATOR] Aladdin stopped his pacing, pressing his hands against his temples as he looked up at his friend with pleading eyes. [MALE] Genie, I need help. [NARRATOR] Genie puffed up his chest, instantly transforming into the smooth, casual persona of a nocturnal lounge performer, leaning in close with a wise grin. [MALE] All right, sparky, here's the deal. You wanna court the little lady, you gotta be a straight shooter, do ya follow me? [NARRATOR] Aladdin stared at him blankly, the cool night air rustling his hair. [MALE] What? [NARRATOR] In a blink of blue smoke, Genie snapped back to his normal form, instantly donning a scholarly mortarboard hat and pointing a long pointer at a chalkboard that had materialized out of thin air. [MALE] Tell her the...TRUTH!!! [NARRATOR] Aladdin recoiled, waving his hands frantically as he shook his head. [MALE] No way! If Jasmine found out I was really some crummy street rat, she'd laugh at me. [NARRATOR] In a flash of theatrical magic, Aladdin’s tall turban suddenly popped off his head and began to glow brightly from within, transforming into Genie’s grinning face. [MALE] A woman appreciates a man who can make her laugh! [NARRATOR] With a sigh, Aladdin reached up and pulled the hidden chain beneath the brim, turning off the glowing light. Genie popped back out of the turban in his true blue form, holding the actual fabric hat in his hands with a gentle, sincere expression. [MALE] Al, all joking aside, you really oughtta be yourself. [NARRATOR] Aladdin looked down at his glittering, borrowed garments, his heart heavy with the fear of inadequacy. [MALE] Hey, that's the last thing I want to be. Okay, I'm gonna go see her. I gotta be smooth, cool, confident. How do I look? [NARRATOR] Genie looked at him, his bright yellow eyes softening with a touch of melancholy as he adjusted the boy’s collar. [MALE] Like a prince. [NARRATOR] With a silent, magical flutter, the Magic Carpet drifted down, and Aladdin stepped aboard, lifting effortlessly into the cool, star-strewn air. They soared upward in a graceful arc, gliding silently toward the high stone balcony where Princess Jasmine sat upon her velvet bed, letting out a long, weary sigh into the quiet night. Her tiger, Rajah, rested his heavy head faithfully by her side, his amber eyes reflecting the soft glow of the oil lamps. From the shadows of the arched stone doorway, a soft, nervous voice drifted across the terrace. [MALE] Princess Jasmine? [NARRATOR] Rajah’s ears immediately twitched upward. He lifted his massive head, sniffing the air, and let out a low, rumbling growl deep in his chest. Jasmine turned her head toward the sound, her expression guarded. [FEMALE] Who's there? [NARRATOR] Aladdin stepped slightly out of the shadows, attempting an air of supreme, effortless majesty. [MALE] It's me--Prince Ali. Ahem-- [NARRATOR] He cleared his throat, desperately dropping his voice down into a booming, artificial baritone. [MALE] Prince Ali Ababwa. [NARRATOR] Jasmine crossed her arms, turning her back to him as the night wind caught the hem of her garments. [FEMALE] I do not want to see you. [NARRATOR] Aladdin took a soft, pleading step forward, his hands outstretched in a gentle gesture of supplication. [MALE] No, no, please princess. Give me a chance. [NARRATOR] Rajah rose to his paws, his muscles bunching as he prepared to leap.
+
+[NARRATOR] The evening air on the palace balcony grows heavy and warm, carrying the sweet scent of night-blooming jasmine and cooling stone. The magnificent tiger, Rajah, emits a low, rumbling growl deep in his chest, his large paws shifting against the marble tiles as he advances step by slow step.
+[MALE] Just leave me alone.
+[NARRATOR] Aladdin retreats half a step, holding up his hands in a placating, soothing motion, his voice dropping to a calm, gentle hush.
+[MALE] Down kitty!
+[NARRATOR] Beyond the safety of the stone balustrade, the deep indigo velvet of the night sky frames the floating form of the Magic Carpet. Hovering just below the edge, the Carpet drifts lazily on the warm currents of air, accompanied by the shimmering, azure presence of the Genie. The Genie leans in close, a soft, warm glow illuminating his smiling face.
+[MALE] How's our beau doing?
+[NARRATOR] The Carpet pantomimes a silent, playful gesture across its woven neck, watching the scene unfold with quiet, amused patience. Aladdin keeps his gaze fixed on the great beast pacing before him, his voice remaining low and steady.
+[MALE] Good kitty, take off. Down kitty.
+[NARRATOR] With a smooth, practiced motion, he reaches up, momentarily lifting his elaborate, silk-wrapped turban to gently brush the air, using the soft fabric to distract the tiger. Princess Jasmine watches him closely, her dark eyes narrowing with a thoughtful, quiet curiosity as she searches his features in the moonlight.
+[FEMALE] Wait, wait. Do I know you?
+[NARRATOR] Aladdin quickly replaces his turban, smoothing the folds over his brow as his heart beats a steady, calming rhythm against his ribs.
+[MALE] Uh, no, no.
+[NARRATOR] Jasmine steps a fraction closer, the soft rustle of her silken garments echoing gently in the quiet night.
+[FEMALE] You remind me of someone I met in the marketplace.
+[NARRATOR] Aladdin blinks in feigned surprise, his hands resting easily at his sides as a cool breeze rustles the drapes behind them.
+[MALE] The marketplace? I have servants that go to the marketplace for me. Why I even have servants who go to the marketplace for my servants, so it couldn't have been me you met.
+[NARRATOR] Jasmine lets out a soft breath, her shoulders relaxing as she looks away.
+[FEMALE] No, I guess not.
+[NARRATOR] Unseen by the princess, a tiny, buzzing shape materializes beside Aladdin's ear, glowing with a soft, warm luminescence. It is the Genie, shrunk down to the size of a bumblebee, darting through the quiet air.
+[MALE] Enough about you, Casanova. Talk about her! She's smart, fun, the hair, the eyes. Anything--pick a feature!
+[NARRATOR] Aladdin turns his head just slightly, keeping his voice a low murmur so only the tiny spirit can hear.
+[MALE] Um, Princess Jasmine? You're very...
+[NARRATOR] The tiny glowing bee circles his head in a lazy, looping figure-eight, its voice a rapid, humming whisper.
+[MALE] Wonderful, glorious, magnificent, punctual!
+[NARRATOR] Aladdin repeats the word, his tone a mixture of compliance and mild bewilderment.
+[MALE] Punctual!
+[NARRATOR] Jasmine tilts her head, her expression softening into a quiet, curious gaze.
+[FEMALE] Punctual?
+[NARRATOR] The tiny bee hovers defensively, crossing its small, fuzzy arms.
 [MALE] Sorry.
+[NARRATOR] Aladdin clears his throat softly, correcting his course with a warm, steady inflection.
+[MALE] Beautiful.
+[NARRATOR] The tiny spirit gives a silent, approving nod of its round head.
+[MALE] Nice recovery.
+[NARRATOR] Jasmine crosses her arms, a playful, testing light entering her dark eyes as she looks out over the palatial courtyard.
+[FEMALE] Hmm. I'm rich too, you know.
+[NARRATOR] Aladdin smiles, a genuine warmth spreading through his chest in the tranquil night.
+[MALE] Yeah!
+[NARRATOR] Jasmine tilts her chin up just a fraction, proud and serene.
+[FEMALE] The daughter of a sultan.
+[NARRATOR] Aladdin nods, his voice dropping into a comforting cadence.
+[MALE] I know.
+[NARRATOR] Jasmine gazes out toward the distant horizon where the desert meets the quiet, starry sky.
+[FEMALE] A fine prize for any prince to marry.
+[NARRATOR] Aladdin hesitates, the warmth of the evening air wrapping around them like a blanket.
+[MALE] Uh, right. Right. A prince like me.
+[NARRATOR] Suddenly, the tiny bee reappears near his ear, its form flashing with urgent, miniature warning lights.
+[MALE] Warning! Warning!
+[NARRATOR] Jasmine turns back to him, her expression hardening with sudden frustration at the old, familiar expectations.
+[FEMALE] Right, a prince like you. And every other stuffed shirt, swaggering, peacock I've met!
+[NARRATOR] The tiny bee spins wildly out of control, its rear end glowing with a harmless, flickering flame as it dons a pair of oversized aviator goggles and spirals downward.
+[MALE] Mayday! Mayday!
+[NARRATOR] Jasmine turns her back on him, her silk robes sweeping the marble floor as she begins to walk away into the shadows of the terrace.
+[FEMALE] Just go jump off a balcony!
+[NARRATOR] Aladdin takes an involuntary step forward, his hands opening in a plea for patience.
+[MALE] What?
+[NARRATOR] The tiny bee hovers desperately in front of his face, wringing its little hands.
+[MALE] Stop her! Stop her! Do you want me to sting her?
+[NARRATOR] Aladdin waves a hand casually, batting the tiny, glowing insect away into the night breeze.
+[MALE] Buzz off!
+[NARRATOR] The bee dips in a low, graceful bow, its voice fading into a soothing hum.
+[MALE] Okay, fine. But remember--bee yourself!
+[NARRATOR] With a soft zip, the tiny spirit darts straight into the folds of Aladdin's turban, disappearing into the warm cloth. Aladdin takes a deep, grounding breath of the cool midnight air, his voice turning entirely sincere.
+[MALE] Yeah, right! Uh, you're right. You aren't just some prize to be won. You should be free to make your own choice. I'll go now.
+[NARRATOR] He turns, stepping up onto the broad stone ledge of the balcony, his silhouette framed against the vast expanse of the starry night before he lets himself drop gently out of sight. Jasmine stops instantly, spinning around with wide, astonished eyes.
+[FEMALE] No!
+[NARRATOR] A moment later, Aladdin's smiling face reappears, poking up just over the stone edge of the balcony like a curious traveler.
+[MALE] What? What?
+[NARRATOR] Jasmine hurries back to the balustrade, leaning over the stone with a look of utter, breathless amazement.
+[FEMALE] How--how are you doing that?
+[NARRATOR] She peers down into the shadowed depths beneath the terrace, catching sight of the richly woven, softly glowing Magic Carpet hovering in the still air. Aladdin gestures casually toward the fabric.
+[MALE] It's a magic carpet.
+[NARRATOR] Jasmine stares down at the marvelous craft, a soft, breathless sigh escaping her lips.
+[FEMALE] It's lovely.
+[NARRATOR] The Magic Carpet floats upward, its fringe extending a polite, woven corner to gently take Jasmine's hand in a comforting, velvety clasp. Aladdin extends a hand toward her, his palm open and steady, offering a quiet invitation.
+[MALE] You, uh, you don't want to go for a ride, do you? We could get out of the palace, see the world.
+[NARRATOR] Jasmine hesitates, looking from the outstretched hand to the vast, quiet expanse of the sleeping kingdom beyond.
+[FEMALE] Is it safe?
+[NARRATOR] Aladdin smiles, his voice soft, reassuring, and completely steady.
+[MALE] Sure. Do you trust me?
+[NARRATOR] Jasmine pauses, hearing the quiet weight of those careful words echoing in the gentle night breeze.
+[FEMALE] What?
+[NARRATOR] Aladdin extends his hand just a fraction further, his eyes warm and patient in the starlight.
+[MALE] Do you trust me?
+[NARRATOR] A slow, wonderfully sly grin spreads across Jasmine's face, dissolving her doubts in the tranquil quiet of the evening.
+[FEMALE] Yes.
+[NARRATOR] She places her hand gently into his, stepping lightly onto the woven surface of the Carpet. With a soft, humming murmur of magic, the Carpet lifts off the stone, gliding smoothly up into the cool, star-filled sky, gently carrying them both into a deep, peaceful ascent above the quiet world.
 
-[NARRATOR] Megan whispers gently into the still air:
+[NARRATOR] The magic carpet glides effortlessly past the highest stone ramparts of the palace, leaving the heavy earthly world behind to drift into the endless, velvety embrace of the night. The cool night air hums with a quiet, shimmering melody, wrapping around them like a soft, spun-silk blanket. The stars above pulse with a slow, hypnotic rhythm, casting a silvery, dreamlike glow over the woven threads of the carpet beneath them. 
 
-[MALE] It's kind of nervy seeing a lone guy walking up to you in the middle of the desert.
+[MALE] I can show you the world. Shining, shimmering, splendid. Tell me, princess, now when did you last let your heart decide?
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] Below them, the woven vessel dips in a long, graceful arc, sweeping down toward the sleepy, hushed town. As they drift past a moonlit courtyard, the carpet dips low, gently plucking a delicate, night-blooming flower from a quiet garden wall. It offers the blossom to the young man, who takes it with a gentle touch and passes it into her waiting hands. A soft, serene smile touches her lips, reflecting the quiet stillness of the midnight hour.
 
-[MALE] Yeah, I know, I mean there's no one around for 50 miles.
+[MALE] I can open your eyes, take you wonder by wonder, over, sideways, and under, on a magic carpet ride.
 
-[NARRATOR] Kristi murmurs with a warm, steady cadence:
+[NARRATOR] The carpet responds to the music of his voice, ascending in a slow, weightless spiral, gliding upward until it slips softly into the misty, pillowy expanse of the clouds. The world below dissolves into a deep, peaceful haze, replaced by a vast, quiet universe of indigo and silver.
 
-[MALE] ... and suddenly there's a guy right behind you and `wait a minute, why is he wearing a HOCKEY MASK!' They all laugh.
+[MALE] A whole new world. A new fantastic point of view. No one to tell us no, or where to go, or say we're only dreaming.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] She turns her gaze backward, watching the distant lights of the city fade away into nothingness, swallowed entirely by the gentle, rolling tides of the clouds. The carpet weaves its way softly in and out of the vaporous mists, brushing against the cool, damp edges of the sky.
 
-[MALE] Let me guess... You're here for the paintings or the Cathedral?
+[FEMALE] A whole new world. A dazzling place I never knew. But when I'm way up here, it's crystal clear, that now I'm in a whole new world with you.
 
-[NARRATOR] Kristi speaks with a quiet, measured softness:
+[MALE] Now I'm in a whole new world with you.
 
-[MALE] The Cathedral? We've got a bit disorientated and the map isn't great. Where is it?
+[NARRATOR] As they soar, their fingers lightly graze passing wisps of mist, catching the softness of the clouds as the carpet curves in a wide, gentle circle around a towering pillar of vapor, twisting the night air into a slow, dreamy spiral.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[FEMALE] Unbelievable sights, indescribable feeling. Soaring, tumbling, freewheeling, through an endless diamond sky.
 
-[MALE] The climb's a little tricky but it's worth it. KRISTI / MEGAN We climb.
+[NARRATOR] They drift alongside a quiet flock of migrating birds, floating effortlessly on the midnight thermal currents. The carpet performs a series of lazy, acrobatic rolls, letting them briefly feel the gentle thrill of free-fall before softly cradling them back into its warm, secure embrace. They rise higher still, breaking through the cloud cover into a vast, crystal-clear expanse where millions of stars stretch out forever in the quiet dark.
 
-[NARRATOR] 8. speaks with a quiet, measured softness:
+[FEMALE] A whole new world!
 
-[MALE] They all laugh. CUT TO: INT. CAVE. APPARENTLY SMOOTH DOME. DAY Towards us comes Aron, upside down, like a tiny, fast spider, talking all the time, his voice echoing.
+[MALE] Don't you dare close your eyes.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[FEMALE] An hundred thousand things to see.
 
-[MALE] There's thousands of holds but you can't see them until you're almost upside down and then they just keep appearing... it's a bit of a act of faith so I'll go first... take off as much as you dare as there's a bit of a surprise at the other end...
+[MALE] Hold your breath—it gets better!
 
-[NARRATOR] Megan adds in a relaxed, peaceful voice:
+[FEMALE] I'm like a shooting star, I've come so far, I can't go back to where I used to be!
 
-[MALE] You behave Aron Ralston or we'll tell your mother all about where you lure girls...
+[NARRATOR] The carpet swoops down in a long, descending glide, skimming low over the smooth, dark waters of an ancient, winding river. Beyond the rustling sails of a passing wooden vessel, the great, silent shapes of ancient stone monuments rise up against the horizon. They drift past a massive sculpture carved from the living rock, where a weary artisan works by lantern-light, accidentally chipping away a little too much of the great stone face, smiling sleepily at the impossible sight overhead.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[MALE] A whole new world!
 
-[MALE] I swear I won't look but I swear you won't care when you get out here... We've been moving towards him as he rushes towards us, spider style. He's stripped to his underwear. He's lithe to say the least. We can't see the girls or what's underneath us but there's a feeling of the vertiginous, as much from the weird echo and the sense of reflected light as from the scale of the dome.
+[FEMALE] Every turn a surprise.
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[MALE] With new horizons to pursue.
 
-[MALE] ... and the thing is, when you get to the middle... He lets go.
+[FEMALE] Every moment, red-letter.
 
-[NARRATOR] Aron responds with gentle reassurance:
+[NARRATOR] The carpet levels out, flying in perfect harmony alongside a herd of wild horses galloping across the moonlit plains below. She reaches down, her fingertips softly brushing the mane of a running mare in the stillness of the night.
 
-[MALE] ... there aren't any more. We spin and watch him fall into the most exquisite emerald pool 60 feet below.
+[MALE] I'll chase them anywhere.
 
-[NARRATOR] Kristi responds with gentle reassurance:
+[FEMALE] There's time to spare.
 
-[MALE] OMG! CUT TO: INT. CAVE. DAY. They can't see him. They can only hear the explosive crack of man on water.
+[MALE] Let me share...
 
-[NARRATOR] Megan adds in a relaxed, peaceful voice:
+[FEMALE] ...this whole new world with you.
 
-[MALE] Are you ok? ARON!
+[BOTH] A whole new world. That's where we'll be.
 
-[NARRATOR] Kristi murmurs with a warm, steady cadence:
+[NARRATOR] They drift westward over ancient lands, gliding smoothly through the warm, fragrant night air of Greece. With a quick, playful motion, he reaches up to pluck a ripe, dew-kissed apple from an overhanging orchard branch, rolling it gently down his arm until it rests safely in her hands. She looks at him with a knowing, tender amusement, recognizing the familiar warmth behind the disguise.
 
-[MALE] Of course he's ok. Listen to him. Aron fills the cathedral dome with his version of a Phish song at the top of his voice. Kristi strips to her underwear and traverses away from Megan.
+[MALE] A thrilling chase.
 
-[NARRATOR] Kristi murmurs with a warm, steady cadence:
+[FEMALE] A wondrous place.
 
-[MALE] Got to be there, Meg. CUT TO: INT. CAVE. DAY. From the pool below with Aron we see Kristi in her underwear heading out arachnid-style to the centre. Before she gets there Megan appears too. She's left everything on except her shoes. They crash into the pool one after the other. They bob together in the centre, the light seems to come from beneath them and ripple over the heavenly ceiling.
+[BOTH] For you and me.
 
-[NARRATOR] Megan speaks with a quiet, measured softness:
+[NARRATOR] The carpet settles into a slow, hovering drift just above the surface of a tranquil lake, where the glowing face of the full moon mirrors itself perfectly in the glassy water. In the distance, silent bursts of colorful fireworks bloom soundlessly across the sky above a festive rooftop celebration, painting the clouds in soft, muted tones of gold and crimson. They sit quietly together on the high tiles, resting in the peaceful hush of the night.
 
-[MALE] We've got to go again. And film it! CUT TO: EXT. OUTSIDE THE CAVE. DAY . Eating and drying in the powerful afternoon sun. A little self consciousness has returned but it's sweet-natured and fun still.....
+[FEMALE] It's all so magical.
 
-[NARRATOR] Megan murmurs with a warm, steady cadence:
+[MALE] Yeah.
 
-[MALE] I really can't eat all this chocolate by myself... Never mind, yes I can!
+[FEMALE] It's a shame Abu had to miss this.
 
-[NARRATOR] Kristi offers quietly, watching the shadows drift across the room:
+[MALE] Nah.
 
-[MALE] So have you got a girlfriend, Aron?
+[NARRATOR] The vibrant colors of the grand celebration linger in the cool night air, casting a gentle warmth over the rooftop where the quiet breeze whispers through the tiles. 
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] He hates fireworks. 
 
-[MALE] Well, there's not really anyone special.
+[NARRATOR] The woven fabric beneath them shifts ever so slightly, a soft ripple of realization passing through its threads as it looks up at the sky. 
 
-[NARRATOR] Megan offers quietly, watching the shadows drift across the room:
+[MALE] He doesn't really like flying either. That is... oh no! 
 
-[MALE] Ah, so there's lots of girlfriends.
+[NARRATOR] With a swift, gentle motion, the heavy turban is lifted from his head, the soft fabric unfurling in the midnight air.
 
-[NARRATOR] Kristi whispers gently into the still air:
+[FEMALE] You are the boy from the market! I knew it. Why did you lie to me?
 
-[MALE] There's always a girl, you just don't know it yet.
+[MALE] Jasmine, I'm sorry.
 
-[NARRATOR] Megan whispers gently into the still air:
+[FEMALE] Did you think I was stupid?
 
-[MALE] Yeah, we meet lots of guys and there's always a girl.
+[MALE] No!
 
-[NARRATOR] Aron answers in a low, calming tone:
+[FEMALE] That I wouldn't figure it out?
 
-[MALE] Long story.
+[MALE] No. I mean, I hoped you wouldn't. No, that's not what I meant.
 
-[NARRATOR] Kristi responds with gentle reassurance:
+[FEMALE] Who are you? Tell me the truth!
 
-[MALE] With lots of characters in it. CUT TO: EXT. SNOWY MOUNTAINTOP. DAY. VIDEO FOOTAGE. Aron on top of a snowy peak. Self shot. Classic pose. Breathtaking backdrop.
+[MALE] The truth? The truth... the truth is... I sometimes dress as a commoner to escape the pressures of palace life. But I really am a prince!
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] The decorative feather atop the soft headpiece slips downward, gently resting across his eyes in the quiet stillness.
 
-[MALE] I've done 46 of the 59 winter solo ascents.
+[FEMALE] Why didn't you just tell me?
 
-[NARRATOR] Megan adds in a relaxed, peaceful voice:
+[MALE] Well, you know, um... royalty going out into the city in disguise, it sounds a little strange, don't you think?
 
-[MALE] Wow, highest person in Colorado.
+[FEMALE] Not that strange.
 
-[NARRATOR] Aron responds with gentle reassurance:
+[NARRATOR] She reaches out, flicking the drooping feather upward before leaning in close, wrapped in the profound peace of the evening. Moments later, the scene drifts toward the quiet stone balustrade of the palace exterior, bathed in the silver glow of the moon. The woven carpet forms a gentle staircase, and she descends into the shadows.
 
-[MALE] Well I figure no one else is mad enough to climb in the winter.
+[FEMALE] Good night, my handsome prince.
 
-[NARRATOR] Kristi answers in a low, calming tone:
+[MALE] Sleep well, princess.
 
-[MALE] ... you can be the highest person on the continent! CUT TO: EXT. STILL CAMERA. IMAGE OF `MOTEL 6' Megan shows the image to Aron.
+[NARRATOR] As they lean forward into the quiet dark, a gentle nudge from below meets them, bringing them together just a heartbeat sooner than expected. She lingers for a soft moment, turning back once before slipping away behind the heavy, flowing curtains of her chamber.
 
-[NARRATOR] Megan whispers gently into the still air:
+[MALE] Yes!
 
-[MALE] Didn't you see it?
+[NARRATOR] He falls backward with a contented sigh onto the soft, waiting fibers of the carpet, drifting slowly down toward the earth.
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[MALE] For the first time in my life, things are starting to go right.
 
-[MALE] What? No.
+[NARRATOR] He gazes up one last time at the quiet balcony, lost in the serenity of the night, before sudden, heavy shadows fall upon him. Strong hands emerge from the darkness, wrapping tightly around him in the stillness.
 
-[NARRATOR] Megan speaks with a quiet, measured softness:
+[MALE] Hey! What? Abu! Abu!
 
-[MALE] Yeah, it's an old cattle guardian's house - the roof's caved in and someone spray-painted MOTEL 6 on the side. Smelled weird though.
+[GUARD] Hold him!
 
-[NARRATOR] Aron whispers gently into the still air:
+[JAFAR] I'm afraid you've worn out your welcome, Prince Abooboo. Make sure he's never found.
 
-[MALE] Just like a MOTEL 6 then? CUT TO:
+[NARRATOR] A sudden, heavy silence descends as the darkness closes in, sweeping him away into the deep, churning waters far below. The cool, quiet depths embrace him as he sinks downward, bound to the heavy stone. The small lamp slips from its resting place, tumbling silently through the water until it rests near his resting hand. In the dim, watery haze, his fingers brush against the cool metal, a sudden warmth sparking in the deep abyss. The lamp trembles, and out billows a great cloud of mist and blue light, accompanied by the gentle squeak of a rubber toy.
 
-[NARRATOR] 11. murmurs with a warm, steady cadence:
+[GENIE] Never fails. Get in the bath and there's a rub at the lamp. Hello? Al? Al! Kid, snap out of it! You can't cheat on this one! I can't help you.
 
-[MALE] EXT. OUTSIDE THE CAVE.
+[NARRATOR] Within the cool, shadowy depths of the cavern, the air is thick with the sweet, damp scent of ancient stone and receding mist. The water laps softly against the hidden shore, creating a rhythmic, lulling lullaby that echoes through the quiet abyss.
 
-[NARRATOR] Kristi answers in a low, calming tone:
+[GENIE] Unless you make a wish. You have to say, "Genie, I want you to save my life." Got it? Okay. Come on, Aladdin!
 
-[MALE] Why are you on your own?
+[NARRATOR] The great blue form leans close, his vast shoulders shifting with gentle urgency, his vibrant colors glowing softly like bioluminescent sea-lanterns in the dimness. He reaches out to shake the young man's shoulders, lifting his head before letting it drift softly down once more.
 
-[NARRATOR] Aron whispers gently into the still air:
+[GENIE] I'll take that as a yes.
 
-[MALE] Solitude. Great tunes. Empty mind. He indicates the wilderness.
+[NARRATOR] With a whimsical swirl of blue light and a soft, bubbly sigh, the Genie transforms, his form bubbling up through the calm, dark waters in a towering, gentle spout that crests softly upon the high cliff's edge. Aladdin stirs, drawing a deep, shuddering breath as the cool, refreshing air fills his lungs once more. The Genie looks down at him, his vast, expressive eyes softening with deep affection.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[GENIE] Don't you scare me like that!
 
-[MALE] And I can sing Phish songs as loud as I like.
+[NARRATOR] Aladdin's voice is quiet, breathless, and heavy with the profound relief of a long journey coming to rest.
 
-[NARRATOR] Megan murmurs with a warm, steady cadence:
+[MALE] Genie, I... uh... I... uh...
 
-[MALE] Phish?
+[NARRATOR] Words fail him, dissolving into the gentle hush of the cavern. Instead, they simply hold each other in a warm, quiet embrace, the tension of the deep abyss melting away into absolute peace.
 
-[NARRATOR] Kristi adds in a relaxed, peaceful voice:
+[GENIE] Oh, Al. I'm gettin' kind of fond of you, kid. Not that I want to pick out curtains or anything.
 
-[MALE] Not those guys from...
+[NARRATOR] Far away, beneath the quiet, starlit domes of the palace, Jasmine’s chamber is bathed in the soft, silver glow of the descending moon. The gentle night breeze flutters the sheer draperies at the window as she brushes her long, dark hair, humming a sweet, familiar melody of a whole new world. The double doors swing open with a gentle creak, revealing the Sultan standing silently in the doorway, his eyes glazed in a deep, hypnotic slumber.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[SULTAN] Jasmine!
 
-[MALE] Yeah, I know, I know.
+[NARRATOR] She turns, her heart fluttering with the quiet joy of the evening.
 
-[NARRATOR] See, that's why I'm on my own.
+[FEMALE] Oh, father—I just had the most wonderful time. I'm so happy.
 
-[NARRATOR] Nobody likes me or my band.
+[SULTAN] You should be, Jasmine. I have chosen a husband for you.
 
-[NARRATOR] They laugh as he goofs for them. He gathers all their
+[FEMALE] What?
 
-[NARRATOR] packaging and stuffs it in his backpack.
+[SULTAN] You will wed Jafar.
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] A sudden, cold shadow falls across the moonlit room as the second door opens to reveal the tall, imposing figure of Jafar. Jasmine gasps, recoiling from the sudden, jarring chill in the air.
 
-[MALE] I'll get this. Leave no trace. CUT TO: EXT. BLUE JOHN CANYON. DAY. They're walking again.
+[MALE] You're speechless, I see. A fine quality in a wife.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[FEMALE] I will never marry you. Father, I choose Prince Ali!
 
-[MALE] Hey, but I like a beer like the next man. You know, end of the day. CUT TO: EXT. CANYON. GULLEY. They're negotiating a steep gulley. Aron is 1/2 way down, Megan at the top, Kristi on her way down to him.
+[MALE] Prince Ali left!
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] A soft rustle stirs the shadows by the balcony. Aladdin steps forward from the threshold, his silhouette framed by the calming violet hues of the night sky.
 
-[MALE] I'm not certified yet but that's what I want to do.
+[MALE] Better check your crystal ball again, Jafar!
 
-[NARRATOR] Megan adds in a relaxed, peaceful voice:
+[FEMALE] Prince Ali!
 
-[MALE] An illegal instructor.
+[NARRATOR] Jafar stumbles backward in sudden, genuine alarm, his dark eyes widening in disbelief. From his perch nearby, the red parrot squawks in sudden panic.
 
-[NARRATOR] Aron whispers gently into the still air:
+[MALE] How in the he—awk!
 
-[MALE] It's hard to get the hours to qualify. Catch 22.
+[NARRATOR] Aladdin steps further into the room, his voice steady, carrying the quiet authority of truth.
 
-[NARRATOR] Kristi adds in a relaxed, peaceful voice:
+[MALE] Tell them the truth, Jafar! You tried to have me killed.
 
-[MALE] Well, we'll sign your time-card today.
+[MALE] What? Ridiculous nonsense, your highness. He is obviously lying.
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] Jafar steps closer to the Sultan, lifting the serpentine staff so that its glowing, hypnotic eyes hover inches from the old ruler's face.
 
-[MALE] Great. Now put your ass on my head.
+[SULTAN] Obviously... lying.
 
-[NARRATOR] Kristi offers quietly, watching the shadows drift across the room:
+[NARRATOR] Jasmine looks on, her voice trembling with confusion and concern.
 
-[MALE] Okay but don't look and no grabbing now, if I do...
+[FEMALE] Father, what's wrong with you?
 
-[NARRATOR] Megan adds in a relaxed, peaceful voice:
+[MALE] I know!
 
-[MALE] Oh whatever, you love it.
+[NARRATOR] With a sudden, decisive motion, Aladdin leaps forward, snatching the staff from Jafar's grip. He brings it down hard against the polished marble floor. The wood splinters, and the glowing red eyes instantly fade to a dull, lifeless stone. The heavy, oppressive spell shatters into quiet nothingness. The Sultan blinks, the cloud lifting from his eyes as he takes a deep, restorative breath.
 
-[NARRATOR] Kristi whispers gently into the still air:
+[SULTAN] Oh, oh, oh my!
 
-[MALE] Shhh! Aron then quickly slips to the bottom. Megan is way high, Kristi half way.
+[MALE] Your highness, Jafar's been controlling you with this!
 
-[NARRATOR] Aron whispers gently into the still air:
+[SULTAN] What? Jafar? You, you traitor!
 
-[MALE] You'll have to chimney down a little ways - like here, watch - one foot on each wall then squat onto your right heel, now your butt's on the wall, so you can move your right foot across, now put your left foot under your butt lower down and scootch your butt down - watch that black part, it's slick, slime, try not to get it on your shoes - if you can get to these bomber handholds here it's like an elevator shaft and just think friction to control the slide. This is a keeper so always have someone at the bottom to boost you out. He looks up to them.
+[NARRATOR] Together, Aladdin, Jasmine, and the Sultan advance a step, their presence united and unwavering. Jafar takes a nervous step back, his composure slipping.
 
-[NARRATOR] Megan whispers gently into the still air:
+[MALE] Your majesty, all of this can be explained.
 
-[MALE] I didn't understand any of that. EXT. CONJUNCTION OF BLUE JOHN CANYON, WEST FORK, EAST FORK.
+[SULTAN] Guards! Guards!
 
-[NARRATOR] They come to a clear fork in the paths. He watches them turn
+[MALE] Well, that's it—we're dead, forget about it. Just dig a grave for both of us. We're dead.
 
-[NARRATOR] their map round and round.
+[NARRATOR] Amidst the panic, Jafar's gaze darts toward Aladdin's pocket, where the ancient lamp rests in quiet slumber. He reaches out, but armored guards rush into the chamber, seizing his arms and pinning him firmly in place.
 
-[NARRATOR] Megan murmurs with a warm, steady cadence:
+[SULTAN] Arrest Jafar at once.
 
-[MALE] Kristi, I think this is our way back.
+[MALE] This is not done yet, boy!
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] With a sharp jerk, Jafar pulls a small glass vial from his robes. Aladdin leaps forward to stop him, but it is too late. The vial shatters upon the marble floor. A vast, thick cloud of deep crimson smoke billows upward, filling the room with an opaque, swirling haze. When the red mist slowly dissolves and drifts away into nothingness, Jafar is gone.
 
-[MALE] Why don't you come with me to the Big Drop Rappel? I can give you a lift back to your car.
+[SULTAN] Find him, search everywhere!
 
-[NARRATOR] Kristi murmurs with a warm, steady cadence:
+[NARRATOR] The guards scatter into the corridors, their footsteps fading away into the quiet expanse of the palace. Aladdin turns to Jasmine, the tension of the night finally beginning to ease.
 
-[MALE] How far is it? He shows them on the map.
+[MALE] Jasmine, are you all right?
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[FEMALE] Yes.
 
-[MALE] About another 8 miles or so, I think.
+[NARRATOR] They lean toward each other, the world narrowing down to just the two of them, the soft moonlight wrapping them in a warm embrace. But just as their lips are about to meet, the Sultan barges eagerly between them, breaking the spell with a hearty, oblivious laugh.
 
-[NARRATOR] Megan responds with gentle reassurance:
+[SULTAN]
 
-[MALE] You'll never get out before dark.
+[NARRATOR] The sudden intrusion hangs heavily in the quiet, scented night air. The Sultan’s booming voice echoes through the shadowed balcony, shattering the delicate, silver stillness that had wrapped around the two young lovers. Lanterns flicker gently in the slight, warm breeze, casting long, lazy shadows across the marble floor. 
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] Jafar, my most trusted counselor, plotting against me all this time. Just horrible. How will I ever...
 
-[MALE] No, I really got to do this. Anyway I've my miner's lamp.
+[NARRATOR] The Sultan’s voice trails off as his eyes register the closeness of the pair standing before him. A slow, spreading wonder smooths the worried lines on his round face.
 
-[NARRATOR] Megan answers in a low, calming tone:
+[MALE] Can it be true? My daughter has finally chosen a suitor?
 
-[MALE] You don't climb at night, do you?
+[NARRATOR] Jasmine offers a soft, quiet nod, her eyes reflecting the gentle glow of the overhead lamps. 
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[MALE] Ha ha! Praise Allah! You brilliant boy, I could kiss you! I won't--I'll leave that to my... You two will be wed at once! Yes, yes. And you'll be happy and prosperous, and then my boy, you will be sultan!
 
-[MALE] No, it's great for seeing snakes in hand holds. Can I get a picture then? They pose with raven feathers in their hair.
+[MALE] Sultan?
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] The word hangs in the quiet air, stripped of its usual majesty, sounding instead like a heavy weight dropping onto soft velvet. 
 
-[MALE] Listen, my friends are having a party tomorrow night. You should come.
+[MALE] Yes, a fine upstanding youth like yourself, a person of your unimpeachable moral character is exactly what this kingdom needs!
 
-[NARRATOR] Kristi adds in a relaxed, peaceful voice:
+[NARRATOR] Aladdin stares back, the initial joy draining from his face, replaced by a deep, cold shadow of concern. The heavy oak doors of the distant chambers seem to absorb his silent dread as the scene shifts away from the moonlit terrace. Inside the dim, shadowed sanctuary of Jafar's quarters, the air is thick with the scent of old parchment and cooling embers. Jafar and Iago slip through the shadows, the parrot frantic with restless energy.
 
-[MALE] Yeah, we'd like that. What time?
+[MALE] We gotta get outta here! We gotta get-- I gotta start packing, your highness. Only essentials.
 
-[NARRATOR] Megan adds in a relaxed, peaceful voice:
+[NARRATOR] Feathers rustle and small trinkets clatter against the stone floor as Iago frantically hurls items out of his golden cage. A cloud of fine dust dances in the pale sliver of moonlight piercing the high, arched window. 
 
-[MALE] Where?
+[MALE] Travel light! Bring the guns, the weapons, the knives... and how about this picture? I don't know--I think I'm making a weird face in it.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] Jafar, standing motionless amidst the growing chaos, lets out a low, dark sound that builds into a wild, echoing laugh, bouncing off the stone walls in the quiet room.
 
-[MALE] Drive on the east road and about 40 miles out there's a huge inflatable Scooby Doo. You can't miss it. Turn off and it's about 2 miles down that track. Starts late and it'll go right thru. Lots of cheek kissing and his last picture of them...
+[MALE] Oh, boy--he's gone nuts. He's cracked. Jafar? Jafar? Get a grip, Jafar!
 
-[NARRATOR] Kristi speaks with a quiet, measured softness:
+[NARRATOR] As the frantic bird taps repeatedly against the sorcerer's tall headdress, Jafar's long fingers suddenly shoot out, clamping firmly around the parrot's neck.
 
-[MALE] Come on Aron, hike out with us - we'll go get your truck, hang out and have a beer.
+[MALE] Good grip!
 
-[NARRATOR] Aron whispers gently into the still air:
+[NARRATOR] Jafar’s laughter subsides into a cool, dangerous whisper, his eyes gleaming with a sharp, calculating light in the darkness.
 
-[MALE] No, I really got to do this.
+[MALE] Prince Ali is nothing more than that ragged urchin Aladdin. He has the lamp, Iago.
 
-[NARRATOR] Kristi answers in a low, calming tone:
+[MALE] Why that miserable...
 
-[MALE] Okay. Scooby Doo, yeah?
+[MALE] But you are going to relieve him of it!
 
-[NARRATOR] Aron responds with gentle reassurance:
+[MALE] Me?
 
-[MALE] That's the one. I'll have 3 cold beers waiting for us.
+[NARRATOR] Farther down the quiet stone corridors, out in the sprawling palace gardens, the night breeze rustles through the velvet petals of night-blooming jasmine, carrying a sweet, soporific fragrance. Aladdin wanders among the shadows, his head bowed, his footsteps muffled by the soft earth.
 
-[NARRATOR] Megan answers in a low, calming tone:
+[MALE] Sultan? They want me to be sultan?
 
-[MALE] 12 cold beers! CUT TO: EXT. CANYON FORK. DAY. POV VARIOUS. And they separate down 2 different canyons shouting to each other...'hot dogs!...'vegetarian hot dogs!'.... 'so that's 12 cold beers and 9 vegetarian hotdogs!'...'.. I really can't eat all these vegetarian hotdogs by myself... never mind, yes I can!'... the last of the dialogue fading away as they lose earshot of each other and we pull up out high over the meandering slits of sandstone... CUT TO: EXT. MAIN BLUE JOHN CANYON. DAY. Aron alone ... they are gone ... he picks up the pace as he checks his watch... he loved them but now he's behind schedule and he's ruthless about his schedule... CUT TO: EXT. HIGH ABOVE ARON. BLUE JOHN CANYON. DAY. His sense of momentum is established again and it's clear he's moving downhill, into the fissure of the rock. CUT TO: EXT. BLUE JOHN CANYON. DAY. Without warning his feet suddenly slide forward from under him and he skates/snap-kicks trying to keep his balance on a floor of scattering pebbles left there by a flood. There's a flash of the sky and dazzling sunlight.
+[NARRATOR] With a sudden puff of iridescent smoke and a shower of drifting, glowing sparks, the Genie manifests beside him, a bright beacon in the tranquil gloom.
 
-[NARRATOR] 15. speaks with a quiet, measured softness:
+[MALE] Huzzah! Hail the conquering hero!
 
-[MALE] Only his arms and the proximity now of the walls prevent him landing hard on his ass. CUT TO: EXT. C/U. DAY. A small snake slithers away from his giant feet. CUT TO: EXT. BLUE JOHN CANYON. DAY.
+[NARRATOR] For a brief second, he transforms into a bustling one-man band, cymbals clashing softly in the quiet night. But as he notices Aladdin walking away, shoulders slumped and spirit heavy, the Genie’s playful performance fades. He pauses, scratches his blue head, and conjures an imaginary director's frame with his fingers, peering through it at the young man.
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] Aladdin, you've just won the heart of the princess. What are you gonna do next?
 
-[MALE] Easy Aron, easy now. He keeps moving, descending still, but a little more circumspect. He lets the change of pace allow him to whip round his pack and with the practice of thousands of times selects and plays a CD without stopping, slipping the headphones over his head. CUT TO: INT. RUCKSACK. PORTABLE CD PLAYER. We see the CD begin to spin: the display tells us there's 38:47 to play before 0:01 appears. CUT TO: EXT. C/U ARON'S EARS. DAY. Suddenly, louder than loud, the sound of fanatical 5,000 strong applause at the Phish live concert in Las Vegas, fills his head and ours. He's heard it many times as he alternatively anticipates/answers all the dialogue preamble mixed over the applause...
+[NARRATOR] Aladdin offers no smile. He turns and walks slowly toward the grand bedchamber, the heavy tapestries dampening the sound of the world outside. He sinks down onto the edge of the mattress, letting out a long, weary sigh that stirs the bedcovers. Confused, the Genie flickers across the room, materializing a small paper script labeled simply with the name *Aladdin*, flipping the pages with a soft rustle.
 
-[NARRATOR] Cd Recording offers quietly, watching the shadows drift across the room:
+[MALE] Psst, your line is "I'm going to free the genie." Anytime.
 
-[MALE] Good evening Las Vegas... are you having a good time? Are you ready for PHISH! Whether we are or not, the first song begins on a wave of adoration from his fellow Phish fans. He sings along. CUT TO:
+[MALE] Genie...I can't.
 
-[NARRATOR] 16. offers quietly, watching the shadows drift across the room:
+[MALE] Sure you can. You just go "Genie, I wish you free."
 
-[MALE] EXT. BLUE JOHN CANYON. SHORT SLOT ENTRY. DAY. Aron keeps descending, the canyon walls growing taller and closer, into the narrowing slot canyon. CUT TO: EXT. BLUE JOHN CANYON. S-SHAPED LOG. DAY. A dry waterfall, many months since it's seen rain. A drop of maybe 12/15 ft with no obvious climb down. Way beyond his reach and jammed into the walls of the canyon is an enormous S-shaped log, sand bleached and wind dried it looks like a massive reptile making its way down the canyon. Beyond it, Aron can see his route down disappearing into narrowing darkness. CUT TO: EXT. CANYON WALL. DAY. To reduce the drop he scrambles down clinging to the edge, pushes away and drops the final 6 feet or so landing in a fine cloud of sand. Nothing to it, second nature. CUT TO: EXT. S-SHAPED LOG. DAY.
+[NARRATOR] The Genie playfully seizes Aladdin's head, using him like a limp, cooperative marionette, trying to coax a smile. But Aladdin gently pulls away, his expression troubled and distant.
 
-[NARRATOR] Phototime answers in a low, calming tone:
+[MALE] I'm serious. Look, I'm sorry--I really am. But they want to make me sultan--no!, They want to make Prince Ali sultan. Without you, I'm just Aladdin.
 
-[MALE] He snaps the log now arching above him well out of reach. TITLE. " 2:41pm. Sat April 26th. 2003 "
+[MALE] Al, you won!
 
-[NARRATOR] Aron whispers gently into the still air:
+[MALE] Because of you! The only reason anyone thinks I'm anything is because of you. What if they find out I'm not really a prince? What if Jasmine finds out? I'll lose her. Genie, I can't keep this up on my own. I can't wish you free.
 
-[MALE] Won't be coming back this way. CUT TO: INT. SLOT CANYON. DAY  He spins and continues, seeing the first huge chockstones, the size of vans, their noses buried in the floor of the canyon like unexploded bombs. He easily scrambles over one and around another-tight fit but he's skinny. CUT TO:
+[NARRATOR] The Genie's bright demeanor softens, a quiet understanding washing over his shifting features as he looks down at the troubled boy in the dim, resting light of the room.
 
-[NARRATOR] 17. answers in a low, calming tone:
+[MALE] Hey, I understand. After...
 
-[MALE] INT. DEEPER INTO THE CANYON. DAY. The slot is now just 4ft wide and as he stops to look at massive tree logs jammed at strange angles high above him and silhouetted against the blue cloudless sky, he drinks deeply from his water bottle. CUT TO: INT. CANYON RIM. LOOKING DOWN. DAY. On we go and so does the concert. He pumps the air unaware as we track above him - it's like the canyon in Star Wars and he's Anakin feeling the force. One set of chockstones leads to another and he rapidly negotiates them like an obstacle race - until there's one the size of a big refrigerator which has been stopped by the walls 18 inches from the floor. CUT TO: INT. CANYON. CHOCKSTONES. DAY. Over or under? He drops to his belly and squeezes underneath, rucking the sandy floor in front of him. He's halfway, his chest rising out the far side when suddenly he can't move. The music jams and loops on 2 notes like bad techno. He pushes but nothing. He reaches back with his hand and releases a part of his rucksack strap that's snagged. And the music releases too. He squat-jumps out and brushes off the sand. No panic -a nothing moment. CUT TO: INT. SLOT CANYON. DAY. Now it's steeper. We're already 60ft below ground level and it's falling away further in front of us. Another drink and the map is out. CUT TO: INT/EXT. SILHOUETTE PROFILE. CROSS SECTION OF CANYON. DAY. We see a section of the canyon and the tiny figure of Aron moving within it. We track in and elide into a graphic view of him chimneying his way along the canyon now only 3 ft wide at most. It's a chance to see his skill and thirst for climbing. And to see how deep he's going.
+[NARRATOR] The blue spirit stands suspended in the quiet, dusty air of the room, his form shifting and settling as the weight of deception hangs heavy between them. A profound and heavy stillness fills the space, accompanied only by the soft, rhythmic breathing of the night.
 
-[NARRATOR] 18. responds with gentle reassurance:
+[MALE] All, you've lied to everyone else. Hey, I was beginning to feel left out. Now, if you'll excuse me, master.
 
-[MALE] He uses his legs, back and natural body weight to body walk along and down the towering walls. CUT TO: INT. SLOT CANYON. DAY. He's moving towards a final chockstone below him jammed in the gap. You can see the way he's thinking: it's about the size of a bus wheel and used as a platform will help him reduce the 10 foot drop and get quickly down into the next section. CUT TO: INT. SLOT CANYON. DAY. He reaches it at the same time we do and kicks fiercely, automatically, to make sure it's solid.
+[NARRATOR] With a flash of shimmering azure smoke and a sound like rushing wind, the Genie dissolves back into the brass vessel, leaving the chamber wrapped in a deep, undisturbed hush. The little monkey, Abu, and the woven magic carpet watch silently from the moonlit window frame as the heavy silence settles over the room. 
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[MALE] Genie, I'm really sorry.
 
-[MALE] Yep. And across he steps onto it. It holds. CUT TO: INT. CANYON FROM UNDERNEATH SILHOUETTED AGAINST SKY. DAY. As before he squats and clambers down the back side of the stone to reduce his drop down. CUT TO: INT. CANYON. DAY. C/U TIGHT ON ARON. Just as he dangles there's a scraping sound, small but close, too close and the stone judders towards him, pulled by the torque of his weight on his side, rotating. Instantly and instinctively he lets go and drops. Like he's trying to detach a mine dragging him to the sea floor. CUT TO: INT. CANYON. ON CHOCKSTONE. DAY. But it follows him down, somehow he's released its latent energy. CUT TO:
+[NARRATOR] From the curved spout of the resting lamp, a blue tongue extends for a brief moment, making a soft, raspberries sound into the quiet air, before retreating into the dark metal. The boy lets out a long, weary breath, the tension of the evening pulling at his shoulders.
 
-[NARRATOR] 19. speaks with a quiet, measured softness:
+[MALE] Well, fine. Then just stay in there! What are you guys looking at?
 
-[MALE] INT. CANYON. TIGHTER ON ARON. DAY. He watches the chockstone follow him - not looking where he's going. CUT TO: INT. CANYON. ARON'S POV. DAY. The backlit chockstone falling towards him consuming the sky. CUT TO: INT. SLOT CANYON. DAY. His arms rise to protect his head but his eyes remain open and through his fingers we see the next 3 seconds. The rock's face and his. It grabs his left hand and flings it against the left wall. He pulls it away as the rock ricochets against the canyon and careers towards his right arm which he raises, to compensate for withdrawing the left, and to protect his head. The rock smashes the right hand and wrist against the wall and drags it down the remaining distance. Like a cheese grater it tears the skin from the back of the hand and the forearm, decorating the wall. Aron is powerless to stop its force and he lands on his feet allowing the rock to jam in front of him with his hand held against the canyon wall by the stone. All this happens too quickly. We can hardly register what's happened as everything stops. CUT TO: INT. CANYON FLOOR. DAY. Silence. He's standing behind the rock. Like he's in a line for a bus. Like he's shaking someone's hand. A hand shake with the canyon. Silence. CUT TO: TITLE:
+[NARRATOR] He looks toward the window, but the loyal companions have already slipped away into the shadows of the fading evening. The room grows even quieter, the ambient light dimming to a soothing, velvety twilight.
 
-[NARRATOR] 127Hours answers in a low, calming tone:
+[NARRATOR] The boy sinks down, resting his hand against his forehead, letting the quiet wash over his tired thoughts as he tries to untangle the web of secrets he has spun. 
 
-[MALE] CUT TO:
+[MALE] Look, I--I'm sorry. Wait, Abu-- wait--I'm sorry, I didn't-- wait, c'mon. What am I doing? Genie's right--I gotta tell Jasmine the truth.
 
-[NARRATOR] 20. murmurs with a warm, steady cadence:
+[NARRATOR] From somewhere out in the distant, fragrant courtyards, a soft and familiar voice drifts through the warm breeze.
 
-[MALE] INT. CANYON FLOOR. DAY. Adrenaline, searing, roaring pain and panic.
+[FEMALE] Ali, oh Ali--will you come here?
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] Moving with a quiet determination, he reaches for his turban, settling the soft cloth upon his head as he steps out of the room and toward the moonlit gardens, where the night air is sweet with the scent of blooming jasmine.
 
-[MALE] FUCK, get your hand out of there! Pulls and pulls, yanks until his shoulder will dislocate, but nothing moves. Sweat, anxiety flaring, hot pain.
+[MALE] Well, here goes. Jasmine? Where are you?
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] Hidden among the shadows near the tranquil waters of the palace pond, a small, feathered creature wearing a makeshift beak and standing upon wooden stilts mimics the princess's gentle cadence.
 
-[MALE] SHIT, SHIT, SHIT, SHIT... Pushing with his left hand desperate to reverse the action; so simple to undo the moment, to reverse gravity for a split second and pull his hand out... nothing. Again and again thrusting up with knees, thighs, pelvis, left arm, head, neck... nothing. CUT TO: INT. CANYON FLOOR. DAY. Then slam upwards, harder than ever as though he's run at it from a hundred yards and it's a door that will surely burst open.
+[MALE] Ahem--In the menagerie, hurry.
 
-[NARRATOR] Yeearkgg... Unnnhhh speaks with a quiet, measured softness:
+[NARRATOR] Hearing the call, the boy hurries past the water's edge, his footsteps soft upon the stone paths, completely unaware of the feathered trickster who chuckles quietly to himself in the dark.
 
-[MALE] Air exploding out of his lungs. And then a quiet hollow sound of the boulder shifting fractionally. A howl of phenomenal pain -
+[MALE] I'm coming.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[NARRATOR] The red-feathered imp turns around, coming face-to-face with a tall, pink flamingo that stands panting quietly in the cool night air.
 
-[MALE] NO, NO, NO, NO, FUCK. He reverses the fraction and collapses in sweat and blood, knees bleeding, good fingers lacerated. But he remains upright, attached. Unable to physically collapse. Grabs his shirt and wipes sweat away and goes to drink. He hula-hoops out of his backpack to get access to the water, gulps down 3 full throatfulls - stops mid 4th and backwashes as much as he can into the bottle -
+[MALE] Ya got a problem, pinky?
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] With a swift movement, the bird sweeps the long legs out from under the flamingo, sending it softly tumbling, before scurrying off toward the palace chambers where the brass lamp rests quietly beneath a velvet pillow.
 
-[MALE] No, no... more water. He caps the lid tightly and drops it into his pack.
+[MALE] Boy, Jafar's gonna be happy to see you! Good work, Iago! Ah, go on. No, really--on a scale of one to ten, you are an eleven! Ah, Jafar--you're too kind. I'm embarrassed, I'm blushing.
 
-[NARRATOR] Aron responds with gentle reassurance:
+[NARRATOR] Fluttering upward, the bird clutches the heavy lamp in its claws, flying out into the vast, darkening night. Up above, upon the high stone balcony of the palace, the old Sultan stands tall, his voice carrying clearly across the quiet, listening city of Agrabah.
 
-[MALE] Relax. Stop. Come on. He breathes and breathes, taking stock for the 1st time. CUT TO:
+[MALE] People of Agrabah, My daughter has finally chosen a suitor!
 
-[NARRATOR] 21. murmurs with a warm, steady cadence:
+[NARRATOR] Down below, just behind the flowing silken drapery of the archway, the princess watches anxiously, while the young man arrives at the foot of the sweeping marble staircase.
 
-[MALE] C/U: WRISTWATCH Time Check. 3.14pm. Stares at it until it changes to 3.15pm - the watch is working. CUT TO: INT. CANYON FLOOR. DAY. He examines the boulder at each point he can reach, stretching and contorting to see into his crushed and wretched hand where his thumb is visible above and his little finger below. No matter how much he touches them, there is no feeling. He prods up and down to see what feeling is left and where it stops. Comparing left hand to where the right hand is trapped to measure the width of his right wrist - now smaller than the width of his little finger on his right hand. He can barely get the little finger of his left hand in the gap. We reverse back on him at each contortion. He
+[MALE] Jasmine?
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[FEMALE] Ali, where have you been?
 
-[MALE] FUCK! What the fuck? How the fuck did you get your hand trapped by a fucking boulder? Its crushed, it's fucking dying man! He reaches up and touches the trail of blood, hair and skin left on the canyon wall as the rock pushed him to where he is. Looks under boulder, no blood - check. [He hears the crowd cheering on his headphones. It's been playing throughout. He switches it off] He looks above for the first time.
+[MALE] There's something I've got to tell you.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[FEMALE] The whole kingdom has turned out for father's announcement!
 
-[MALE] HELP! HELLO! CUT TO: INT/EXT. PULL OUT OF CANYON. DAY. ... to see the slot canyon, back and back and back, nothing more than a dry crack in the surface of this massive land. Gradually his cries for help become inaudible. CUT TO: INT. CANYON FLOOR. DAY. He unpacks everything with great energy, like a stocktake, and lays it all out on the surface of the rock;
+[MALE] No! But Jasmine, listen to me, please!
 
-[NARRATOR] 22. responds with gentle reassurance:
+[FEMALE] Good luck!
 
-[MALE] chocolate bar wrappers and bakery bag with crumbs of chocolate muffin inside that he volunteered to take away on behalf of the girls, 2 small bean burritos, cd player, cds , extra AA batteries, mini digital video camcorder, small multi- use tool and 3 LED headlamp. CUT TO: BIG C/U: VARIOUS. ... of all these elements - these are now his only companions and their POV of him reflects that as he tests each one for its potential, opening all the blades and laying them out to look at them; sunglasses - scratched, bike Ulok key, rock climbing harness, cloth goggles bag, rapelling equipment, water bottle, car keys, plastic grocery bag, empty de- hydration pack, money, credit cards, green and yellow climbing rope in black zippers bag, a stick, stones and sand. Everything. Pause. He stares at it all and it all stares back at him. CUT TO: C/U: DIGITAL NUMERALS. 3.28, changes to 3.29
+[NARRATOR] With a gentle push, she guides him forward out onto the grand open platform, where the warm evening breeze greets the massive, cheering crowd gathered far below.
 
-[NARRATOR] Hard Energy Cut whispers gently into the still air:
+[MALE] ...Ali Ababwa!
 
-[MALE] TO: INT. CANYON FLOOR. DAY. Inside the tiny gap we see... his headlamp flick on to let him assess the rock and the wall and his hand in between it. He picks a point and begins to chip away with the knife. He's back - energy, movement, purpose, action makes him happy. He occasionally stops to look at his left hand, swollen and puffy and constantly in need of flexing. He gets into a rhythm of 'tick,tick,tick', flex and back again, `tick,tick,tick' CUT TO: TIGHTER C/U: DIGITAL NUMERALS. 4.19pm, changes to 4.20 CUT TO:
+[MALE] Oh, boy!
 
-[NARRATOR] 23. whispers gently into the still air:
+[NARRATOR] High above the festive courtyard, half-hidden in the shadows of a towering arched window, the sorcerer and his feathered companion look down upon the scene below.
 
-[MALE] INT. CANYON FLOOR. DAY. In a huge close up of this eye he can see in the foreground that there's a pile of steel filings from the knife itself, almost as big as the dust from the ground -
+[MALE] Look at them, cheering that little pipsqueak.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[MALE] Let them cheer.
 
-[MALE] Not good. He blows the whole lot into our face with a mighty gust.
+[NARRATOR] The dark-robed figure lifts the old brass lamp, his hand wrapping around its cool metal surface, and rubs the side. Instantly, a swirl of thick, blue smoke blooms in the dim light, taking the familiar, exuberant shape of the cosmic spirit.
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] You know Al, I'm getting reallyyyyyy--I don't think you're him. Tonight, the role of Al will be played by a tall, dark and sinister ugly man.
 
-[MALE] When in a hole.... Alternative; he starts digging away at the wall instead, same result.
+[MALE] I am your master now.
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[NARRATOR] With a harsh motion, the sorcerer casts the blue spirit hard against the stone floor, pressing the heel of his boot down upon the glowing, astonished face.
 
-[MALE] Fuck. It's hard as iron. Pause. You're gonna have to cut your arm off. As if to answer that idea we... CUT TO: INT. CANYON FLOOR. DAY. Tapping a rock in his hand onto the top of the knife as he balances it against the wall or with his mouth. Weird close angles as he almost taps the side of his eye socket. Suddenly, he hammers down with ten times more force onto the handle of the knife, the rock explodes in his hand, showering pick dust over everything, and bouncing the knife off the rock. Once again, gravity takes over. The knife hits his shorts and as he moves to grab it, he misses it and knocks it further round the back of his leg. He pivots and turns to try and catch it but gravity is quicker than his restricted twist and it falls into a hole between the rounded rocks near his left foot -
+[MALE] I was afraid of that.
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] Genie, grant me my first wish. I wish to rule on high, as sultan!
 
-[MALE] NO, NO! CUT TO: INT. CANYON FLOOR. DAY. The knife is visible in the crack below and behind his right leg but he can't twist to get anywhere near it. He tries to pull the canyon wall off balance to get closer. No chance.
+[NARRATOR] Across the vast expanse of the kingdom, heavy, indigo-black clouds begin to twist and churn, swirling in a slow, hypnotic dance high above the ancient stone castle. The very foundations of the palace tremble softly, the deep stone walls vibrating under the heavy weight of encroaching magic as the world drifts deeper into a vast, restless sleep.
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] High above the ancient stone courtyards of the palace, a fierce and sudden gale tore through the quiet night air, ripping the heavy timbered roof away with a sound like a giant sigh. 
 
-[MALE] Shit! He pulls off his right sock and shoe and tries to squeeze his foot into the hole. Too big. Size 10. He looks upward. He can't believe he's done it.
+[MALE] Whoa!
 
-[NARRATOR] Aron whispers gently into the still air:
+[MALE] Bless my soul. What is this? What is going on?
 
-[MALE] Shit!!! CUT TO: INT. BENEATH CANYON FLOOR. We're on a level with the knife in the little hole beneath his feet. An enormous overhead light switches on . The stick enters from top of screen and nudges the knife in a semi circle. It's a bit Punch and Judy if it wasn't so fucking serious. Huge shadows. No success. The knife remains where it is. Maybe an ant races across it. Pause. The stick withdraws. PAUSE: The stick re-enters with the top of it almost broken off, acting like a hook, we push in on the knife as the stick hooks through the little ring at the end of the knife. It lifts. CUT TO: INT. ARON IN CANYON. DAY. Looking down onto the ground, around his leg, his toes holding the stick like a chopstick lift the knife out and up tremulously, breathlessly, towards his good arm. He picks it off the stick gently. Big smile. First one.
+[NARRATOR] The restless wind whipped through the grand chambers, swirling softly around the Sultan as his silk turban lifted gently from his silver hair. When he reached out to catch it, the magic of the moment caught him instead, lifting his entire body upward in a weightless float, stripping away his royal robes until he drifted in quiet, drowsy confusion, clad only in soft boxer shorts. In a shimmering flash of crimson and gold, those very clothes reappeared upon the shoulders of Jafar.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[MALE] Heh heh heh!
 
-[MALE] Sweet. CUT TO:
+[MALE] Jafar, you vile betrayer.
 
-[NARRATOR] 25. murmurs with a warm, steady cadence:
+[MALE] That's Sultan Vile Betrayer to you.
 
-[MALE] TITLE OVER WIDE INT CANYON. NIGHT: " SATURDAY NIGHT ": We pass through the transparent title on our way along the canyon. Half dark. We're on a wind blowing dust through the canyon walls, to find a miner in the distance digging into the rock. It's Aron of course, and his head-lamp is filled with the dust swirling through. He's using the shorter file from the multi tool and has tied a shoe lace to his wrist and looped through the ring at the end of the tool. He pulls his cap down, to keep most of the dust out of his eyes. His lips are caked but he keeps blowing on his arm, to keep it clear. CUT TO: C/U: DIGITAL NUMERALS. NIGHT. The watch, now luminous, changes to 00.00. CUT TO: INT. ARON IN CANYON. NIGHT. Midnight is celebrated with a tiny, careful, sip of the water. He holds it in his mouth. Puffing his cheeks, circulating the precious fluid around. CUT TO: EXT. EXTRAORDINARY LANDSCAPE. DAZZLING DAYLIGHT. DAY. Daylight, a lunar landscape almost, though with patches of green and giant boulders, Aron whom we sense only by being around his shoulder is out walking with his friend, Mark Von Eeckhout through this field of boulders. They come upon one the size of a house buried nose deep in the field.
+[MALE] Oh, yeah? Well, we'll just see about that!
 
-[NARRATOR] Mark offers quietly, watching the shadows drift across the room:
+[NARRATOR] Reaching up to his own head, Aladdin pulled at his turban, hoping to find some secret aid, only to find the linen soft and entirely empty.
 
-[MALE] Wow, look at the size of this one. There's no cliffs or mountains anywhere near. We look at Mark's pleasant, unremarkable face for far too long as he looks around -
+[MALE] The lamp!
 
-[NARRATOR] Mark adds in a relaxed, peaceful voice:
+[MALE] Finders-keepers, Abooboo.
 
-[MALE] How the fuck did this get there? It's like we're on the moon looking over Buzz Aldrin's shoulder at Neil Armstrong; it certainly sounds like that... HARD CUT TO:
+[NARRATOR] Looking up through the torn canopy of the hall, they watched in spellbound silence as a gigantic, sapphire-hued Genie wrapped massive, glowing hands beneath the foundations of the entire palace, gently lifting the heavy stone structure up into the soft, sleepy clouds. With a low whistle that cut through the whistling wind, Aladdin summoned the woven magic of his loyal carpet, stepping aboard as it floated up to meet him and carrying them both into the dizzying heights near the Genie's vast, starlit head.
 
-[NARRATOR] 26. adds in a relaxed, peaceful voice:
+[MALE] Genie! No!
 
-[MALE] INT. CANYON FLOOR. NIGHT. Chip,chip,chip; stretches his arm, flexes his legs, tick,tick,tick. He changes the blade, prising suddenly at a section of the rock with his file. It bites and a dime size shred chip of rock arcs through the night light. He catches it perfectly on his right elbow.
+[MALE] Sorry, kid—I got a new master now.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] With a sweeping motion, the colossal Genie lowered the entire palace down, resting it gently upon the snowy peak of a distant, fog-shrouded mountain where the chill air murmured of deep, dreamless slumber.
 
-[MALE] Cool. He picks it off his arm and places it on top of the rock next to where he's working. It's a grain of sand on the seashore but it's something. Boy, his arm and his legs are aching now. CUT TO: INT. ABOVE ARON, LOOKING DOWN INTO CANYON. NIGHT. He's stepped into his harness and is throwing 30ft of rope up towards us. There's a tangle of knots and carabiners looking for purchase close to camera. Each time it falls back all the way. He persists, each time, varying his line of attack fractionally. Finally it catches. He pulls gently at first, then fiercely, it holds and we slide softly and slowly down the rope and as we reach him he gently takes the weight off his feet finally.
+[MALE] Jafar, I order you to stop!
 
-[NARRATOR] Aron whispers gently into the still air:
+[MALE] There's a new order now—my order! Finally, you will bow to me!
 
-[MALE] Aahhhhh. Lovely relief for him, light off, his eyes close. CUT TO: INT/EXT VARIOUS. DAY. A re-run of the accident. He can now witness it in detail as though it were planned and his role is to point us where to look. 3 seconds become 30... We fall with his face in high definition slow motion watching his future. We fall with the rock pitilessly chasing him down to the floor of the canyon. As he lands... CUT TO:
+[NARRATOR] The Sultan yielded, bowing his head in tired submission, but Princess Jasmine stood tall and unwavering against the cold night air.
 
-[NARRATOR] 27. responds with gentle reassurance:
+[MALE] We'll never bow to you!
 
-[MALE] INT. CANYON. PRE DAWN. ... His eyes open and he stands unsteadily rubbing at his legs, the lack of circulation has forced him up. Doesn't think about the dream, starts chipping again. CUT TO: INT. CANYON. TIME-LAPSE. DAWN. Lit only by his lamp, the black shifts to grey and then there's light. He watches it arrive. A rush of wind. Something flaps and he looks up sharply -
+[MALE] Why am I not surprised?
 
-[NARRATOR] Raven responds with gentle reassurance:
+[MALE] If you will not bow before a sultan, then you will cower before a sorcerer! Genie, my second wish—I wish to be the most powerful sorcerer in the world!
 
-[MALE] Caw-caw. CUT TO: EXT. SKY. DAY. A black raven flies symmetrically the length of the canyon slit above him. Blue, blue sky. CUT TO: INT. CANYON. DAY.
+[NARRATOR] The immense Genie extended a glowing finger, and though Aladdin lunged forward in a desperate attempt to stop the magic, a crackling bolt of trademark lightning flashed downward, enveloping Jafar in a blinding aura before settling him back into his familiar, towering stature, now radiating an even darker, heavier power.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[MALE] Ladies and gentlemen, a warm Agrabah welcome for Sorcerer Jafar!
 
-[MALE] Caw-caw. As he stretches his neck to follow the path of the only other living thing, he freezes stock still. The bird has gone. Nothing moves. Not him.... nothing. Time passes. He switches his light off. CUT TO: EXT. NEVADA DESERT. BLACK ROCK CITY. PRE DAWN. On top of some 4 x 4 vehicles are 8-10 ft huge Easter Island- like masks, multi-coloured. Multiple bikes are strapped to the backs of the vehicles too. More of Aron's friends, including Mark V.E. mill around their 4 x 4s. There are multiple lights in the distance but it's unclear what it might be. The vehicles' own headlights illuminate Rana, a stunningly beautiful red-haired woman in her mid-20s, effortlessly organising the 15 or so group. As before, we remain behind Aron. By the camera's virtually complete concentration on Rana it's clear he's a fan.
+[MALE] Now where were we? Ah, yes—abject humiliation!
 
-[NARRATOR] Rana whispers gently into the still air:
+[NARRATOR] With a flick of his serpentine staff, Jafar cast a heavy, lavender beam across the chamber, compelling both the Princess and her father to bow against their will. From the shadows, the little tiger Rajah bounded forward with a fierce growl, but a soft tap from the staff transformed the great beast into a tiny, purring kitten.
 
-[MALE] OK - lights off and line up alongside me. They turn off their vehicles' headlights as she draws a long line in the sand and they join her standing on one side of it.
+[MALE] Down, boy! Oh, princess... there's someone I'm dying to introduce you to.
 
-[NARRATOR] Rana adds in a relaxed, peaceful voice:
+[MALE] Jafar! Get your hands off her!
 
-[MALE] On the other side of this line, everything will be different. As they all hold hands and together step cross the line  the sparkling lights of the crescent-shaped `town' of vehicles and camps that is Burning Man are replaced by an astonishing sunrise in the Nevada desert. They hoot and holler as Rana smiles beautifully at Aron.
+[NARRATOR] Before Aladdin could reach them, a crack of sorcerer's light struck him backward, and the magical carpet drifted away into the starry mists.
 
-[NARRATOR] Rana responds with gentle reassurance:
+[MALE] Prince Ali... Yes, it is he, But not as you know him. Read my lips and come to grips With reality... Yes, meet a blast from your past Whose lies were too good to last Say hello to your precious Prince Ali!
 
-[MALE] And remember, stick together, the desert wants to kill you. CUT TO: INT. CANYON. DAWN. Aron is very still, looking at the rock and the open blade lying on top of it. Suddenly he looks over his shoulder to see... CUT TO: INT. CANYON. MORNING. A dagger of sunlight appear behind him. His won sunrise.
+[NARRATOR] With a final flourish of his glowing staff, Jafar reversed the magic, stripping away the prince's silks and returning Aladdin to his simple vest and patched trousers.
 
-[NARRATOR] C.U. Watch. offers quietly, watching the shadows drift across the room:
+[MALE] Or should we say Aladdin?
 
-[MALE] 9.30am CUT TO: INT. CANYON. DAWN. He looks at ithe sunbeam as though it's his prey and it might run away. It makes it's way along the canyon walls towards him. He's very still. But it shifts across the floor and it's going to miss him. He whips off his left shoe and sock and pushes it towards the coming light. Slowly it climbs and caresses his ankle and lower calf. He pulls the other sock off and alternates the feet. He looks like he's doing yoga. As it leaves him passing overhead it suddenly bursts into the opening in front of him.
+[MALE] Jasmine, I tried to tell you.
 
-[NARRATOR] 29. murmurs with a warm, steady cadence:
+[MALE] So Ali turns out to be merely Aladdin Just a con, need I go on? Take it from me His personality flaws Give me adequate cause To send him packing on a one-way trip So his prospects take a terminal dip His assets frozen, the venue chosen Is the ends of the earth, whoopee! So long...
 
-[MALE] It's a beautiful sight as the colors of the canyon reawaken but we can see from above that he appears to be behind a door with a room of life beyond him. CUT TO: TITLE: " SUNDAY ": CUT TO: INT. CANYON. DAY. VIDEO MESSAGE ONE.
+[MALE] Good bye, see ya!
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] Ex-Prince Ali!
 
-[MALE] It's three-oh-five on Sunday. This marks my twenty-four-hour mark of being stuck in Blue John Canyon above the Big Drop. My name is Aron Ralston. My parents are Donna and Larry Ralston of Englewood, Colorado. Whoever finds this, please make an attempt to get this to them. Be sure of it. I would appreciate it. He takes long blinks and seems to avoid looking at himself though the screen is facing him. He looks alarmed and wide eyed, startled, in contrast to his slow slurred delivery.
+[NARRATOR] With a wave of dark magic, Jafar returned the little monkey Abu to his natural form, then swept both boy and pet into the hollow center of a tall stone pillar. With a thunderous roar of crimson flame, Jafar launched the pillar into the night sky like a heavy rocket, hurtling toward the horizon just as the faithful magic carpet slipped inside to join them, carrying them away through the quiet, freezing dark toward the silent ends of the earth.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] The heavy stone cylinder tumbled through the drifts of powdery, untouched snow, its momentum slowly spending itself against the freezing expanse of the remote wasteland. With a final, gentle shudder, it rolled to a stop, burying itself slightly in a deep drift under the pale, indifferent moonlight. 
 
-[MALE] So... I was hiking Blue John Canyon yesterday... and this happened. He pulls the camera round to show where his forearm and wrist disappear into the horrifyingly skinny gap between the chockstone and the wall. As he does that we INTERCUT WITH: INT/EXT. VARIOUS. CANYON. DAY. Flashes of the accident-almost in silhouette - like an animatic side view. It freezes just before the moment of entombment. CUT TO: INT. CANYON. DAY. VIDEO FOOTAGE.
+[NARRATOR] From the shadowed depression left by the rolling stone, a figure emerged, shivering violently against the biting, arctic wind that swept across the frozen dunes. Aladdin pulled his tattered garments tight, his breath pluming in the frigid air as he looked desperately around the monochromatic landscape.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[MALE] Abu? Abu!
 
-[MALE] What you're looking at there is my arm, going into the rock... and there it is, stuck. It's been without circulation for 24 hours.
+[NARRATOR] He looked back at a small, trembling mound of snow, shaped like a tiny, frozen statue. 
 
-[NARRATOR] Aron whispers gently into the still air:
+[MALE] Oh, this is all my fault—I should have freed the genie when I had the chance.
 
-[MALE] It's pretty well gone. If the colour doesn't come across on the video, it's grey and blue.
+[NARRATOR] Kneeling down in the deep, freezing powder, he began to dig rapidly with numb fingers, uncovering the little monkey and cradling him tenderly against his chest, tucking him deep within the warmth of his vest.
 
-[NARRATOR] Aron responds with gentle reassurance:
+[MALE] Abu! Are you okay? I'm sorry, Abu—I made a mess of everything, somehow. I gotta go back and set things right.
 
-[MALE] Unnhhhhh.......I'm in deep stuff.
+[NARRATOR] With heavy, resolute steps, he began to wade through the deep snowdrifts, the cold nipping at his heels, until his boot struck something flat and rigid hidden beneath the white blanket. Brushing away the frost, he revealed the edge of the woven magic carpet, frozen stiff in the ice.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[MALE] Carpet!
 
-[MALE] So I have very little water. He can't help look in the camera towards those who know what that means in this place.
+[NARRATOR] He strained against the massive stone pillar that pinned one corner of his faithful friend to the earth, pulling with all his remaining strength, but the heavy masonry refused to budge. Realizing brute force was useless, he dropped to his knees and began frantically scooping away the snow from the base of the cylinder, his breath misting in the quiet dark.
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] Abu, start digging! That's it!
 
-[MALE] Yeah, I have about a third of a litre left. He picks up the water bottle and shakes it for the camera. INTERCUT WITH: INT/EXT. VARIOUS. CANYON. DAY. Different angle on the freeze-frame. CUT TO: INT. CANYON. VIDEO FOOTAGE.
+[NARRATOR] With a final heave, enough snow cleared from the slope. The immense stone pillar trembled, overcame its inertia, and began to roll lazily backward. Aladdin sprinted away, glancing over his shoulder before diving smoothly into a shallow indentation in the snow just as the heavy mass rolled safely over him, leaving him and Abu sitting safely in the carved impression.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[MALE] Yeah! All right!
 
-[MALE] So the way I see it... there's kind of four things happening here... I tried to move it with some rigging... useless... and I tried chipping away at the rock... I think part of the problem is, is that my hand is actually supporting the rock. Which means every time I chip away the rock moves a bit and settles onto my hand again. I can't feel it happening but microscopically, it seems to be, because the little gap over there between the rock and the wall seems to be getting smaller. And this chockstone is the hardest thing here. CUT TO:
+[NARRATOR] Aladdin looked up at his turban, wrapped tightly around his head with a thoroughly terrified Abu clinging to the top like a furry hat. Nearby, the magic carpet shook off a cascade of glittering snow crystals, fluttering through the cold air to scoop them up gently into the starlit sky.
 
-[NARRATOR] 31. speaks with a quiet, measured softness:
+[MALE] Now, back to Agrabah! Let's go!
 
-[MALE] INT. WIDE. MOVING THROUGH CANYON. REALTIME. A breeze slides through the canyon and he shudders involuntarily for five seconds. CUT TO: INT. CANYON. DAY. VIDEO FOOTAGE.
+[NARRATOR] Miles away, beneath a brooding canopy of heavy, crimson clouds, the ancient city of Agrabah lay in heavy shadow, wrapped in an oppressive, unnatural silence. Inside the grand throne room, the air was thick with tension and the soft, flickering amber glow of dying torches. The Sultan sat upon his own throne, bound awkwardly by red velvet strings, dangling like a helpless marionette while Princess Jasmine stood in chains upon the cold marble floor nearby.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[NALE] Puppet ruler want a cracker? Here's your cracker. Shove 'em all right down your throat. Here, have lots!
 
-[MALE] So the third thing left was to cut my arm off.
+[NARRATOR] Jafar, draped in dark, heavy robes that absorbed the torchlight, reached out and yanked the chain, forcing Jasmine to step forward toward the dais, holding a polished, bright red apple on a silver tray.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[MALE] Leave him alone!
 
-[MALE] I don't know whether I could do that but it's pretty much suicide. It's four hours to my vehicle that way and with very difficult climbing with one hand and the bike is like two, two and a half hours, that way but the climbing... fourth class climbing... which I think will be probably impossible with one hand... between the blood loss and the dehydration I think I would die if I cut off my arm.
+[NARRATOR] The parrot paused for a mere heartbeat before cackling softly into the gloom, while Jafar stepped down from the dais, his dark eyes gleaming with quiet triumph.
 
-[NARRATOR] Aron responds with gentle reassurance:
+[MALE] It pains me to see you reduced to this, Jasmine. A beautiful desert bloom such as yourself should be on the arm of the most powerful man in the world.
 
-[MALE] Which means I'm waiting for someone to come along. He summons up the guts to let the evidence out.
+[NARRATOR] With a careless flick of his serpentine finger, a heavy, jewel-encrusted golden crown materialized in the air, floating gently down to rest upon the stone pedestal before her.
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] What do you say, my dear? Why, with you as my queen...
 
-[MALE] I didn't tell anyone where I was going and I didn't leave a note on the truck.
+[NARRATOR] With a sudden, defiant motion, Jasmine reached out, picked up a crystal goblet of deep red wine, and hurled the liquid straight into Jafar's face, the droplets catching the amber torchlight like scattered rubies.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[FEMALE] Never!
 
-[MALE] Dumb. The video whirrs on until he suddenly looks straight into the lens. CUT TO: INT. CANYON. DAY. REALTIME. He hears voices.
+[MALE] I'll teach you some respect!
 
-[NARRATOR] 32. responds with gentle reassurance:
+[NARRATOR] She stumbled backward as his hand rose in a sudden, angry arc, but mid-motion, Jafar froze, his expression shifting from rage to cold, calculating ambition as he lowered his hand slowly.
 
-[MALE] CUT TO: INT. CANYON. DAY. VIDEO FOOTAGE. We see his reaction to this sound through the video message. CUT TO: INT. CANYON. DAY. REALTIME. He puts the camera down and listens. People descending at the S log! He can hear them. He screams and screams and screams and then he stops. He listens again. CUT TO: INT. CANYON. DAY. ARON'S POV BACK UP THE CANYON. The noise is there still. Again he screams and screams. CUT TO: INT. CANYON. DAY. Breathing hard, heart racing he listens again. The noise is still there unchanged. He knows now it's not people. They would have heard him. CUT TO: INT. CANYON. DAY. ARON'S POV. He looks above and behind and sees a kangaroo rat disappearing, scuffling, behind a chockstone. CUT TO: INT. CANYON. DAY. He stops, staring at the camera still recording. He picks it up, rewinds and ... CUT TO: INT. CANYON. DAY. VIDEO FOOTAGE. ... re-runs the sound of him screaming for help.
+[MALE] No. Genie, I have decided to make my final wish. I wish for Princess Jasmine to fall desperately in love with me.
 
-[NARRATOR] HELP!!! HELP!!!! OVER HERE!!!
+[NARRATOR] High above, framed by the open arches of the high stone window, a shadowy figure slipped silently onto the ledge, peering down into the warm, torchlit hall. Below, the ancient blue spirit materialized in a puff of azure smoke, looking up with troubled, expressive eyes.
 
-[NARRATOR] HEEELLLPP!!!
+[MALE] Ah, master—there are a few addendas, some quid pro quo—
 
-[NARRATOR] Freaky. We just see an arbitrary view of the rock and sky on
+[MALE] Don't talk back to me, you stupid blue lout! You will do what I order you to do, slave!
 
-[NARRATOR] the video camera, maybe with a bit of elbow, but we hear his
+[NARRATOR] Jasmine glanced upward, catching sight of Aladdin silhouetted against the night sky, gesturing discreetly with a reassuring nod, silently urging her to change her course. Taking a slow, measured breath, she stepped forward, picked up the glittering crown, and placed it gently upon her dark hair with a soft, practiced smile.
 
-[NARRATOR] desperation, screaming at no one, distorting on the tiny
+[FEMALE] Jafar! I never realized how incredibly handsome you are.
 
-[NARRATOR] speaker.
+[NARRATOR] The great blue genie's jaw dropped in sheer disbelief, hanging down toward the marble floor. With an annoyed flick of his wrist, Jafar reached out and snapped the genie's jaw back up into place as though closing a window shade.
 
-[NARRATOR] CUT TO:
+[MALE] That's better. Now, pussycat...
 
-[NARRATOR] The atmosphere shifts into quiet stillness. inside, within canyon. day. realtime., the ambient light settles with a soft, peaceful glow over the surroundings.
+[NARRATOR] High beneath the soaring, vaulted domes of the palace, the evening air had grown thick and heavy with the scent of smoldering embers and distant jasmine blossoms. Shadows stretched long and slow across the marble floors, dancing lazily in the flickering, golden torchlight. The room was hushed, save for the soft, rhythmic settling of ancient treasures and the quiet, hypnotic ticking of time slipping away like fine, golden sand.
 
-[NARRATOR] He stops it. The sound of his absolute helplessness and need
+[FEMALE] Tell me more about... myself.
 
-[NARRATOR] freaks him out and threatens absolute despair. Snorts.
+[NARRATOR] Princess Jasmine’s voice drifted softly through the chamber, a delicate melody against the heavy silence. She leaned closer, her eyes feigning a dreamy, lulled admiration as Jafar turned his dark gaze down toward her. 
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] You're tall, well dressed...
 
-[MALE] No one's coming Aron. He rewinds to the end of the message and erases his futile calls for help. CUT TO: EXT. ARON'S TRUCK. DAY. Aron's Truck. We sense him in the cab but we're not inside with him yet. Music loud and pulsing as we travel towards the inflatable Scooby Doo. It's 12ft tall, powered by a mini- generator. CUT TO: INT. ARON'S TRUCK. DAY. Aron swerves to affect the figure which buckles and flaps in his after-draft. CUT TO: EXT. ROAD. DAY. We stay with the dancing figure as his truck drives away into the landscape. The generator fan rattles on as the booming bass of the truck fades. CUT TO: INT. CANYON. DAY. You can see him thinking. Will the girls go to the party?
+[NARRATOR] Jafar stepped closer, the velvet of his robes brushing softly against the stone. High above, half-hidden among the shadowy rafters and glittering piles of forgotten gold, a quiet rustle disturbed the stillness. Aladdin dropped soundlessly down onto the mosaic floor, landing like a feather alongside the tiny, furry form of Abu. 
 
-[NARRATOR] 34. adds in a relaxed, peaceful voice:
+Across the hall, the great blue genie gasped, his large eyes widening in sudden, startled recognition.
 
-[MALE] EXT. GOOGLE-EARTH SATELLITE SHOT OF WILDERNESS. DUSK. We're now high above the desert, and in the time-lapse we see the soft, grey, endless line of darkness cross right to left
+[MALE] Al! Al, little buddy!
 
-[NARRATOR] Bringing - adds in a relaxed, peaceful voice:
+[NARRATOR] Aladdin pressed a single finger to his lips, urging quietude into the heavy air. 
 
-[MALE] CUT TO: TITLE: " NIGHT TWO ": CUT TO: INT. CANYON. NIGHT. A flashing, strobe-ing light - Aron's head-lamp bouncing back and forth off the canyon walls - but also, as he continues to chip away... INTERCUT WITH: INT. CANYON. NIGHT. ...jump-cutting, strobe-lit as though by flash, of Aron madly dressing for the night. INTERCUT WITH: C/U: WATCH We see the thermometer on his watch falling down and down from 70 => below 50. CUT TO: INT. CANYON. NIGHT. The whole thing is almost like stop-frame animation. He cannibalizes everything he can, using his knife, his teeth, he tears holes in a cloth camera bag, he's frantically paced to occupy himself, to pass time, to create heat from energy, but he has to be careful not to stab himself in the eye. He thrusts his left arm into the newly fashioned sleeve, pulling it up with his teeth. Purple webbing around his right arm, the insulated Camelbak protects his upper arm from the chilling canyon wall. Yellow webbing wraps a grocery bag  round his upper right bicep.
+[MALE] Shh!
 
-[NARRATOR] 35. offers quietly, watching the shadows drift across the room:
+[NARRATOR] With a comical, exaggerated motion, the genie literally zipped his mouth shut with an invisible zipper, only to immediately unzip it again with a soft, sliding whisper of sound.
 
-[MALE] The dirty green and yellow ropes are curled round his legs like pythons. Finally he puts his head inside the rope bag. CUT TO: INT. ROPE BAG. BLACK. It's plastic inside and although it's black the light from his head-lamp suddenly lights him up alarmingly as we go inside with him. CUT TO: EXT. ROPE BAG. NIGHT. He looks like a multi-coloured version of the Michelin Man, only much thinner. CUT TO: INT. ROPE BAG. NIGHT. He laughs, as though he can see how ludicrous he looks. We return to normal speed as he turns the light off. CUT TO: INT. ROPE BAG. NIGHT. BLACK - but we can hear his breathing close as in a space suit. LONG PAUSE.
+[MALE] Al, I can't help you--I work for senor psychopath, now.
 
-[NARRATOR] Aron responds with gentle reassurance:
+[NARRATOR] For a brief, dizzying moment, the genie’s face shimmered and warped, briefly adopting the sharp, angular features of Jafar before smoothing back into his own familiar, blue countenance. Aladdin offered a reassuring, lopsided smile, undaunted by the impossible magic surrounding them.
 
-[MALE] God, I am praying to you for guidance. I'm trapped in Blue John Canyon - you probably know that - and I don't know what I am supposed to do. I've tried everything I can think of. I need some new ideas. Please show me a sign. PAUSE - Just his breath. He switches on the head lamp and the inside of the bag explodes with light. There's enough light for any kind of heaven but it's just Aron in Blue John Canyon. He looks around his bag. He stops. Silence. Only his breathing to listen to. Heart rate... fast... too fast. Light off.
+[MALE] Hey--I'm a street rat, remember? I'll improvise.
 
-[NARRATOR] Aron whispers gently into the still air:
+[NARRATOR] Slipping gracefully downward, Aladdin slid silently along the sloping slope of a massive pile of golden coins, coming to rest in the deep, protective shadows just a few paces behind Jafar, whose back remained turned to the intrusion. 
 
-[MALE] OK, then, God, since you're apparently busy: Devil, if you're listening, I need some help here. I'll trade you my arm, my soul, whatever you want. Just get me out of here. You want me never to climb again, I can give that up. Just show me the dotted line. PAUSE:
+[MALE] Go on.
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[FEMALE] And your beard... is so... twisted!
 
-[MALE] Ungg-gggu-ggga-gggngh! His throat uncontrollably shudders and splutters as his teeth rattle with cold suddenly. It does sound like a demonic fit from the multi-coloured headless man.
+[NARRATOR] Jasmine kept her arms lightly draped around Jafar’s shoulders, her fingers dancing in the air, pretending to twirl his dark beard while subtly signaling for Aladdin to advance. Aladdin made his quiet move, stepping light as a cloud across the tiled floor. 
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+Perched nearby on a gilded stand, Iago’s sharp eyes caught the movement. The crimson bird squawked in alarm.
 
-[MALE] Yeah. Not very funny. CUT TO: INT. ASPEN STORE. DAY. Aron leaves work: at no point do we see Aron. He's there, you sense him in reflective surfaces, his arms, particularly his right one and his feet occasionally come into shot. It's not a strict P.O.V, more like 'over the shoulder' but without much shoulder. Q What you doin'?
+[MALE] Jaf--mmmmmm!
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] Before the cry could leave his beak, Abu bounded forward like a furry blur, clamping both paws firmly over the parrot's frantic bill to muffle the sound. Jafar turned his head slightly, his dark eyes narrowing in sudden suspicion.
 
-[MALE] Still not sure. I'll see you Tuesday. Q Have a good one.
+[MALE] And the street rat?
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] Jasmine’s heart fluttered, yet her voice remained steady, a soothing, hypnotic balm designed to draw his focus back.
 
-[MALE] Always do. CUT TO:
+[FEMALE] What street rat?
 
-[NARRATOR] Black. whispers gently into the still air:
+[NARRATOR] She pulled him gently toward her, rising up onto her toes to meet his gaze, intending to bridge the distance between them. But just as their faces drew close, Iago—struggling wildly against Abu’s grip—managed to knock a heavy silver bowl from its pedestal. It clattered loudly against the stone floor. 
 
-[MALE] CUT TO:
+Jafar began to turn away, but Jasmine quickly caught him by the shoulders, pulling him back into a sudden, deep embrace, pressing her lips to his to shield the space behind them. Aladdin watched with a look of utter, profound disgust, while nearby, both Iago and Abu mirrored his expression of distaste.
 
-[NARRATOR] 37. murmurs with a warm, steady cadence:
+[MALE] Yuck!
 
-[MALE] C/U: DIGITAL NUMERALS 11:59 => 00.00 in huge, luminous figures. CUT TO: INT. CANYON. NIGHT. He pulls his bag off and pulls his water bottle out of the ground where he has half-buried it. It won't open. He can't unscrew it. He mutters, cursing himself for tightening the lid too much. He puts it between his teeth and levers with his head, but nothing. Is his strength vanishing so quickly? He looks at his puffy left hand... there's a tremble in it. He shakes it to get rid of the tremble and jams the bottle between his legs. He uses a bit of cloth to give his hand better purchase on the top. We're tight on the neck of the bottle as it releases, finally and he lifts it, slowly, almost ceremonially. Controlling the tilt, a half-mouthful of water slides onto his tongue. He tilts the bottle back towards upright but not the whole way. He waits. Circulating the splash of water around his mouth. CUT TO: INT. CANYON. C/U: BOTTLE NECK The bottle neck stares at Aron. CUT TO: INT. CANYON. C/U: ARON ... his eyes staring at the bottle neck. CUT TO: INT. CANYON. NIGHT. He still holds the water in his mouth as he rewinds the top onto the bottle and reburies it in the sand to stop any evaporation. He moves to pop his contact lenses into his mouth and wash them in the moisture. First one then the other as we... CUT TO: INT. ARON'S APARTMENT. DAY. The images shift with the lens change back to his apartment, daylight, we sense him though he's probably in the shower. His ansaphone clicks in.
+[NARRATOR] The kiss broke. Jafar stared down at Jasmine, his gaze drifting upward just in time to catch the gleaming reflection of Aladdin’s approaching figure in the polished metal of her royal crown. His dark eyes flashed with cold fury.
 
-[NARRATOR] Ansaphone answers in a low, calming tone:
+[MALE] You!! How many times do I have to kill you, boy?
 
-[MALE] Aron, it's Mom. Hoping to catch you. Nothing urgent. Dad's in New York so it'll be a quiet weekend. Aron is clearly there but can't answer.
+[NARRATOR] With a vicious flick of his wrist, Jafar unleashed a crackling bolt of purple energy straight toward Aladdin. Jasmine threw herself forward, trying to block the path, but Jafar roughly cast her aside, sending her tumbling to the ground. Aladdin lunged desperately forward, his fingers closing around the cold, heavy metal of Jafar's magical staff.
 
-[NARRATOR] Ansaphone offers quietly, watching the shadows drift across the room:
+[MALE] Get the lamp!
 
-[MALE] Call me. Lots of love. CUT TO: INT. ARON'S APARTMENT. DAY. In front of his bathroom mirror he's slipping his lenses in for the day. It looks like The Man Who Fell To Earth. CUT TO: INT. C/U: VARIOUS. ARON & MIRROR. DAY. Huge close-ups that freak people out who've never worn lenses. Mirror shots and lots of short soft focus. CUT TO: INT. ARON'S APARTMENT. DAY. We hear a girl and a guy somewhere in the apartment. He closes the door. GIRL SHOUTS:
+[NARRATOR] Jasmine scrambled instantly to her feet, running as fast as her slippers could carry her toward the glowing brass vessel resting upon a distant pedestal. But Jafar easily shook off Aladdin's grasp, raising the staff with a cruel, triumphant sneer as a brilliant flash of light engulfed the princess. 
 
-[NARRATOR] Girl murmurs with a warm, steady cadence:
+[MALE] Ah, ah, ah, princess--Your time is up!
 
-[FEMALE] That was your Mom! And your Dad called. Call him. We're going. See you next week. Oh, and Rana called. CUT TO: INT. CANYON FLOOR. PRE DAWN. He is absolutely still. Almost absent. Flies buzz around him. Indeterminate time passes. CUT TO:
+[NARRATOR] In a blink, Jasmine vanished, replaced by a massive, ornate glass hourglass standing tall upon the marble floor. Fine, pale sand immediately began to pour from the upper bulb, cascading downward in a relentless, quiet stream around her trapped form.
 
-[NARRATOR] 39. responds with gentle reassurance:
+[MALE] Jasmine!
 
-[MALE] INT. CANYON FLOOR. PRE DAWN. Massive C/U of an ant. Huge, high-definition image, more like a JCB-digger than an insect, and then more of them, and all moving towards the mosquitoes which hover and land near the real giant, Aron. CUT TO: EXT. CANYON. PRE DAWN. He watches them devour him and then he clears them away from his hand. Suddenly breaks and he's busy now well before sunrise. In the grey-white, soft morning he is involved in recycling his overnight insulation gear into a crude lift and pulley. Obsessive, inventive, analytical, he constantly adjusts and adds and subtracts, and cannibalizes. Undoing and tieing knots with his teeth and hand. Each time nothing happens to the rock. But each time he doesn't stop. He tries again and again and again; looping and re-looping throwing and catching ropes; creating footholds and bouncing in them with his foot, his knees, his ass. Finally he stops. He looks down. For a moment it's as though he will cry. He looks up to where he came from and CUT TO: INT/EXT. VARIOUS. CANYON AND BEYOND. DAY. ... suddenly we're moving, retracing his journey at increasing and eventually staggering speed. Through the slot canyon, up and into the blazing light across the desert paths, past his chained-up bicycle and back to his truck waiting at the side of the road. But we don't stop... SLAM CUT TO: INT. ARON'S TRUCK. DAY. We crash into the back of the truck and there, lying on its side is an almost-full bottle of Gatorade, and then there's a grapefruit, and another one, and they've got sparkly condensation on them -like advertising spritzer mist - all over them. And a water bottle, and an orange. And high energy snack bars and another orange. The fruit seems to roll around the empty truck.
+[NARRATOR] Aladdin cried out, his voice echoing sharply against the high stone walls. From the floor nearby, Iago chuckled, though his celebration was cut tragically short.
 
-[NARRATOR] 40. speaks with a quiet, measured softness:
+[MALE] Oh, nice shot, Jaf--
 
-[MALE] The Gatorade lies on its side and the liquid slaps slowly backward and forward like a Lava lamp. The liquid literally bulges with wetness, moisture texture, and we... CUT TO: INT. CANYON. DAY. ... snap back to Aron's face. CUT TO: TITLE: " MONDAY ": CUT TO: VIDEO MESSAGE TWO. INTERCUT WITH LIVE FOOTAGE. Aron trying not to look at himself:
+[NARRATOR] A heavy golden chalice, dropped with impressive accuracy by Abu, struck the parrot squarely on the head, sending Iago tumbling backward into peaceful unconsciousness. Abu scrambled frantically across the floor toward the glittering lamp, his tiny paws reaching out.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[MALE] Don't toy with me!
 
-[MALE] It's freaking me out looking at myself so I hope you guys are OK with this
+[NARRATOR] Jafar pointed a single, glittering finger at the monkey. In a flash of reddish light, Abu was transformed into a helpless, stuffed plush toy, rolling silently to a halt. Aladdin watched in horror, but before he could move, the magical flying carpet swooped down into the chamber. 
 
-[NARRATOR] Pause answers in a low, calming tone:
+[MALE] Things are unraveling fast, now boy.
 
-[MALE] CUT TO: REALTIME: We can see 2 images of him when we go behind the balanced video on the rock, as he has deliberately turned the screen away from himself. CUT TO: VIDEO:
+[NARRATOR] Jafar snapped his fingers once more. A bolt of dark magic struck the loyal carpet, causing the woven threads to instantly untangle, unraveling into a useless heap of colorful yarn across the floor. Aladdin lunged again for the lamp, but Jafar waved his hand, causing several massive, razor-sharp broadswords to burst violently upward from the stone floor, blocking every path. 
 
-[NARRATOR] Aron whispers gently into the still air:
+Jafar stepped over the barrier, reaching down to scoop the ancient lamp into his palm, throwing his head back in a chilling, triumphant laugh. Aladdin desperately seized one of the heavy swords, yanking it free from the stone.
 
-[MALE] It's Monday - all day - bummer. I spent the morning trying to create a 6:1 system ration and lift the boulder but friction between the rope and carabiners is dissipating every bit of force I apply.
+[MALE] I'm just getting warmed up!
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[NARRATOR] With a sweep of his staff, Jafar breathed a tremendous wall of bright, roaring fire, encircling Aladdin in a cage of leaping flames. The heat was immense, washing over the stone in waves.
 
-[MALE] All it's good for is sitting in... CUT TO: REALTIME: We see a more objective view of his morning's activities as he describes them. We see him below us as the raven flies between us and him. CUT TO: VIDEO:
+[MALE] Are you afraid to fight me yourself, you cowardly snake?
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[NARRATOR] Jafar’s smile widened, stretching unnaturally across his pale face until the dark corners of his mouth seemed to split. From deep within his throat, a long, forked reptilian tongue flicked outward between his teeth, tasting the heated air.
 
-[MALE] There's a raven flies overhead, I clocked it at 8.15. I'll bet it's there tomorrow too. I'll film it for you tomorrow CUT TO: REALTIME: EXT. SKY. DAY. We see the raven and we see him check his watch. Sure enough, 8.14 Slides to 8.15. CUT TO: VIDEO:
+[MALE] A snake, am I? Perhaps you'd like to see how snake-like I can be!
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] The dark sorcerer’s body began to twist, stretch, and scale over, transforming in a roar of magic into a gigantic, terrifying cobra of staggering proportions. The ring of fire surrounding Aladdin shifted, becoming the massive, burning coils of the serpentine beast, winding tightly and drawing ever closer. 
 
-[MALE] I have about one hundred and fifty millilitres of water left. That's four ounces. I can't believe it but I peed twice today, within a few minutes of each other. How is this possible? It's two days since I peed, I'm dehydrated and I had to go so quickly I forgot to save the first. I saved the second in the CamelBak. Will I drink it? It smells foul, and hot but it'll settle. And I can chill it in the sand in the night. It's like Polar winter here for nine hours. CUT TO:
+The giant snake lunged downward, its massive jaws snapping shut just inches from Aladdin, who leaped backward, narrowly avoiding the strike. On the third lunge, Aladdin raised his heavy sword with both hands, swinging with all his might against the tough, glistening scales of the monster.
 
-[NARRATOR] 42. responds with gentle reassurance:
+High above the chaos, upon a floating platform of clouds, the blue genie suddenly appeared clad in bright red-and-white collegiate sweaters, flanked by pom-poms as he led an enthusiastic, rhythmic cheer.
 
-[MALE] REALTIME: We see his precious bottle of water. It looks back at him. Next to it is the Camelbak of his stored urine. CUT TO: VIDEO:
+[MALE] Rickem, rockem, rackem, rake--stick that sword into that snake!
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] The giant cobra paused, its massive yellow eyes rolling upward in sheer exasperation at the musical interruption.
 
-[MALE] No number twos. Which will disappoint my insect friends. They're gonna have to wait. The sunlight appears down here for a few hours. I get 15 minutes of it at 9.35... and apart from chipping away uselessly at this rock that's pretty much my morning routine. CUT TO: REALTIME - TIME-LAPSE: Aron is deathly still as we travel towards him with the dagger of light. His leg is stretched out and the only movement is the change of leg halfway through. He stays in shot throughout getting bigger and then smaller as the light approaches and recedes; the sliver of light leaves the canyon. CUT TO: VIDEO:
+[MALE] You stay out of thissss!
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[NARRATOR] Undeterred, the genie swapped his pom-poms for a tiny, fluttering pennant bearing the letter 'J', waving it gently with a soft, lulling motion.
 
-[MALE] I keep chipping at the rock but just to generate warmth and give me something to do. I think it's making it worse. I know it's settling more on my arm as I remove material from it. The area where I chipped flakes off yesterday has already rotated down onto my arm. PAUSE. I can't feel anything. PAUSE. So I made a great tourniquet and I tried to cut it off. CUT TO:
+[MALE] Jafar, Jafar, he's our man--if he can't do it, GREAT!
 
-[NARRATOR] 43. answers in a low, calming tone:
+[NARRATOR] Seizing the moment of distraction, Aladdin broke away from the coiling tail, sprinting desperately toward the towering glass hourglass where Jasmine was still trapped beneath the falling sand. But the massive snake whipped its head around with blinding speed, blocking the path entirely and knocking Aladdin violently backward onto the cold, unyielding stone.
 
-[MALE] REALTIME: We see him pull the elastic neoprene tubing insulation from the CamelBak. It's stretchy, supple and strong and emerges like a thin snake. It's perfect. He wraps the black neoprene around his right forearm 2 inches below his elbow. Simple overhand knot tightened with his teeth. 2nd knot, 3rd knot, clips the neoprene with a carabiner and twists 6 times tight.
+[NARRATOR] The vast, shadowy cavern hummed with a quiet, resonant stillness, illuminated only by the faint, shimmering glow of golden grains slipping endlessly downward through the towering glass. The air grew thick with a drowsy, heavy warmth, carrying the distant scent of ancient dust and cool midnight stone. Every movement felt softened, slowed by the deep, peaceful hush that settled over the chamber, inviting tired eyes to drift and weary thoughts to rest.
 
-[NARRATOR] Owwwww whispers gently into the still air:
+[FEMALE] Aladdin!
 
-[MALE] Now real pain in his right arm. Weird smile at the success. The skin colour separates; fish belly white below the tourniquet and bright red bunched up crushes of flesh between the elbow and the tourniquet.
+[NARRATOR] The sound echoed softly against the high, curving walls, melting into the gentle background hum of the palace at rest. Aladdin moved with a liquid, effortless grace, sliding smoothly across the cool, polished floor as the heavy shadows swayed in rhythm with his breath. With a quiet, sweeping motion, he reclaimed the blade, darting past the massive, slumbering bulk of the serpentine shadow that now stretched heavily into the night. 
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] The great beast crashed against the ancient masonry, its massive form settling into a deep, immovable heaviness, like a mountain finally yielding to the quiet of dusk. Aladdin climbed lightly along its spine, the cool midnight air brushing softly against his skin, carrying him closer to the heavy glass where Jasmine waited beneath the golden dune.
 
-[MALE] Oh yeah. That aches. He takes out the multi-tool and switches to the long blade. looks at it. Then he presses the blade and draws it quickly across his forearm. Nothing. Repeats it harder. Nothing. No cut, no blood, nothing. He switches to the short knife and saws viciously at the same point.
+[MALE] Hang on, Jasmine!
 
-[NARRATOR] Aron whispers gently into the still air:
+[NARRATOR] The whispered encouragement drifted away like a wisp of evening smoke, suspended in the tranquil quiet. But before the blade could meet the glass, a heavy, coiling shadow descended, wrapping around him with the slow, crushing pressure of a deep, dreamless sleep.
 
-[MALE] Shit! He releases the tourniquet and as the blood flow returns a series of angry red lines establish themselves where he was sawing. He looks at them.
+[MALE] You little fool! You thought you could defeat the most powerful being on earth!
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[NARRATOR] The voice echoed with a hollow, booming resonance, vibrating faintly against the floorboards before fading into the heavy, velvet quiet of the cavern. Nearby, a small feathered form fluttered frantically in the dim light, its hurried movements rustling the quiet air.
 
-[MALE] Pathetic, Aron, pathetic. CUT TO: VIDEO:
+[MALE] Squeeze him, Jafar—squeeze him like a—awk!
 
-[NARRATOR] Aron whispers gently into the still air:
+[NARRATOR] A soft, swirling puff of blue mist drifted through the shadows, carrying a comforting, familiar warmth that pushed back the chill of the cavern. The colossal serpentine form tightened its grip, basking in the supreme stillness of the moment.
 
-[MALE] The blades are too blunt even to break the skin. I guess that's the chipping. It's not even a proper Leatherman. It's a knock-off one we got free in a gift pack with a torch... Mom gave it to me.
+[MALE] Without the genie, boy, you're nothing!
 
-[NARRATOR] Long Pause. responds with gentle reassurance:
+[NARRATOR] Aladdin closed his eyes for a brief, calming moment, listening to the steady, rhythmic beat of his own heart amidst the enveloping quiet. A sudden spark of inspiration bloomed in his mind, clear and gentle like the first star appearing in a twilight sky.
 
-[MALE] Sis. Sonja, I'm very proud of you.
+[MALE] The genie! The genie! The genie has more power than you'll ever have!
 
-[NARRATOR] Aron whispers gently into the still air:
+[MALE] What?!
 
-[MALE] I didn't get to hear firsthand how your championships went, but I heard from Mom that you placed very well at the national competitions, that you were tenth overall in speech and debate in the nation. Hot damn, girl. I'm very proud of you. Not just for that but for who you are. He looks directly in the lens for the first time.
+[NARRATOR] The question hung in the warm, stagnant air, heavy and confused. 
 
-[NARRATOR] Aron responds with gentle reassurance:
+[MALE] He gave you your power, he can take it away!
 
-[MALE] I can imagine you in your living room looking back at me. CUT TO: INT. CANYON. DAY. We see his sister on her living room sofa. The sofa sits in the open section of the canyon. CUT TO: INT. CANYON. DAY. VIDEO FOOTAGE.
+[MALE] Al, what are you doing? Why are you bringing me into this?
 
-[NARRATOR] Aron speaks with a quiet, measured softness:
+[NARRATOR] The blue spirit manifested in a soft cloud of azure stardust, his form shifting lazily in the dim light, radiating a comforting, indigo glow that painted long, soothing shadows across the stone floor.
 
-[MALE] I've been thinking about what my friend Rob in Aspen says to me several... frequently.. Several times that, confusingly, 'It's not what you do but who you are'. I kind of got hung up on that a lot, because I always thought who I was, was very much wrapped up with what I did. That I was happy because of the things that I did that made me happy. If things you do make you happy, then they can also make you unhappy. I think that's why I found myself being as ambitious and energetic - The wind interrupts him and he shivers.
+[MALE] Face it, Jafar—you're still just second best!
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[MALE] You're right! His power does exceed my own! But not for long!
 
-[MALE] It's cold... this place is an ice- box at night... And killing winds.
+[NARRATOR] The massive, serpentine silhouette began to circle slowly, its heavy coils sweeping across the floor with a hypnotic, rhythmic sway that mirrored the slow, steady ticking of a grandfather clock. The motion was mesmerizing, lulling every watchful sense into a deeper, heavier state of repose.
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] The blue spirit watched with a drowsy, bemused expression, gently tapping his own head in a soft, comical gesture that dissolved all remaining tension into the quiet air.
 
-[MALE] (he struggles to complete the sense of the
+[MALE] The boy is crazy. He's a little punch drunk. One too many hits with the snake.
 
-[NARRATOR] Sentence) responds with gentle reassurance:
+[NARRATOR] With a playful puff of magic, his hand morphed briefly into a miniature serpent that tapped his own brow, adding a light, breezy note of amusement to the heavy atmosphere.
 
-[MALE] " - to do all the outings that I did". PAUSE. As he loses track of what he's saying and then catches up, the canyon has become noticeably darker. He's oblivious.
+[MALE] Slave, I make my third wish! I wish to be an all-powerful genie!
 
-[NARRATOR] Aron answers in a low, calming tone:
+[NARRATOR] The cavern seemed to hold its breath. The ambient light dimmed to a soothing twilight hue, and the gentle breeze ceased entirely, leaving a profound, velvet silence in its wake.
 
-[MALE] I did want to say, on the logistical side of things, I have some American Express insurance that should cover costs of the recovery operation when that does happen. Bank account balances should take care of my credit-card debts. You'll have to sell my house, Mom and Dad. Possession- wise, I don't know if Sonja can use my computer and video camera... CUT TO: INT. CANYON. DAY. He's interrupted by a sudden realization as he looks first one way up the canyon and then the other. He looks up at the sky above. CUT TO: EXT. SLOT CANYON. DAY. ARON'S POV. There's an angry looking black motherfucker of a cloud. CUT TO: HUGE C/U OF: A massive crack of noise like the land has split. His eyes staring up, unblinking, the corridor of light above him reflected in is contact lenses like mirrors. Suddenly a drop of water hits his eye like an invisible bomb dropping from the sky. CUT TO:
+[MALE] All right, your wish is my command. Way to go, Al.
 
-[NARRATOR] 46. adds in a relaxed, peaceful voice:
+[NARRATOR] With a heavy, reluctant sigh, the blue spirit raised his hand, gathering the crackling remnants of twilight energy. A brilliant, silent flash of sapphire lightning bloomed across the cavern, washing everything in a tranquil, glowing hue. The towering serpent form began to dissolve, curling inward like smoke fading into a darkening evening sky, transforming into a swirling column of midnight-blue vapor. 
 
-[MALE] EXT. DESERT. DAY. We're many miles away, the dust spits as though hit by silent bullet tracer fire. Raindrops gathering and multiplying, soaking and bouncing off the desert floor, they skim and slip into a groove and then another, the slit instantly fills and water drops crash on the new surface. The spillage spreads and fills everything near it. We tilt up, the sky is furious black, and murderous. Lightning arcs across hundreds of miles. CUT TO: INT. CANYON. DAY. Aron's sky darkens above him. Instantly plunging him into a dark, violet nether-light. He looks up the canyon as he pulls at his arm in panic and tries to gather his laid-out possessions into his backpack. Simultaneously he opens his mouth to gather any drops he can into his parched throat. CUT TO: EXT. DESERT. DAY. A channel fills now as the grooves spill and multiply. The water poured from above appears everywhere, visibility is virtually gone, whether it's through mist or darkness it's impossible to tell. CUT TO: EXT. DESERT. DAY. Another channel explodes like a volcanic surging mass in every direction. The camera literally slips and slides as the water now seems to take a direction towards deeper gulleys, looking for something to fill, for somewhere to escape to. The floor of the desert becomes a river careering towards the slot canyons. CUT TO: EXT. DESERT. DAY. Now carrying debris with it the water cascades into the natural pipe-work of the desert. CUT TO:
+[NARRATOR] Beneath the fading sand, the raised hand of the princess vanished for a final, quiet moment, before Aladdin sprang forward with renewed purpose, bringing the blade down in a clean, swift arc against the glass. 
 
-[NARRATOR] 47. offers quietly, watching the shadows drift across the room:
+[NARRATOR] The heavy glass shattered into a thousand glittering fragments that drifted downward like falling snow, settling softly onto the stone floor. A gentle cascade of warm sand poured out, carrying the princess into the safety of the quiet room, her breath steady and even in the cool, restored air.
 
-[MALE] EXT. BLUE JOHN CANYON S-LOG. DAY. We see the S log from below as someone seems to pour unimaginable tons of water over the lips of the canyon above it. The walls glisten with force as the canyon becomes a 6FT wall of churning mud, hurtling towards the chockstones. The smaller ones are picked up and tossed downstream, smashing and breaking on the bigger ones. CUT TO: INT. CANYON. DAY. WIDE. We can see Aron in the distance pulling at his arm. Without time to watch it's journey towards him, it seems to skip time and hit him like a tsunami under-surging the initial push of water on the floor. CUT TO: INT. CANYON. DAY. CLOSER. In an instant it smashes into his chest, scattering all of his possessions as he still tries to grab them. He pushes and pulls, trying to gain height but is underwater almost immediately. He tries to take a huge suck of air before he's submerged but even that is compromised by water. We hear him choke and he disappears into the liquid wall of mud. CUT TO: INT. CANYON. DAY. UNDERWATER FOOTAGE. We're with him underwater. He's trying to switch his light on. We can see almost nothing in this washing machine of churning slush and debris and malevolent water. The light flicks on. He can see his arm and the rock. Suddenly the water lifts the chockstone and his arm releases. He pulls it towards him, luminous deathly white in the mud, and flat, and too big. CUT TO: INT. CANYON. DAY. UNDERWATER FOOTAGE. We're close on Aron's face, at last free but now suffocating in darkness. CUT TO:
+[MALE] Yes! Yes! The power! The absolute power!
 
-[NARRATOR] 48. responds with gentle reassurance:
+[NARRATOR] The newly formed spirit swelled in size, his laughter echoing hollowly as swirling ribbons of crimson and black smoke enveloped his towering frame, filling the cavern with the deep, rumbling vibrations of a distant, dying storm.
 
-[MALE] INT: CANYON. NIGHT. Aron gasps and throws his night bag off his head and to the floor. He's sweating and gasping; thumped alert but... CUT TO: TITLE: " NIGHT THREE ": CUT TO: INT. CANYON. NIGHT. ... the canyon is dry as Mars. He tries to control his breathing. Head down, sweat drips onto his arm - he licks it off and lifts his head - a sudden shiver - looks at his watch. CUT TO: C/U. WATCH: The display changes from 20.29 => 20.30 CUT TO: INT. CANYON. NIGHT. He can't believe so little time has passed. He's only just closed his eyes. It's going to be a long night. The two bottles stand looking at him. He goes back in the head bag and we go with him. CUT TO: INT. ROPE BAG. NIGHT He holds the video camera at waist height and switches it to playback. He rewinds through his messages. Stops, switches off playback and rewinds the blue LCD screen to save battery. The light is surreal, soft LCD hell. CUT TO: HUGE C/U OF: Battery time. Time rewinding, hurtling backwards.
+[FEMALE] What have you done?
 
-[NARRATOR] 49. responds with gentle reassurance:
+[NARRATOR] The question was soft, touched by the gentle fatigue of a long day finally drawing to its close.
 
-[MALE] Stops. Plays back. CUT TO: INT. CATHEDRAL CAVE. DAY. VIDEO FOOTAGE. Megan and Kristi. The Cathedral. They clamber out in wet clothes - it's from after their first jumps. We see all three of them climb and fall and get out of the water and climb and fall, smashing into the azure water. Their faces are dripping wet, beaming mad, screaming and howling, completely natural, children really, on their first helter- skelter / Big Dipper. He rewinds this time in vision. Kristi's bra and pants are soaking. Megan's top cascades water as she rises out of the water. CUT TO: INT. ROPE BAG. NIGHT For Aron the volume of his and their shouting is deafening and the first human sounds he has heard for days. He watches, staring, laughing; not laughing, staring, eyes tearing in self-pity. CUT TO: C/U: VIDEO CAMERA
+[MALE] Trust me!
 
-[NARRATOR] He Stops It In Vision answers in a low, calming tone:
+[NARRATOR] Deep within the shifting shadows at the base of the towering figure, a small, dark lamp materialized, resting quietly against the cold stone. The sorcerer-turned-spirit continued his wild, frantic conjuring, his voice growing distant and muffled as if heard through a heavy layer of fog.
 
-[MALE] There's water, joy, 2 beautiful girls, happiness, sensuality, company, freedom... CUT TO: INT. ROPE BAG. NIGHT. He looks at the picture and then into the bag. His breathing is hard, pronounced. He carefully tells himself..
+[MALE] The universe is mine to command, to control!
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[MALE] Not so fast, Jafar! Aren't you forgetting something?
 
-[MALE] No. No. Don't. He sees the moisture on the inside of the bag, condensation. He licks it with his sticky tongue, twice, three times. He looks back at the LCD screen. CUT TO:
+[NARRATOR] The dark, towering figure paused, lowering its glowing gaze with a sudden, heavy hesitation. The air grew remarkably still, cool and refreshing as a midnight breeze sweeping through an open window.
 
-[NARRATOR] 50. whispers gently into the still air:
+[MALE] You wanted to be a genie, you got it! And everything that goes with it!
 
-[MALE] INT. ROPE BAG. NIGHT. The LCD looks back at him. CUT TO: INT. ROPE BAG. NIGHT. He kills the image and snaps it shut. CUT TO: INT. CANYON. NIGHT. He emerges from the bag. 21.05 and looks at the bottle. He takes the Camelbak and saying...
+[NARRATOR] Heavy, golden bands of light materialized in the dim air, snapping tightly around the sorcerer's wrists with a dull, echoing clang that faded instantly into the plush, sound-absorbing quiet of the room.
 
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
+[MALE] No! No!
 
-[MALE] See you later... ... swallows quickly 2 'spoons' of urine without disturbing the sediment. Tangy and bitter, the saltiness makes him wince. CUT TO: INT. ARON'S TRUCK. DUSK. We're in his truck again but this time over his shoulder and we can see the Scooby Doo Figure dancing in the distance. It's now lit up too, as night is falling, and we're coming at it from the other direction. As he gets to it he swerves and follows its guide to the party. JUMP CUT TO: EXT. DRIVEWAY. NIGHT Jump cut, pulling up at the party. JUMP CUT TO: INT. PARTY. NIGHT. Jump cut, inside it's nice, full of ordinary decent people, though no one acknowledges Aron as we stay attached to his shoulder. There's a mini-Scooby Doo dancing in the main room and there's a light, early party atmosphere. Aron searches for the girls, approaching any cluster to see which girls they contain. Rana is there but doesn't acknowledge him.
+[MALE] I'm gettin' out of here! Come on, you're the genie, I don't want—
 
-[NARRATOR] 51. offers quietly, watching the shadows drift across the room:
+[NARRATOR] A frantic flutter of feathers beat against the heavy air, but a sudden, irresistible current began to pull through the center of the cavern, gentle yet entirely absolute. The dark figure, along with its protesting companion, was slowly, inexorably drawn downward, folding inward like a closing book until they were pulled entirely into the cool, dark interior of the small brass lamp.
 
-[MALE] There's no Megan or Kristi anywhere and we finally settle on the bar / drinks table where there is an ocean of all kinds of drink. And melting ice in huge buckets with bottles of beer floating around in them. And orange juice, and popsicles. And melon, and lemon and lime. And grapefruit and oranges for Margaritas are filling frosted glasses. During the ritual we... CUT TO: INT. CANYON. NIGHT Aron ducks out of his head-bag and shakes his water bottle. Something he always does - to check the sound of real water. To make sure he hasn't drunk it all without knowing. He opens, tilts and holds as always and then ritualistically removes his contact lenses and washes them in his mouth. Suddenly a shiver tears across him like an attack dog. He coughs a lens out and as he tries to catch it before it goes into the sand he tips the bottle in his lap. He hasn't put the top on fully. It goes horizontal on his shorts and a leak of the sacred fluid darkens his tan shorts. He whips it upright.
+[NARRATOR] The brass vessel settled gently onto the stone floor, resting in profound, undisturbed tranquility.
 
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
+[MALE] Phenomenal cosmic powers! Itty-bitty living space.
 
-[MALE] Fuck a nut, Aron. Pay fucking attention - look what you did? He stares at the stain - with all the dirt on his shorts it's already paste. He screws the lid on slowly and can barely be bothered to lift his lens into his mouth. CUT TO: HUGE C/U OF: With difficulty he puts the murky lens back in his bloody eye. DISSOLVE TO: INT. UNKNOWN. NIGHT. The image shifts with the lens to night, everything short focus. Only one thing at a time clear, everything else diffuse. No idea where we are. We come over Aron's shoulder and he's clearly in the deep background of a vehicle. In front of him a half a dozen of his friends ... and Rana, excitedly chatting. Though we can hear nothing.
+[MALE] Al, you little genius, you!
 
-[NARRATOR] 52. answers in a low, calming tone:
+[NARRATOR] The blue spirit beamed with warm, affectionate pride, his form softening into a comforting, hazy cloud of blue light that drifted lazily upward, brushing against the high ceilings. Around them, the chaotic magic of the night began to settle. The small monkey returned to his familiar form with a soft, comforting sigh, and the patterned carpet re-raveled itself neatly upon the floor like a warm, woven blanket.
 
-[MALE] Gradually it becomes clear it's night outside. They are all undressing in their seats until all are butt naked. The tone  is clearly more infantile than sexual. We're beginning to see there's a ferocious blizzard outside. And we appear to be badly exposed to it. Up a mountain, on the crest of a high road... Snow, hail, swirls savagely around all sides of the truck. We remain inside. It's warm, the heater blows. They prepare themselves for a mutual signal, press their window buttons. All the windows open and a BLIZZARD explodes inside the vehicle. CUT TO: EXT. MOUNTAIN. NIGHT. One shot outside - POVs naked arms out the windows shaking and saluting the storm. Their crazy, happy faces through the windscreen as the weather invades the vehicle. CUT TO: INT. CANYON. NIGHT. Aron very still, listens to their screams. He looks at his knife dangling from his wrist by the shoelace. CUT TO: EXT. CANYON. SUNRISE. Hundreds of miles of canyon - sunrise. The inner canyons change from dark umbers and black shadows to immense bands of pastel yellow, white, green and a hundred shades of red, a hallucinogenic movement towards light.
+[NARRATOR] Jasmine, the Sultan, and the great tiger stood together in the soft, returning glow of the palace lamps. The tiger bounded affectionately into the Sultan's arms, causing a gentle, comical collapse that ended in soft, contented laughter. The grand palace itself drifted back to its rightful place above the quiet city, its spires catching the silvery light of the moon.
 
-[NARRATOR] V.O. responds with gentle reassurance:
+[NARRATOR] Aladdin stood alone in the peaceful stillness, holding the quiet, heavy lamp in his hands. From deep within the tiny brass spout, muffled, grumbling whispers drifted out into the serene night air.
 
-[MALE] `Good morning America!' etc. There's a chorus of 'Good Mornings' from American TV & radio shows. Literally dozens of them from Texas to Oregon, Massachusetts to the Carolinas. CUT TO: TITLE: " TUESDAY ": CUT TO:
+[MALE] Get your blasted beak out of my face!
 
-[NARRATOR] 53. responds with gentle reassurance:
+[MALE] Oh, shut up, you moron!
 
-[MALE] INT. CANYON. MORNING. VIDEO FOOTAGE. Aron joins the morning chorus.
+[MALE] Don't tell me to—
 
-[NARRATOR] Aron murmurs with a warm, steady cadence:
+[NARRATOR] With a final, gentle click, the brass lid settled closed. The murmurs faded into absolute silence, leaving the entire world wrapped in a blanket of deep, undisturbed peace, ready for sleep.
 
-[MALE] Good morning everyone! It's 6:45 Tuesday morning in BJ Canyon. The weather is great! I figure by now that Leona, my housemate - Hi Leona! - has missed me hopefully since I didn't show up last night. Another hour and a half they'll miss me for not showing up for work. Hi Brion at work! Best case scenario is they notify the police and after a 24 hour hold they file a report, a missing persons report. Which means noon tomorrow it's official that I'm gone. I do still have the tiniest bit of water left. Well, actually, I've resorted...I've had a couple pretty good gulps of urine that I saved in my Camelbak. I sorta let it distill...it tastes like hell. So it's 70 hours since I left on my bike from Horseshoe Trailhead during which time I have consumed 3 liters of water and a couple mouthfuls of piss. Pause. Did I say the weather is great? Well, it is. Though flash floods potential is still present. There's 4-prong major canyons upstream from me that all converge in this 3 foot wide gap where I am. The rock I pulled down on top of me, it was put there by flood.
-
-[NARRATOR] Pause whispers gently into the still air:
-
-[MALE] Still, I'd get a drink. He shudders, it's ridiculous. Then composes himself during a long blink and looks straight at the camera.
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] Mom, Dad, I really love you guys. I wanted to take this time to say the times we've spent together have been awesome. I haven't appreciated you in my own heart the way I know I could. Mom, I love you. I wish I'd returned all of your calls, ever.
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] I really have lived this last year. I wish I had learned some lessons more astutely, more rapidly, than I did. I love you. I'll always be with you. CUT TO: INT. CANYON. MORNING. Switches off the camera. He charges into setting up the 6:1 haul system again. Much quicker this time. He clears the rope - the rock - of his possessions and puts his sunglasses on.
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] Ready for lift-off. He bounces his full weight in the stirrups and pulls on the haul line. It looks a better set up.
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] Come on, move, dammit. Nothing. He stops. And stares directly at the knife below him. Absolute stillness. Nothing moves. Not him. Not even the insects. CUT TO: INT. CANYON. MORNING. The knife stares back. CUT TO: INT. CANYON. MORNING. Without warning he suddenly tourniquets his arm again . Twice around the fore arm, knotted twice and clipped with a carabiner that he twists 6 times. He secures the fix by attaching the purple webbing. Looks to his watch CUT TO: C/U: DIGITAL NUMERALS 7:58AM. CUT TO:
-
-[NARRATOR] 55. whispers gently into the still air:
-
-[MALE] INT. CANYON. DAY. He folds open the knife, grasps it in his fist and picking a spot just above the rock's grip on his right wrist, he hesitates and then violently plunges the blade into his arm up to the hilt. He lets go leaving the knife embedded. He swoons and stares at it. He slowly grasps the tool more firmly and wriggles it slightly, the blade connects with something hard. He taps the knife down and feels it knocking on the radius of his upper forearm bone. He puts his ear close and we can hear the little thocking sound.
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] Whoa, that's the bone. He pulls the knife out opening the wound more. There's barely any blood. He pokes at the gash with the tool.
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] Ouch! He can see the epidermis, thick and leathery rough. Yellow fatty tissue under the skin in a membrane layer around the muscle. He thocks, thocks again and some blood finally seeps out and blocks his view. He pulls the knife out and thinks. He's sweating and puts the tool on top of the chockstone. He immediately pulls up his water bottle and stares into it. With a little shake he opens it and drinks it all gulping open throated. He shakes any last drop down and runs his tongue up into the neck. He screws the lid back on and loosens the tourniquet. There's no discernible increase in blood loss. He picks up the video again. CUT TO:
-
-[NARRATOR] Aron whispers gently into the still air:
-
-[MALE] This next part may not be for all viewers at home. It's a little after eight. At precisely eight o'clock I took my last sip of clean water... and... hide your eyes, Mom... He pans across the boulder and zooms in on the wound, smattered with bright red blood.
-
-[NARRATOR] Aron whispers gently into the still air:
-
-[MALE] I made an attempt - a short career in surgery, as it turned out - those knives are just not anywhere close to the task. I've got about an inch-wide gash in my arm that goes about a half inch deep. I cut down through the skin and the fatty tissue, and through some of the muscle. I think I cut a tendon, but I'm not sure. I'll never saw through the bones with this knife. I tried, anyways. It really just didn't go well. The tourniquet is relaxed at this point. Which actually is a little bothersome, considering I'm not bleeding that bad, barely at all. It's so weird. You'd expect to definitely see more pulsing and bleeding, but oh well.
-
-[NARRATOR] Pause whispers gently into the still air:
-
-[MALE] I'm really fucked now. I'm out of water. CUT TO: INT. CANYON. DAY. Stops the video and rips a section of his t-shirt to make an impromptu bandage to cover the wound. As he ties it with his teeth there's a rush of someone else's noise: the swat of wings. He grabs the camera just in time to catch the very end of the raven's flight 70 ft above his head.
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] Shit missed it. 8:31AM. He's late and I still missed it. We can hear his heart racing. He holds his left hand to it hoping to calm it down. CUT TO: EXT. STADIUM. CROWDS. Like the beginning there are thousands of fans filling the screen, people everywhere, maybe holding lighters. And again like the beginning the screen splits into 2...
-
-[NARRATOR] 57. murmurs with a warm, steady cadence:
-
-[MALE] TITLE: " NIGHT FOUR. WEDNESDAY. NIGHT FIVE " CUT TO: INT/EXT. VARIOUS. The rest of Tuesday and night, and Wednesday and night play out through the triptych. Repetition is used to create a trippy sense of losing coherence- sometimes there's 3 Arons doing the same thing. It could be consecutive days or he's forgotten. At key moments it resolves to one image and then back again. Things seem to loop and his close-ups almost seem to watch the loops happening again and again. This is particularly true inside the head bag at night. When his light is switched on it's bleached and monstrously overlit, like cruel HD close- up - his disintegration is terrifying. When it's off we establish a night vision, of green, of blue, that allows us to witness him in hiding. The images, sometimes of himself also, play out on the interior surface of the bag. The effect is like wraparound Imax, multi-screen Technicolor. INT. CANYON. DAY. DIPTYCH. Aron has his headphones on EXT. STADIUM CROWD Listening to the live concert again. The laser in the CD The crowd smears, skips. dragged and distorted. It's been damaged by the time in The numbers skip on the the sand. display. As they stop... CUT TO: INT. CANYON. DAY. Aron falls into the canyon.
-
-[NARRATOR] 58. responds with gentle reassurance:
-
-[MALE] Beyond the foot 11.32 => 11.33 in the sunlight Aron falls again into the HUGE figures. dagger. We don't canyon replayed in slower see above waist motion V.O: HERE he is height. Someone Aron lifts a carrying 2 huge huge rock onto office water his shoulder dispensers by and heaves it their necks walks to crash on into the canyon the chockstone He walks up to Aron It shatters And puts them down into dust. his side and leaves. It's like ARON: quarry mining. `Thanks' He finds a
-
-[NARRATOR] Black Shot- responds with gentle reassurance:
-
-[MALE] Adverts - 7UP, etc. Some putt sized televised, some billboard rock and some radio, pull tab cans begins split and spit, slurpees hammering with grapefruit juice, OJ that - popsicles. ARON: `owwww!' But he carries on.
-
-[NARRATOR] Violently With murmurs with a warm, steady cadence:
-
-[MALE] Temperature 57 - shivers, like 56 - 55  chattering,
-
-[NARRATOR] Racking His offers quietly, watching the shadows drift across the room:
-
-[MALE] A figure starts body with a a small fire to furious comfort Aron. vengeance. Perfect for bacon and beans. He pisses again 02.02=>03.03=>04.04 ARON: Huge luminous figures on There's the "I can't believe the inside of the black interior Scooby this..." bag. Doo waving at a decants the table in front sediment out of V.O: There you are of it piled to Camelbak. The creaking point stench of the with margaritas sediment makes the excess runs him retch and jerk down the table away. Where is all legs. This coming from? ARON: `Fuck Aron 05.05 We see it reflected That shit stinks' on his eyeball the eyelid rustles back and forward. Finished he tucks back in but VIDEO FOOTAGE: During this we there's a small [ARON: RAMBLING ON VIDEO see pictures,
-
-[NARRATOR] 59. whispers gently into the still air:
-
-[MALE] bloom. ARON: ONLY SOMETIMES COHERENT] unremarkable `You can shake Tom, thanks for the lovely, natural and you can dance fire last night... but the last My friend Rob in Aspen ones of Erik + drop is in the says to me several... Jon + Kristi + pants'- of pee frequently... several Matt + Brent + on his shorts. times, confusingly, Gary + Judson + BRYAN + MIKE + INT. ROB IN CANYON ON SOFA. Rachel + Angie ROB: `It's not what you do [SOME TAKE but who you are'. THEIR TURN ON + Erik + Rana + THE SOFA IN Sonja + Jean Marc THE CANYON] + CHAD + KELLER + Soha + Craig + Aron falls Brandon + Chip + One of the things again - the Norm I'm learning here is that I accident didn't enjoy people's re-runs in company that I was with silhouette enough, or as much as I could have. A lot of really good people have spent time with me. Very often I tend to ignore or dismiss their presence in seeking the He eats the essence of their presence. last bite of
-
-[NARRATOR] Burrito Washed murmurs with a warm, steady cadence:
-
-[MALE] Did that make sense? down with a swig of urine, He switches off and applies winces and lip balm. swallows somehow. ARON: He looks at it and bites a `That's it. bit off. Masticates it on I'm on the and on... Chewing. urine diet now. Well, The chockstone it's no waits and Aron's slurpee...' foot kicks and then lands and they fall together. The raven flies. => The accident runs in Aron watches reverse the raven INT. STORE ROOM. DAY.
-
-[NARRATOR] Aron Chipping speaks with a quiet, measured softness:
-
-[MALE] away desultory A slit of light in blackness reveals Jon in work clothes. Aron licks A light switch flicks on and moisture thin metal shelves full of condensation cleaning supplies appear He takes shots from inside the on 3 sides, industrial mop, of himself bag. His head- Aron in his canyon gear, with his still
-
-[NARRATOR] 60. responds with gentle reassurance:
-
-[MALE] lamp blinks right arm out of focus. camera and of unreliably. Tries to knock on door with his hand and left arm. Jon stops him and of the light indicates it won't do any in the canyon. V.O: Where are good. He takes one You going? with the flash VIDEO FOOTAGE: at night in ARON: I'm holding on but the canyon. it's really slowing down, And one inside the time is going really the bag slow but my heart rate is blinding INT. GARAGE. DAY. going like crazy [WE HEAR himself. The We're in the IT POUNDING IN CONTRAST spots in his doorway of a TO HIS SLURRING DELIVERY] eyes bleed garage with I swear it's like 3 x what across into friends in the it should be... other shots background gathered and change around Rana who colour. is working on one Rewinded video - of the giant Megan and Kristi Easter Island masks and back through for Burning Man. his life in the She chats away, canyon and then carefree, some of him she's in baggy climbing in snow dungarees or that existed on overalls with her the tape - triumphant hair falling around pose on top of the icy her face out of its wonder. All ice picks hairband. She brushes and Gore-Tex. it back and flecks of Plaster of Paris dust her skin. She notices Aron. V.O: He's over here RANA: There you are. She shouts to someone: RANA: Here he is. Mum and Dad sitting on Sofa. Sofa sitting in canyon He imagines In front of him - flash-floods his head in Of light the dagger of sunlight.
-
-[NARRATOR] Turns Always whispers gently into the still air:
-
-[MALE] Rana's face is remaining in huge on the inside the light.An of his head bag, smiling accelerating at him. Her face in huge carousel of scale compared to his head. yellow warmth. CUT TO:
-
-[NARRATOR] 61. answers in a low, calming tone:
-
-[MALE] INT. ROPE BAG. BLACK. Breathing close but shallow and rasping.
-
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
-
-[MALE] God, it's Aron again. I still need some help. It's getting bad here. I'm out of water and food. Listen. Give me the strength not to do anything against myself. I want to see this through, whatever. A rumbling thunderous sound grows and the inside of the bag begins to bear the image of the top of the canyon at dawn but crumpled like paper, creased like the bag [BUT STRETCHED ACROSS 2 SCREENS]. The noise grows and grows... CUT TO: INT. CANYON. DAY. INT. CANYON. DAY.
-
-[NARRATOR] Aron'S Upward Pov. whispers gently into the still air:
-
-[MALE] When it can get no louder Obscuring the light on a horse leaps the 6 ft gap his face once they've at the top of the canyon. gone and only dust it's followed by dozens of falling lightly is horses stampeding across his evidence then... roof.... CUT TO: EXT. SKY. DAY. ...the raven beats its wings across the canyon. CUT TO: INT. CANYON. DAY. SINGLE SCREEN. We tilt down the wall  to see Aron completing his obit. Scratched on wall of canyon: Aron Oct 75 => APR 03 RIP. As we reverse back on Aron in the canyon there's a burst of light and color beyond him and on the sofa in the canyon a little boy sits. He's blond, about 3 and in a red polo shirt. He looks like Aron. Aron walks towards him, the sunlight hits his face like a train and Aron looks up to it but keeps moving towards the boy, walking downhill towards the sofa. The boy leaps off the sofa and comes running to Aron.
-
-[NARRATOR] 62. offers quietly, watching the shadows drift across the room:
-
-[MALE] He scoops the boy up with his left arm and balances him around his shoulders with his right handed stump. The boy holds Aron's arms in his little hands and they prance around the sofa, they giggle and shout playing bulls, giraffes, elephants, jousting knights, pretending to walk downhill behind the sofa. Like any father in any park. [A PERFECT POP SONG, BLONDIE MAYBE, PLAYS IN THE DISTANCE]. Like any father in any park. Aron watches the image begin to fade. He switches on the light but its low and feeble. As the images on the inside of the bag fade so too does Aron's lamp. He tries to warm it up but it fades to black. He holds his breath. CUT TO: INT. CANYON. DAY. It's strangely still even by the canyon's standards. He peeks out from his head bag; his contacts are cloudy and sore to blink. You can hear him blink. Eye socket rasping against eyeball. The head lolls like he's lost control of the neck muscles. His tongue rasps as he flexes his mouth to prevent sealing. CUT TO: TITLE. " THURSDAY MAY 1st ". CUT TO: INT. CANYON. DAY. He looks at his obituary on the wall. ARON. OCT 75 => APR 03.
-
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
-
-[MALE] Out of date. May Day. Not dead. He smirks. 8:15 Waits for the raven. No sign INTERCUT WITH: C/U. DIGITAL NUMERALS. 8:30. Nothing.
-
-[NARRATOR] 63. whispers gently into the still air:
-
-[MALE] 8:45 No raven. CUT TO: INT. CANYON. DAY. VIDEO FOOTAGE. It's tough looking at him. So long without water. The dehydration is frightening.
-
-[NARRATOR] Aron murmurs with a warm, steady cadence:
-
-[MALE] No raven today. Everything's fucked. Sonja... if you still want me to play at your wedding... there's a tape in a box in the basement of Mom and Dad's Lounge. It's me 1993 or 1994. We hear the music. Mozart, Beethoven, Bach, Chopin - he can hear it as he played it until...
-
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
-
-[MALE] There was a little boy,and he looked like my cousin Charlie but he was too young. And I don't want to die... But I really don't know what to do. Pause. Quietly, deadly:
-
-[NARRATOR] Voice adds in a relaxed, peaceful voice:
-
-[MALE] I did this Aron. I created this. The boulder did what it was here to do. It was waiting for me but it did the only natural thing it could do. I chose to come here, I chose to do this descent by myself. I chose not to tell anyone where I was going. I chose to turn away from the women who were there to keep me from getting in this trouble. I wanted it to be like this. Look how far I came to find this spot. It's not that I'm getting what I deserve - I'm getting what I wanted. He's empty now. He clicks the camera shut and puts it away. That's over. CUT TO:
-
-[NARRATOR] 64. offers quietly, watching the shadows drift across the room:
-
-[MALE] INT. CANYON. DAY. He looks at his 'good' hand. It's swollen and angry red like an inflated prosthetic on top and around of his real hand. He takes off his shoe and pulls the sock over his hand to cushion his palm and picks up the black rounded hammer rock again. Ignoring the pain he starts hammering at the rock surface. SMASH. MAD NOW.
-
-[NARRATOR] Aron whispers gently into the still air:
-
-[MALE] I hate this rock. The rage blooms purple in his mind.
-
-[NARRATOR] Aron murmurs with a warm, steady cadence:
-
-[MALE] I hate it. His face swells with anger, nostrils flaring.
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] I hate this fucking canyon. A small mushroom cloud of pulverized grit and dust erupts each time.
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] I hate this cold slab pressing me against this damp fucking wall. Smash, Smash, Smash.
-
-[NARRATOR] Aron murmurs with a warm, steady cadence:
-
-[MALE] I know there's water near coz of these fucking mosquitoes. The sock quickly disintegrates with friction as he hammers and hammers.
-
-[NARRATOR] Aron answers in a low, calming tone:
-
-[MALE] I hate this fucking mess. Finally he stops but his fingers are paralyzed, fused rigid around the rock. He pulls them off with his teeth and the stone drops to his feet. There's a thick layer of dust across the top of the stone and his right arm. He tries to blow it away. He fails. Tired, it's too thick and he's too dehydrated. He picks up his knife and using this starts sweeping the grit off his thumb. As he cleans up he accidentally rips away a thin piece of decayed flesh. It peels back a long way like a skin of boiled milk. The insects start to gather.
-
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
-
-[MALE] Shit.
-
-[NARRATOR] 65. whispers gently into the still air:
-
-[MALE] He pokes the thumb with the stubbed point of the blade. On the second prod the blade punctures the epidermis like soft butter. There is a clear hiss as gases escape. The stench is death. He looks at the gangrene attached to him, poisoning him. ARON   Get rid of it Aron, it's dead, it's garbage. He drops to his haunches but the webbing stops him at his waist. He detaches it and drops down again, almost able to squat. His trapped arm is the only thing preventing that. His face is suddenly open. He pushes and pushes with his left hand under the boulder to create maximum downward force on his right arm. Hard, harder, HARDER. It looks insane, unnatural and painful, but he says nothing.
-
-[NARRATOR] Pow offers quietly, watching the shadows drift across the room:
-
-[MALE] Like a gunshot in the canyon, the bone breaks. The sound ricochets. He rises and sees the bone pushing up violently against the skin. He feels it. It's a serrated, but clean, successful break. Still he says nothing. Now he humps his body up and over the chockstone, smearing his feet, one with a shoe, one without, against the wall, he pushes grabbing further and further round the dark side of the chockstone, pulling with a silent, furious intensity. Hard, then harder, and HARDER.
-
-[NARRATOR] Bang adds in a relaxed, peaceful voice:
-
-[MALE] A second gun shot smashes around the canyon. He's sweating heavily and yet euphoric, possessed. He checks the underneath of the arm. It's broken too. Around the same place. He can rotate his forearm like a shaft inside a housing. Giving himself no time to wake up he grabs the knife, looks at the watch- CUT TO: C/U: DIGITAL NUMERALS. 10:32 CUT TO:
-
-[NARRATOR] 66. murmurs with a warm, steady cadence:
-
-[MALE] INT. CANYON. DAY. He mutters...
-
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
-
-[MALE] Ok Aron, here we go. You're in it now. He pushes the knife hard, to the hilt, in between 2 veins on his wrist. Fuck knows where the sweat is coming from but it's pouring out of him. Sawing downwards he makes as large a hole as he can without tearing any of the noodle like veins. He puts the knife in his teeth and pokes his left forefinger and thumb inside his right arm. Like a mechanic he looks to analyse and then he works by feel only. His sweat falls on his knife mixing with the blood. He pulls muscle nearer the surface allowing his knife to slice and pare away at a pinky 'finger-sized' fragment bit by bit. It takes a dozen actions, each time the knife goes back to his teeth. Sort. Pinch. Rotate. Slice. There's not a lot of blood. But he keeps working and working. Once the blood increases he puts the knife down on top of the rock and swiftly ties his tourniquet. He's silent, refusing to verbalize the pain. CUT TO: C/U: DIGITAL NUMERALS.
-
-[NARRATOR] 10.53 adds in a relaxed, peaceful voice:
-
-[MALE] CUT TO: INT. CANYON. DAY. He can't cut the tendon, no matter how hard he slices. But nothing will stop his addiction to surgery now. He folds in and swaps the blade for the pliers. He uses them to bite into an edge of the yellowy tendon. Then squeezing and twisting he tears away a fragment. Grip. Squeeze. Twist. Tear.
-
-[NARRATOR] 67. offers quietly, watching the shadows drift across the room:
-
-[MALE] Finally he finishes the tendon. CUT TO: C/U: DIGITAL NUMERALS. 11:16 CUT TO: INT. CANYON. DAY. He returns to the knife. Finally all that remains inside is a pale white strand. Like swollen angel hair pasta. The nerve. He touches it with the knife edge.
-
-[NARRATOR] Aron answers in a low, calming tone:
-
-[MALE] AAAAARRRRRGGGGHHHH! He explodes internally with vocal pain, through gritted teeth. The first time he has made any sound during the surgery. But it's like he's been taser-ed, he's stunned still for a minute CUT TO: C/U: DIGITAL NUMERALS. 11:17 CUT TO: INT. CANYON. DAY. He looks at it... the nerve. CUT TO: INT. CANYON. DAY. ...and the thin, swollen wire of his own nerve looks back at him. For the final time, he asks himself, `Can you do this?' CUT TO: INT. CANYON. DAY. He puts the knife in and pulls it toward him, an inch, two inches, it lengthens like pulling a guitar string. Unimaginable pain builds in his whole body, like he's pushing his arm into a cauldron of magma...
-
-[NARRATOR] 68. offers quietly, watching the shadows drift across the room:
-
-[MALE] ...until it breaks. He shudders in shock and drops everything for minutes. His head lolls forward dripping. His mind swarming with trauma. And then he's back on the last action stretching the skin of his outer wrist tight and sawing the blade into the wall. It's a piece of gristle on a cutting board. Everything now is forcing us towards the boulder, cramping us in with him impossibly close, he's sweating and heaving, his vision blurring with tears, his contacts failing, his breath impossibly dry and rasping and then, as simply as this all began, his shoulders open and he's free...... He staggers back, one, two, three steps away from his arm... His head swarming with colours, swooning, overpowering. He stares at his obituary as he's born again. His feet stagger under him like a new foal, an involuntary dance, we see colours bleeding and blending in his P.O.V.s and the colours invade our shots of him.
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] I AM NOT GOING TO DIE.... HERE. CUT TO: C/U: DIGITAL NUMERALS. 11.34 am CUT TO: INT. CANYON. DAY. He's busy packaging his stump in the plastic grocery sack and then wrapping that with the yellow webbing he wore as a chocker to keep his neck warm in the night. He stuffs the repackaged arm into the empty Camelbak backpack and throws the straps over his neck to hold the arm in a makeshift sling. Packs his bag, water reservoir, full bottle of shiny urine, video, pocket knife. Grabs his climbing rope, messy and knotted from its use as insulation, and heads off down the canyon. Stops almost immediately and hesitates for a beat. He returns
-
-[NARRATOR] 69. offers quietly, watching the shadows drift across the room:
-
-[MALE] to take 2 photos on his still camera of the rock and his hand. Goodbye. CUT TO: INT. CANYON. DAY. And now the motion and energy and life force of the action movie returns... It's like Ray Liotta's final day in Goodfellas; relentless, frustrating, pressure of life again now he's free from his tomb. Deeper and deeper, down and down into the swirling scoops of the sandstone. Couple of difficult manoeuvres, lots of slipping and bumping, despite his best effort occasionally his right shoulder takes the brunt and he stops, winces and grunts thru the pain. But on he goes, 100 ft of the rope trailing behind him. As we follow its progress snaking after him we see specs of blood on the lower walls. The canyon becomes a chute increasingly steep in which he ignores the shrinking daylight above because he has another target; the twists and turns of the curricles of sedimented sandstone lead to a soft glow, red, translucent, growing and growing in intensity. He pushes forward, the tail of rope whipping faster and faster along the walls and floor. CUT TO: INT/EXT. ROCK SHELF. DAY. Finally, we burst into the dazzling midday sun on a rock shelf halfway up a sheer walled amphitheatre, 200ft high. The scale of the slated cliff face opposite is breathtaking, the dazzling sunlight poaches the air he sucks in and burns his dry eyes. He sees, for the first time in his new life, green. The deep green of a healthy 50ft tree below him and to his left, and he knows. He looks for the bolts drilled into the rock, and he knows. Now he can look down. Right to the edge of vertiginous drop and there below is a puddle of shallow turgid water. Life itself. He wanted it to be there and now he's mesmerized by it. A pair of swifts leave the tree and zig zag up and around him. He wobbles and has to stop himself lunging head first over the precipice. Instead he drops to the bolts and kisses them like the pope arriving in a foreign land. Unravelling the rope of its knots, he's baking in blazing
-
-[NARRATOR] 70. murmurs with a warm, steady cadence:
-
-[MALE] light. He can't go yet, every knot must be undone pulled open between his teeth and his hand. But he'll die if he can't have moisture. He tips the saved urine over himself and licking and retching simultaneously he suddenly stops and listens. He can hear a shuffling, a zip-zip... The rope is uncoiling over the ledge. He put it down to drink. Picking up speed the more it falls, there's only a few feet left. He lunges across the ledge and catches it just in time. That was his future disappearing over the ledge. CUT TO: EXT. CANYON. DAY We're far below - 6 storeys - and see him inch over the edge. Something's not right. It's a difficult overhang and he's awkward and vulnerable with only one useful arm. His bad arm catches horribly on the lip of the ledge. Suddenly he starts coming fast, faster and then hideously, much too fast, accelerating out of control and smashing into the water with deadly force. CUT TO: INT. UNDERWATER. DAY. We're underneath, deep in the pool, and he crashes in an explosive cascade of air forced into the water. CUT TO: EXT. C/U: DAY. His feet gently touch the sandy floor, 10ft to the side of the pool... CUT TO: EXT. POOL. DAY ... he's a great climber and even in his present condition has perfectly executed the descent. And the pool is a puddle, swimming with dead leaves and insects, 2 inches deep at most. He falls on it with his bottles, filling them and dipping his mouth into the water, He washes his head, drinks and fills, drinks and gargles, and drinks again-insects, leaves, tadpoles, everything. Blood splashes in beside him so out comes his map again as he plots his way out. He sees a great goose- necked avenue before him bending to the right.
-
-[NARRATOR] 71. murmurs with a warm, steady cadence:
-
-[MALE] Checking the map... there's a long way to go and he's small, nothing in this landscape. CUT TO: EXT. CANYON. DAY. He walks shedding any weight that might reduce how long he can keep going; his equipment, carabiners, headphones; his harness left like a spent snake skin behind him. He keeps to the shadows of the huge Monument Valley-like cliffs when he can. CUT TO: EXT. HORSESHOE CANYON. DAY. Finally, he comes to the great gallery that we saw in the opening titles. A 300ft huge wall with dozens of broad shouldered figures painted to enormous scale in all shades of tan and maroon. They seem to stare back at him. He salutes them in his own way and continues. He banks left beneath a colossal alcove high up in the cliff face and makes to the flattest ground - there's no shade to hide in here. CUT TO: EXT. HORSESHOE CANYON. DAY. 70 yards ahead, 3 aliens are walking away from him. 2 tall, one shorter. All with elongated bodies and tiny heads, shimmering in the heat. He goes to shout but his voice catches. Then a feeble effort is lost in the vast scale of the canyon. The figures walk on bending and disappearing in the light. He digs deep.
-
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
-
-[MALE] HELP! And the figures turn. There's a terrible pause of uncertainty on both sides and then he pushes out another heartbreaking -
-
-[NARRATOR] Aron whispers gently into the still air:
-
-[MALE] HELP ME! I NEED HELP! The figures begin to run towards him. We watch his face in close up as they come. If tears come, then now they come at the sight of humans. He mutters to himself.
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] Hang in there Aron. At they get closer he summons a surge of energy from somewhere.
-
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
-
-[MALE] My name is Aron Ralston. I was trapped by a boulder on Saturday and I've been without food and water for 5 days. I cut my arm off this morning to get free and I've lost a lot of blood. I need medical attention. There's a pause as they look at this refugee from a low budget horror movie. He hungrily eyes the water bottles attached to their waist bands. This gives them a way in to his world. The moment is broken by their offering him their water. It pours down his throat bypassing the swallow mechanism. CUT TO: INT. TV STUDIO. DAY. ERIK MEJER TESTIMONY (Erik's English is almost perfect, although accented and without humour. His family sit beside him on comfortable chairs in a TV studio. They are very pleased to
-
-[NARRATOR] Erik murmurs with a warm, steady cadence:
-
-[MALE] We are the Mejers from Holland. At the start of the trailhead we talked to a ranger who told us about a car that was parked in the area already for several days and that the owner might be missing in the canyon. We joked that we would keep our eyes open and that we would try to find him. After a hike of 5.3 kilometres to the Great Gallery  where we took some pictures, we returned and suddenly heard a noise behind us, and after that a voice that cried "Help, I need help". Monique and I immediately realized that this had to be the missing person.
-
-[NARRATOR] Erik whispers gently into the still air:
-
-[MALE] We didn't find him, he found us! We gave him our water and Oreos. CUT TO: EXT. HORSESHOE CANYON. DAY. Back now live as Aron wolfs down the cookies and organises the Mejers in a series of jump cuts pushing us through the final stages-he's brutally practical.
-
-[NARRATOR] Erik speaks with a quiet, measured softness:
-
-[MALE] We are the Mejers from Holland. You should stop and rest.
-
-[NARRATOR] Aron whispers gently into the still air:
-
-[MALE] No, we need to keep hiking. We need a helicopter - who can run fastest?- You, go now fast. Take him. Monique runs ahead with Andy, her son.
-
-[NARRATOR] Erik answers in a low, calming tone:
-
-[MALE] They told us you were here.
-
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
-
-[MALE] Who? Who told you?
-
-[NARRATOR] Erik speaks with a quiet, measured softness:
-
-[MALE] The police at the parking lot
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] Do you have a phone?
-
-[NARRATOR] Erik whispers gently into the still air:
-
-[MALE] There's no signal for miles. Nobody for 6 days and then like London buses another couple appears. They too are confronted by:
-
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
-
-[MALE] Do you have a cell phone?
-
-[NARRATOR] Wayne murmurs with a warm, steady cadence:
-
-[MALE] No. I'm Wayne. I have some medical training.
-
-[NARRATOR] Aron whispers gently into the still air:
-
-[MALE] Is it ok for me to drink so much water?
-
-[NARRATOR] Wayne adds in a relaxed, peaceful voice:
-
-[MALE] Sure so long as it doesn't make you vomit. Aron drinks more and more, he overhears...
-
-[NARRATOR] Make sure he doesn't pass out.
-
-[NARRATOR] Aron murmurs with a warm, steady cadence:
-
-[MALE] I gotta stop and empty my shoes. You'll have to tie my shoe lace. As he sits his head slumps forward. He's absolutely motionless. Wayne and Erik try to talk to him but he can barely hear them. A pop song spins round and round distantly. He strains to pull his head up, and, staring, drops forward to his knees. There it is. Filling his vision like a god. Whirling screaming in front of him, dust blasting him as he kneels. A HELICOPTER. CUT TO: EXT. HELICOPTER. DAY. A strange slightly formal man pops out of the helicopter. He almost looks like he's part of the Matrix.
-
-[NARRATOR] Pilot adds in a relaxed, peaceful voice:
-
-[MALE] Are you Aron?
-
-[NARRATOR] Aron answers in a low, calming tone:
-
-[MALE] Yes I am. Can I get a lift? CUT TO: EXT. HELICOPTER. DAY. Aron looks at the beautiful white leather seat before he gets in the back of the helicopter. Surreal. It's a startling contrast to his Frankenstein, and even now it's not lost on him.
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] I'm gonna make a terrible mess of your seat.
-
-[NARRATOR] Pilot speaks with a quiet, measured softness:
-
-[MALE] Just get in buddy. We're all looking for you. The helicopter sucks upwards into the sky leaving Wayne, Monique, Andy and Erik far below.
-
-[NARRATOR] 75. offers quietly, watching the shadows drift across the room:
-
-[MALE] _____________________________________________________________
-
-[NARRATOR] 1000 Hours Later whispers gently into the still air:
-
-[MALE] CUT TO: INT. UNDERWATER. DAY. Underwater. A figure dives in, pulling strong breast strokes down and towards us. Its Aron, fully recovered after surgery. Eyes open, he pulls and pulls down through crystal clear, oxygenated water. INTERCUT WITH: EXT/INT. HOSPITAL ROOM. DAY. As the helicopter and gurney staff transfer him into the medic room he's surrounded by vertical giants as he lies horizontal for the first time in 6 days.
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] Thank you for bringing me back. The most senior of the burly men says,
-
-[NARRATOR] Burly Man speaks with a quiet, measured softness:
-
-[MALE] That's all your miracle days used up kid. You need to rest. You can stand everyone a beer later. Aron is greeted by medics. Needles. Care. Machines. Tubes.
-
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
-
-[MALE] Will you look after this for me please? He opens his fist and there is the small folded up knife. CUT TO: INT. UNDERWATER. DAY. He pulls again releasing a huge chunk of air into a metallic bubble. CUT TO:
-
-[NARRATOR] 76. adds in a relaxed, peaceful voice:
-
-[MALE] INT. HOSPITAL ROOM. DAY. A very soft voice reading.
-
-[NARRATOR] Voice murmurs with a warm, steady cadence:
-
-[MALE] ...his love, the peace that passeth all understanding...
-
-[NARRATOR] Aron answers in a low, calming tone:
-
-[MALE] Mom.
-
-[NARRATOR] Mom whispers gently into the still air:
-
-[MALE] My boy. My only one. There you are. She strokes his head so gently.
-
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
-
-[MALE] Hey Mom.
-
-[NARRATOR] Mom responds with gentle reassurance:
-
-[MALE] How are you feeling?
-
-[NARRATOR] Aron answers in a low, calming tone:
-
-[MALE] OK. Are you okay...
-
-[NARRATOR] Mom speaks with a quiet, measured softness:
-
-[MALE] You've been asleep for 2 days. We are so lucky... She's a decent woman and a devoted mum. She looks weary, worn out with worry and love for her boy.
-
-[NARRATOR] Aron offers quietly, watching the shadows drift across the room:
-
-[MALE] Mom, I'm sorry I scared you. Very soft voice  - Aron hears the same words as he drifts back into drugged rest.
-
-[NARRATOR] Voice offers quietly, watching the shadows drift across the room:
-
-[MALE] ...his love, the peace that passeth all understanding... CUT TO: INT. UNDERWATER. DAY. Face underwater. Pull and kick. Wanting oxygen now. INTERCUT WITH: INT. PRESS CONFERENCE. DAY. (all of this without
-
-[NARRATOR] Sound) offers quietly, watching the shadows drift across the room:
-
-[MALE] Flash of celebrity. His first press conference. And boy, is there a lot of press there!
-
-[NARRATOR] 77. offers quietly, watching the shadows drift across the room:
-
-[MALE] Aron, of course has his camera with him as he walks out and takes a snap of the noise and light. We see his still, it's floor to ceiling, wall to wall journalists. CUT TO: EXT. POOL. DAY. We can see him beneath, swimming along the floor of the pool, like a diver building lung capacity. CUT TO: EXT. VAST CROWD. STADIUM. NIGHT. The vast crowd again, floodlit, ready to begin their evening. CUT TO: INT. ARON'S TRUCK. NIGHT. In Aron's 4 x 4 somewhere in the endless parking lot outside the stadium. Rana is wearing glasses, reading an SMS she's just received.
-
-[NARRATOR] Rana responds with gentle reassurance:
-
-[MALE] OK - he's got 3 vegetarian hotdogs and the tickets and he'll be outside Gate 6 in 5.
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] So are you guys ok with me?
-
-[NARRATOR] Rana responds with gentle reassurance:
-
-[MALE] Yeah. We split up a while back when you were in hospital.
-
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
-
-[MALE] Christine told me.
-
-[NARRATOR] Rana whispers gently into the still air:
-
-[MALE] Is that what this is about?
-
-[NARRATOR] Aron speaks with a quiet, measured softness:
-
-[MALE] Yeah. She laughs at him.
-
-[NARRATOR] Rana offers quietly, watching the shadows drift across the room:
-
-[MALE] What about the climbing? Aron reaches in his bag and pulls out his scary looking prosthetic arm / axe. He clinks the points together. She doesn't laugh, maybe a smile.
-
-[NARRATOR] Rana speaks with a quiet, measured softness:
-
-[MALE] Solo?
-
-[NARRATOR] Aron responds with gentle reassurance:
-
-[MALE] I'm gonna finish the 49ers this winter or next.
-
-[NARRATOR] Rana answers in a low, calming tone:
-
-[MALE] Well, all I can't figure out is what took you so long to cut it off and get one of these. They both laugh. But he also answers.
-
-[NARRATOR] Aron answers in a low, calming tone:
-
-[MALE] Rana, before I did it I was hallucinating, I saw this child, a little blond boy -
-
-[NARRATOR] Rana adds in a relaxed, peaceful voice:
-
-[MALE] Not Jesus please...
-
-[NARRATOR] Aron adds in a relaxed, peaceful voice:
-
-[MALE] No, he looked like my cousin Charlie but way too young... and I didn't know why but I knew he was mine and that this was what lay in front of me. He looks at her. Pause. She doesn't say anything.
-
-[NARRATOR] Aron whispers gently into the still air:
-
-[MALE] But it's not going to be you, is it?
-
-[NARRATOR] Rana murmurs with a warm, steady cadence:
-
-[MALE] No Aron, it's not.
-
-[NARRATOR] Ok. responds with gentle reassurance:
-
-[MALE] Rana leans over and tenderly kisses his cheek.
-
-[NARRATOR] Rana responds with gentle reassurance:
-
-[MALE] You know, everyone who cares for you, a little bit of them dies each time you go back. Before he can work out how to answer she breaks the door open.
-
-[NARRATOR] Rana responds with gentle reassurance:
-
-[MALE] Let's go hero. If they do The Fly first and we miss it we'll never be forgiven. EXT. CONCERT. NIGHT. The concert explode into life. THE POP SONG PLAYS OVER: ` A man will rise, A man will fall... INT. UNDERWATER. DAY. His face pushing for the surface. He surges up and out of the water, to cling by his elbows on the side of the pool. No prosthetic. SONG CONTINUES OVER: ...From the sheer face of love Like a fly from a wall' CUT TO: EXT. POOL. DAY. There in front of him on the grass by the pool is the same sofa as in the canyon. On it and around it, his friends and family, including Rana. There's so many of them they fill the screen. Tucked deep into the sofa, is his son giggling away. They smile, simple, silent support for him. He looks right back at them.
-
-[NARRATOR] The narrative softly draws to a close, and the world outside settles into pure, uninterrupted quiet. The shadows lengthen across the room, wrapping you in a cocoon of warmth, safety, and deep peace. Every breath you take now is slower, softer, and deeper. There is nothing more to do, nowhere else to be. Surrender completely to the gentle pull of sleep. Drifting... floating... sleeping deeply and peacefully through the night.
