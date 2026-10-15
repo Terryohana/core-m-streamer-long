@@ -6,28 +6,154 @@ from google.oauth2.credentials import Credentials
 import urllib.parse
 from PIL import Image, ImageDraw, ImageFont
 
-def generate_thumbnail(movie_title):
-    print(f"Generating thumbnail for {movie_title}...")
-    
-    # Use Pollinations AI (Free, no-auth Image Generation API)
-    # Create an atmospheric, sleep-story vibe prompt
-    prompt = f"A beautiful, extremely soothing cinematic lofi night sky with a subtle crescent moon over dark pine trees, deep midnight blues and glowing stars, no text"
-    safe_prompt = urllib.parse.quote(prompt)
-    url = f"https://image.pollinations.ai/prompt/{safe_prompt}?width=1280&height=720&nologo=true"
-    
-    thumbnail_path = f"{movie_title}_thumbnail.jpg"
-    
-    response = requests.get(url)
-    if response.status_code == 200:
-        with open(thumbnail_path, 'wb') as f:
-            f.write(response.content)
-        print("Thumbnail downloaded successfully!")
-    else:
-        print("Failed to generate thumbnail via AI. Creating a solid color fallback.")
-        img = Image.new('RGB', (1280, 720), color=(10, 15, 30))
-        img.save(thumbnail_path)
-    
-    return thumbnail_path
+import io
+
+# ── Branded thumbnail constants ────────────────────────────────────────────────
+_FONT_REGULAR = r"C:\Windows\Fonts\georgia.ttf"
+_FONT_BOLD    = r"C:\Windows\Fonts\georgiab.ttf"
+_FONT_ARIAL   = r"C:\Windows\Fonts\arialbd.ttf"
+
+_TAGLINES = {
+    "Aliens": "Colonial Marines vs. the Hive",
+    "All About Eve": "Ambition wrapped in applause",
+    "All About Steve": "One woman. One road trip.",
+    "All of Us Strangers": "Love echoes through time and memory",
+    "All the Kings Men": "Power corrupts. Ambition destroys.",
+    "All the Presidents Men": "Two reporters. One conspiracy.",
+    "Almost Famous": "Rock & roll never sleeps",
+    "Alone in the Dark": "Darkness hides more than shadows",
+    "Amadeus": "Genius and jealousy in Vienna",
+    "Amelia": "Sky, courage, and open horizon",
+    "American Beauty": "Look closer. Sleep deeper.",
+    "American Fiction": "A writer's satire on life",
+    "American Gangster": "Empire built in the shadows",
+    "American Graffiti": "One last summer night cruise",
+    "American History X": "Brotherhood forged through hard truth",
+    "American Hustle": "Everyone hustles to survive",
+    "American Madness": "A bank, a crisis, a community",
+    "American Milkshake": "Small town. Big awkward summer.",
+    "American Outlaws": "Riding hard on the frontier",
+    "American Pie": "High school never felt so real",
+    "American President The": "Love in the halls of power",
+    "10 Things I Hate About You": "Shakespeare in a Seattle high school",
+    "12 Monkeys": "Time loops and chaos theory",
+    "12 Years a Slave": "Survival. Dignity. Freedom.",
+    "127 Hours": "Alone. Trapped. Unbreakable.",
+    "A Few Good Men": "You can't handle the truth",
+    "A Quiet Place": "Silence is the only shield",
+    "Alien": "In space, no one hears you breathe",
+    "Alien 3": "No escape. No hope. No choice.",
+    "Alien Nation": "Two detectives. Two worlds.",
+    "Alien vs Predator": "Two hunters. One frozen battlefield.",
+    "Air Force One": "The president fights back at 35,000 ft",
+    "Aladdin": "A diamond in the rough shines bright",
+}
+
+def _get_tagline(movie_name):
+    return _TAGLINES.get(movie_name, "A cinematic journey into sleep")
+
+def _fetch_bg(movie_name, size=(1280, 720)):
+    clean = movie_name.replace("The ", "").replace(" The", "").strip()
+    prompt = (
+        f"cinematic still from {clean}, dark moody atmosphere, "
+        f"deep shadows, dramatic lighting, film noir, wide shot, "
+        f"4k ultra hd, no text, no watermarks"
+    )
+    encoded = urllib.parse.quote(prompt)
+    url = (
+        f"https://image.pollinations.ai/prompt/{encoded}"
+        f"?width={size[0]}&height={size[1]}&nologo=true"
+        f"&model=flux&seed={abs(hash(movie_name)) % 99999}"
+    )
+    try:
+        resp = requests.get(url, timeout=50)
+        resp.raise_for_status()
+        img = Image.open(io.BytesIO(resp.content)).convert("RGB")
+        return img.resize(size, Image.LANCZOS)
+    except Exception:
+        img = Image.new("RGB", size, (5, 8, 20))
+        draw = ImageDraw.Draw(img)
+        w, h = size
+        for y in range(h):
+            r = y / h
+            draw.line([(0, y), (w, y)], fill=(int(5+15*r), int(8+12*r), int(20+30*r)))
+        return img
+
+def _apply_overlay(base_img, movie_title, tagline, duration_hrs):
+    img = base_img.copy().convert("RGBA")
+    w, h = img.size
+    overlay = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    draw_ov = ImageDraw.Draw(overlay)
+    start_y = int(h * 0.35)
+    for y in range(start_y, h):
+        ratio = (y - start_y) / float(h - start_y)
+        alpha = int(230 * (ratio ** 1.2))
+        draw_ov.line([(0, y), (w, y)], fill=(8, 12, 22, min(240, alpha)))
+    for y in range(0, int(h * 0.25)):
+        ratio = 1.0 - (y / float(h * 0.25))
+        draw_ov.line([(0, y), (w, y)], fill=(5, 8, 16, int(140 * ratio)))
+    img = Image.alpha_composite(img, overlay).convert("RGB")
+    draw = ImageDraw.Draw(img)
+
+    try:
+        font_eyebrow = ImageFont.truetype(_FONT_REGULAR, max(22, int(h * 0.036)))
+        font_sub     = ImageFont.truetype(_FONT_REGULAR, max(22, int(h * 0.041)))
+        font_badge   = ImageFont.truetype(_FONT_ARIAL,   max(18, int(h * 0.030)))
+        font_t = ImageFont.truetype(_FONT_BOLD, max(48, int(h * 0.088)))
+        title_text = movie_title.upper()
+        for sz in [int(h*0.088), int(h*0.074), int(h*0.060), int(h*0.048)]:
+            font_t = ImageFont.truetype(_FONT_BOLD, max(36, sz))
+            bb = draw.textbbox((0, 0), title_text, font=font_t)
+            if (bb[2] - bb[0]) < w * 0.92:
+                break
+    except Exception:
+        font_eyebrow = font_sub = font_badge = font_t = ImageFont.load_default()
+        title_text = movie_title.upper()
+
+    eyebrow = "F A L L   A S L E E P   T O"
+    bbox_e = draw.textbbox((0, 0), eyebrow, font=font_eyebrow)
+    ew = bbox_e[2] - bbox_e[0]
+    ey = int(h * 0.66)
+    draw.text(((w-ew)//2+2, ey+2), eyebrow, font=font_eyebrow, fill=(0, 0, 0))
+    draw.text(((w-ew)//2, ey),     eyebrow, font=font_eyebrow, fill=(225, 205, 155))
+
+    bbox_t = draw.textbbox((0, 0), title_text, font=font_t)
+    tw = bbox_t[2] - bbox_t[0]
+    ty = ey + int(h * 0.048)
+    draw.text(((w-tw)//2+3, ty+3), title_text, font=font_t, fill=(0, 0, 0))
+    draw.text(((w-tw)//2, ty),     title_text, font=font_t, fill=(255, 255, 255))
+
+    sub_y = ty + int(h * 0.104)
+    bbox_s = draw.textbbox((0, 0), tagline, font=font_sub)
+    sw = bbox_s[2] - bbox_s[0]
+    draw.text(((w-sw)//2+2, sub_y+2), tagline, font=font_sub, fill=(0, 0, 0))
+    draw.text(((w-sw)//2, sub_y),     tagline, font=font_sub, fill=(200, 215, 235))
+
+    badge_text = f"  {duration_hrs} HOURS  \u2022  NO ADS  \u2022  KOKORO NARRATION  "
+    bbox_b = draw.textbbox((0, 0), badge_text, font=font_badge)
+    bw = bbox_b[2] - bbox_b[0]; bh = bbox_b[3] - bbox_b[1]
+    bx = (w - bw) // 2; by = int(h * 0.895)
+    draw.rounded_rectangle([bx-14, by-7, bx+bw+14, by+bh+9], radius=9,
+                           fill=(15, 22, 40), outline=(80, 105, 150), width=1)
+    draw.text((bx, by), badge_text, font=font_badge, fill=(255, 230, 150))
+    return img
+
+def generate_thumbnail(movie_title, duration_minutes=180, output_path=None):
+    """Generate a branded 'FALL ASLEEP TO [MOVIE]' thumbnail.
+    Returns the path to the saved thumbnail file."""
+    print(f"Generating branded thumbnail for: {movie_title}")
+    if output_path is None:
+        safe = movie_title.replace(" ", "_").replace("/", "_")
+        output_path = f"{safe}_thumbnail.jpg"
+
+    duration_hrs = f"{duration_minutes / 60:.1f}"
+    tagline = _get_tagline(movie_title)
+
+    bg = _fetch_bg(movie_title)
+    result = _apply_overlay(bg, movie_title, tagline, duration_hrs)
+    result.save(output_path, "JPEG", quality=95)
+    print(f"Thumbnail saved: {output_path}")
+    return output_path
 
 def create_mp4(audio_file, thumbnail_path, output_mp4):
     print(f"Combining {audio_file} and {thumbnail_path} into an MP4 video...")
