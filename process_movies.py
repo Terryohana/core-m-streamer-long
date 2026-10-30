@@ -454,6 +454,13 @@ def process_ready_story(story_dir):
     print(f"Master audio track generated successfully!", flush=True)
     
     # Video Encoding & YouTube Upload
+    upload_state_path = os.path.join(story_dir, "youtube_upload_state.json")
+    try:
+        with open(upload_state_path, "r", encoding="utf-8") as state_file:
+            upload_state = json.load(state_file)
+    except (OSError, json.JSONDecodeError):
+        upload_state = {}
+
     try:
         import youtube_uploader
         final_mp4 = os.path.join(story_dir, "video.mp4")
@@ -483,38 +490,54 @@ def process_ready_story(story_dir):
             print("Connecting to YouTube API...", flush=True)
             yt_service = youtube_uploader.get_authenticated_service()
             
-            # Step 1: Upload Full-Length Sleep Story Video
-            print(f"Uploading Full-Length Sleep Story to YouTube...", flush=True)
-            long_vid_id = youtube_uploader.upload_video(
-                youtube=yt_service,
-                video_file=final_mp4,
-                title=upload_title,
-                description=description,
-                thumbnail_path=thumb_path
-            )
+            long_vid_id = upload_state.get("long_video_id")
+            if not long_vid_id:
+                # Step 1: Upload Full-Length Sleep Story Video
+                print("Uploading Full-Length Sleep Story to YouTube...", flush=True)
+                long_vid_id = youtube_uploader.upload_video(
+                    youtube=yt_service,
+                    video_file=final_mp4,
+                    title=upload_title,
+                    description=description,
+                    thumbnail_path=thumb_path
+                )
+                upload_state["long_video_id"] = long_vid_id
+                with open(upload_state_path, "w", encoding="utf-8") as state_file:
+                    json.dump(upload_state, state_file, indent=2)
+            else:
+                print(f"Resuming upload with existing full-story video {long_vid_id}.", flush=True)
             
             # Step 2: Upload the matching 9:16 Short. YouTube's clickable
             # Shorts Related video field is not exposed by the Data API, so
             # upload_short records the exact Studio follow-up in Actions summary.
             if short_mp4 and os.path.exists(short_mp4):
                 try:
-                    short_upload_title = youtube_uploader.format_short_youtube_title(
-                        repurposed_title, duration_minutes * 60
-                    )
-                    print(f"Uploading Highlight Short paired with https://youtu.be/{long_vid_id}...", flush=True)
-                    youtube_uploader.upload_short(
-                        youtube=yt_service,
-                        video_file=short_mp4,
-                        title=short_upload_title,
-                        long_video_id=long_vid_id,
-                        thumbnail_path=short_thumb,
-                    )
+                    if not upload_state.get("short_video_id"):
+                        short_upload_title = youtube_uploader.format_short_youtube_title(
+                            title, duration_minutes * 60
+                        )
+                        print(f"Uploading Highlight Short paired with https://youtu.be/{long_vid_id}...", flush=True)
+                        short_id = youtube_uploader.upload_short(
+                            youtube=yt_service,
+                            video_file=short_mp4,
+                            title=short_upload_title,
+                            long_video_id=long_vid_id,
+                            thumbnail_path=short_thumb,
+                        )
+                        upload_state["short_video_id"] = short_id
+                        with open(upload_state_path, "w", encoding="utf-8") as state_file:
+                            json.dump(upload_state, state_file, indent=2)
+                    else:
+                        print(f"Resuming with existing Short {upload_state['short_video_id']}.", flush=True)
                 except Exception as ue:
                     print(f"Short upload encountered an issue (main video uploaded OK): {ue}", flush=True)
         else:
             print("Skipping YouTube upload: YOUTUBE_OAUTH_TOKEN not set.", flush=True)
     except Exception as e:
         print(f"YouTube Upload Pipeline failed: {e}", flush=True)
+        return False
+
+    return bool(upload_state.get("long_video_id") and upload_state.get("short_video_id"))
 
 def main():
     # 1. Check ready_stories queue first (strictly validated)
@@ -539,7 +562,9 @@ def main():
     if ready_dirs:
         target_dir = ready_dirs[0]
         print(f"Found validated ready story package: {target_dir}")
-        process_ready_story(target_dir)
+        if not process_ready_story(target_dir):
+            print(f"Upload incomplete; keeping {target_dir} in ready_stories for a safe retry.", flush=True)
+            return
         
         os.makedirs("completed_stories", exist_ok=True)
         import shutil

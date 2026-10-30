@@ -424,10 +424,13 @@ def upload_video(youtube, video_file, title, description, thumbnail_path):
     
     # Upload Thumbnail
     print("Uploading custom thumbnail...")
-    youtube.thumbnails().set(
-        videoId=video_id,
-        media_body=MediaFileUpload(thumbnail_path)
-    ).execute()
-    print("Thumbnail uploaded successfully!")
+    try:
+        youtube.thumbnails().set(
+            videoId=video_id,
+            media_body=MediaFileUpload(thumbnail_path)
+        ).execute()
+        print("Thumbnail uploaded successfully!")
+    except Exception as e:
+        print(f"Custom long-video thumbnail upload unavailable: {e}")
     return video_id
 
