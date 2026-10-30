@@ -493,14 +493,19 @@ def process_ready_story(story_dir):
                 thumbnail_path=thumb_path
             )
             
-            # Step 2: Upload 9:16 Highlight Short (linking directly to the full story)
+            # Step 2: Upload the matching 9:16 Short. YouTube's clickable
+            # Shorts Related video field is not exposed by the Data API, so
+            # upload_short records the exact Studio follow-up in Actions summary.
             if short_mp4 and os.path.exists(short_mp4):
                 try:
-                    print(f"Uploading Highlight Short linking to https://youtu.be/{long_vid_id}...", flush=True)
+                    short_upload_title = youtube_uploader.format_short_youtube_title(
+                        repurposed_title, duration_minutes * 60
+                    )
+                    print(f"Uploading Highlight Short paired with https://youtu.be/{long_vid_id}...", flush=True)
                     youtube_uploader.upload_short(
                         youtube=yt_service,
                         video_file=short_mp4,
-                        title=upload_title,
+                        title=short_upload_title,
                         long_video_id=long_vid_id,
                         thumbnail_path=short_thumb,
                     )

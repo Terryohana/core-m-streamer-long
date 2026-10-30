@@ -183,6 +183,14 @@ def format_youtube_title(story_title, duration_minutes):
     story_title = " ".join(str(story_title).split())[:max_story_length].rstrip(" -|:")
     return f"{story_title} | {suffix}"
 
+def format_short_youtube_title(story_title, duration_seconds=50):
+    """Keep the story hook prominent while identifying the Short clearly."""
+    seconds = max(1, round(float(duration_seconds)))
+    suffix = f"| {seconds}-Second Sleep Story #Shorts"
+    max_story_length = 100 - len(suffix) - 1
+    story_title = " ".join(str(story_title).split())[:max_story_length].rstrip(" -|:")
+    return f"{story_title} {suffix}"
+
 def create_mp4(audio_file, thumbnail_path, output_mp4):
     print(f"Combining {audio_file} and {thumbnail_path} into an MP4 video...")
     import subprocess
@@ -321,7 +329,7 @@ def upload_short(youtube, video_file, title, long_video_id=None, thumbnail_path=
     
     body = {
         'snippet': {
-            'title': f"{title} #Shorts",
+            'title': title if title.lower().endswith("#shorts") else f"{title} #Shorts",
             'description': desc,
             'tags': ['shorts', 'sleep story', 'bedtime story', 'relaxing', 'asmr', 'ambient', 'sleep aid'],
             'categoryId': '24'
@@ -355,7 +363,33 @@ def upload_short(youtube, video_file, title, long_video_id=None, thumbnail_path=
         except Exception as e:
             print(f"Custom Shorts thumbnail upload unavailable: {e}")
     print(f"Highlight Short uploaded successfully! ID: {short_id} (https://youtu.be/{short_id})")
+    if long_video_id:
+        print(
+            "YouTube does not set the clickable Shorts 'Related video' field through the Data API. "
+            "The full-story URL is in the description; select the long video in YouTube Studio to add the clickable link."
+        )
+        append_related_video_action_summary(long_video_id, short_id, title)
     return short_id
+
+
+def append_related_video_action_summary(long_video_id, short_video_id, story_title):
+    """Write the Studio follow-up into the current GitHub Actions run summary."""
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return False
+
+    short_url = f"https://youtu.be/{short_video_id}"
+    long_url = f"https://youtu.be/{long_video_id}"
+    studio_url = f"https://studio.youtube.com/video/{short_video_id}/edit"
+    with open(summary_path, "a", encoding="utf-8") as summary:
+        summary.write(
+            f"\n### Related video follow-up: {story_title}\n\n"
+            f"- Short: [{short_video_id}]({short_url})\n"
+            f"- Full story: [{long_video_id}]({long_url})\n"
+            f"- [Open Short in YouTube Studio]({studio_url}), choose **Related video**, select the full story above, and save.\n"
+            "- This requires advanced feature access; the selected long video must be public or unlisted.\n"
+        )
+    return True
 
 def upload_video(youtube, video_file, title, description, thumbnail_path):
     print(f"Uploading {video_file} to YouTube...")

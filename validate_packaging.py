@@ -1,6 +1,7 @@
 """Offline smoke checks for upload titles and both thumbnail layouts."""
 
 from pathlib import Path
+import os
 from tempfile import TemporaryDirectory
 
 from PIL import Image, ImageDraw
@@ -12,6 +13,9 @@ def main():
     title = youtube_uploader.format_youtube_title("The Hive's Lullaby", 354.6)
     assert title == "The Hive's Lullaby | 6-Hour Sleep Story", title
     assert len(title) <= 100
+    short_title = youtube_uploader.format_short_youtube_title("The Hive's Lullaby", 50)
+    assert short_title == "The Hive's Lullaby | 50-Second Sleep Story #Shorts", short_title
+    assert len(short_title) <= 100
 
     def sample_background(movie_title, size=(1280, 720), story_description=""):
         image = Image.new("RGB", size, (20, 33, 55))
@@ -21,9 +25,21 @@ def main():
         return image
 
     original_fetch = youtube_uploader._fetch_bg
+    original_summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
     youtube_uploader._fetch_bg = sample_background
     try:
         with TemporaryDirectory() as temp_dir:
+            summary_path = Path(temp_dir) / "github_summary.md"
+            os.environ["GITHUB_STEP_SUMMARY"] = str(summary_path)
+            assert youtube_uploader.append_related_video_action_summary(
+                "long-video-id", "short-video-id", "The Hive's Lullaby"
+            )
+            summary = summary_path.read_text(encoding="utf-8")
+            assert "long-video-id" in summary
+            assert "short-video-id" in summary
+            assert "Related video" in summary
+            assert "studio.youtube.com/video/short-video-id/edit" in summary
+
             landscape_path = Path(temp_dir) / "landscape.jpg"
             art_path = Path(temp_dir) / "story_art.jpg"
             short_path = Path(temp_dir) / "short.jpg"
@@ -47,6 +63,10 @@ def main():
 
     finally:
         youtube_uploader._fetch_bg = original_fetch
+        if original_summary_path is None:
+            os.environ.pop("GITHUB_STEP_SUMMARY", None)
+        else:
+            os.environ["GITHUB_STEP_SUMMARY"] = original_summary_path
 
     print("Packaging validation passed: distinctive title, 16:9 thumbnail, 9:16 Shorts cover.")
 
