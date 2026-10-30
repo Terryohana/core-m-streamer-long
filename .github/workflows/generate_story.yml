@@ -9,6 +9,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    concurrency:
+      group: sleep-story-generation
+      cancel-in-progress: false
     permissions:
       contents: write # Needed to commit the file move back to GitHub
       
@@ -37,12 +40,15 @@ jobs:
       - name: Install Python Dependencies
         run: pip install --no-cache-dir -r requirements.txt
 
+      - name: Validate title and thumbnail packaging
+        run: python validate_packaging.py
 
       - name: Process Movies
         env:
           COMMANDCODE_API_KEY: ${{ secrets.COMMANDCODE_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           YOUTUBE_OAUTH_TOKEN: ${{ secrets.YOUTUBE_OAUTH_TOKEN }}
+          THUMBNAIL_STYLE: cinematic-night-v1
         run: python -u process_movies.py
 
       - name: Commit Queue Changes

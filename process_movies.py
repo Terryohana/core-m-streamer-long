@@ -153,7 +153,15 @@ def rewrite_chunk(chunk_text, previous_context=""):
     
     raise Exception("No valid LLM API key available (need COMMANDCODE_API_KEY or GROQ_API_KEY).")
 
-def generate_new_title(movie_name):
+def generate_new_title(movie_name, story_description=""):
+    title_rules = (
+        "Create one distinctive, human-sounding 3–7 word sleep-story title. "
+        "Base it on a concrete image, place, or emotional detail from the story. "
+        "Avoid stock AI phrases such as Whispers, Echoes, Midnight Stars, "
+        "Journey into Sleep, and Peaceful Night. Do not copy the source movie title. "
+        "Return only the title, without quotes or explanation."
+    )
+    context = f"Source inspiration: {movie_name}\nStory material: {story_description[:1800]}"
     # Try CommandCode first
     if COMMANDCODE_API_KEY:
         try:
@@ -165,8 +173,8 @@ def generate_new_title(movie_name):
             payload = {
                 "model": "google/gemini-3.5-flash-lite",
                 "messages": [
-                    {"role": "system", "content": "You are a creative writer. Generate a very short, poetic, aesthetic sleep story title inspired by the vibe of the given movie name. Do not include the original movie name. Output ONLY the title, nothing else. Example: 'Echoes of the Midnight Stars'"},
-                    {"role": "user", "content": f"Movie: {movie_name}"}
+                    {"role": "system", "content": title_rules},
+                    {"role": "user", "content": context}
                 ],
                 "temperature": 0.8,
                 "max_tokens": 50
@@ -188,8 +196,8 @@ def generate_new_title(movie_name):
             payload = {
                 "model": "qwen/qwen3.6-27b",
                 "messages": [
-                    {"role": "system", "content": "You are a creative writer. Generate a very short, poetic, aesthetic sleep story title inspired by the vibe of the given movie name. Do not include the original movie name. Output ONLY the title, nothing else. Example: 'Echoes of the Midnight Stars'"},
-                    {"role": "user", "content": f"Movie: {movie_name}"}
+                    {"role": "system", "content": title_rules},
+                    {"role": "user", "content": context}
                 ],
                 "temperature": 0.8,
                 "max_tokens": 50
@@ -200,7 +208,10 @@ def generate_new_title(movie_name):
         except Exception:
             pass
 
-    return "Whispers of the Deep Night"
+    seed_phrase = " ".join(story_description.split()[:5]).strip(" ,.;:")
+    if seed_phrase:
+        return seed_phrase.title()
+    return f"A Quiet Night Near {movie_name}"
 
 def process_movie(script_file):
     base_name = os.path.splitext(os.path.basename(script_file))[0]
@@ -296,7 +307,13 @@ def process_movie(script_file):
         # --- YouTube Auto-Upload Pipeline ---
         try:
             import youtube_uploader
-            thumbnail_jpg = youtube_uploader.generate_thumbnail(base_name)
+            repurposed_title = generate_new_title(base_name, full_text)
+            duration_minutes = len(final_audio_data) / 24000 / 60
+            thumbnail_jpg = youtube_uploader.generate_thumbnail(
+                repurposed_title,
+                duration_minutes=duration_minutes,
+                story_description=full_text[:1800],
+            )
             final_mp4 = f"{base_name}_video.mp4"
             youtube_uploader.create_mp4(final_audio, thumbnail_jpg, final_mp4)
             
@@ -304,14 +321,13 @@ def process_movie(script_file):
             if os.environ.get("YOUTUBE_OAUTH_TOKEN"):
                 yt_service = youtube_uploader.get_authenticated_service()
                 
-                # Generate a brand new, repurposed sleep title!
-                repurposed_title = generate_new_title(base_name)
-                print(f"Renamed '{base_name}' to new title: '{repurposed_title}'")
+                upload_title = youtube_uploader.format_youtube_title(repurposed_title, duration_minutes)
+                print(f"Prepared story title: '{upload_title}'")
                 
                 youtube_uploader.upload_video(
                     youtube=yt_service,
                     video_file=final_mp4,
-                    title=repurposed_title,
+                    title=upload_title,
                     description=f"Drift off to a deeply relaxing, atmospheric sleep story. Close your eyes, slow your breathing, and let the narrative guide you to a restful night's sleep.",
                     thumbnail_path=thumbnail_jpg
                 )
@@ -339,10 +355,17 @@ def process_ready_story(story_dir):
     description = meta.get("description", "A calming, atmospheric sleep story.")
     tags = meta.get("tags", ["sleep story", "bedtime story"])
     
-    if not os.path.exists(thumb_path):
-        print(f"No custom thumbnail found in {story_dir}. Generating atmospheric AI thumbnail...", flush=True)
-        import youtube_uploader
-        thumb_path = youtube_uploader.generate_thumbnail(title)
+    import youtube_uploader
+    duration_minutes = float(meta.get("estimated_duration_minutes", 180))
+    print(f"Generating current cinematic thumbnail for {story_dir}...", flush=True)
+    art_path = os.path.join(story_dir, "story_art.jpg")
+    thumb_path = youtube_uploader.generate_thumbnail(
+        title,
+        duration_minutes=duration_minutes,
+        output_path=thumb_path,
+        story_description=description,
+        art_output_path=art_path,
+    )
         
     print(f"Synthesizing audio for '{title}'...", flush=True)
 
@@ -438,10 +461,20 @@ def process_ready_story(story_dir):
         
         print(f"1. Encoding 1080p full-length MP4 video with ultra-fast FFmpeg engine...", flush=True)
         youtube_uploader.create_mp4(final_audio, thumb_path, final_mp4)
+        upload_title = youtube_uploader.format_youtube_title(title, duration_minutes)
+        short_thumb = os.path.join(story_dir, "short_thumbnail.jpg")
+        youtube_uploader.create_short_visual_frame(art_path, title, short_thumb, description)
         
         print(f"2. Rendering 9:16 vertical Highlight Short with atmospheric artwork...", flush=True)
         try:
-            youtube_uploader.create_short_mp4(final_audio, thumb_path, title, short_mp4, duration=50)
+            youtube_uploader.create_short_mp4(
+                final_audio,
+                art_path,
+                title,
+                short_mp4,
+                duration=50,
+                story_description=description,
+            )
         except Exception as se:
             print(f"Short rendering encountered an issue (continuing with long video): {se}", flush=True)
             short_mp4 = None
@@ -455,7 +488,7 @@ def process_ready_story(story_dir):
             long_vid_id = youtube_uploader.upload_video(
                 youtube=yt_service,
                 video_file=final_mp4,
-                title=title,
+                title=upload_title,
                 description=description,
                 thumbnail_path=thumb_path
             )
@@ -467,8 +500,9 @@ def process_ready_story(story_dir):
                     youtube_uploader.upload_short(
                         youtube=yt_service,
                         video_file=short_mp4,
-                        title=title,
-                        long_video_id=long_vid_id
+                        title=upload_title,
+                        long_video_id=long_vid_id,
+                        thumbnail_path=short_thumb,
                     )
                 except Exception as ue:
                     print(f"Short upload encountered an issue (main video uploaded OK): {ue}", flush=True)
