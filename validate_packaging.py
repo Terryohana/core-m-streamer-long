@@ -2,6 +2,7 @@
 
 from pathlib import Path
 import os
+import subprocess
 from tempfile import TemporaryDirectory
 
 from PIL import Image, ImageDraw
@@ -9,7 +10,35 @@ from PIL import Image, ImageDraw
 import youtube_uploader
 
 
+def validate_ready_story_assets():
+    tracked = subprocess.run(
+        ["git", "ls-files", "ready_stories"],
+        check=True,
+        capture_output=True,
+        text=True,
+    ).stdout.splitlines()
+    story_dirs = sorted({Path(path).parent for path in tracked if path.endswith("metadata.json")})
+    for story_dir in story_dirs:
+        script = story_dir / "script.md"
+        if not script.is_file() or script.stat().st_size <= 100:
+            continue
+        assets = {
+            "story_art.jpg": (1280, 720),
+            "thumbnail.jpg": (1280, 720),
+            "short_thumbnail.jpg": (1080, 1920),
+        }
+        for name, expected_size in assets.items():
+            path = story_dir / name
+            if not path.is_file() or path.stat().st_size <= 10_000:
+                raise AssertionError(f"Missing or undersized prebuilt asset: {path}")
+            with Image.open(path) as image:
+                if image.size != expected_size:
+                    raise AssertionError(f"Unexpected image size for {path}: {image.size}")
+
+
 def main():
+    validate_ready_story_assets()
+
     title = youtube_uploader.format_youtube_title("The Hive's Lullaby", 354.6)
     assert title == "The Hive's Lullaby | 6-Hour Sleep Story", title
     assert len(title) <= 100
@@ -17,7 +46,7 @@ def main():
     assert short_title == "The Hive's Lullaby | 50-Second Sleep Story #Shorts", short_title
     assert len(short_title) <= 100
 
-    def sample_background(movie_title, size=(1280, 720), story_description=""):
+    def sample_background(movie_title, size=(1280, 720), story_description="", require_background=False):
         image = Image.new("RGB", size, (20, 33, 55))
         draw = ImageDraw.Draw(image)
         draw.rectangle((size[0] // 2, 0, size[0], size[1]), fill=(94, 110, 129))

@@ -1,6 +1,7 @@
 import os
 import hashlib
 import requests
+import time
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from google.oauth2.credentials import Credentials
@@ -63,7 +64,7 @@ def _get_tagline(movie_name, story_description=""):
             return first_clause
     return _TAGLINES.get(movie_name, "A quiet world to drift through")
 
-def _fetch_bg(movie_name, size=(1280, 720), story_description=""):
+def _fetch_bg(movie_name, size=(1280, 720), story_description="", require_background=False):
     clean = movie_name.replace("The ", "").replace(" The", "").strip()
     scene = story_description[:240].replace("\n", " ") if story_description else clean
     has_space_setting = any(word in f"{clean} {scene}".lower() for word in ("space", "alien", "planet", "starship", "galaxy"))
@@ -83,12 +84,21 @@ def _fetch_bg(movie_name, size=(1280, 720), story_description=""):
         f"?width={size[0]}&height={size[1]}&nologo=true"
         f"&model=flux&seed={seed}"
     )
+    last_error = None
+    for attempt in range(3):
+        try:
+            resp = requests.get(url, timeout=50)
+            resp.raise_for_status()
+            img = Image.open(io.BytesIO(resp.content)).convert("RGB")
+            return img.resize(size, Image.LANCZOS)
+        except Exception as exc:
+            last_error = exc
+            if attempt < 2:
+                time.sleep(3 * (attempt + 1))
+    if require_background:
+        raise RuntimeError(f"Could not fetch story-specific artwork for {movie_name}: {last_error}") from last_error
+
     try:
-        resp = requests.get(url, timeout=50)
-        resp.raise_for_status()
-        img = Image.open(io.BytesIO(resp.content)).convert("RGB")
-        return img.resize(size, Image.LANCZOS)
-    except Exception:
         img = Image.new("RGB", size, (5, 8, 20))
         draw = ImageDraw.Draw(img)
         w, h = size
@@ -96,6 +106,8 @@ def _fetch_bg(movie_name, size=(1280, 720), story_description=""):
             r = y / h
             draw.line([(0, y), (w, y)], fill=(int(5+15*r), int(8+12*r), int(20+30*r)))
         return img
+    except Exception:
+        raise RuntimeError(f"Could not create a background for {movie_name}: {last_error}") from last_error
 
 def _apply_overlay(base_img, movie_title, tagline, duration_hrs):
     img = base_img.copy().convert("RGBA")
@@ -153,7 +165,7 @@ def _apply_overlay(base_img, movie_title, tagline, duration_hrs):
     draw.text((bx, by), badge_text, font=font_badge, fill=(255, 230, 150))
     return img
 
-def generate_thumbnail(movie_title, duration_minutes=180, output_path=None, story_description="", art_output_path=None):
+def generate_thumbnail(movie_title, duration_minutes=180, output_path=None, story_description="", art_output_path=None, require_background=False):
     """Generate a cinematic Long Sleepy Story thumbnail from story-specific details.
     Returns the path to the saved thumbnail file."""
     if _THUMBNAIL_STYLE != "cinematic-night-v1":
@@ -166,7 +178,7 @@ def generate_thumbnail(movie_title, duration_minutes=180, output_path=None, stor
     duration_hrs = f"{duration_minutes / 60:.1f}"
     tagline = _get_tagline(movie_title, story_description)
 
-    bg = _fetch_bg(movie_title, story_description=story_description)
+    bg = _fetch_bg(movie_title, story_description=story_description, require_background=require_background)
     if art_output_path:
         os.makedirs(os.path.dirname(os.path.abspath(art_output_path)), exist_ok=True)
         bg.save(art_output_path, "JPEG", quality=94)
@@ -283,7 +295,7 @@ def create_short_visual_frame(art_path, title, output_frame_path, story_descript
     bg.convert('RGB').save(output_frame_path, quality=95)
     return output_frame_path
 
-def create_short_mp4(audio_file, thumbnail_path, title, output_mp4, duration=50, story_description=""):
+def create_short_mp4(audio_file, thumbnail_path, title, output_mp4, duration=50, story_description="", prebuilt_frame=False):
     print(f"Generating 9:16 vertical Short video for '{title}' (duration: {duration}s)...")
     import os, subprocess
     try:
@@ -292,8 +304,13 @@ def create_short_mp4(audio_file, thumbnail_path, title, output_mp4, duration=50,
     except Exception:
         ffmpeg_exe = 'ffmpeg'
         
-    temp_frame = output_mp4.replace(".mp4", "_frame.jpg")
-    create_short_visual_frame(thumbnail_path, title, temp_frame, story_description)
+    temp_frame = thumbnail_path
+    generated_frame = not prebuilt_frame
+    if generated_frame:
+        temp_frame = output_mp4.replace(".mp4", "_frame.jpg")
+        create_short_visual_frame(thumbnail_path, title, temp_frame, story_description)
+    elif not os.path.isfile(temp_frame):
+        raise FileNotFoundError(f"Prebuilt Shorts frame not found: {temp_frame}")
     
     cmd = [
         ffmpeg_exe, '-y',
@@ -310,11 +327,12 @@ def create_short_mp4(audio_file, thumbnail_path, title, output_mp4, duration=50,
     ]
     subprocess.run(cmd, check=True)
     
-    try:
-        if os.path.exists(temp_frame):
-            os.remove(temp_frame)
-    except Exception:
-        pass
+    if generated_frame:
+        try:
+            if os.path.exists(temp_frame):
+                os.remove(temp_frame)
+        except Exception:
+            pass
         
     print(f"Vertical Short rendered successfully: {output_mp4}")
     return output_mp4

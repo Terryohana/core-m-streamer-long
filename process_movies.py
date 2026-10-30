@@ -357,15 +357,16 @@ def process_ready_story(story_dir):
     
     import youtube_uploader
     duration_minutes = float(meta.get("estimated_duration_minutes", 180))
-    print(f"Generating current cinematic thumbnail for {story_dir}...", flush=True)
     art_path = os.path.join(story_dir, "story_art.jpg")
-    thumb_path = youtube_uploader.generate_thumbnail(
-        title,
-        duration_minutes=duration_minutes,
-        output_path=thumb_path,
-        story_description=description,
-        art_output_path=art_path,
-    )
+    short_thumb = os.path.join(story_dir, "short_thumbnail.jpg")
+    missing_assets = [path for path in (thumb_path, art_path, short_thumb) if not os.path.isfile(path)]
+    if missing_assets:
+        print(
+            f"Missing prebuilt thumbnail assets for {story_dir}: {', '.join(os.path.basename(p) for p in missing_assets)}. "
+            "Prepare them before running the GitHub Action.",
+            flush=True,
+        )
+        return False
         
     print(f"Synthesizing audio for '{title}'...", flush=True)
 
@@ -469,18 +470,17 @@ def process_ready_story(story_dir):
         print(f"1. Encoding 1080p full-length MP4 video with ultra-fast FFmpeg engine...", flush=True)
         youtube_uploader.create_mp4(final_audio, thumb_path, final_mp4)
         upload_title = youtube_uploader.format_youtube_title(title, duration_minutes)
-        short_thumb = os.path.join(story_dir, "short_thumbnail.jpg")
-        youtube_uploader.create_short_visual_frame(art_path, title, short_thumb, description)
         
         print(f"2. Rendering 9:16 vertical Highlight Short with atmospheric artwork...", flush=True)
         try:
             youtube_uploader.create_short_mp4(
                 final_audio,
-                art_path,
+                short_thumb,
                 title,
                 short_mp4,
                 duration=50,
                 story_description=description,
+                prebuilt_frame=True,
             )
         except Exception as se:
             print(f"Short rendering encountered an issue (continuing with long video): {se}", flush=True)
