@@ -153,15 +153,53 @@ def rewrite_chunk(chunk_text, previous_context=""):
     
     raise Exception("No valid LLM API key available (need COMMANDCODE_API_KEY or GROQ_API_KEY).")
 
+def _existing_story_titles():
+    titles = []
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    for folder in ("completed_stories", "ready_stories"):
+        for path in glob.glob(os.path.join(base_dir, folder, "story_*", "metadata.json")):
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    title = json.load(f).get("title", "")
+                if title:
+                    titles.append(" ".join(str(title).split()))
+            except (OSError, json.JSONDecodeError):
+                continue
+    return list(dict.fromkeys(titles))
+
+
+def _usable_story_title(candidate, existing_titles):
+    candidate = " ".join(str(candidate).replace('"', "").replace("'", "").split()).strip(" .:;|-—")
+    words = re.findall(r"[A-Za-z0-9']+", candidate.lower())
+    if not 3 <= len(words) <= 9 or len(candidate) > 68:
+        return False
+    cliches = {
+        "velvet", "whisper", "whispers", "whispering", "echo", "echoes",
+        "starlit", "starlight", "midnight", "silver", "golden", "hush",
+        "lullaby", "dreamscape", "journey", "slumber", "sanctuary",
+    }
+    if cliches.intersection(words):
+        return False
+    normalized = candidate.casefold()
+    return all(normalized != title.casefold() for title in existing_titles)
+
+
 def generate_new_title(movie_name, story_description=""):
     title_rules = (
-        "Create one distinctive, human-sounding 3–7 word sleep-story title. "
-        "Base it on a concrete image, place, or emotional detail from the story. "
-        "Avoid stock AI phrases such as Whispers, Echoes, Midnight Stars, "
-        "Journey into Sleep, and Peaceful Night. Do not copy the source movie title. "
+        "Write one memorable, human-edited title for this specific story, 3–9 words. "
+        "Lead with a person, place, object, choice, or turning point that actually appears in the story. "
+        "Use plain, natural language and vary the sentence shape. Avoid ornamental adjective piles, "
+        "generic poetic phrasing, and these overused words: velvet, whisper, echo, starlight, "
+        "midnight, silver, golden, hush, lullaby, dreamscape, sanctuary. "
+        "Do not copy the source movie title. Do not use a sleep-story suffix; the uploader adds it. "
         "Return only the title, without quotes or explanation."
     )
-    context = f"Source inspiration: {movie_name}\nStory material: {story_description[:1800]}"
+    existing_titles = _existing_story_titles()
+    title_context = "\n".join(f"- {title}" for title in existing_titles[-60:])
+    context = (
+        f"Source inspiration: {movie_name}\nStory material: {story_description[:2200]}\n"
+        f"Already-used story titles; do not repeat their phrases or opening pattern:\n{title_context}"
+    )
     # Try CommandCode first
     if COMMANDCODE_API_KEY:
         try:
@@ -181,7 +219,10 @@ def generate_new_title(movie_name, story_description=""):
             }
             resp = requests.post(url, headers=headers, json=payload, timeout=20)
             if resp.status_code == 200:
-                return resp.json()["choices"][0]["message"]["content"].replace('"', '').strip()
+                candidate = resp.json()["choices"][0]["message"]["content"].strip()
+                if _usable_story_title(candidate, existing_titles):
+                    return candidate.strip('"\' ')
+                print("CommandCode returned a repetitive or generic title; trying the fallback provider.")
         except Exception as e:
             print(f"CommandCode title generation failed: {e}")
 
@@ -204,14 +245,17 @@ def generate_new_title(movie_name, story_description=""):
             }
             resp = requests.post(url, headers=headers, json=payload, timeout=20)
             if resp.status_code == 200:
-                return resp.json()["choices"][0]["message"]["content"].replace('"', '').strip()
+                candidate = resp.json()["choices"][0]["message"]["content"].strip()
+                if _usable_story_title(candidate, existing_titles):
+                    return candidate.strip('"\' ')
+                print("Groq returned a repetitive or generic title; refusing to upload it.")
         except Exception:
             pass
 
-    seed_phrase = " ".join(story_description.split()[:5]).strip(" ,.;:")
-    if seed_phrase:
-        return seed_phrase.title()
-    return f"A Quiet Night Near {movie_name}"
+    raise ValueError(
+        f"No distinctive title passed quality checks for {movie_name}; "
+        "review the story and provide a title before upload."
+    )
 
 def process_movie(script_file):
     base_name = os.path.splitext(os.path.basename(script_file))[0]
@@ -514,7 +558,7 @@ def process_ready_story(story_dir):
                 try:
                     if not upload_state.get("short_video_id"):
                         short_upload_title = youtube_uploader.format_short_youtube_title(
-                            title, duration_minutes * 60
+                            title, duration_seconds=60
                         )
                         print(f"Uploading Highlight Short paired with https://youtu.be/{long_vid_id}...", flush=True)
                         short_id = youtube_uploader.upload_short(
