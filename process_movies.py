@@ -186,10 +186,13 @@ def _usable_story_title(candidate, existing_titles):
 
 def generate_new_title(movie_name, story_description=""):
     title_rules = (
-        "Write one memorable, human-edited title for this specific story, 3–9 words. "
-        "Lead with a person, place, object, choice, or turning point that actually appears in the story. "
-        "Use plain, natural language and vary the sentence shape. Avoid ornamental adjective piles, "
-        "generic poetic phrasing, and these overused words: velvet, whisper, echo, starlight, "
+        "Write one catchy, explainer-style title for this specific story, 3–9 words. "
+        "Make it sound like a gripping one-line premise: tell us who did what, what happened, "
+        "or what dangerous choice/deal/setback makes this story intriguing. Use concrete story details "
+        "and plain, natural language. A title may use a narrative hook such as 'The Night a Cop Saw the "
+        "President’s Secret' or a compact character-and-stakes hook such as 'Two Grifters, One Dangerous "
+        "Deal', but vary the wording and do not force either template. Avoid vague mood-only titles, "
+        "ornamental adjective piles, generic poetic phrasing, and these overused words: velvet, whisper, echo, starlight, "
         "midnight, silver, golden, hush, lullaby, dreamscape, sanctuary. "
         "Do not copy the source movie title. Do not use a sleep-story suffix; the uploader adds it. "
         "Return only the title, without quotes or explanation."
